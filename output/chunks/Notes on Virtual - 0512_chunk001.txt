@@ -1,0 +1,237 @@
+SOURCE: Notes on Virtual - 0512.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific\Virtual
+TOPIC: Augmented and Virtual Reality in Retail
+SUMMARY: This document discusses the benefits of using augmented and virtual reality in retail, including improved conversion rates, enhanced customer experience, and increased customer engagement.
+KEYWORDS: augmented reality, virtual reality, retail experience, e-commerce, customer engagement
+---
+
+[Document: Notes on Virtual - 0512.pptx]
+[Presentation Topic: Virtual Retail Experience]
+
+[Slide 1]
+
+Notes on VirtualMay 2020
+
+[Slide 2]
+
+Benefits of Virtual
+
+With experience-driven technology like augmented and virtual reality, the goals tend to be different, but the important thing is to make sure tech isn't being added in just for the sake of having something shiny to show off
+
+Indeed, the future of augmented reality lies more in experiential uses that save consumers time than in anything else
+
+E-commerce designed for speed and efficiency not browsing
+
+Shop, explore, learn, interact
+
+Bridges the touch-and-feel gap
+
+Apple AR Kit launched Sept 2017
+
+Give your customers In-Store shopping experience online integrated with E-Commerce feature
+
+Creating a more engaging experience
+
+A more personal, interactive and engaging buying experience that guarantees to change the way you will shop forever
+
+Giving control to their consumer to help them make a more informed decision
+
+VR makes the data visualization process more immersive and interactive
+
+VR is turning data visualization from a process or an action to an experience
+
+Benefits
+
+Immersive Experience
+
+Convenient Shopping
+
+Integrated Solution
+
+Store analytics
+
+Store interactivity
+
+[Slide 3]
+
+10 Ways How AR Can Help Retailers
+
+Improves conversion rates and reduces returns for clothing stores: Virtual fitting room
+
+Optimizes warehouse space
+
+Combines traditional retail experience and ecommerce
+
+Enhances brand recognition
+
+Empowers advertising campaigns
+
+Lets customers “try” before they buy with a 3D product preview
+
+Displays additional information about products shown, enriches shopping experience
+
+Searches for deals around
+
+Visualizes product catalogs
+
+Brings customers inside a store
+
+[Slide 4]
+
+How Can Virtual Work?
+
+What is your virtual?
+
+Virtual appointments
+
+Virtual house parties
+
+Virtual community
+
+Virtual Class
+
+Virtual Products
+
+Virtual learning
+
+Virtual Tour of ???
+
+Opening of
+
+Arrival of stock
+
+Suppliers / vendors
+
+Design process
+
+Warehouse / automation
+
+What is exciting & gets customers engaged?
+
+[Slide 5]
+
+Virtual is Digital Selling
+
+Servicing the customer’s needs
+
+Product demonstrations / product comparisons
+
+Product availability
+
+General questions
+
+Pricing
+
+Inventory levels
+
+Customer segmentation … virtual store completely changes
+
+I only like products in “white”
+
+“Pink” is my favourite colou
+
+Etc
+
+Internal customers … plannograms, training modules
+
+[Slide 6]
+
+We need to go virtual
+
+Have a conversation with everyone
+
+Get started with any and all of these
+
+Walking through website … digital selling
+
+Click here & see this
+
+Visuals
+
+[Slide 7]
+
+Frequent Applications
+
+Furniture Retail
+
+Beauty Industry
+
+Fashion & Footwear
+
+[Slide 9]
+
+Implementation Challenges
+
+Choosing Developers: In-House vs Third-Party
+
+Creating a Realistic Experience
+
+Easy to Use Interface
+
+Activation & Discoverability
+
+[Slide 10]
+
+Examples
+
+Ikea … furniture / room décor
+
+Chairish … trying how your favorite piece of furniture or a lamp would look
+
+Kabaq … food / restaurant, see the actual serving size, what the main dishes really look like, the side dishes and dessert combinations
+
+Patron … tour of a virtual hacienda, interact with the bartenders, increase their product value and ROI. By providing a complete history of their store and products, they are giving control to their consumer to help them make a more informed decision
+
+Modiface … Augmented reality tech for beauty brands
+
+[Slide 11]
+
+Vendors / Partners
+
+https://www.qbittech.com/index.php/component/k2/item/41-virtual-reality-ecommerce-3d-stores
+
+https://obsessar.com/
+
+https://virtwayworld.com/EN_products_3d_virtual_shop.php
+
+https://www.marxentlabs.com/  (furniture / rooms)
+
+https://www.rolige.com/en/blog/what-is-a-virtual-store-and-how-does-it-work-n8
+
+https://shopobsess.co/
+
+https://citrusbits.com/how-can-augmented-reality-be-used-in-e-commerce/
+
+https://experience.briovr.com/industry/retail-ecommerce/
+
+https://wanna.by/
+
+Mapping Location of Store (grocery w/ products)
+
+http://www.virtualstores.se/
+
+[Slide 12]
+
+Articles
+
+https://www.mercuryminds.com/visual-commerce/
+
+https://www.forbes.com/sites/cognitiveworld/2019/10/01/retailers-have-a-lot-to-gain-from-ar-and-vr/#72ad11807a1c
+
+https://www.allerin.com/blog/looking-at-data-the-ar-vr-way
+
+https://www.retaildive.com/ex/mobilecommercedaily/10-ways-how-augmented-reality-can-help-retailers
+
+https://www.x-cart.com/blog/augmented-reality-retail.html
+
+https://digitalmarketinginstitute.com/blog/how-augmented-reality-is-transforming-retail
+
+https://theappsolutions.com/blog/development/ar-vr-retail-store/
+
+https://www.shiptimize.me/can-your-online-store-implement-virtual-and-augmented-reality/
+
+https://www.toptal.com/insights/innovation/3-ways-virtual-reality-transforms-ecommerce
+
+https://jingdaily.com/how-luxury-are-reaching-consumers-during-lockdown/
+
+https://fashionunited.com/news/retail/inside-obsess-the-platform-bringing-vr-to-digital-retail/2019081629481

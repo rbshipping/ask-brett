@@ -1,0 +1,530 @@
+SOURCE: Integrated Framework for Strategic Resource Mgt_Pentagon & Triangle.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Strategy and Performance
+SUMMARY: The text discusses a strategic framework for managing resources in retailing, including the Pentagon and Triangle models, the Strategic Profit Model, and a Scotch Whiskey Category Scorecard.
+KEYWORDS: retail strategy, strategic resource management, financial performance, category management
+---
+
+LEVEL 1, TOOL #1:
+
+PENTAGON AND
+
+TRIANGLE: THE EIGHT
+
+WAYS TO WIN IN
+
+RETAILING
+
+Location
+
+Layout & Design
+
+Positional
+
+Assortment
+
+Promotional
+
+Service
+
+Knowledge —
+
+Climate
+
+An Integrated Framework For Strategic Resource Management - 5
+
+Margin
+
+Management
+
+Net Profit AT
+
+Net Sales
+
+Return on Sales
+
+[ROS] is Net Profits
+
+or Earnings after
+
+taxes divided by Net
+
+Sales of a retailer.
+
+This ratio is the
+
+traditional measure of
+
+“bottom line” in any
+
+enterprise-i.e., what's
+
+returned to the
+
+enterprise for
+
+reinvestment or
+
+distribution on every
+
+dollar of sale.
+
+Level 1, Tool #2:
+
+Strategic Profit Model (DuPont Model)
+
+Asset
+
+Total Assets
+
+Asset Turnover [A/T
+
+or T/O] is Net Sales
+
+divided by the Total
+
+Assets employed in
+
+a business.
+
+This ratio measures
+
+how “productively”
+
+the investments in a
+
+business are used to
+
+generate sales.
+
+Management
+
+Net Saies
+
+ROA
+
+Net Profit AT
+
+Total Assets
+
+Return on Assets
+
+[ROA] is Net Profits AT
+
+divided by the Total
+
+Assets employed in a
+
+business.
+
+This ratio is the single
+
+most important
+
+measure of the “raw”
+
+earning power or the
+
+profitability of all the
+
+assets employed in an
+
+enterprise.
+
+Financial
+
+Management
+
+Total Assets
+
+Net Worth
+
+Financial Leverage
+
+[F/L] is Total Assets
+
+divided by the total
+
+Net Worth or Owner's
+
+Equity in a business.
+
+This ratio measures
+
+the extent to which
+
+the business is
+
+financed by debt or
+
+shareholder's equity.
+
+An Integra’ ~ Framework For Strategic Resource Management - 6
+
+RONW
+
+Net Profit AT
+
+Net Worth
+
+Return on Net Worth
+
+or Equity [RONW or
+
+ROE] is Net Profits AT
+
+divided by Net Worth
+
+or Shareholders
+
+Equity in a business.
+
+This ratio is perhaps
+
+the single most
+
+important measure of
+
+“corporate success”
+
+followed closely by all
+
+tetail analysts.
+
+SCOTCH WHISKEY CATEGORY
+
+SCORECARD
+
+Before Revised
+
+Items 139 64
+
+Sizes 8 7
+
+Vendors 33 21
+
+Sales $5,016,597 ~$5,200,000
+
+GM$ $1,448,256
+
+GM% 28.9% 30.6%
+
+Units 250,697
+
+Inv’y at Cost $985,550 ~$875,000
+
+TO 3.62 4.1
+
+GMROI 1.47 1.79
+
+- Objectives:
+
+— 1. Maintain as much sales as possible
+
+~- 2. Try to improve productivity performance (GMROID
+
+— Decision Process:
+
+~ J. Assumptions about consumer buying behavior for your type store?
+
+~ 2, Line selection process—which sorts did you analyze? Why? What decisions did you make?
+
+- 3. What other changes did you make? Prices? Inventory?
+
+An Integrate” ~ramework For Strategic Resource Management - 28
+
+e The L/L quadrant:
+
+~— SKU’s produce both low units and low gross margin dollars
+
+— Most of these SKU’s will be de-listed quarterly
+
+— Some SKU’s may be “fixable” by improving margin or volume
+
+— Eventually, it would be useful to move down from “gross” to “net” margin
+
+dollars by subtracting off all assignable costs related to each SKU, usually
+
+through a technique known as ABC (activity based costing). If we can get to
+
+net profit per SKU and then divide by average inventory investment, we have
+
+NMROI (net margin return on inventory)
+
+Category Roles and
+
+Measurements
+
+An Integrated Framework For Strategic Resource Management - 27
+
+e The L/H quadrant:
+
+— Produces high units, but low gross margin dollars
+
+— Buyer will keep only the best SKU’s here and de-list
+
+others
+
+— A few SKU’s might become loss leaders to drive very high
+
+traffic
+
+— The key job of the buyer here is to try and improve gross
+
+margin percentage (re-negotiating cost of goods sold or
+
+through selective price increases or through less
+
+markdowns and promotions)
+
+Category Roles and
+
+Measurements
+
+An Integrate” ~ramework For Strategic Resource Management - 26
+
+e The H/H quadrant:
+
+— Superstars which drive both high traffic and high gross
+
+margin dollars
+
+— Buyers’ job here is to try and explode the assortment
+
+e The H/L quadrant:
+
+— Produces high gross margin dollars, but low units
+
+— All SKU’s in this quadrant are kept because generating
+
+high gross margin dollars is more important than
+
+producing high units
+
+Category Roles and
+
+Measurements
+
+An integrated Framework For Strategic Resource Management - 25
+
+CLASSIFYING SKU’S FROM CATEGORY
+
+SCORECARDS
+
+Units
+
+x |
+
+Lo
+
+GM$
+
+Lo X Hi
+
+An Integrate” “ramework For Strategic Resource Management - 24
+
+DESCRIPTION
+
+DEWARS WHITE LABEL 175 00029742
+
+CHIVAS REGAL 750 00005166
+
+SCORESBY SCOTCH WHISKEY 80°175
+
+JOHNNIE WALKER BLACK 86.8 750
+
+DEWARS WHITE LABEL 86.8° 750
+
+JOHNNIE WALKER RED 86.8 750
+
+CLAN MACGREGOR 175ML 00001947
+
+JOHNNIE WALKER RED SOML 00029865
+
+JOHNNIE WALKER BLACK 1 LTR 86°
+
+J&B RARE SCOTCH 80° 1.75/6
+
+CUTTY SARK 80° 750 0001580
+
+CLUNY SCOTCH 175 00003817
+
+INVERHOUSE SCOTCH 1.75ML
+
+GLENLIVET 750 00005265
+
+HOUSE OF STUART 80" 175 00030642
+
+CUTTY SARK 80° 175 00001569
+
+MCCORMICK SCOTCH 175/6 00084028
+
+USHERS SCOTCH 80° 175ML 00002641
+
+CHIVAS REGAL 1LTR 00005178
+
+JOHNNIE WALKER RED 4LTR 00029873
+
+PASSPORT SCOTCH 175 00005349
+
+MILITARY SPECIAL SCOTCH 175
+
+CHIVAS REGAL 175 00005186
+
+OLD SMUGGLER 80° 175 00001653
+
+ALL HANDS SCOTCH 175 00002060
+
+DEWARS WHITE LABEL 1LTR 00029735
+
+JOHNNIE WALKER BLK 86.8 1.75
+
+FAMOUS GROUSE 750 00001538
+
+J&B RARE 750/12 00029689
+
+J&B RARE 1LTRM12 00029685
+
+LAUDER'’S SCOTCH 175 90030701
+
+SCORESBY SCOTCH WHISKEY 80°750
+
+GLENFIDDICH SINGLE MALT 750ML
+
+JOHNNIE WALKER BLACK 86° SOML
+
+BALLANTINES FINEST 175 00001479
+
+HAIG & HAIG PINCH 15YR 86° 750
+
+MUIRHEAD SCOTCH 1.75/6 00204315
+
+Ranked by Unit Sales
+
+(top 38/139 skus shown)
+
+VENDOR Avg Retail Price
+
+UDV/PLAINFIELD $32.08
+
+SEAGRAM AMERIC $23.28
+
+UDVNA /PRI PAK $19.30
+
+SCHIEFFELIN & SOM $24.71
+
+BACARD! MARTIN! $18.08
+
+SCHIEFFELIN & SOM $17.54
+
+WILLIAM GRANT $16.26
+
+SCHIEFFELIN & SOM $2.70
+
+SCHIEFFELIN & SOM $30.72
+
+SCHIEFFELIN & SOM $32.37
+
+SKYY SPIRITS INC $15.65
+
+HEAVEN HILL DIST $45.32
+
+FREDERICK P.WIN $15.09
+
+SEAGRAM AMERIC $27.28
+
+BARTON BRANDS = $14.00
+
+SKYY SPIRITS INC $30.12
+
+MCCORMICK DIST $13.89
+
+ASSOCIATED DISTR $21.36
+
+SEAGRAMAMERIC $30.72
+
+SCHIEFFELIN & SOM $21.32
+
+SEAGRAM AMERIC $19.74
+
+ATLANTIC WINE $18.25
+
+SEAGRAM AMERIC $51.12
+
+HIRAM WALKER $18.09
+
+LE VECKE DISTRIB $15.93
+
+BACARDI MARTINI $22.51
+
+SCHIEFFELIN & SOM $53.10
+
+HEAVEN HILL DIST $16.37
+
+SCHIEFFELIN & SOM $17.26
+
+SCHIEFFELIN & SOM $21.32
+
+BARTON BRANDS = $16.00
+
+UDVNA /PRI PAK $11.35
+
+WILLIAM GRANT $26.68
+
+SCHIEFFELIN & SOM $2.35
+
+HIRAM WALKER $25.92
+
+SCHIEFFELIN & SOM $23.91
+
+PREMIER BEVERAG $15.79
+
+$5,016,597
+
+SALES $
+
+$460,171
+
+$312,892
+
+$197,217
+
+$205,212
+
+$133,888
+
+$115,291
+
+$105,792
+
+$9,868
+
+$180,529
+
+$187,634
+
+$74,194
+
+$78,040
+
+$76,470
+
+$133,157
+
+$66,991
+
+$135,898
+
+$66,490
+
+$95,619
+
+$137,023
+
+$91,377
+
+$87,258
+
+$78,258
+
+$207,869

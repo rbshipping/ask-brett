@@ -1,0 +1,296 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Business Strategy
+SUMMARY: This text discusses the concept of economic moats, which refers to sustainable advantages that protect a company from competitors, and how it is fundamental to Morningstar's approach to business and stock investing.
+KEYWORDS: economic moats, business strategy, sustainable advantage, Morningstar, stock investing
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+Chapter Two
+
+Mistaken Moats 15
+
+Chapter Three
+
+Intangible Assets 29
+
+ffttoocc..iinndddd vviiii 22//11//0088 1122::5566::1100 PPMM
+
+[viii] CONTENTS
+
+Chapter Four
+
+Switching Costs 43
+
+Chapter Five
+
+The Network Effect 57
+
+Chapter Six
+
+Cost Advantages 75
+
+Chapter Seven
+
+The Size Advantage 91
+
+Chapter Eight
+
+Eroding Moats 103
+
+Chapter Nine
+
+Finding Moats 115
+
+Chapter Ten
+
+The Big Boss 133
+
+Chapter Eleven
+
+Where the Rubber Meets the Road 143
+
+ffttoocc..iinndddd vviiiiii 22//11//0088 1122::5566::1100 PPMM
+
+CONTENTS [ix]
+
+Chapter Twelve
+
+What’s a Moat Worth? 159
+
+Chapter Thirteen
+
+Tools for Valuation 171
+
+Chapter Fourteen
+
+When to Sell 187
+
+Conclusion
+
+More than Numbers 197
+
+ffttoocc..iinndddd iixx 22//11//0088 1122::5566::1100 PPMM
+
+ffttoocc..iinndddd xx 22//11//0088 1122::5566::1100 PPMM
+
+Foreword
+
+(cid:1)
+
+W
+
+I Morningstar in 1984, my goal was to help
+
+HEN STARTED
+
+individuals invest in mutual funds. Back then, a few financial
+
+publications carried performance data, and that was about
+
+it. By providing institutional-quality information at afford-
+
+able prices, I thought we could meet a growing need.
+
+But I also had another goal. I wanted to build a business
+
+with an “economic moat.” Warren Buffett coined this term,
+
+which refers to the sustainable advantages that protect a com-
+
+pany against competitors—the way a moat protects a castle.
+
+I discovered Buffett in the early 1980s and studied Berk-
+
+shire Hathaway’s annual reports. There Buffett explains the
+
+moat concept, and I thought I could use this insight to help
+
+ffllaasstt..iinndddd xxii 22//11//0088 1122::5566::3300 PPMM
+
+[xii] FOREWORD
+
+build a business. Economic moats made so much sense to
+
+me that the concept is the foundation for our company and
+
+for our stock analysis.
+
+I saw a clear market need when I started Morning-
+
+star, but I also wanted a business with the potential for a
+
+moat. Why spend time, money, and energy only to watch
+
+competitors take away our customers?
+
+The business I envisioned would be hard for a competi-
+
+tor to replicate. I wanted Morningstar’s economic moat to
+
+include a trusted brand, large financial databases, proprie-
+
+tary analytics, a sizable and knowledgeable analyst staff,
+
+and a large and loyal customer base. With my background
+
+in investing, a growing market need, and a business model
+
+that had wide-moat potential, I embarked on my journey.
+
+Over the past 23 years, Morningstar has achieved
+
+considerable success. The company now has revenues of
+
+more than $400 million, with above-average profitability.
+
+We’ve worked hard to make our moat broader and deeper,
+
+and we keep these goals in mind whenever we make new
+
+investments in our business.
+
+Moats, however, are also the basis of Morningstar’s
+
+approach to stock investing. We believe investors should
+
+focus their long-term investments on companies with
+
+wide economic moats. These companies can earn excess
+
+returns for extended periods—above-average gains that
+
+should be recognized over time in share prices. There’s
+
+ffllaasstt..iinndddd xxiiii 22//11//0088 1122::5566::3300 PPMM
+
+FOREWORD [xiii]
+
+another plus: You can hold these stocks longer, and that
+
+reduces trading costs. So wide-moat companies are great
+
+candidates for anyone’s core portfolio.
+
+Many people invest by reacting: “My brother-in-law
+
+recommended it” or “I read about it in M oney.” It’s also
+
+easy to get distracted by daily price gyrations and pundits
+
+who pontificate about short-term market swings. Far better
+
+to a have a conceptual anchor to help you evaluate stocks
+
+and build a rational portfolio. That’s where moats are
+
+invaluable.
+
+While Buffett developed the moat concept, we’ve
+
+taken the idea one step further. We’ve identified the most
+
+common attributes of moats, such as high switching costs
+
+and economies of scale, and provided a full analysis of
+
+these attributes. Although investing remains an art, we’ve
+
+attempted to make identifying companies with moats more
+
+of a science.
+
+Moats are a crucial element in Morningstar’s stock
+
+ratings. We have more than 100 stock analysts covering
+
+2,000 publicly traded companies across 100 industries. Two
+
+main factors determine our ratings: (1) a stock’s discount
+
+from our estimated fair value, and (2) the size of a com-
+
+pany’s moat. Each analyst builds a detailed discounted cash
+
+flow model to arrive at a company’s fair value. The analyst
+
+then assigns a moat rating—Wide, Narrow, or None—
+
+based on the techniques that you’ll learn about in this
+
+ffllaasstt..iinndddd xxiiiiii 22//11//0088 1122::5566::3300 PPMM
+
+[xiv] FOREWORD
+
+book. The larger the discount to fair value and the larger
+
+the moat, the higher the Morningstar stock rating.
+
+We’re seeking companies with moats, but we want to
+
+buy them at a significant discount to fair value. This is what
+
+the best investors do—legends like Buffett, Bill Nygren at
+
+Oakmark Funds, and Mason Hawkins at Longleaf Funds.
+
+Morningstar, though, consistently applies this methodology
+
+across a broad spectrum of companies.
+
+This broad coverage gives us a unique perspective on the
+
+qualities that can give companies a sustainable competitive
+
+advantage. Our stock analysts regularly debate moats with
+
+their peers and defend their moat ratings to our senior staff.
+
+Moats are an important part of the culture at Morningstar
+
+and a central theme in our analyst reports.
+
+In this book, Pat Dorsey, who heads up our stock
+
+research at Morningstar, takes our collective experience and
+
+shares it with you. He gives you an inside look at the thought
+
+process we use in evaluating companies at Morningstar.
+
+Pat has been instrumental in the development of our
+
+stock research and our economic moat ratings. He is sharp,
+
+well-informed, and experienced. We’re also fortunate that
+
+Pat is a top-notch communicator—both in writing and
+
+speaking (you’ll often see him on television). As you’re
+
+about to find out, Pat has a rare ability to explain investing
+
+in a clear and entertaining way.
+
+ffllaasstt..iinndddd xxiivv 22//11//0088 1122::5566::3300 PPMM
+
+FOREWORD [xv]
+
+In the pages that follow, Pat explains why we think
+
+making investment decisions based on companies’ eco-
+
+nomic moats is such a smart long-term approach—and,
+
+most i mportant, how you can use this approach to build
+
+wealth over time. You’ll learn how to identify companies
+
+with moats and gain tools for determining how much a
+
+stock is worth, all in a very accessible and engaging way.
+
+Throughout the book, you’ll learn about the economic
+
+power of moats by studying how specific companies with

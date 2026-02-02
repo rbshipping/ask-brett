@@ -1,0 +1,170 @@
+SOURCE: Jack Quotes.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Six Sigma Implementation
+SUMMARY: The document discusses the implementation of the Six Sigma program, focusing on measuring results, aligning with customer needs, and expanding the program across the organization.
+KEYWORDS: Six Sigma, Variation, Measurement, Customer Alignment, Organizational Transformation
+---
+
+| thought the short-range financial impact alone would justify the program. Longer-
+
+range, | though | could be even bigger.
+
+A fundamental requirement in our Six Sigma program was that we measured it. We had
+
+a financial analyst certify the results of every project.
+
+| always wanted the rewards systems to make sure we were getting the best people into
+
+every initiative. No one wants to give up their best talent on a full-time basis. They've
+
+got high targets to reach and need their best managers to make them.
+
+It was Piet who came up with the answer to why our customers weren't feeling our Six
+
+Sigma improvements. Piet’s reason was simple: He got all of us to understand that Six
+
+Sigma was about one thing-variation! We had all studied it, including me, in the class
+
+with the paper airplanes. But we never saw it the way Piet laid it out. He made the
+
+connection between averages and variation. It was a breakthrough.
+
+We got away from averages and focused on variation by tightening what we call “span.”
+
+We wanted the customer to get what they wanted when they wanted it. Span measures
+
+the variance, from the exact date the customer wants the product, either days early or
+
+days late. Getting span to zero means the customers always get the products when
+
+they ask for them.
+
+Internally, our problem was that we were measuring improvement based on an average-
+
+a figure that calculated only our manufacturing or services cycle without regard to the
+
+customer. If we reduced product delivery times from an average of 16 days to 8 days,
+
+for example, we saw it as a 50 percent improvement (see opposite).
+
+Today, we take a step further. We measure span from our requested delivery date to
+
+our customers’ first revenue: Every order is tagged with the customer's start-up dates,
+
+and charts tracking the variation are put up in every facility. Visibility is clear to
+
+everyone. Using these measurements makes variation come alive. Customers see and
+
+feel what we do.
+
+Six Sigma is a universal language. Variation and span are as understandable in
+
+Bangkok and Shanghai as they are in Cleveland and Louisville.
+
+We expanded the initiative further by taking it directly to our customers in what we called
+
+“Six Sigma: At the customer, for the customer” (ACFC). By aligning what we measure
+
+internally with our customers’ needs, Six Sigma has given us better customer intimacy
+
+and trust.
+
+We found that Six Sigma isn’t only for engineers. A common misconception made in
+
+quality programs is thinking that it’s only for technical minds. It’s for the best and
+
+brightest in any function.
+
+Plant manager's can use Six Sigma to reduce waste, improve product consistency, solve
+
+equipment problems, or create capacity. Human resources managers need it to reduce
+
+the cycle time for hiring employees.
+
+Regional sales managers can use it to improve forecast reliability, pricing strategies, or
+
+pricing variation. Overall, Six Sigma is changing the fundamental culture of the company
+
+and the way we develop people-especially our “high potentials." We've always had
+
+great functional training programs over the years, particularly in finance. But the
+
+diversity of the company has made it difficult to have a universal training program. Six
+
+Sigma gives us just the tool we need for generic management training since it applies as
+
+much in a customer service centre as it does in a manufacturing environment.
+
+In the dot.com model, expenses increase rapidly to cover the costs of Internet
+
+development, brand advertising, and fulfillment. Loses increase in direct proportion to
+
+those expenses. The breakeven point is uncertain and is almost always revenue
+
+dependent.
+
+In the “big-old-gets-it” category, the only extra expense is for Internet Development. The
+
+big company already has strong brands and the systems to fulfill orders. Quickly, the
+
+cost savings from Internet productivity kick in. There’s a shorter time to break even and
+
+a bigger, more certain payback, and the benefits are generally independent of revenue.
+
+The chart captured GE’s advantages over the dot.coms. We didn’t have to increase
+
+advertising. We had established brands. We didn't have to create fulfillment
+
+organizations or build warehouses to ship goods. Six sigma was in place to improve our
+
+operations. We could use digitization to focus on its main benefit-taking out the low-
+
+value-added work in the guts of the company. Every process can be improved and
+
+productivity increased. The efficiencies from this technology are enormous for big
+
+companies.
+
+We saw the Internet opportunity in three pieces: the buy, the make, and the sell.
+
+He told us, in effect, “You're big, fat, and dumb. You're sitting ducks.”
+
+His outrageous predictions were just what we needed to energize the place. We put
+
+together separate teams, in many cases housed in different buildings, to analyze
+
+potential Internet-based models that could do to us what Amazon.com was trying to do
+
+to bookselling.
+
+It became the poster child for what we called “dot.com dust’-sites that were created to
+
+look pretty but never had a financial reason for existing. We learned that if you couldn't
+
+monetize the screen-either directly with products or indirectly with better service-you
+
+shouldn't have built it.
+
+Our DYB teams were quickly concluding that the Internet presented more opportunities
+
+than threats. We redefined their mission, and they became GYP, or
+
+“growyourbusiness.com” teams. They were no longer separated from the mainstream
+
+business. The digitalization teams were integrated into the existing business models.
+
+Another important lesson came from John Chambers of Cisco. He urged us to shut
+
+down the “parallel paths” of on-line and off-line work-flow processes. Until we did that,
+
+people would still rely on paper and wouldn't really use digitization to drive productivity.
+
+Everyone began to think digitally. Today it's not uncommon to have GE business
+
+leaders say that no paper is allowed in their office. It was a great mind-set shift for the
+
+entire organization.
+
+Being a CEO is the nuts! A whole jumble of thoughts come to mind: Over the top. Wild.
+
+Fun. Outrageous. Crazy. Passion. Perpetual motion. The give-and-take. Meetings into

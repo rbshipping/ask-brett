@@ -1,0 +1,8 @@
+SOURCE: kotter_bookshelf_leading-change.txt
+SUBFOLDER: Kotter Change Management
+TOPIC: Leading change in organizations
+SUMMARY: This book by Harvard professor John Kotter outlines an eight-stage process for driving large-scale organizational transformation and maintaining competitiveness.
+KEYWORDS: organizational change, transformation, leadership, Harvard Business Review, John Kotter, "Our Iceberg Is Melting"
+---
+
+this book, Kotter, a Harvard professor, provides an eight-stage process for leading change in your organization. The type of change Kotter envisions is large, sweeping change that transforms organizations from mediocrity to greatness and keeps them competitive in a rapidly changing world economy.” # Looking for more on this topic? • View the original Harvard Business Review Article #### View the original Harvard Business Review Article • Dr. Kotter’s follow-up fable, Our Iceberg Is Melting #### Dr. Kotter’s follow-up fable, Our Iceberg Is Melting

@@ -1,0 +1,96 @@
+SOURCE: 1. HBR_Digital Physical Mash Up.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Digital Transformation in Physical Businesses
+SUMMARY: The text explores how digital technologies are transforming physical businesses, rather than replacing them, as seen in the examples of Burberry, E*Trade, TD Ameritrade, and Bonobos.
+KEYWORDS: digital-physical fusion, omnichannel strategy, customer experience, retail innovation, business transformation
+---
+
+be Delta’s sizable investments in digitally augment-
+
+ANDY DUNN, THE CEO OF BONOBOS,
+
+ing the physical aspects of flight. Its Fly Delta app,
+
+SAYS, “WE WERE WRONG AT THE for example, not only provides information about
+
+flight itineraries, airplanes, and airports, but also
+
+BEGINNING. IN 2007 WE SAID,
+
+lets passengers record their parking spots, check in,
+
+‘THE WHOLE WORLD IS GOING ONLINE change seats, retrieve boarding passes, pay for ex-
+
+cess baggage, track checked luggage, and view the
+
+ONLY. ALL WE’RE GOING TO
+
+ground under the plane (with Glass Bottom Jet). The
+
+DO IS BE ONLINE.’ BUT WHAT immensely popular app had been downloaded an
+
+estimated 11 million times as of April 2014.
+
+WE’VE LEARNED RECENTLY IS THAT
+
+Perhaps the surest sign that digital technologies
+
+THE OFFLINE EXPERIENCE are transforming physical businesses rather than
+
+annihilating them is the growing number of digi-
+
+OF TOUCHING AND FEELING
+
+tal companies that are themselves moving toward
+
+CLOTHES ISN’T GOING AWAY.” digital-physical fusions. Two early pioneers of on-
+
+line trading—E*Trade and TD Ameritrade—have in-
+
+vested in physical branches. Google, which started
+
+members under 25, and launched innovations such life as purely a digital search engine, is now produc-
+
+as the hugely popular Tweetwalk, which showed ing smartphones and tablets and smart glasses; it has
+
+backstage pictures of Burberry’s collections before also been building driverless cars, acquiring robotics
+
+the runway show. She also created a new partnership companies, laying physical fiber, creating delivery
+
+at the top, including herself; the chief creative officer, services, and moving into connected devices within
+
+Christopher Bailey; and the chief technology officer, the home. Digital retailers such as Warby Parker and
+
+John Douglas. She established a “strategic innova- Bonobos are launching physical stores. Andy Dunn,
+
+tion council” and staffed it with what she viewed as the CEO of Bonobos, says, “We were wrong at the
+
+the youngest and most forward-thinking directors beginning. In 2007 we started the company, and we
+
+in the company. The council developed digitally im- said, ‘The whole world is going online only. All we’re
+
+mersive physical experiences—live streaming of run- going to do is be online.’ But what we’ve learned re-
+
+way shows, video content on giant screens, digital cently is that the offline experience of touching and
+
+mirrors that turned into screens displaying catwalk feeling clothes isn’t going away.”
+
+scenes—that made store customers feel like they A digical lens will change how people perceive
+
+were stepping into a digical “Burberry World.” Store and manage nearly every activity in life and business.
+
+merchandise carried RFID tags, so a customer pick- Try using it. Pick apart your customers’ experience
+
+ing up an item could instantly see product informa- chain to understand how digital technologies apply.
+
+tion and marketing materials on a screen. This digical Combining the physical and the digital promises to
+
+strategy contributed to a significant increase in share transform nearly every element of nearly every in-
+
+price: From the time Ahrendts arrived to early 2014, dustry, including yours. HBR Reprint R1409F
+
+10 Harvard Business Review September 2014
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.

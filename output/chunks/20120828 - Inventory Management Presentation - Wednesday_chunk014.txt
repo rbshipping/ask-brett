@@ -1,0 +1,193 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The document discusses various aspects of inventory management, including stock take, data integrity, and addressing issues related to negative stock and poor inventory receipting.
+KEYWORDS: inventory management, stock take, data integrity, negative stock, inventory receipting
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+It’s about the Customer, always!
+
+[Slide 181]
+
+Outstanding PO Report
+
+It’s about the Customer, always!
+
+[Slide 182]
+
+Identifying “negative” receipts
+
+It’s about the Customer, always!
+
+[Slide 183]
+
+Stocktake
+
+Performed six monthly on all stores, except stores with a poor result.
+
+A good stocktake result will have a positive result in that the store does not need to re-do a stocktake for another 12 months (4 to 5 stores currently)
+
+Very poor results will see the store re-scheduled almost immediately, an unacceptable result sees them scheduled again in the next 6 month cycle.
+
+It’s about the Customer, always!
+
+[Slide 184]
+
+Stocktake
+
+Stores previous 3 stocktakes plotted on graph to show improvement (or not)
+
+Outline by Dept to identify key areas of concern
+
+In dusk world high shrink in Home Fragrance dept indicates a problem with receipting of DTS deliveries.
+
+Along with an action plan and a detailed list of all variances are sent to the AM and NRM for follow up.
+
+It’s about the Customer, always!
+
+[Slide 185]
+
+Culturalising Data Integrity
+
+Recognised we had a serious problem, and had a work out earlier this year to deal with store Goods In, and store IBT’s.
+
+Changed in-store processes to red file/green file so that stores have easy to follow processes for processing
+
+This is still a work in progress but will go a long way towards fixing the issues.
+
+Changing processes to make store managers accountable for store receipting.
+
+New Futura function “Negative SOH” warning pop-up
+
+It’s about the Customer, always!
+
+[Slide 186]
+
+Issues
+
+Shrinkage has been removed as a KPI from the retail team, and instead has moved to an “In-store breakages and burns” measure.
+
+No-one in the company who has any data integrity measure as a KPI.
+
+Poor stocktake results always come from stores with high negative stocks, poor IBT receipting disciplines, poor PO receipting disciplines
+
+No Loss Prevention function or data audit function within dusk – all stocktake are done by one member of the planning team.
+
+It’s about the Customer, always!
+
+[Slide 187]
+
+Issues
+
+No ownership of data integrity within the business – majority of reporting sits within planning team, but there are no KPI’s associated with anyone within the business for any data integrity issues (excl warehouse)
+
+On a scale of 1-10, we are probably at a 2 or 3 – we have identified many of the causes of data integrity, but the big opportunity is to drive ownership throughout the business.
+
+It’s about the Customer, always!
+
+[Slide 188]
+
+Brand Questions / Discussion
+
+What measures are used?
+
+What reports are used? What happens to them?
+
+KPIs?
+
+Who’s “3 to 5” KPIs have Data Integrity as one of them? Ownership?
+
+Method of “Culturalising” Data Integrity in the business (Retail & CS)?
+
+Most significant issues? How addressed?
+
+Any unique solution you are particularly “excited” about?
+
+Single biggest existing unsolved frustration or issue?
+
+187
+
+[Slide 189]
+
+Brand Self Ratings
+
+“How effective is my brand at managing Data Integrity overall?” (out of 10)
+
+Adairs  5
+
+BNT	 7
+
+diva	 7
+
+dusk	 2
+
+Lovisa	 2
+
+188
+
+[Slide 190]
+
+Action Points Discussion
+
+What are the most effective ways to impact Data Integrity?
+
+Effective cross brand measures? (e.g. Absolute Variance)
+
+Best reports? “Sales Pattern Deviation” reports?
+
+New concepts? (e.g. “Zero Balance Walk”)
+
+World (P120) – increased checking throughout the supply chain? Balance against “sales preventing environment”(Bryn Mawr P140)
+
+Who should “own” it in each organisation?
+
+CEO “recognition / involvement: (e.g. Kaufman p211)
+
+New Incentive?
+
+Are there enough hours allocated to this issue? Cost vs. benefit?
+
+Application of technology? RFID? (Cost vs. benefit) New algorithms?
+
+The single biggest issue holding us back?
+
+189
+
+[Slide 191]
+
+Action Planning
+
+What happens next?
+
+How to improve the situation?
+
+“Goal Alignment”
+
+What changes should each brand make? CAP
+
+How to make it stick?
+
+190
+
+[Slide 192]
+
+Time
+
+Topic
+
+191
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 193]
+
+Time
+
+Topic
+
+192
+
+Agenda for tomorrow…

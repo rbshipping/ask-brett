@@ -1,0 +1,122 @@
+SOURCE: HBR making-supply-meet-demand-in-an-uncertai.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Supply Chain Management
+SUMMARY: This text discusses how Black & Decker and Sport Obermeyer adapted their supply chain to meet changing customer demands and market conditions.
+KEYWORDS: supply chain, fashion industry, customer-centric, flexible manufacturing, just-in-time delivery
+---
+
+demands, notes Al Strumar, the company’s former vice president of advanced manufacturing technology. In the power tool
+
+industry, stiff competition has meant an increased variety of products and a need for faster delivery. Also, to some extent,
+
+power tools have become fashion items that compete with ties and compact discs for Father’s Day and Christmas gift
+
+purchases. As a result, a few years ago, some of Black & Decker’s largest retailer customers began pushing the company to
+
+deliver smaller orders more frequently—on a just-in-time basis. Those customers also established a policy of canceling any
+
+order that could not be shipped 100% complete and on time. Black & Decker couldn’t meet those exacting requirements using
+
+its traditional planning methods. Top managers’ attention has subsequently turned to making plants fast and flexible so that the
+
+company can respond to rapid changes in market preferences.
+
+How Accurate Response Developed at Sport Obermeyer
+
+Any company that chooses to implement accurate response should obviously tailor the approach to its own situation. But the
+
+case of Sport Obermeyer provides a good example of how it can be done. In fact, the insights that emerged from our analysis
+
+of Sport Obermeyer formed the foundation for the accurate response approach.
+
+In the fashion skiwear business, demand is heavily dependent on a variety of factors that are difficult to predict—weather,
+
+fashion trends, the economy—and the peak of the retail selling season is only two months long. Even so, Sport Obermeyer has
+
+been able to eliminate almost entirely the cost of producing skiwear that customers don’t want and of not producing ski-wear
+
+that they do want by using accurate response. The company estimates that by implementing this approach, it has increased its
+
+profits by between 50% and 100% over the last three years.
+
+Founded in 1950 by German-born aeronautical engineer and ski instructor Klaus Obermeyer, Sport Obermeyer is a leading
+
+supplier in the U.S. fashion-ski-apparel market. Its products are manufactured by a joint venture in the Far East and by
+
+independent manufacturers located in the Far East, Europe, the Caribbean, and the United States. With sales of approximately
+
+$30 million in 1992, Sport Obermeyer had a commanding 45% share of the children’s market and an 11% share of the adult
+
+market.
+
+Nearly all of Sport Obermeyer’s products are newly designed each year to include changes in style, fabric, and color. And until
+
+the mid-1980s, the company’s design-and-sales cycle was relatively straightforward: design the product, make samples, and
+
+show samples to retailers in March; place production orders with suppliers in March and April after receiving retail orders;
+
+receive goods at Sport Obermeyer’s distribution center in September and October; and then ship them immediately to retail
+
+outlets. That approach worked well for more than 30 years: production commitments were based on firm orders, and fall
+
+delivery provided ample time for efficient manufacturing.
+
+In the mid-1980s, however, several factors rendered the approach obsolete. First, as Sport Obermeyer’s sales volume grew,
+
+the company began to hit manufacturing constraints during the peak ski-wear-production period. It was unable to book
+
+sufficient production with high-quality-skiwear manufacturers during the critical summer months to allow all of its volume to be
+
+produced after it had received firm retail orders. As a result, it began booking production the previous November, or about a
+
+year before the goods would be sold, based on speculation about what retailers would order.
+
+Second, the pressure to reduce manufacturing costs and increase variety compelled Sport Obermeyer to develop a more
+
+complex supply chain. (Today a parka sold in the United States might be sewn in China from fabrics and findings—zippers,
+
+snaps, buckles, and thread—sourced from Japan, South Korea, and Germany.) Such a supply chain supported increased
+
+variety and improved production efficiency but greatly increased lead times. Finally, and most important, Sport Obermeyer
+
+successfully launched a line of children’s fashion skiwear. Dealers began demanding earlier delivery, because a substantial
+
+portion of sales in the booming children’s category had begun to take place in August, during the back-to-school season.
+
+To contend with lengthening supply chains, limited supplier capacity, and retailers’ demands for early delivery, Sport
+
+Obermeyer undertook a variety of quick-response initiatives to shorten lead times. First, the company slashed the time it took
+
+to process orders and compute raw-material requirements by introducing computerized systems to support those activities.
+
+Second, because lead times for obtaining raw materials proved difficult to shorten, the company began to anticipate what
+
+materials it would require and pre-position them in a warehouse in the Far East. With materials in hand, Sport Obermeyer was
+
+able to begin manufacturing as soon as it received orders. Third, as delivery due dates approached, the company turned to air
+
+freight to expedite delivery from the Far East to its Denver distribution center. By 1990, those changes had reduced delivery
+
+lead times by more than one month.
+
+In addition, Sport Obermeyer succeeded in persuading some of its most important retailer customers to place their orders
+
+sooner, thereby providing the company with valuable early information on the likely popularity of individual styles. Starting in
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 5of 9
+
+1990, the company accomplished this by inviting about 25 of its largest retailer customers to Aspen each February to give them
+
+a sneak preview of the new annual line and to solicit early orders. Every year since then, the orders resulting from this
+
+program, called Early Write, have accounted for about 20% of Sport Obermeyer’s total sales.
+
+Unfortunately, those efforts did not solve the problem of growing stockouts and markdowns. The company still had to base
+
+about half its production on demand forecasts, which was a big risk in the highly volatile fashion industry. Sport Obermeyer
+
+relied on an in-house “buying committee”—a group of company managers from a range of functional areas—to make a
+
+consensus forecast of the demand for each of the company’s various products. But its track record was not particularly

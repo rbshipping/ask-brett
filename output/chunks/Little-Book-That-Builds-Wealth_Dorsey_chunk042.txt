@@ -1,0 +1,230 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Real Estate Valuation
+SUMMARY: This passage discusses the key factors that influence the valuation of a rental property, including growth potential, risk, return on capital, and competitive advantage, which also underpin the valuation of any company.
+KEYWORDS: real estate valuation, rental property, growth potential, risk, return on capital
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+Sticking with the landlord example, let’s think about
+
+what would make a building full of rental apartments worth
+
+more or less to a prospective purchaser. Growth would
+
+certainly push the value up—if a building had an adjacent
+
+patch of land on which a landlord could build more apart-
+
+ments, it would be worth more than a building without that
+
+land, as the stream of potential future rental income would
+
+be larger. The same goes for the riskiness of the rental
+
+income—a building full of seasoned wage-earners would be
+
+worth more than the same building full of college students,
+
+because the landlord would be more confident of actually
+
+collecting the rent each month without a big hassle.
+
+You’d also imagine that a higher return on capital
+
+would make a building worth more—if you thought you
+
+could raise rents in a certain building and essentially get
+
+more income with no investment, that property would be
+
+worth more than a building with stagnant rents. Finally,
+
+let’s not forget competitive advantage—a building that
+
+was the last to go up before a zoning ordinance prevented
+
+adjacent new apartment buildings would be worth more
+
+cc1122..iinndddd 116644 11//2288//0088 77::2277::0044 PPMM
+
+WHAT’S A MOAT WORTH? [165]
+
+than a building that p otentially faced lots of new apart-
+
+ments competing with it.
+
+Guess what? You’ve just learned the most important
+
+concepts that underpin the valuation of any company: the
+
+likelihood that those estimated future cash flows will actu-
+
+ally materialize (risk), how large those cash flows will
+
+likely be (growth), how much investment will be needed to
+
+keep the business ticking along (return on capital), and
+
+how long the business can generate excess profits (eco-
+
+nomic moat). Keep these four factors in mind when using
+
+price multiples or any other valuation tool, and you’re
+
+certain to make better investing decisions.
+
+Invest, Don’t Speculate
+
+There are three types of tools for valuing companies: price
+
+multiples, yields, and intrinsic values. All three are valu-
+
+able parts of the investing toolkit, and the wise investor
+
+will apply more than one to a prospective purchase. I’ll go
+
+over price multiples and yields in the next chapter. (Intrin-
+
+sic values are a bit more complicated, and generally require
+
+a somewhat technical method called discounted cash flow,
+
+which is a bit beyond the scope of this book. * )
+
+*If you’re interested in learning about how to calculate an intrinsic value,
+
+I’d recommend picking up another book I’ve written about investing, called
+
+The Five Rules for Successful Stock Investing ( John Wiley & Sons, 2004),
+
+which goes into more detail on accounting and valuation.
+
+cc1122..iinndddd 116655 11//2288//0088 77::2277::0044 PPMM
+
+[166] THE LITTLE BOOK THAT BUILDS WEALTH
+
+However, understanding price multiples and yields
+
+will be easier if we first detour briefly into what drives
+
+stock returns. Over long stretches of time, there are just
+
+two things that push a stock up or down: The i nvestment
+
+return, driven by earnings growth and dividends, and the
+
+speculative return, driven by changes in the price-earnings
+
+(P/E) ratio.
+
+Think of the investment return as reflecting a company’s
+
+financial performance, and the speculative return as reflect-
+
+ing the exuberance or pessimism of other investors. A stock
+
+might go from $10 to $15 per share because earnings have
+
+increased from $1 per share to $1.50 per share, or because
+
+even though earnings stayed flat at $1 per share, the P/E ratio
+
+increased from 10 to 15. In the first case, the stock was
+
+driven completely by investment return; in the latter case, the
+
+shares climbed solely due to speculative return.
+
+When you focus your investment search on compa-
+
+nies with economic moats, you’re maximizing your poten-
+
+tial investment return, because you’re looking for companies
+
+that are likely to create economic value and increase their
+
+earnings over long periods of time.
+
+By paying close attention to valuation, you’re minimizing
+
+the risk of a negative speculative return—that is, the odds that
+
+a change in the mood of other investors will hurt your invest-
+
+ment performance. After all, no one knows what a stock’s
+
+speculative returns will be over the next five or 10 years, but
+
+cc1122..iinndddd 116666 11//2288//0088 77::2277::0055 PPMM
+
+WHAT’S A MOAT WORTH? [167]
+
+we can make some pretty reasonable educated guesses about
+
+the investment return. Careful valuation will help insulate you
+
+against an adverse change in market emotion.
+
+Let’s look at a real-world example. As of mid-2007,
+
+Microsoft had increased earnings per share at an average
+
+rate of roughly 16 percent per year over the past decade.
+
+So, 16 percent was the company’s 10-year average invest-
+
+ment return. But Microsoft’s shares have appreciated at
+
+an average annual rate of only about 7 percent over the
+
+same time period, which means its speculative return must
+
+have been negative, to drag down that juicy 16 percent
+
+investment return. In fact, that’s precisely what happened—
+
+10 years ago, Microsoft shares were valued at a P/E ratio
+
+of 50, and today the P/E ratio is just 20.
+
+Contrast Microsoft with Adobe, which produces Pho-
+
+toshop, Acrobat, and a host of other image-processing
+
+software products. Over the past decade, Adobe’s earn-
+
+ings per share have increased at about 13 percent per year
+
+on average—that’s the investment return. But the shares
+
+have appreciated at almost twice that rate, about 24 percent
+
+per year, because over the past 10 years the stock’s P/E
+
+ratio changed from about 17 to about 45 today, which
+
+added a huge amount of speculative return.
+
+As you can see, a change in the market’s mood—the
+
+speculative return—caused a drastically different outcome for
+
+an investor who bought shares of two companies in the same
+
+cc1122..iinndddd 116677 11//2288//0088 77::2277::0055 PPMM
+
+[168] THE LITTLE BOOK THAT BUILDS WEALTH
+
+industry that posted roughly the same growth rate over the
+
+past decade. The Microsoft investor has received returns
+
+roughly in line with the market, while the Adobe investor has
+
+made several times his or her initial investment.
+
+Now, the Adobe example is an extreme; buying a
+
+stock with the expectation that the market will deliver

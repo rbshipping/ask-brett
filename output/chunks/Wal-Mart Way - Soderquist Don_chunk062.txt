@@ -1,0 +1,190 @@
+SOURCE: Wal-Mart Way - Soderquist Don.pdf
+SUBFOLDER: Additional\HFT
+TOPIC: Logistics and Distribution Management
+SUMMARY: Wal-Mart's logistics team closely monitors and analyzes every aspect of their distribution operations to maintain the highest level of efficiency.
+KEYWORDS: logistics, distribution centers, performance analysis, process optimization, food distribution
+---
+
+[Document: Wal-Mart Way - Soderquist Don.pdf]
+
+Over the years, the logistics team became real experts in measuring and
+
+analyzing every aspect of their operation. Just as with every other function in
+
+Wal-Mart, the team carefully scrutinized the monthly profit-and-loss
+
+statements for any slippage in performance and took corrective action
+
+immediately. Every morning, all managers in all distribution centers receive
+
+detailed recaps of the previous day’s numbers for their areas. The managers
+
+then dissect each function to find areas where they can improve performance.
+
+They also continuously scan these numbers for possible systems
+
+improvements that they can make. The numbers are not just production
+
+statistics; rather, the quality of service as well as safety performance are
+
+important points of review. Wal-Mart leadership has developed incentives for
+
+outstanding performance in each area as an encouragement to the associates
+
+to excel.
+
+Throughout the day, all distribution center managers monitor the
+
+production process on their computer screens to see how the work is flowing
+
+and where any bottlenecks may be developing. They can move associates
+
+from one area of the distribution center to another at a moment’s notice in
+
+order to keep the merchandise flowing. This is incredibly important, as the
+
+staggering volume of merchandise that each center receives and ships each
+
+day makes maintaining the highest level of efficiency a crucial priority. This
+
+type of process flow analysis is quite common in manufacturing, but it has
+
+been revolutionary for distribution centers.
+
+The Move to Food
+
+When we decided to build Supercenters (discount stores with full-line
+
+grocery departments), we obviously needed to learn how to distribute food
+
+products. We had never done that outside of our Sam’s Club bulk items, so
+
+we began by using wholesale distributors who knew and understood the
+
+business. The canned goods and dry groceries were very similar to general
+
+merchandise, but fresh and frozen products had to be handled very
+
+differently. We had to make provisions for coolers and freezers in our
+
+distribution centers as well as for specialized trailers for shipping the
+
+merchandise to keep the products at the appropriate temperatures. After we
+
+became familiar with handling these products properly and began to move
+
+increasing volumes of food items, we decided to build our own distribution
+
+centers that specialized only in food
+
+The man who can drive himself further once the effort gets painful is the man who will win.
+
+—Roger Bannister
+
+As with many of the challenges we tackled at Wal-Mart, a sizable number
+
+of analysts and critics thought we wouldn’t be able to efficiently distribute
+
+food. I think we actually drew energy from the naysayers—we wanted to
+
+prove them wrong again! And we did. The same evolutionary process and
+
+progress took place with food logistics as had occurred with our general
+
+merchandise distribution centers. Today we have state-of-the-art food
+
+distribution. Innovation is continuing to happen throughout the logistics
+
+network.
+
+One Size Does Not Fit All
+
+In the early years, deliveries were made once a week to each store. As the
+
+sales in the stores grew and we opened larger and larger stores, we had to
+
+deliver more frequently—twice a week, then every other day, and then every
+
+day for most stores. Today, many stores receive multiple deliveries every
+
+day. Each time the need arose to service the stores more effectively, the
+
+logistics systems had to be changed. The team built flexibility into every
+
+system and customized deliveries for each store, depending on size and
+
+needs. In Wal-Mart systems, we have never forced one size to fit all.
+
+Similarly, when we first introduced Sam’s Clubs, the manufacturers sent
+
+all of their shipments directly to each club. They carried a limited number of
+
+items and sold large quantities of each item. Over time, however, it became
+
+apparent that using the Wal-Mart approach would work for them as well and
+
+provide many of the same benefits for their clubs. So the systems were
+
+adapted once again, and today the Wal-Mart distribution centers handle
+
+freight for all of our retail formats: discount stores, Supercenters, Sam’s
+
+Clubs, and Neighborhood Markets.
+
+Just-in-Time Delivery: Wal-Mart Trucking
+
+In order to control delivery to our stores on a more timely basis, we
+
+developed our own trucking operation. Instead of remaining dependent on
+
+outside carriers, who were often great but who had no obligation to take care
+
+of Wal-Mart first, it seemed natural, as we grew, to hire our own truck drivers
+
+who would become a part of the Wal-Mart team. Our trucking associates
+
+work closely with the distribution associates to make sure that we serve our
+
+stores as effectively as is possible.
+
+Computers are a vital link in dispatching trucks to the stores and add to our
+
+efficiency in moving freight. Onboard computers are used for
+
+communications with all drivers while they are on the road. Since we already
+
+have so many outbound trucks driving down the highway and delivering
+
+merchandise to our stores, it didn’t make sense to haul empty trailers back to
+
+the distribution centers on the return trip. Since we drive right by many of our
+
+suppliers’ manufacturing plants, we decided to have our truckers stop and
+
+pick up that merchandise and bring it back with them, which saved
+
+significant costs on inbound freight. The onboard computers made this
+
+possible. This experiment with “back-hauling” merchandise worked, and
+
+over the years we have refined it many times. Today, our own trucks deliver
+
+over 50 percent of our inbound merchandise to our distribution centers.
+
+Again, all this may sound like the most routine of improvements. But we
+
+were the first retailer to develop a comprehensive back-haul operation. The
+
+program resulted in millions and millions of dollar savings and countless
+
+hours of savings in the movement of merchandise—all major strategic
+
+advantages.
+
+The next step to attain even greater efficiency was to begin having our
+
+trucks pick up merchandise from a supplier for several Wal-Mart distribution
+
+centers at the same time. In order to do that, we had to develop a method we
+
+called “cross-docking.”We tested the concept by building a long, narrow,

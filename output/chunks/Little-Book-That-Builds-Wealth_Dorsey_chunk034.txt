@@ -1,0 +1,254 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Financial Analysis
+SUMMARY: The text discusses various financial ratios, such as ROE, ROA, and ROIC, which are used to assess a company's profitability and efficiency.
+KEYWORDS: ROE, ROA, ROIC, financial ratios, profitability
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+so it’s a good idea to look at ROE alongside how much
+
+debt a company has. Like ROA, you can find ROE calcu-
+
+lated for most companies on just about any financial web
+
+site. Again, as a very broad rule of thumb, you might use
+
+15 percent as a reasonable cutoff—companies that can
+
+consistently crank out ROEs of 15 percent or better are
+
+more likely than not to have economic moats.
+
+Finally, there’s return on invested capital (ROIC),
+
+which combines the best of both worlds. It measures the
+
+return on all capital invested in the firm, regardless of
+
+whether it is equity or debt. So, it incorporates debt—unlike
+
+ROA—but removes the distortion that can make highly
+
+leveraged companies look very profitable using ROE. It
+
+also uses a different definition of profits that helps remove
+
+any effects caused by a company’s financing decisions
+
+(debt versus equity), so we can get as close as possible to
+
+a number that represents the true efficiency of the under-
+
+lying business. There are a number of ways to calculate
+
+cc0099..iinndddd 113300 11//2266//0088 33::1100::5566 AAMM
+
+FINDING MOATS [131]
+
+ROIC, and the formula can be complicated, so it is not a
+
+readily available number like ROA and ROE. The upshot
+
+is that you should interpret ROIC the same way as ROE
+
+and ROA—a higher return is preferable to a lower one.
+
+G o Where the Money Is
+
+Moats increase the value of companies because they
+
+enable companies to stay profitable for a longer stretch of
+
+time. And we want to measure profitability using return
+
+on capital, because companies that use capital efficiently
+
+will increase shareholders’ capital at a faster clip. That
+
+sounds reasonable, but moats are more than just a tool
+
+for finding stronger, more valuable companies. As such,
+
+they should always be a core part of your stock-picking
+
+process.
+
+But remember, you don’t need to invest in every part
+
+of the stock market. Feeling the need to follow the herd
+
+and be exposed to this or that industry without regard to
+
+whether the industry’s economics are attractive is a bad
+
+idea. Willie Sutton famously robbed banks because
+
+“that’s where the money is.” As an investor, you should
+
+strive to remember Willie’s reasoning—some industries
+
+are structurally more profitable than others, and that’s where
+
+the moats are. Your long-term investment dollars should
+
+follow.
+
+cc0099..iinndddd 113311 11//2266//0088 33::1100::5577 AAMM
+
+[132] THE LITTLE BOOK THAT BUILDS WEALTH
+
+The Bottom Line
+
+1. I t’s easier to create a competitive advantage in
+
+some industries than it is in others. Life is not
+
+fair.
+
+2. M oats are absolute, not relative. The fourth-best
+
+company in a structurally attractive industry may
+
+very well have a wider moat than the best com-
+
+pany in a brutally competitive industry.
+
+cc0099..iinndddd 113322 11//2266//0088 33::1100::5577 AAMM
+
+a p te r
+
+h T
+
+C e
+
+n
+
+The Big Boss
+
+(cid:1)
+
+Management Matters Less
+
+Than You Think.
+
+W
+
+to economic moats, management doesn’t
+
+HEN IT COMES
+
+matter as much as you might think.
+
+This may seem like a shocking statement to those
+
+used to seeing high-profile CEOs on the cover of business
+
+magazines and on television. But it’s true. Long-term
+
+competitive advantages are rooted in the structural busi-
+
+ness c haracteristics that I laid out in Chapters 3 to 7 , and
+
+managers have only a limited amount of ability to affect
+
+cc1100..iinndddd 113333 11//2266//0088 33::1111::4444 AAMM
+
+[134] THE LITTLE BOOK THAT BUILDS WEALTH
+
+them. Sure, we can all remember the standouts in tough
+
+industries—heck, Starbucks managed to dig an economic
+
+moat around a chain of coffee shops—but these companies
+
+are much more the exceptions than the rule. (Remember
+
+the 1990s craze for bagel chains? No? Exactly.)
+
+This point of view stands in direct opposition to the
+
+words of well-known business writer Jim Collins, who echoed
+
+many other business pundits when he wrote, “Greatness, it
+
+turns out, is largely a matter of conscious choice.”
+
+Well, no. “Conscious choice” can’t turn a struggling
+
+auto-parts company into a highly profitable data proces-
+
+sor any more than I can turn myself into Warren Buffett
+
+by drinking Cherry Coke and eating See’s Candies. Nine
+
+times out of 10, the competitive dynamics of an industry
+
+will have a much greater impact on whether a company
+
+has an economic moat than any managerial decision. This
+
+is not because most managers are incompetent, but rather
+
+because some industries are less competitive than others;
+
+the cold, hard truth is that some CEOs just have an easier
+
+job maintaining high returns on capital.
+
+As I discussed in Chapter 9 , some industries are sim-
+
+ply much more conducive to digging a moat than others.
+
+Throw a dart at a random asset manager, bank, or data
+
+processor, and I’ll almost guarantee that you’ll see higher
+
+long-run returns on capital than a randomly selected auto-
+
+parts company, retailer, or technology hardware company.
+
+cc1100..iinndddd 113344 11//2266//0088 33::1111::4455 AAMM
+
+THE BIG BOSS [135]
+
+As much as business schools and management gurus
+
+would like us to believe that following some simple set of
+
+best practices will enable good companies to become
+
+great ones, it’s just not true. Granted, smart management
+
+can enable a good company to become a better one, and
+
+I’d rather own a company with intelligent capital alloca-
+
+tors at the helm than one run by a bunch of bozos. And
+
+dumb managers can certainly cause great companies to
+
+become less so. However, it’s very rare for managerial
+
+decisions to have a bigger impact on a company’s long-
+
+run competitive advantage than that company’s structural
+
+characteristics. *
+
+Think back to the Janus example in Chapter 9 . Man-
+
+agement did everything possible to run the business badly,
+
+yet profitability returned to high levels after a few years in
+
+the dumps. Or look at H&R Block, which earns fat
+
+returns on capital from a great tax-preparation franchise,
+
+*You might think this would be different at a start-up company, because
+
+management could have a greater impact at a smaller and younger firm, but
+
+some recent research from University of Chicago Professor Steven Kaplan

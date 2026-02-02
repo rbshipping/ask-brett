@@ -1,0 +1,46 @@
+SOURCE: Wal-Mart Way - Soderquist Don_Editable Format.docx
+SUBFOLDER: Additional\HFT
+TOPIC: Supply Chain Management
+SUMMARY: Wal-Mart's automated inventory process and Retail Link system provide suppliers with real-time sales data to optimize their product development and performance.
+KEYWORDS: inventory management, supply chain, retail data, supplier collaboration, performance optimization
+---
+
+[Document: Wal-Mart Way - Soderquist Don_Editable Format.docx]
+
+This automated process has made it possible for Wal-Mart stores to be in stock consistently and minimize the dollars invested in inventory at the same time—that equals superior service for the customers and reduced capital commitment from the company. The Wal-Mart Way has always been true to
+
+our vision of satisfying our customers and maximizing the impact of our assets through excellence.
+
+Suppliers’ Access to Our Data
+
+Our database is a crucial component of our business, and in 1991, our Information Systems Division developed a next-generation database system called Retail Link. (A more detailed explanation of the development of this unique system and the rationale for it is in chapter 9,“Reinventing the Supply Chain.”) Retail Link gives our suppliers access to the Wal-Mart database in Bentonville from their own offices and on their own PCs. They can pull up any item they sell to us and monitor retail sales of that item by day, by week, by month, or by year. They have the further capability of seeing any of their items’ sales by store, by district, by state, by region—or the entire company. The data is updated eight times a day, making the information current and accurate whenever they look at it. Our store associates, our buyers, and our suppliers share exactly the same data, and that makes it possible for all of us to maximize our overall performance.
+
+The system is password-protected and has other safeguards so that each manufacturer and supplier is limited to—and protected by—studying only his or her own merchandise. Though Wal-Mart standards for merchandise sell- through are tough, we provide our suppliers with state-of-the-art feedback to improve their product development. No one wants to create merchandise that customers don’t want!
+
+This is perhaps the most beautiful time in human history; it is really pregnant with all kinds of creative possibilities made possible by science and technology which now constitute the slave of man—if man is not enslaved by it.
+
+—Jonas Salk
+
+No other retailer to date has replicated this system,which is another way that technology has aided Wal-Mart in developing a significant strategic advantage in the marketplace.
+
+Speed Matters
+
+The Wal-Mart Information Systems Division has supported every single
+
+department in the company and is the information and communication backbone of virtually all that we do. A major point of emphasis of systems design has been to speed information to the operating divisions so that all decision-makers have accurate, timely information that they can act on.
+
+Every morning, all store and club managers have on their desks a concise report of the status of their entire operation from the previous day, including a report card on all of their key numbers for the day and month-to- date. It also includes action steps that they need to address in that store that day. The daily report is a powerful tool to assist managers in staying informed about their business, scheduling their operations, addressing and correcting problem areas, and focusing the activities of their team each day. Managers study this report when they first come in and map out the management team’s activities for the entire day. In this way they can focus in on their top priorities.
+
+A highly respected, long-term officer in Wal-Mart’s financial area shared the following incident with me recently as an example of how our investment in technology helped us to maintain our competitive advantage:
+
+Not long ago, I was visiting with a fellow CFO about midmonth and he commented that they were nearly finished closing their books for the prior month.I asked him if they were behind schedule. He replied that they always received their monthly financial statements by the fifteenth of the following month. I didn’t have the heart to tell him that we had closed our books, printed our monthlyfinancial reports, and had them in the hands of every manager in the chain by the third working day of the next period. What an incredible edge over a competitor who takes over two weeks to close the books. We have already identified our concerns, addressed them, and moved on to bigger and better things. The competitor is still not quite sure what to be concerned with.
+
+If something has been done a particular way for fifteen or twenty years, it’s a pretty good sign, in these changing times, that it is being done the wrong way.
+
+—Elliot M. Estes
+
+This practice of immediate financial feedback and information sharing came from Mr. Sam and was perpetuated by his great successors. In my earliest days at Wal-Mart, our finance team was located just down the hall from Sam’s office on “Executive Row.” We would be poring through numbers and reviewing journals and ledgers at about 4 o’clock in the  morning. Sam’s old Ford pickup would pull up outside and he would come in the door asking for his P&L. He loved to digest reports, and had an uncanny ability to retain and remember performances. He also expected everyone, from the CFO all the way down to the department managers in the stores, to “know your numbers.”
+
+Technology: Friend or Foe
+
+People in any organization can view technology as friend or foe. As much as we have embraced change in Wal-Mart and as ingrained as change is in our culture, it hasn’t always been easy. Change is disruptive to the normal routine and can be unsettling to those who are affected. That’s another reason why it is so important to have a culture where your people trust leadership (and each other) and where they realize that this is all for the betterment of the company and, in the long run, for their individual benefit as well. It is the responsibility of leadership to see that change is communicated to all associates in an effective, timely, and caring way, which will help ensure a successful implementation. All leaders must understand that we really need our people, and it is important to treat them as if we do.

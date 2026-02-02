@@ -1,0 +1,202 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Strategy, Industry Dynamics
+SUMMARY: The text analyzes how the locus of competitive advantage has shifted in the personal computer industry, from proprietary integration to commoditization and de-commoditization.
+KEYWORDS: personal computer industry, commoditization, competitive advantage, value chain, industry dynamics
+---
+
+proprietary integration have migrated in the personal computer industry.
+
+On the left side of the diagram, which represents the earliest years of the desktop
+
+computer industry when product functionality was extremely limited, Apple Computer, with its
+
+proprietary architecture and integrated business model, was the most successful firm and was
+
+attractively profitable. The firms that supplied the bare components and materials to Apple, and
+
+the independent, arm’s-length retailers that sold the computers, were not in nearly as attractive a
+
+position. In the late 1990s, the processes of commoditization and de-commoditization had
+
+transferred the points at which proprietary integration could build proprietary competitive
+
+advantage to the retail interface with the customer (Dell) and to the interfaces within the
+
+subsystems (Intel and Microsoft).
+
+We believe that this is an important factor that explains why Dell Computer was more
+
+successful than Compaq during the 1990s. Dell was integrated across an important not-good-
+
+enough interface, whereas Compaq was not. We also would expect that a proper cost accounting
+
+would show that Dell’s profits from retailing operations are far greater than the profits from its
+
+assembly operations.
+
+Figure 5.2: The Shifting Locus of Advantage in the PC Industry’s Process Value Chain
+
+Value Chain
+
+Personal computer
+
+retailing
+
+Interdependent
+
+design & ‘assembly of
+
+personal computers
+
+Direct &
+
+interdependent
+
+manufacturer-
+
+customer interface
+
+Design & assembly of
+
+modular computers
+
+Components
+
+Performance-
+
+defining subsystems
+
+with interdependent
+
+architectures
+
+There are two ways to think of a product or service’s value chain. It can be
+
+conceptualized in terms of its processes, that is, the value-added steps required to create
+
+or deliver it. For example, the processes of design, component manufacture, assembly,
+
+marketing, sales, and distribution are generic processes in a value chain. A value chain
+
+can also be thought of in terms of components, or the “bill of materials” that go into a
+
+product. For example, the engine block, chassis, braking systems, and electronic
+
+subassemblies that go into a car are components of a car’s value chain. It is helpful to
+
+keep both ways of thinking about a value chain in mind, since value chains are also
+
+“fractal”—that is, they are equally complex at every level of analysis. Specifically, for a
+
+given product that goes through the processes that define its value chain, various
+
+components must be used. Yet every component that is used has its own sequence of
+
+processes through which it must pass. The complexity of analyzing a product’s value
+
+chain is essentially irreducible. The question is which level of complexity one wishes to
+
+This discussion builds heavily on Professor Michael Porter’s five forces framework and
+
+his characterization of the value chain. See Michael Porter, Competitive Strategy (New
+
+York: The Free Press, 1980) and Competitive Advantage (New York: The Free Press,
+
+5-16
+
+1985). Analysts often use Porter’s five forces framework to determine which firms in a
+
+value-added system can wield the greatest power to appropriate profit from others. In
+
+many ways, our model in chapters 4 and 5 provides a dynamic overlay on his five forces
+
+model, suggesting that the strength of these forces is not invariant over time. It shows
+
+how the power to capture an above-average portion of the industry’s profit is likely to
+
+migrate to different stages of the value chain in a predictable way in response to the
+
+phenomena we describe here.
+
+As a general observation, when you examine what seems to be the hey-day of most major
+
+companies, it was (or is) a period when the functionality and reliability of their products
+
+did not yet satisfy large numbers of customers. As a result, they had products with
+
+proprietary architectures, and made them with strong competitive cost advantages.
+
+Furthermore, when they introduced new and improved products, the new products could
+
+sustain a premium price because functionality was not yet good enough and the new
+
+products came closer to meeting what was needed. This can be said for the Bell telephone
+
+system; Mack trucks; Caterpillar earthmoving equipment; Xerox photocopiers; Nokia and
+
+Motorola mobile telephone handsets; Intel microprocessors; Microsoft operating systems;
+
+Cisco routers; the IT consulting businesses of EDS or IBM, the Harvard Business School;
+
+and many other companies.
+
+In the following text we will use the term subsystem to mean, generally, an assembly of
+
+components and materials that provides a piece of the functionality required for an end-
+
+use system to be operational.
+
+Once again, we see linkages to Professor Michael Porter’s notion that there are two
+
+viable “generic” strategies: differentiation and low cost (see Chapter 1, note 12, supra).
+
+Our model describes the mechanism that causes neither of these strategies to be
+
+sustainable. Differentiability is destroyed by the mechanism that leads to modularization
+
+and dis-integration. Low-cost strategies are viable only as long as the population of low-
+
+cost competitors does not have sufficient capacity to supply what customers in a given
+
+tier of the market demand. Price is set at the intersection of the supply and demand
+
+curves—at the cash cost of the marginal producer. When the marginal producer is a
+
+higher-cost disruptee, then the low-cost disruptors can make attractive profits. But when
+
+the high-cost competitors are gone and the entire market demand can be supplied by
+
+equally low-cost suppliers of modular products, then what was a low-cost strategy
+
+becomes an equal-cost strategy.
+
+Not all the components or subsystems in a product contribute to the specific performance
+
+attributes of value to customers. Those that drive the performance that matters are the
+
+“performance-defining” components or subsystems. In the case of a personal computer,
+
+for example, the microprocessor, the operating system, and the applications have long
+
+been the performance-defining subsystems.
+
+Analysts’ estimates of how much of the industry’s money stayed with computer
+
+assemblers and how much “leaked” through to back-end or subsystem suppliers are
+
+summarized in “Deconstructing the Computer Industry,” Business Week, 23 November
+
+1992, 90-96. As we note in the appendix to this chapter, we would expect that much of
+
+5-17
+
+ll,
+
+12.
+
+13.
+
+Dell’s profit comes from its direct-to-customer retailing operations, not from product
+
+assembly.

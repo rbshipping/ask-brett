@@ -1,0 +1,108 @@
+SOURCE: HBR How do customers judge quality in an e-tailer.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Customer Satisfaction in E-commerce
+SUMMARY: The text discusses how online customers judge the quality of an e-tailer based on timely delivery and the condition of the product received.
+KEYWORDS: delivery timeliness, product condition, customer expectations, customer satisfaction, e-commerce
+---
+
+they receive the product. Many customers view themselves as tion of incompetence on the part of an online retailer. In the
+
+“time starved” and will pay premium prices to a have a product customer’s mind, he or she has made the effort to place the order,
+
+delivered on a next-day or two-day schedule. One of the fore- and the retailer needs only to pull the order and ship it. Thus,
+
+most ways to disappoint an online customer is to make him or online retailers must pay attention to detail if they want customers
+
+her wait for delivery of an item past a promised date. Not only to be satisfied and return to their Web site for future purchases.
+
+does late delivery cause a sense of anxiety, but customers experi-
+
+ence a growing sense of dissatisfaction with every day that an The Condition of the Order Customers of brick-and-mortar stores
+
+order is delayed. are very particular about not choosing damaged merchandise or
+
+Online retailers are learning how to offer alternatives to short merchandise in damaged packaging. This same sensitivity re-
+
+delivery schedules by offering free shipping for a certain mini- garding the condition of the product and packaging applies to
+
+mum purchase amount. These offers of free shipping are usually customers shopping online. If a package arrives with a damaged
+
+accompanied by an extended delivery date, such as one to two shipping container, the customer has an understandable concern
+
+weeks. If products are delivered prior to these expected delivery that the merchandise inside the box might be damaged as well.
+
+dates, customers often develop perceptions of high quality. On- Perception is often reality in the mind of a customer, and retailers
+
+line retailers such as Amazon.com, Barnes & Noble and Circuit need to understand that a product must arrive at the customer’s
+
+City have adopted such free shipping options while still giving home as if it were just taken off the showroom floor.
+
+customers who desire them shorter delivery options. Online customers are adamant about receiving products that
+
+Customers who purchase from online retailers are frequently appear similar to the visual representation on the retailer’s Web
+
+quite sensitive to product delivery issues. That was very clearly site. Retailers must ensure that durable and especially perishable
+
+demonstrated in our study, which found that order timeliness products such as food items or plants are delivered in the same
+
+had the strongest impact on customer quality evaluations at the condition as advertised on the Web site. That means that retailers
+
+outcome or conclusion of an online transaction. Customers have need to ensure proper refrigeration or other maintenance of items
+
+high expectations for product delivery and little tolerance for while they are in transit to the customer. Online retailers must
+
+failure. Online retailers that can establish a foundation of deliver- make sure that the “final mile” of the delivery is not also the final
+
+ing products in a timely manner will not only produce higher mile in the life of a product. For example, online florists such as
+
+satisfaction levels, but could also buffer the effects of future deliv- FTD.com and 1-800-flowers.com have taken measures to ensure
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+38 MIT SLOAN MANAGEMENT REVIEW FALL 2006
+
+the good condition of the product delivered and the satisfaction of Web site, by looking at frequently asked questions, online tutori-
+
+the customer by guaranteeing that flowers will stay fresh for seven als, and e-mail addresses of the help desk to resolve the problem.
+
+days after delivery or the customer’s money will be refunded. They do not actively seek human interaction; in fact, they would
+
+The care that online retailers exhibit in packing items for ship- rather avoid it. On the other hand, some customers want to
+
+ment is also important. It is better to be overly cautious than to speak to a person to resolve a problem. When problems occur,
+
+risk a customer opening a package to find it damaged because of these customers are more than willing to give up their role as a
+
+careless packing or carrier handling. Customers who can see how “partial employee” and want the online retailer to take full re-
+
+an item was insulated against the wear and tear of travel will have sponsibility for the resolution of the problem. Sending an e-mail
+
+more confidence that they will receive undamaged products to a nameless help desk, which may take up to 48 hours to re-
+
+when they make future purchases. spond, is not a viable option for these customers. Generally,
+
+Product damage often results not from the online retailer’s when a problem occurs, they want the assurance of talking to a
+
+packaging, but from the carrier’s handling of the order. Regard- person who they know is addressing the problem and doing so
+
+less of this reality, customers of online retailers feel that the quickly. To address this issue, online retailers such as computer
+
+retailer is the one that is responsible. They made a purchase with manufacturer Dell Inc. and networking manufacturer Linksys
+
+the retailer, and they expect the retailer to ensure that the product offer customers the opportunity to talk with a technical support
+
+arrives undamaged. Retailers must be aware of this and convey to representative by phone 24 hours a day, seven days a week. Both
+
+their carriers the importance of this issue in building and main- companies also offer customers the opportunity to chat online
+
+taining relationships with customers. with a representative. Dell and Linksys are making every effort
+
+to enable customers to seek help in the manner that best meets
+
+Addressing Problems When They Occur their specific needs.
+
+The last aspect of the online retail experience that significantly Providing numerous methods for customers to provide feed-
+
+impacts customers’ quality evaluations is a retailer’s ability to re- back and report problems is essential to improving the quality of
+
+cover from a service failure. Of the online shoppers we surveyed, a retailer’s online service operations. If a customer experiences a

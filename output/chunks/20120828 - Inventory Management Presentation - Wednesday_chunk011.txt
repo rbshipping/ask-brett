@@ -1,0 +1,371 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The text discusses common issues affecting open-to-buy (OTB) forecasting and provides tips and tricks for effective OTB management.
+KEYWORDS: OTB forecasting, inventory management, merchandise planning, buyer-planner relationship
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+Not forecasting or inaccurately forecasting for unplanned product purchases (keeping some flexibility and $ in the back pocket)
+
+Driving cash to hard
+
+Not clearing “dogs” fast enough
+
+Believing in miracles
+
+[Slide 133]
+
+Common (issues) affecting OTB forecasting Continued…
+
+132
+
+Delegation of OTB Planning to Merchandise Planning
+
+Being too strict / Being too loose (near enough is good enough)
+
+Unrealistic markdown forecasting
+
+More than one OTB meeting per month.  You are overthinking the process
+
+Weekly meetings should not have the word OTB mentioned
+
+Forecasting to far ahead
+
+Forecasting behind product planning
+
+Building shortfalls in stock i.e. under stocked to quickly
+
+Cutting OTB to aggressively and quickly to address over stocks
+
+Ignoring overstocks……..some body must pay the piper
+
+[Slide 134]
+
+Meeting rhythms
+
+133
+
+Monthly OTB Meeting Participants
+
+The CEO
+
+The CFO
+
+GM
+
+Head of product
+
+Head of merchandise planning
+
+[Slide 135]
+
+The role of participants in OTB meeting…
+
+134
+
+The buyer
+
+Always wants more
+
+All product will sell
+
+The Merch Planner
+
+Does the work!
+
+Provides input and recommendations
+
+The CEO
+
+Always wants more
+
+Will be aware of and supportive of product initiatives, new directions and events
+
+Helps decision making & problem solving
+
+The CFO
+
+Audits the disciplines, processes and accuracy
+
+Needs to align cash-flow
+
+Must not bet the farm
+
+Tests assumptions and theories with the facts
+
+Tempers enthusiasm
+
+Keeps product discussion  out of the OTB
+
+[Slide 136]
+
+4 critical questions to ask yourself during an Open to Buy
+
+135
+
+Key things to look at in Open to Buy meetings
+
+Do the sales and margin assumptions look right?
+
+Do allocations to shrink and markdowns make sense?
+
+Can we justify our closing stock targets relative to the forecast / actual
+
+Do the ratios support our calculations?
+
+GMROI
+
+Forward Cover
+
+Sales to stock ratio
+
+2
+
+1
+
+3
+
+4
+
+[Slide 137]
+
+OTB Tips & Tricks
+
+136
+
+One in one out – over the longer period
+
+If you know what the closing stock target should be – the rest is “arithmetic”
+
+To be done monthly (for the forecast period), not weekly
+
+Don’t buy inventory just to achieve the stock target.
+
+Accurate and agreed OTB is then handed to the product and merchandise teams, over seen by the CEO to slice and dice and allocate to core, trend, new, categories, repeat, promotional, basics, class, colour etc etc
+
+……………..the fun begins
+
+[Slide 138]
+
+OTB Tips & Tricks cont…
+
+137
+
+Unit calculation is easier than $ but less accurate.  Don’t make big bets on stock if the trend does not support your stated belief
+
+(if you are chasing increases, then increase stock at 10% of the increase ie if you are chasing a 10% above trend objective then 1% OTB above required for current trend)
+
+Avoid confusing OTB meetings with Merchandise Planning or re-ordering/replenishment meetings
+
+Keep it simple
+
+Focus on trends/use graphs
+
+Don't tolerate bad performance
+
+Stop knee jerk reactions. make sustainable considered decisions
+
+[Slide 139]
+
+Time
+
+Topic
+
+138
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 140]
+
+The Silent Killer…
+
+Out of stocks = lost sales
+
+Unhappy Customers
+
+Frustrated Team
+
+Increased inventory
+
+Increasing GMROI backfires
+
+Skewed Assortment Plans
+
+Shrinkage out of control
+
+139
+
+[Slide 141]
+
+Data Integrity Workshop
+
+Introduction
+
+- “What is it really?
+
+- Implications for the business
+
+- Questions to be addressed
+
+Brand presentations
+
+- Note observations and ideas
+
+- After each presentation there will be a group discussion
+
+> Have the questions been addressed?
+
+> “Good / Bad / Ugly” issues raised
+
+> Identify discussion Action Points for later
+
+Discussion of the Action Points
+
+- What are the most effective ways to impact Data Integrity?
+
+- Effective cross brand measures? Best reports?
+
+- Who should “own” it?
+
+- The single biggest issue holding us back?
+
+Develop Action Plan(s)
+
+- What happens next
+
+140
+
+[Slide 142]
+
+What is it really?
+
+141
+
+[Slide 143]
+
+What is it really?
+
+It is a process - not just a bunch of reports
+
+Is not Shrinkage. Shrinkage is a lag indicator not a lead indicator.
+
+Not just the fact that inventory is incorrect… Indication of overall management.
+
+Needs to be integrated throughout the business. KPIs at various levels
+
+Part of the Culture. Consequences?
+
+142
+
+“Accurate information is the lifeblood of rocket science retailing. You can’t make good decisions if you don’t have good data”
+
+[Slide 144]
+
+DATA INTEGRITY
+
+[Slide 145]
+
+Store Processes
+
+Customer Focus / Product Innovation / Positive Attitude / Teamwork & Leadership
+
+Store Reports
+
+Run Daily
+
+Outstanding Orders (EDI, Manual and DC/Store Transfers)
+
+Negative Stock on Hand (CSO’s and Integrity Issues)
+
+Aged Stock listing (currently Bedlinen, next Home Decor)
+
+SOH Report on Request by Store/Area/Regional, function as rolling count
+
+By Product
+
+By Department
+
+By Supplier
+
+Store encouraged to adjust inventory levels via Stock Adjustment forms where issues are identified.
+
+[Slide 146]
+
+Store Reports
+
+[Slide 147]
+
+Store Reports
+
+[Slide 148]
+
+Store Reports
+
+[Slide 149]
+
+Stocktake Process
+
+Customer Focus / Product Innovation / Positive Attitude / Teamwork & Leadership
+
+Each store once per year
+
+Result measured in Absolute Retail $ - data integrity v shrink
+
+Result calculated as Absolute Retail Variance / MAT Sales
+
+Company Benchmark = 3%
+
+Current Financial Year - 36 Stores - 3.17%
+
+Same Period Last Year - 34 Stores - 4.89%
+
+Incentives paid for good performance with poor performance resulting in additional stocktake requirements during the year.
+
+[Slide 150]
+
+Stocktake Reports
+
+[Slide 151]
+
+Stocktake Reports
+
+[Slide 152]
+
+Other Data Integrity Processes
+
+Customer Focus / Product Innovation / Positive Attitude / Teamwork & Leadership
+
+Area / regional Manager to sign off on No Commercial Value (NCV) inventory in stores.
+
+Weekly regional Conference Call has data integrity as an agenda item for any data integrity issues identified at stores.
+
+Monthly Reports
+
+Shrinkage Reporting (Stocktake, NCV and adjustments)
+
+National / Region / Area
+
+DC Weekly Rolling Counts
+
+Online Weekly Counts of low quantity skus
+
+[Slide 153]
+
+Data Integrity Issues
+
+Customer Focus / Product Innovation / Positive Attitude / Teamwork & Leadership
+
+Previous Data Integrity Issues
+
+Shrinkage reporting
+
+Lack of training / understanding of data integrity
+
+No ownership of data integrity
+
+Christmas Product
+
+Outstanding Data Integrity Issues

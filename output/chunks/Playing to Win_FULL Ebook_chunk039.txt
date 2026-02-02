@@ -1,0 +1,188 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: New Product Development for Emerging Markets
+SUMMARY: Gillette team travels to India to understand local consumer needs and design a new razor tailored to the Indian market.
+KEYWORDS: product innovation, emerging markets, consumer research
+---
+
+design-from-scratch innovation for emerging markets, with a
+
+focus, in this case, on India. The group included, he says, “scien-
+
+tists from the Reading Technical Centre in the UK, our upstream
+
+innovation lab outside of London, scientists from Boston, market-
+
+ing people, and market-research people, all together for a three-
+
+day session to start mapping out the work.”
+
+Bergh’s direction to the team was simple: “The first thing
+
+I want you to do is to spend two weeks in India. I want you to
+
+live with these consumers. I want you to go into their homes. You
+
+need to understand how they shave and how shaving fits into their
+
+lives.” One of Gillette’s senior scientists, a research fellow from the
+
+Reading lab, was, according to Bergh, both highly respected and
+
+conceptually brilliant. Bergh says the scientist wasn’t convinced:
+
+“He raised his hand, kind of sheepishly, and said, ‘Chip, why do
+
+we have to go to India? We have a lot of Indian men who live right
+
+outside of our door in Reading. Why can’t we just recruit them?’”
+
+Why indeed? Yet Bergh was convinced that going to India was
+
+the right things to do. His experiences told him it would be neces-
+
+sary to engage with real Indian consumers on the ground in the
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch05.indd 109 11/7/12 1:18 AM
+
+110 Playing to Win
+
+actual Indian market. So he sent the team to India. He was grati-
+
+fied by the result: the same scientist sought him out a few months
+
+later during an innovation review. Bergh recalls the man’s words:
+
+“‘Now I completely get it,’ he said, ‘You can look at pictures in
+
+the books, you can hear the stories, but it’s not until you’re there
+
+[that you understand]. I spent three days with this one guy, shop-
+
+ping with him, going to the barber shop with him, watching him
+
+shave. Now I really understand the company’s statement of pur-
+
+pose about improving consumers’ lives . . . I was so motivated and
+
+so inspired, I designed the first razor on a napkin flying back to
+
+London.” The man, Bergh says, had tears in his eyes as he told the
+
+story.
+
+Only in India did the scientist really begin to understand the
+
+needs of the Indian consumer. He learned what he could not learn
+
+inside his lab or from consumer testing outside London. Typically,
+
+razors are designed and tested with the assumption that everyone
+
+shaves as people do in the West, with reliable access to a large sink
+
+and running hot water. In India, the team members saw that this
+
+simply wasn’t true. Many of the men they met shaved with only
+
+a small cup of cold water. Without hot running water to clean the
+
+razor, small hairs tend to clog the blade, making shaving far more
+
+difficult. Gillette’s new product would take that unique challenge
+
+into account. It would be a new kind of razor, custom-built to
+
+meet the needs of consumers in India. The Gillette Guard razor,
+
+as it came to be called (and which bore a close resemblance to the
+
+one first sketched on that napkin), has a single-blade system with
+
+a safety comb designed to prevent nicks and an easy-rinse car-
+
+tridge.5 The razor costs 15 rupees, or $0.34, and uses blades that
+
+cost 5 rupees, or $0.11, to replace.6 By contrast, the top-end Gil-
+
+lette Fusion Pro-Glide is sold for $10.99 in the United States,
+
+with replacement blade cartridges at about $3 each.7 Within three
+
+months, the Guard was the best-selling razor in India, winning
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch05.indd 110 11/7/12 1:18 AM
+
+Play to Your Strengths 111
+
+through a set of capabilities in innovation and consumer under-
+
+standing that had to be cultivated, rather than left to chance. By
+
+engaging directly with the Indian consumer, by treating that con-
+
+sumer as the boss, the Gillette team was able to understand what he
+
+values and what he experiences.
+
+For chief information officer Passerini, the capabilities required to
+
+make the Gillette acquisition a success looked a little different. For
+
+him and his team, the whole undertaking was in large part a sys-
+
+tems-integration challenge. They had to integrate two massive busi-
+
+nesses, with two very different IT systems, without missing a beat.
+
+“We integrated Gillette in fifteen months,” he says, with just a hint
+
+of pride in his voice. “That was worth $4 million per day, doing it in
+
+fifteen months instead of doing it in the usual three to four years.”8
+
+The accomplishment required that Passerini apply P&G’s capabili-
+
+ties to his own IT infrastructures—thinking about scale and innova-
+
+tion in a new way. Passerini set about innovating his team structures,
+
+his partnership models, indeed his whole business, to take advantage
+
+of scale rather than be trapped by it. He created a flow-to-the-work
+
+model whereby most of his organization had project-based rather
+
+than permanent assignments. This structure enabled his massive IT
+
+team to be nimble and innovative, efficient and effective. The team
+
+members had the skills needed to integrate the systems; Passerini
+
+created a structure that supported them in doing so.
+
+In determining whether to make the acquisition, we thought
+
+long and hard about how Gillette’s strategy would fit with P&G’s.
+
+We wanted to determine whether there could be a real strategy
+
+for the combined business, a clear plan to win. We saw cultural
+
+compatibility between the two companies: they shared the same
+
+aspirations to win and core values. We also believed that P&G and
+
+Gillette could work productively together and that the business
+
+and external work systems could be fully integrated in a relatively
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact

@@ -1,0 +1,162 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Transformation in Retail
+SUMMARY: The text discusses how digital technologies like Moore's Law have disrupted the media and publishing industry, and how a similar transformation is now underway in the retail sector.
+KEYWORDS: digital transformation, retail disruption, technology impact, business models, consumer behavior
+---
+
+Law disrupts business models, businesses, and entire industries. In the media and publishing industry,
+
+the computing performance delivered by Moore’s Law was enough to trigger a series of powerful
+
+breakthroughs that remade the entire industry, from production to distribution to consumption.
+
+It started with media production. Steady advances in computing capability displaced typesetters in the
+
+1980’s with desktop publishing. The impact of Moore’s Law then quickly spread to video editing, special
+
+effects and computer animation (known as CGI) in the 1990’s. Increasing bandwidth and an
+
+exponentially growing Internet remade media distribution in the 2000’s. And now nearly all media
+
+production, distribution and consumption is transacted digitally.
+
+Today, a five year old kid with a smartphone has the kind of production and distribution capabilities at
+
+their disposal that a 1980’s media mogul would have envied. Moore’s Law has delivered an entire TV
+
+production and broadcast facility in your pocket. Anyone with a digital device can shoot, edit, and
+
+distribute high definition video content to every corner of the planet. In seconds.
+
+Not only has this empowered everyone with new, exciting ways to communicate their ideas and their
+
+passions, but it has also challenged existing forces in a giant industry sector. It has changed consumer
+
+habits and expectations. It has removed middle men. It has obsoleted skills. It’s created new young
+
+media stars that are able to make a small fortune literally creating content in their bedrooms. And it’s
+
+made some people and companies irrelevant.
+
+Disruption is not fun when you’re being disrupted.
+
+15
+
+There are interesting parallels between the media and retail sectors. Both involve production,
+
+distribution, and consumption. So what can we learn from the impact of Moore’s Law in media?
+
+3.2 RETAIL IS NEXT: MOORE’S LAW AND THE 2ND ERA OF DIGITAL RETAIL
+
+Retail has already been touched by the digital revolution. Digitization has given us inventory systems
+
+and supply chain management tools that optimized the relationship between manufacturers and
+
+retailers. Digital point of sale terminals now speed financial transactions. And every retailer has at least
+
+some online or e-commerce presence.
+
+But retail now faces a second wave of digitization. And that second wave has already begun. This wave
+
+will see a full-scale digitization of the face, bones, and brains of retail.
+
+If the first era of digitization was characterized by supply chain management, inventory, and payment
+
+systems, the second era of digital retail will be shaped by sensors, data analytics, robotics, natural
+
+interfaces, and computing ubiquity. These will be used to improve the shopping experience by making it
+
+more personal, more efficient, and more fun for consumers. This same technology will be used to
+
+continually improve the operational efficiency of retail, to enable new business models, to maximize
+
+revenue, and to speed fulfillment and delivery.
+
+The exponential computing capabilities brought by Moore’s Law in the coming decade will enable a total
+
+remake of the face of retail—the front of house experience that shoppers see and feel. Digital
+
+technology will also change the bones behind that new face—including technology to deliver mass
+
+customization, and to deliver products to shoppers in mere minutes.
+
+16
+
+In the coming decade, computing power will be available at price points that will enable the total
+
+transformation of every element of retail. This is because Moore’s Law doesn’t just give you double the
+
+computing capability every few years. It can also be used to deliver the same computing capability at
+
+half the price, and half the power consumption. And that computing capability can be packaged inside
+
+smaller and smaller spaces and places. It is this parallel ability of Moore’s Law to simultaneously make
+
+computing intelligence more powerful, more affordable, and more compact that will disrupt retail in the
+
+next decade.
+
+3.3 MOORE’S LAW MAKES RETAIL SMART
+
+Smart products will be sold in smart stores bristling with smart infrastructure. A plethora of sensors will
+
+gather data on shoppers. This will enable retailers and manufacturers to delight shoppers with fully
+
+customized shopping experiences and to shape investment decisions based on a deep understanding of
+
+the customer.
+
+Natural computing, powered by computers that can see, hear and understand the world around them,
+
+will enable brands and retailers to hold new types of interactions with shoppers, and tell stories in new
+
+ways. Wearable computing will help shop assistants to deliver much better customer service.
+
+Drones and automated vehicles will speed delivery and boost convenience for impulse shopping. In-
+
+store automation will improve customer service by freeing up more customer-facing labor; labor that
+
+can enable human touch connections in bricks and mortar stores in a way that cannot be replicated
+
+online.
+
+Finally, huge computers will process vast amounts of data to generate both operational insight and also
+
+detailed insights into individual shopper behavior. From this retailers and manufacturers will be able to
+
+17
+
+drive operational excellence, deliver increasingly improved service, and provide new personalized
+
+experiences to shoppers.
+
+The second era of digital retail is already in well underway. According to IDC, fully 10% of all IoT
+
+(Internet of things) investment in 2013 was made in the retail sector. And by 2017 they estimate that
+
+annual IoT investment by retailers will exceed $466 million. That’s a lot of sensors and smart
+
+infrastructure being deployed in retail around the globe.
+
+Current consumer desires in retail are way ahead of what retailers can deliver. But Moore’s Law is
+
+coming to the rescue to help retailers close the gap.
+
+Retailers should prepare themselves for as much innovation and disruption in their sector within the
+
+next decade as media and publishing endured in the last three.
+
+Such is the power of exponential change.
+
+So brace yourselves. The second wave of digital retail is already upon us.
+
+18
+
+4 RETAIL SECTOR - TRENDS AND CHALLENGES
+
+Retail sales represent about 18% of the US GDP, equivalent to $3 trillion in 2013, and rising to $4.1
+
+trillion by 2020. At the same time, consumer spending patterns are shifting and their dollars are now
+
+being attracted to other sectors—to healthcare, to services, and to other non-retail household spending.

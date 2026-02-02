@@ -1,0 +1,164 @@
+SOURCE: Solve the Succession Crisis by Creating Inside-Outside Leaders (HBR).pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.02 HFT - Succession Planning
+TOPIC: Succession Planning
+SUMMARY: This article examines the importance of CEO succession planning, the strengths and weaknesses of insider and outsider CEOs, and the need for 'inside-outside' leaders to drive sustained company performance.
+KEYWORDS: CEO succession, insider leaders, outsider leaders, succession planning, company performance
+---
+
+Solve the Succession Crisis by
+
+Growing Inside-Outside
+
+Leaders
+
+By Joseph. L. Bower
+
+FROM THE NOVEMBER 2007 ISSUE
+
+I was appalled to learn recently that 60% of the respondents to a poll of 1,380 HR directors of
+
+large U.S. companies said their firms have no CEO succession plans in place. As this finding
+
+suggests, too many companies have over the past two decades ignored the hard work of building
+
+future leaders while senior executives have focused increasingly on meeting the next quarter’s
+
+earnings target. When the time comes to name a new CEO, more firms look outside. Yet strong
+
+evidence supports the notion that a well-groomed insider is a key to sustained company
+
+performance. In my analysis of 1,800 successions, for instance, I found that company
+
+performance was significantly better when insiders succeeded to the job of CEO. Other
+
+researchers, including Jim Collins in Good to Great, have come to similar conclusions working
+
+from different data sets.
+
+Such quantitative research on CEO succession confirms but does not explain why more
+
+outsiders are being hired, why qualified insider leadership correlates with better company
+
+performance, or what relationship exists between those two trends. These ambiguities have
+
+prompted me to consider what I could add to the data-centered research from a qualitative
+
+review of a decade of my own and others’ case studies and interviews, as well as from my
+
+experience managing successions as an outside director. That review made one thing
+
+unambiguously clear to me: A critical difference between companies that manage succession well
+
+and those that don’t is the understanding that succession is a process, not an event. The process
+
+begins years before the event. Something else was clear: Both insider and outsider CEOs have
+
+strengths and weaknesses when they begin. Insiders know the company and its people but are
+
+often blind to the need for radical change—they’ve drunk the Kool-Aid. Outsiders see the need
+
+for a new approach but can’t foster change because they don’t know the company or industry
+
+sector well enough. What organizations need, then, is to find a way to nurture what I call inside-
+
+outsiders—that is, internal candidates who have outside perspective. For some companies, that
+
+may look like mission impossible. But the succession crisis will only get worse if companies don’t
+
+tackle the problem.
+
+The CEO Does Matter
+
+Recently, there’s been a reaction against focusing too much on the CEO—with some
+
+justification. Top teams, as much as CEOs themselves, are crucial to the execution of a great
+
+strategy. Nonetheless, strong CEOs are worth studying. They wield enormous power. And as
+
+stewards of the corporate purpose, their ability to make sense of the business environment and
+
+to craft and articulate the mission and the strategy are central to long-term success.
+
+Nothing illustrates the point better than the last 35 years of succession at General Electric.
+
+Reginald Jones took the helm at GE in 1972. He developed the strategic-planning system he
+
+inherited from his predecessors into the model for companies everywhere. He made huge
+
+changes in GE’s portfolio, exiting the computer business and acquiring the giant inflation hedge,
+
+Utah International. Jones’s GE regularly outperformed the U.S. GDP by more than 25%.
+
+Recognizing the dawn of a very different environment in 1981, successor Jack Welch proceeded
+
+in two or three years to dismantle much of the planning and organizational structure Jones had
+
+1
+
+put in place. Welch sold Utah, acquired RCA, and built a huge financial services business. Entire
+
+levels of middle management and staff disappeared. In the second decade of his tenure, GE’s
+
+market capitalization grew more than 1,000%. Welch’s successor, Jeff Immelt, is changing GE
+
+once again. He is making major investments in biosciences, water, security, and platforms for
+
+infrastructure growth in emerging countries. The stock market is giving him the same cool
+
+reception it gave Welch in his first decade, but GE is growing both revenues and profits as it
+
+changes.
+
+What GE’s CEOs exemplify is the ability to perform four seemingly contradictory tasks (a near-
+
+impossible quadrafecta):
+
+ Produce good short-term performance regardless of how the markets and competitors
+
+buffet the company they’ve inherited.
+
+ Deploy resources so that organizational capabilities improve in the medium term.
+
+ Align the talents and energies of hundreds of thousands of employees with clear strategic
+
+objectives.
+
+ Develop and modify those objectives over the long term so that strategy adjusts to the
+
+changing business environment.
+
+This is a feat that simply cannot be done by a team. It can be pulled off only by an individual
+
+with a clear vision.
+
+The job is inherently difficult—and becoming more so. CEO turnover is on the rise globally, and
+
+studies show that the proportion that can be traced to inadequate performance is steadily
+
+trending upward. Why should the job be harder now than in the past? I see two reasons. First,
+
+arguably, market conditions are making the task of getting good results harder.
+
+Hypercompetition, changing technology, and a raft of emerging players from every corner of the
+
+globe are pressuring companies to keep changing their game, and a lot of firms are just not doing
+
+it very well. When I took a look at the performance of U.S. firms over the last five years and
+
+discounted the top two firms from any industry, the rest, on average, failed to earn their cost of
+
+capital. Second, owner expectations have changed radically. In a world where markets are
+
+growing 5% annually, the stock market is looking for 15% returns. Institutions count for an
+
+increasing share of ownership, and their holding period is getting shorter—under a year is now
+
+typical. These are not owners so much as speculators in for the short ride.
+
+Outsiders, Insiders, and Hybrids
+
+When company performance disappoints, boards of directors tend to seek a white knight from
+
+the outside to come in and change everything. Most of the time, the only way to change things
+
+fast is to cut costs—which is exactly what someone unfamiliar with the specifics of an industry

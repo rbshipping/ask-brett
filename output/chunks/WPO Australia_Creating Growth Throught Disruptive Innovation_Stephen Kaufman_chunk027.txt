@@ -1,0 +1,176 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Modular Design and Industry Structure
+SUMMARY: The text discusses how modularity enables independent organizations to sell, buy, and assemble components, disrupting integrated leaders with lower overhead costs.
+KEYWORDS: modularity, industry structure, disruption, integrated leaders, nonintegrated competitors
+---
+
+performance, firms have the slack to trade away some performance with these customers because
+
+functionality is more than good enough.
+
+Modularity has a profound impact on industry structure because it enables independent,
+
+nonintegrated organizations to sell, buy, and assemble components and subsystems.® Whereas in
+
+the interdependent world you had to make all of the key elements of the system in order to make
+
+any of them, in a modular world you can prosper by outsourcing or by supplying just one
+
+element. Ultimately, the specifications for modular interfaces will coalesce as industry standards.
+
+When that happens, companies can mix and match components from best-of-breed suppliers in
+
+order to respond conveniently to the specific needs of individual customers.
+
+As depicted in figure 4-1, these nonintegrated competitors disrupt the integrated leader.
+
+Although we have drawn this diagram in two dimensions for simplicity, technically speaking
+
+they are hybrid disruptors because they compete with a modified metric of performance on the
+
+vertical axis of the disruption diagram, in that they strive to deliver rapidly exactly what each
+
+customer needs. Yet, because their nonintegrated structure gives them lower overhead costs, they
+
+can profitably pick off low-end customers with discount prices.
+
+From Interdependent to Modular Design—and Back
+
+The progression from integration to modularization plays itself out over and over as
+
+products improve enough to overshoot customers’ requirements.” When wave after wave of
+
+sequential disruptions sweep through an industry, this progression repeats itself within each
+
+wave. In the original mainframe value network of the computer industry, for example, IBM
+
+enjoyed unquestioned dominance in the first decade with its interdependent architectures and
+
+vertical integration. In 1964, however, it responded to cost, complexity, and time-to-market
+
+pressure by creating a more modular design starting with its System 360. Modularization forced
+
+IBM to back away from the frontier of functionality, shifting from the left to the right trajectory
+
+of performance improvement in figure 4-1. This created space at the high end for competitors
+
+4.5
+
+such as Control Data and Cray Research, whose interdependent architectures continued to push
+
+the bleeding edge of what was possible.
+
+Opening its architecture was not a mistake for IBM: The economics of competition
+
+forced it to take these steps.!° Indeed, modularity reduced development and production costs and
+
+enabled IBM to custom-configure systems for each customer. This created a major new wave of
+
+growth in the industry. Another effect of modularization, however, was that nonintegrated
+
+companies could begin to compete effectively. A population of nonintegrated suppliers of plug-
+
+compatible components and subsystems such as disk drives, printers, and data input devices
+
+enjoyed lower overhead costs and began disrupting IBM en masse.
+
+This cycle repeated itself when minicomputers began their new-market disruption of
+
+mainframes. Digital Equipment Corporation initially dominated that industry with its proprietary
+
+architecture when minicomputers really weren’t very good, because its hardware and operating
+
+system software were interdependently designed to maximize performance. As functionality
+
+subsequently approached adequacy, however, other competitors such as Data General, Wang
+
+Laboratories, and Prime Computer that were far less integrated but much faster to market began
+
+taking significant share.'' As happened in mainframes, the minicomputer market boomed
+
+because of the better and less-expensive products that this intensified competition created.
+
+The same sequence occurred in the personal computer wave of disruption. During the
+
+early years, Apple Computer—the most integrated company with a proprietary architecture—
+
+made by far the best desktop computers. They were easier to use and crashed much less often
+
+than computers of modular construction. Ultimately, when the functionality of desktop machines
+
+became good enough, IBM’s modular, open-standard architecture became dominant. Apple’s
+
+proprietary architecture, which in the not-good-enough circumstance was a competitive strength,
+
+became a competitive liability in the more-than-good-enough circumstance. Apple as a
+
+consequence was relegated to niche-player status as the growth explosion in personal computers
+
+was captured by the nonintegrated providers of modular machines.
+
+The same transition will have occurred before long in the next two waves of disruptive
+
+computer products ~ notebook computers and hand-held wireless devices. The companies that
+
+are most successful in the beginning are those with optimized, interdependent architectures.
+
+Companies whose strategy is prematurely modular will struggle to be performance-competitive
+
+during the very years when performance is the basis of competition. Later, architectures and
+
+industry structures will evolve toward openness and disintegration.
+
+Figure 4-2 summarizes these transitions in the personal computer industry in a simplified
+
+way, showing how the proprietary systems and vertically integrated company that was strongest
+
+during the industry’s initial not-good-enough years gave way to a nonintegrated, horizontally
+
+stratified population of companies in its later years. It almost looks like the industry got pushed
+
+through a baloney slicer. The chart would look similar for each of the value networks in the
+
+industry. In each instance, the driver of modularization and disintegration was not the passage of
+
+time or the “maturation” of the industry per se.'? What drives this process is this predictable
+
+causal sequence:
+
+1. The pace of technological improvement outstrips the ability of customers to utilize
+
+it, so that a product’s functionality and reliability that were not good enough at one
+
+point overshoot what customers can utilize at a later point.
+
+2. This forces companies to compete differently: The basis of competition changes. As
+
+customers become less and less willing to reward further improvements in
+
+functionality and reliability with premium prices, those suppliers that get better and
+
+better at conveniently giving customers exactly what they want when they need it
+
+are able to earn attractive margins.
+
+3. As competitive pressures force companies to be as fast and responsive as possible,
+
+they solve this problem by evolving the architecture of their products from being
+
+proprietary and interdependent toward being modular.
+
+4. Modularity enables the dis-integration of the industry. A population of
+
+nonintegrated firms can now outcompete the integrated firms that had dominated
+
+the industry. Whereas integration at one point was a competitive necessity, it later
+
+becomes a competitive disadvantage.!?
+
+Figure 4.2
+
+Impact of Modular Architectures on the Degree of Integration in the Computer Industry
+
+Materials
+
+Components

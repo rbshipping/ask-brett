@@ -1,0 +1,419 @@
+SOURCE: BBRC - Eight Ways - Pentagon & Triangle.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Strategy and Operations
+SUMMARY: This presentation outlines eight key strategies for building competitive advantage in retailing, covering areas like place, product, value, people, communication, systems, logistics, and suppliers.
+KEYWORDS: retail strategy, competitive advantage, operations management, supply chain, customer experience
+---
+
+[Document: BBRC - Eight Ways - Pentagon & Triangle.pptx]
+[Presentation Topic: Retail Competitive Advantage]
+
+[Slide 1]
+
+BUILDING COMPETITIVE ADVANTAGE IN RETAILINGThe Eight Ways to Win!Lawrence J. Ring, Chancellor Professor&John S. Strong, CSX Professor of Finance & EconomicsMason School of BusinessThe College of William and Mary, Williamsburg, Virginia USAjohn.strong@mason.wm.edu   (1)757-221-2864
+
+[Slide 2]
+
+The Eight Ways To Win In Retailing
+
+The Pentagon & The Triangle
+
+PLACE
+
+PRODUCT
+
+COMMUNICATION
+
+PEOPLE
+
+VALUE
+
+SYSTEMS
+
+LOGISTICS
+
+SUPPLIERS
+
+[Slide 3]
+
+Five Key Questionsfor Each Pentagon Corner
+
+Do we win?
+
+By how much?  (a little or a lot?)
+
+Is it getting better or worse? (direction)
+
+Does anybody care?
+
+Is it sustainable?
+
+[Slide 4]
+
+Location
+
+Size
+
+PLACE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+[Slide 5]
+
+Notion of Inside Vs. Outside Draw
+
+3 miles
+
+6 miles
+
+9 miles
+
+UPD = 1,000 persons/sq.m.
+
+[Slide 6]
+
+Location
+
+Size
+
+Layout & Design
+
+PLACE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+[Slide 7]
+
+PRODUCT
+
+Assortment
+
+Intensity
+
+PLACE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+[Slide 8]
+
+Inventory/Sq Ft
+
+Sales/Sq Ft
+
+Merchandise Intensity and Sales
+
+[Slide 9]
+
+A Strategic Approach to Inventory Management
+
+Old Game
+
+New Games
+
+[Slide 10]
+
+Intensity
+
+PRODUCT
+
+Style & Fashion
+
+Assortment
+
+PLACE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+[Slide 11]
+
+Fashion versus Value
+
+[Slide 12]
+
+VALUE
+
+Quality
+
+Price
+
+PRODUCT
+
+PLACE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+EDLP v Hi Lo
+
+[Slide 13]
+
+Price x Quality = Value
+
+[Slide 14]
+
+PEOPLE
+
+Service
+
+Climate
+
+Knowledge
+
+PRODUCT
+
+PLACE
+
+VALUE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+[Slide 15]
+
+Promotional
+
+COMMUNICATION
+
+Positional
+
+PRODUCT
+
+VALUE
+
+PLACE
+
+PEOPLE
+
+Pentagon
+
+Concepts
+
+8 Ways 2 Win
+
+Brand
+
+[Slide 16]
+
+SYSTEMS
+
+LOGISTICS
+
+SUPPLIERS
+
+Provide the mechanisms for controlling flows and operations ... Essential for managing
+
+categories item by item, store by store, market by market.
+
+Physical movement of goods from vendors to stores ... A major frontier for improving asset management and reducing costs throughout the channels of distribution.
+
+Partners in marketing and distribution ... Effectiveness of the relationships determine both the rate and cost of sale, and  the ability to implement some of the key triangle activities.
+
+Triangle
+
+Concepts
+
+8 Ways 2 Win
+
+[Slide 17]
+
+EDI Software [Electronic Data Interchange]
+
+UPC/Barcode [Universal Product Code]
+
+CL [Carton Labelling]
+
+PSS [Planogram Software System]
+
+Programmed Supply Relationships
+
+Information Sharing
+
+Perpetual Inventory and VMI
+
+ECR [Efficient Consumer Response]
+
+CPFR [Collaborative Planning, Forecasting, and Replenishment]
+
+RFID
+
+JIT and LTO
+
+Front-End Scanning
+
+Labor Scheduling Systems
+
+Workforce Optimization
+
+Electronic Shelf Stickers
+
+Automated Warehouse/DC
+
+Self-Scanning and Checkout
+
+Automated Picking Lines
+
+Store Security Systems
+
+Environmental Controls
+
+Replacement of Labor
+
+by Technology
+
+Quick Response and
+
+Automatic Replenishment
+
+Merchandising and
+
+Space Management
+
+Triangle
+
+Activities
+
+SKU Data Capture
+
+DPP [Direct Product Profitability]
+
+Rapid Intensification and Delisting
+
+Modularization in Store Design
+
+Price Optimization Software
+
+Greening of the Supply Chain
+
+Global is here to stay
+
+RFID Continues to Grow
+
+Focus on Risk Management
+
+Supply Chain Vendor Consolidation
+
+Voice Technology in Distribution Grows
+
+Supply Chain and Logistics
+
+[Slide 18]
+
+Object Oriented Technologies
+
+Wireless Technologies
+
+RF ID [EAS & Multi-Bit]
+
+Produce Identification
+
+New Triangle
+
+Technologies
+
+Open Systems
+
+Rapid Technological Advances
+
+Niche Vendors
+
+Mergers & Acquisitions
+
+Outside Data
+
+Data Manipulation Technology
+
+Data Base Management Systems
+
+On-Line Transaction Processing
+
+Decision Support Systems [Inventory Flow]
+
+Knowledge Processing [Promotions]
+
+Client Server
+
+End User Empowerment
+
+GUI [Graphical User Interfaces]
+
+Walk Up & Use
+
+Touch Screen
+
+Multimedia
+
+Interactive Training [scheduled &JIT]
+
+Customer Self-Service Sales/Marketing Kiosks
+
+Services Delivered To The Home
+
+[Slide 19]
+
+Location
+
+Size
+
+Layout & Design
+
+Style & Fashion
+
+PRODUCT
+
+Assortment
+
+Intensity
+
+VALUE
+
+Quality
+
+Price
+
+PEOPLE
+
+Service
+
+Climate
+
+Promotional
+
+Knowledge
+
+COMMUNICATION
+
+Positional
+
+SYSTEMS
+
+LOGISTICS
+
+SUPPLIERS
+
+PLACE
+
+The Eight Ways To Win In Retailing
+
+The Pentagon & The Triangle

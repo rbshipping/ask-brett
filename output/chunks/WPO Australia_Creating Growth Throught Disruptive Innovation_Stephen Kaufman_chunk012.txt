@@ -1,0 +1,170 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Product Innovation and Disruption
+SUMMARY: The text discusses how disruptive innovations in various industries, such as power tools, plastics, financial data and news, beef processing, and photocopiers, transformed their respective markets.
+KEYWORDS: disruptive innovation, product development, market disruption, technological change, industry transformation
+---
+
+Prior to 1960, hand-held electric tools were heavy and rugged, designed for professionals ~ and very
+
+expensive. B&D introduced a line of plastic-encased tools with universal motors that would only last 25-30
+
+hours of operation ~ which actually was more than adequate for most do-it-yourselfers who drill a few holes
+
+per month. In today’s dollars, B&D brought the cost of these tools down from $150 to $20, enabling a whole
+
+new population to own and use their own tools.
+
+Blended Plastics
+
+Bloomberg LP
+
+These blends of inexpensive polyolefin plastics like polypropylene, sold by firms like Himont, create
+
+composite materials that in many ways share the best properties of their constituent materials. They are
+
+getting better at a stunning rate, disrupting markets that historically had been the province of engineering
+
+polycarbonate plastics made by firms like GE Plastics.
+
+Bloomberg began by providing basic financial data to investment analysts and brokers. It gradually has
+
+improved its data offerings and analysis, and subsequently moved into the financial news business. It has
+
+substantially disrupted Dow Jones and Reuters as a result. More recently it has created its own ECN to
+
+disrupt stock exchanges. Issuers of government securities can auction their initial offerings over the
+
+Bloomberg system, disrupting investment banks,
+
+Boxed beef
+
+The “boxed beef” model of lowa Beef Packers completed the disruption of local butchering operations.
+
+Instead of shipping large sides of beef to local meat cutters for further cutting, IBP cut the beef into finished
+
+1-19
+
+or nearly finished cuts, for placement directly in supermarket cases.
+
+y cuts, Tor pe y ip
+
+Canon
+
+photocopiers
+
+Until the early 1980s when we needed photocopiers, we had to take our originals to the corporate photocopy
+
+center, where a technician ran the job for us. He /ad to be a technician, because the high-speed Xerox
+
+machine in there was very complicated, and needed servicing frequently. When Canon and Ricoh introduced
+
+their countertop photocopiers, they were slow, produced poor-resolution copies, and didn’t enlarge or reduce
+
+or collate. But they were so inexpensive and simple to use that we could afford to put one right around the
+
+corner from our office. At the beginning we still took our high-volume jobs to the copy center. But little by
+
+little Canon improved its machines to the point that today, immediate, convenient access to high-quality, full-
+
+featured copying is almost a constitutional right in most workplaces.
+
+Catalog retailing
+
+Sears, Roebuck and Montgomery Ward took root as catalog retailers - enabling people in rural America to
+
+buy things that historically had not been accessible, Their business model, entailing annual inventory turns
+
+of 4x and gross margins of 30%, was disruptive relative to the model of full-service department stores, which
+
+relied upon 40% gross margins because they turned inventories only 3x annually. Sears and Wards later
+
+moved up-market, building retail stores.
+
+colleges
+
+Concord School
+
+of Law
+
+Charles Schwab | Started in 1975 as one of the first discount brokers. In the late 1990s Schwab created a separate organization
+
+to build an on-line trading business. It was so successful that the company shut down its original
+
+organization of telephone brokers.
+
+Circuit City, Disrupted the consumer electronics departments of full-service and discount department stores, which has
+
+Best Buy sent them up-market into higher-margin clothing.
+
+Cisco Cisco’s router uses packet-switching technology to direct the flow of information over the
+
+telecommunications system, compared to the circuit-switching technology of the established industry leaders
+
+such as Lucent, Siemens and Nortel. The technology divides information into virtual “envelopes” called
+
+packets, and sends them out over the Internet. Each packet might take a different route to the addressed
+
+destination; and when they arrive, the packets are put in the right order and “opened” for the recipient to sec.
+
+Because this process entailed a few seconds’ latency delay, packet switching could not be used for voice
+
+telecommunications. But it was good enough to enable a new market to emerge — data networks, The
+
+technology has improved to the point that today, the latency delay of a packet-switched voice call is almost
+
+imperceptibly slower than that of a circuit-switched call ~ enabling VOIP, or voice-over-Internet-protocol
+
+telephony.
+
+Community In some states, up to 80% of the graduates of reputable four-year state universities took some or all of their
+
+required general education courses at much less expensive community colleges, and then transferred those
+
+credits to the university - which (unconsciously) is becoming a provider of upper-division courses. Some
+
+community colleges have begun offering four-year degrees. Their enrollment is booming, often with non-
+
+traditional students who otherwise would not have taken these courses.
+
+Founded by Kaplan, a unit of the Washington Post Company, this on-line law school has attracted a host of
+
+(primarily) non-traditional students. The school’s accreditation allows its graduates to take the California Bar
+
+exam, and its graduates’ success rate is comparable to those of many other law schools. Many of its students
+
+don’t enroll to become lawyers, however. They want to understand law to help them succeed in other
+
+careers.
+
+Credit scoring
+
+A formulaic method of determining creditworthiness, substituting for the subjective judgments of bank loan
+
+officers. Developed by a Minneapolis firm, Fair Isaac. Used initially to extend Sears and Penny’s in-store
+
+credit cards. As the technology improved, it was used for general credit cards, and then auto, mortgage and
+
+now small business loans.
+
+Dell Computer
+
+Department
+
+Stores
+
+supplies most of the Harvard Business School’s computers.
+
+Dell’s direct-to customer retailing model and its fast-throughput, high asset-turns manufacturing model
+
+allowed it to come underneath Compaq, IBM and Hewlett Packard as a low-end disruptor in personal
+
+computers. Clayton Christensen, the quintessential low-end consumer, wrote his doctoral thesis on a Dell
+
+notebook computer purchased in 1989, because it was the cheapest portable computer on the market.
+
+Because of Dell’s reputation for marginal quality, students needed special permission from Harvard to use
+
+doctoral stipend money to buy a Dell rather than a computer with a more reputable brand. Today Dell
+
+Department stores like Z.C.M.I. in Salt Lake City, Marshall Field in Chicago, and R.H. Macy in New York,

@@ -1,0 +1,162 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Pricing Strategy
+SUMMARY: The text discusses various pricing strategies, including customized pricing, servicizing products, and bundling/unbundling, to increase customer value and profit.
+KEYWORDS: Pricing, Customization, Servicizing, Bundling
+---
+
+machine. This enabled it to charge per copy thus “customizing” the price to each individual
+
+customer. The customer paid based on a measure of the individual customer value created by their
+
+machine. This also enabled Xerox to offer volume discounts to larger users.
+
+Another example occurred early in the history of advertising. Rather than charge based on
+
+time and materials as a consultant would, early advertising agencies at the turn of the century charged
+
+customers a “commission” of 15% of the media buy. As mass marketing, national media, TV and
+
+radio, and huge advertising programs interacted with one another, budgets soared and agency
+
+commissions followed in linear progression. The whole industry would have been vastly different if
+
+the initial pricing had been viewed in a “consulting mentality” instead of a “‘sales commission”
+
+approach.
+
+9-999-003 Precision Pricing for Profit in the New World Order
+
+All too often companies implicitly “price by-the-pound” applying a cost-plus pricing
+
+mentality instead of something more creative. By-the-pound is easy and simple, but often doesn’t
+
+relate to value. It only relates to cost.
+
+Recasting Products and Services
+
+Another step toward more creative pricing is to think of opportunities to either “servicize” a
+
+product, or to “productize” a service. Many years ago IBM did a wonderful job of selling large batch
+
+processing business computers to large companies. At the time, small companies found it hard to buy
+
+computers so IBM established the Service Bureau to provide primarily smaller companies with turn-
+
+key support. This “sell-it-by-the-slice” approach opened a new market. Automobile leasing is
+
+another fine example of making a product into a service.
+
+Of course, one can productize a service as well. For example, an accounting firm could
+
+provide accounting software to replace expensive professional time. “Do it yourself” wills are a good
+
+legal example.
+
+Often companies that supply a product are different from those that supply the competing
+
+service because the product requires different development, delivery, and marketing skills. But, the
+
+service and product meet the same needs for the customer and are thus quite competitive. It is useful
+
+for companies to expand their view to include such servicizing and productizing opportunities and
+
+risks for both pricing and product/service line management. Pricing the “obvious way that we have
+
+always done” considerably limits the opportunity for profit and revenue growth, and blinds a
+
+company to threats from different competitive approaches.
+
+Bundling and Unbundling
+
+Bundling and unbundling individual items in a product/service line is still another step toward
+
+expanding the pricing perspective to increase customer value, pricing latitude, and profit potential.
+
+For some customers there are a great deal of value creation possibilities by bundling a package of
+
+products and/or services together. This increases convenience and reduces acquisition cost and risk.
+
+Distributors often combine industrial repair parts into repair “‘kits.” The buyer will receive parts they
+
+don’t need, but the additional cost is more than offset by the single purchase replacing many smaller
+
+individual acquisitions and providing the convenience of a whole set of parts in one package. Suites
+
+of computer programs, such as Microsoft Office, represent another examples. The buyer gets
+
+convenience and assurance that the individual programs will be compatible.
+
+Unbundling can offer the same opportunity in reverse. Here, the seller sirips away the non-
+
+value-added parts of the bundle so that the buyer can purchase only what it wants.
+
+Bundling and unbundling is a broader way of looking at productizing and servicizing.
+
+Automobile leases, for example, handle the car and its financing, and often insurance and post sales
+
+service, The leverage from bundling and unbundling comes because different customers value
+
+different components and/or bundles differently, and because costs vary across components and/or
+
+bundles. The logic here is to find the bundle size for each customer and/or transaction that maximizes
+
+the spread between customer value and cost, the ZOPA of (Exhibit 1).
+
+Perhaps the ultimate step in the continuum toward value-added pricing (and related
+
+product/service decisions) is performance-based pricing. It deserves separate coverage because it is
+
+so powerful and useful.
+
+Precision Pricing for Profit in the New World Order 9-989-003
+
+VI. PERFORMANCE-BASED PRICING IS MORE THAN PRICING2
+
+Performance-based pricing is an arrangement in which the seller is paid based on the actual
+
+performance of its product or service. It is becoming much more popular. As we saw, in the
+
+advertising industry, agencies were typically paid 15% of the cost of the media they bought for a
+
+client. Now, more and more agencies are being forced to accept performance-based pricing-——they
+
+are paid based on achieving certain client advertising and/or marketing goals. The contractor who
+
+rebuilt the 1995 earthquake damaged freeway in Los Angeles received enormous performance
+
+incentives by completing the reconstruction early. Other industries as diverse as consulting, trucking,
+
+and heavy industrial services are seeing the same trend.
+
+An Example
+
+Before explaining the benefits, drawbacks and applications of performance-based pricing, let
+
+us consider a detailed example involving ABB and Ford.3 Ford needed a world class supplier to
+
+design and build a turnkey automotive painting facility in Oakville, Canada. Ford and ABB agreed to
+
+work together in an initial preparatory phase, rejecting the traditional approach of bids submitted
+
+based on incomplete information.
+
+The initial preparatory phase involved a significant exchange of information and perspectives
+
+between the two firms, and led to a novel type of agreement. ABB would design and build the plant
+
+at a far lower cost than standard. Then, if ABB could reduce the cost even further, it would receive a
+
+pre-agreed percentage of the savings. This innovative, performance-based approach left both parties
+
+significantly better off than they would have been under conventional bidding or a negotiated price
+
+arrangement. Ford received a significantly lower cost plant at a lower level of risk: ABB received a
+
+share in the cost and design improvements it was able to create.
+
+Advantages
+
+One advantage of performance-based pricing is the often-mentioned alignment that can be
+
+achieved between the buyer’s goals and the seller’s goals. But, that is only part of the story. There

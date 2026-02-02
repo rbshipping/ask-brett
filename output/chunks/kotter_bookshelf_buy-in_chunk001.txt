@@ -1,0 +1,32 @@
+SOURCE: kotter_bookshelf_buy-in.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Business Communication and Persuasion
+SUMMARY: This book provides a single, powerful method to build strong support and buy-in for good ideas, even when facing resistance or attacks.
+KEYWORDS: buy-in, idea promotion, persuasion techniques, organizational change, innovation adoption
+---
+
+[Document: kotter_bookshelf_buy-in.txt]
+
+TITLE: Buy-In
+
+SOURCE: https://www.kotterinc.com/bookshelf/buy-in/
+
+============================================================
+
+# Buy-In
+
+#### by Dr. John Kotter and Lorne A. Whitehead
+
+This is not a book about persuasion and communication in general, or even about all the useful methods people use to create buy-in. Instead, Dr. Kotter offers a single method that can be unusually powerful in building strong support for a good idea. We have seen that this approach can not only keep good ideas from getting shot down, but can actually turn attacks to your advantage, capturing busy peoples’ attention to help them grasp an idea, and ultimately building strong buy-in.
+
+# Buy The Book
+
+# Testimonials
+
+> "”“John Kotter has done it again! With coauthor Lorne Whitehead, he offers extremely savvy advice for innovators and managers on how to sell your ideas. Buy-In is packed with practical insights and useful techniques.” Bill GeorgeProfessor of Management Practice, Harvard Business School, and author, True North"
+
+”“John Kotter has done it again! With coauthor Lorne Whitehead, he offers extremely savvy advice for innovators and managers on how to sell your ideas. Buy-In is packed with practical insights and useful techniques.”
+
+> "”In research and education– just as in business– progress is often delayed not by a shortage of good ideas, but rather because people aren’t convinced to adopt them. This book will help everyone promote the good ideas that deserve success.” Maria KlawePresident, Harvey Mudd College"
+
+”In research and education– just as in business– progress is often delayed not by a shortage of good ideas, but rather because people aren’t convinced to adopt them. This book will help everyone promote the good ideas that deserve success.”

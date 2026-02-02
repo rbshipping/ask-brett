@@ -1,0 +1,154 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Model Innovation
+SUMMARY: Dow Corning's Xiameter business model innovation to sell high-quality silicones at 15% lower prices by minimizing overheads and customization.
+KEYWORDS: business model innovation, Dow Corning, Xiameter, commoditization, overhead minimization
+---
+
+the same point in time and space in the customer's life. In such instances we would expect the
+
+services or products that might be hired to do these jobs to be integrated. By illustration, stand-alone
+
+gasoline stations and convenience food stores are giving way to integrated facilities that sell both.
+
+Why? The jobs for which junk food and gasoline are hired arise at the same point in time and space.
+
+Similarly, the auto companies’ creation of companies that finance auto purchases is productive
+
+integration.
+
+A Case Study of Business Model Innovation: Dow Coming
+
+We close this note with a brief description of the process of business model innovation that was
+
+executed in an industry not often associated with such events: commodity chemicals. Dow Corning
+
+(DC), a maker of inorganic polymer products called silicones that are used in an extraordinary variety
+
+of applications—ranging from protective coatings to adhesives to shampoos and conditioners. In
+
+about 2000 a strategic review revealed that many experienced DC customers no longer needed the
+
+technical services and sales engineering that DC had been offering all customers at no cost.
+
+Customers that did not need this service increasingly were sourcing their silicones from Asian
+
+manufactures at prices that often were 15%-20% below DC’s. In a business whose profitability was
+
+sensitive to capacity utilization and scale, losing this volume had begun to hurt the company’s over-
+
+all bottom line.
+
+In 2002, Dow Corning CEO Gary Anderson asked Don Sheets to form a team to start a new
+
+business which was named Xiameter. Sheets’ charter: Without compromising on profitability, figure
+
+out a business model that can sell high-quality silicones at 15% lower prices. This was the value
+
+proposition. To reach a 15% lower price point (in a commoditizing material, a huge reduction),
+
+overheads had to be absolutely minimal. Sheets’ team decided that meant customers had to order
+
+from the company’s catalogue of existing, standard products: There could be no custom-engineering.
+
+Only orders of full tank-cars would be accepted. And customers could not talk to a Xiameter
+
+salesperson by phone: All orders had to be placed online. Because high turns of inventory and assets
+
+were critical to achieving comparable profitability with the mainstream business, Xiameter orders
+
+could not be serviced from inventory, customers had to wait until their orders could be shipped from
+
+scheduled production. To minimize overhead Sheets knew he needed confident, knowledgeable
+
+employees who could make fast decisions without hierarchical support. He therefore sought DC
+
+employees who, though team players, didn’t quite fit in the DC culture. When he interviewed
+
+candidates with the needed skills, he asked them to decide before they left the room whether they
+
+would accept the job. The new venture would be low-touch, service averse, and standardized.
+
+Sheets next needed to determine whether this new venture, with its new rules, norms and metrics,
+
+could succeed within the confines of DC’s core enterprise. He set up an experimental war game to
+
+test how existing DC staff and systems would react to the needs of Xiameter’s customer value
+
+proposition. Xiameter was crushed in the simulation, as entrenched habits and existing processes
+
+thwarted attempts to change the game. It was clear that while Xiameter could leverage DC’s
+
+manufacturing capacity, the administrative systems and rules that Xiameter required were so foreign
+
+to DC thinking that, even with the best intentions, attempting to leverage any other DC resources or
+
+processes would destroy that which was required to succeed. The way ahead was clear: Xiameter
+
+required a separate business model, in its own business unit.
+
+A rule that emerged from this simulation was that the only “leveraging” of the resources and
+
+processes of the core DC business that would be allowed was when Xiameter “pulled” them into
+
+Xiameter. DC could not “push” any of its resources or processes onto Xiameter, because the
+
+10
+
+Module Note—What Are Business Models, and How Are They Built? 610-019
+
+motivation for conferring such corporate “gifts” onto Xiameter typically would be to spread
+
+overhead costs.
+
+In a similar vein, when electronics retailer Best Buy acquired Geek Squad (an in-home computer
+
+services and support company) CEO Brad Anderson announced, “Geek Squad bought Best Buy, not
+
+the other way around.” He knew that certain synergies would produce growth for the company, but
+
+sensed that the low margin, high volume, retail mentality of Best Buy could easy suffocate the high-
+
+touch, higher-margin service orientation of Geek Squad. Anderson let Geek Squad pull from Best Buy
+
+only those resources and processes that would help them grow and thrive. No pushing was allowed.
+
+Finally, Anderson and Sheets agreed that they would keep Xiameter’s initial scale small. New
+
+businesses that achieve success typically must make several revisions in the details within the four-
+
+box diagram of their business models before they strive for scale. Careful business model design can
+
+shorten these iterations. But business model innovators must initially focus on learning as much as on
+
+executing. This requires being patient for growth (to allow for learning as the market opportunity
+
+unfolds) but impatient for profit (to be focused on validating as early as possible a working business
+
+model). A profitable business is the best early indication of a viable model.
+
+Xiameter paid back DC’s investment in three months and became a major, transformative success.
+
+Corporate revenues increased nearly 40%, because most of Xiameter’s customers were new to the
+
+company. Far from cannibalizing existing customers, Xiameter has actually supported DC’s core
+
+business, allowing its salespeople to more easily enforce premium pricing for their core offerings
+
+while providing a viable alternative for the price conscious.
+
+11
+
+Chapter 5
+
+Getting the Scope of the Business Right
+
+What activities should a new-growth venture do internally in order to be as
+
+successful as possible as fast as possible, and which should it outsource to a
+
+supplier or a partner? Will success be best built around a proprietary product
+
+architecture, or should the venture embrace modular, open industry standards?
+
+What causes the evolution from closed and proprietary product architectures to

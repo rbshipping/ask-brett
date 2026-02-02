@@ -1,0 +1,154 @@
+SOURCE: HBS Delusions of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Strategic Planning and Forecasting
+SUMMARY: The text discusses how business scenarios used in planning are generally inadequate due to human limitations in predicting complex problems, leading to optimistic forecasts and underestimated risks.
+KEYWORDS: scenario planning, optimism bias, anchoring bias, capital projects, organizational pressure
+---
+
+mism are compounded by the limits of human physicians in Manhattan is larger or smaller
+
+imagination. No matter how detailed, the than the number formed by those four digits.
+
+business scenarios used in planning are gener- Finally, they were asked to estimate what the
+
+ally inadequate. The reason is simple: Any number of Manhattan physicians actually is.
+
+complex project is subject to myriad prob- The correlation between the Social Security
+
+lems—from technology failures to shifts in ex- number and the estimate was significantly
+
+change rates to bad weather—and it is beyond positive. The subjects started from a random
+
+the reach of the human imagination to foresee series of digits and then insufficiently adjusted
+
+all of them at the outset. As a result, scenario their estimate away from it.
+
+planning can seriously understate the proba- Anchoring can be especially pernicious
+
+bility of things going awry. Often, for instance, when it comes to forecasting the cost of major
+
+managers will establish a “most likely” sce- capital projects. When executives set budgets
+
+harvard business review • july 2003 page 3 of 9
+
+Delusions of Success
+
+for such initiatives, they build in contingency Organizational Pressure. Every company
+
+funds to cover overruns. Often, however, they has only a limited amount of money and time
+
+fail to put in enough. That’s because they’re to devote to new projects. Competition for this
+
+anchored to their original cost estimates and time and money is intense, as individuals and
+
+don’t adjust them sufficiently to account for units jockey to present their own proposals as
+
+the likelihood of problems and delays, not to being the most attractive for investment. Be-
+
+mention expansions in the scope of the cause forecasts are critical weapons in these
+
+projects. One Rand Corporation study of 44 battles, individuals and units have big incen-
+
+chemical-processing plants owned by major tives to accentuate the positive in laying out
+
+companies like 3M, DuPont, and Texaco found prospective outcomes. This has two ill effects.
+
+that, on average, the factories’ actual construc- First, it ensures that the forecasts used for
+
+tion costs were more than double the initial planning are overoptimistic, which, as we de-
+
+estimates. Furthermore, even a year after scribed in our discussion of anchoring, distorts
+
+start-up, about half the plants produced at less all further analysis. Second, it raises the odds
+
+than 75% of their design capacity, with a quar- that the projects chosen for investment will be
+
+ter producing at less than 50%. Many of the those with the most overoptimistic forecasts—
+
+plants had their performance expectations and hence the highest probability of disap-
+
+permanently lowered, and the owners never pointment.
+
+realized a return on their investments. Other organizational practices also encour-
+
+Competitor Neglect. One of the key factors age optimism. Senior executives tend, for in-
+
+influencing the outcome of a business initia- stance, to stress the importance of stretch
+
+tive is competitors’ behavior. In making fore- goals for their business units. This can have
+
+casts, however, executives tend to focus on the salutary effect of increasing motivation,
+
+their own company’s capabilities and plans but it can also lead unit managers to further
+
+and are thus prone to neglect the potential skew their forecasts toward unrealistically rosy
+
+abilities and actions of rivals. Here, again, the outcomes. (And when these forecasts become
+
+result is an underestimation of the potential the basis for compensation targets, the prac-
+
+for negative events—in this case, price wars, tice can push employees to behave in danger-
+
+overcapacity, and the like. Joe Roth, the ously risky ways.) Organizations also actively
+
+former chairman of Walt Disney Studios, ex- discourage pessimism, which is often inter-
+
+pressed the problem well in a 1996 interview preted as disloyalty. The bearers of bad news
+
+with the Los Angeles Times: “If you only think tend to become pariahs, shunned and ignored
+
+about your own business, you think, ‘I’ve got a by other employees. When pessimistic opin-
+
+good story department, I’ve got a good mar- ions are suppressed, while optimistic ones are
+
+keting department, we’re going to go out and rewarded, an organization’s ability to think
+
+do this.’ And you don’t think that everybody critically is undermined. The optimistic biases
+
+else is thinking the same way.” of individual employees become mutually re-
+
+Neglecting competitors can be particularly inforcing, and unrealistic views of the future
+
+destructive in efforts to enter new markets. are validated by the group.
+
+When a company identifies a rapidly growing
+
+market well suited to its products and capabil- The Outside View
+
+ities, it will often rush to gain a beachhead in For most of us, the tendency toward optimism
+
+it, investing heavily in production capacity is unavoidable. And it’s unlikely that compa-
+
+and marketing. The effort is often justified by nies can, or would even want to, remove the
+
+the creation of attractive pro forma forecasts organizational pressures that promote opti-
+
+of financial results. But such forecasts rarely mism. Still, optimism can, and should, be tem-
+
+account for the fact that many other competi- pered. Simply understanding the sources of
+
+tors will also target the market, convinced that overoptimism can help planners challenge as-
+
+they, too, have what it takes to succeed. As all sumptions, bring in alternative perspectives,
+
+these companies invest, supply outstrips de- and in general take a balanced view of the fu-
+
+mand, quickly rendering the new market un- ture.
+
+profitable. Even savvy venture capitalists fell But there’s also a more formal way to im-
+
+into this trap during the recent ill-fated Inter- prove the reliability of forecasts. Companies
+
+net boom. can introduce into their planning processes an
+
+harvard business review • july 2003 page 4 of 9
+
+Delusions of Success
+
+objective forecasting method that counteracts In this example, the curriculum expert made
+
+the personal and organizational sources of op- two forecasts for the same problem and arrived
+
+timism. We’ll begin our exploration of this ap- at very different answers. We call these two dis-
+
+proach with an anecdote that illustrates both tinct modes of forecasting the inside view and

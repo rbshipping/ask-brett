@@ -1,0 +1,74 @@
+SOURCE: 10 Kinds of Stories to Tell with Data (2).pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific\2016.03 HFT - Reporting Pitfalls - DIDNT HAPPEN
+TOPIC: Data Storytelling
+SUMMARY: Analytical storytelling for business should focus on the result and recommended outcome, avoiding technical terms.
+KEYWORDS: data storytelling, analytical storytelling, business communication, data visualization, storytelling craft
+---
+
+you should tell one. There are other important aspects of analytical storytelling as well,
+
+such as that the story told to businesspeople should generally begin with the result and
+
+recommended outcome. You can save the details of how you got there analytically for the
+
+footnote of your report or presentation. And terms like R2, coefficient, logistic, and
+
+heteroskedasticity should not be appearing in your public story at all!
+
+Thomas H. Davenport is the President’s Distinguished Professor of IT and Management at Babson College, a
+
+research fellow at the MIT Center for Digital Business, co-founder of the International Institute for Analytics, and
+
+a Senior Advisor to Deloitte Analytics. He is author of the new book Big Data at Work and the best-selling
+
+Competing on Analytics.
+
+This article is about INFORMATION & TECHNOLOGY
+
+ FOLLOW THIS TOPIC
+
+Related Topics: LEADERSHIP | PRESENTATIONS
+
+Comments
+
+Leave a Comment
+
+POST
+
+9 COMMENTS
+
+nraden a year ago
+
+Good way to look at types of stories. However, stories don't get told without skill in storytelling.
+
+Before humans knew how to write, probably before they even had language, the means for passing wisdom
+
+from one person or one generation to the next was storytelling. Most likely our brains are wired to respond
+
+to and retain stories (though, oddly, not necessarily proficient at telling them). Nevertheless, it remains
+
+perhaps our most powerful tool of communication. To put it bluntly, people are generally more interested
+
+in a story than in the storyteller. If you want to get your point across, you need to learn how to condense
+
+the data into a good story.
+
+Analytical tools offer no real assistance here. Storytelling is a craft that has to be learned, I've seen the
+
+word "storytelling" used a lot lately in analytical circles, but I'm afraid there is a lot of learning that is
+
+needed.
+
+REPLY 2  0 
+
+ JOIN THE CONVERSATION
+
+POSTING GUIDELINES
+
+We hope the conversations that take place on HBR.org will be energetic, constructive, and thought-provoking. To comment, readers must
+
+sign in or register. And to ensure the quality of the discussion, our moderating team will review all comments and may edit them for clarity,
+
+length, and relevance. Comments that are overly promotional, mean-spirited, or off-topic may be deleted per the moderators' judgment.
+
+All postings become the property of Harvard Business Publishing.

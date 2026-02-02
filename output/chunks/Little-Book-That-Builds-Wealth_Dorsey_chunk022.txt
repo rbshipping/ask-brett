@@ -1,0 +1,238 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Strategy
+SUMMARY: The text examines how Southwest Airlines and Dell used their cost advantages to disrupt incumbent firms in their respective industries.
+KEYWORDS: cost advantage, disruptive innovation, business model, industry disruption, competitive strategy
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+to start helping clean planes at the incumbents. Second,
+
+Southwest’s point-to-point route structure would have
+
+made it hard for the majors to feed profitable business
+
+and international passengers through their expensively
+
+maintained hubs. Third, Southwest was an aggressively
+
+egalitarian airline—no separate classes, no assigned
+
+seats—in an industry that made a lot of money by treat-
+
+ing some passengers like royalty and charging them
+
+for the privilege. In short, the majors would have had to
+
+figuratively blow up their businesses to gain South-
+
+west’s cost advantage, and it’s hard to blow up your own
+
+business.
+
+However, this does not answer why none of the dozens
+
+of other upstart airlines succeeded the way Southwest did.
+
+Partly, this was because Southwest had already locked up
+
+slots at second-tier airports, and partly it was because
+
+Southwest had the foresight to lock up a continuous sup-
+
+ply of new planes, which have much lower operating costs
+
+than used planes. But an equally important reason was that
+
+Southwest gained sufficient scale before the majors real-
+
+ized it was much of a threat—and by that time, it was too
+
+big to kill. Subsequent start-ups were strangled in their
+
+cradles by incumbents that aggressively cut prices on the
+
+newcomers’ routes, and since the newcomers started with
+
+only a few routes, they couldn’t withstand the losses for
+
+long and folded.
+
+cc0066..iinndddd 8800 11//2266//0088 33::0088::5544 AAMM
+
+COST ADVANTAGES [81]
+
+Incumbent PC makers left Dell alone for the same
+
+reason that the majors initially gave Southwest a pass:
+
+The resellers and retailers that took PCs from the manu-
+
+facturers to the end user were too vital a link in the distri-
+
+bution chain. IBM or Compaq, or anyone else that would
+
+have tried to copy Dell, would have had to blow up its
+
+business in order to compete on equal terms. But why
+
+didn’t other n ew companies copy Dell’s business model?
+
+Actually, a couple of other PC companies—Micron
+
+and Gateway—did try to copy Dell’s business model in the
+
+1990s, but both failed miserably. Micron was too busy try-
+
+ing to run a couple of other business lines to effectively
+
+replicate Dell’s superefficient supply chain, and Gateway
+
+opened retail stores in a bid to differentiate itself and get
+
+into the consumer market. It’s hard to believe now, but as
+
+late as 1996, Dell and Gateway were comparable in size and
+
+profitability. Then their paths diverged sharply as Dell cut
+
+inventory to unheard-of levels, and Gateway opened stores
+
+in strip malls.
+
+Let’s look at one more pair of companies with a process-
+
+based cost advantage before we try to draw some c onclusions.
+
+Nucor and Steel Dynamics both operate m ini-mills, which—
+
+without getting technical—use a process for making steel
+
+that is a lot cheaper than the old integrated steel mills run by
+
+the likes of U.S. Steel and Bethlehem Steel. Nucor came
+
+on the scene in 1969 producing low-grade steel products,
+
+cc0066..iinndddd 8811 11//2266//0088 33::0088::5555 AAMM
+
+[82] THE LITTLE BOOK THAT BUILDS WEALTH
+
+and quickly took market share from the integrated mills with
+
+lower costs and more flexible production. Steel Dynamics
+
+was started in the mid-1990s by Nucor alumni, and is cur-
+
+rently the lowest-cost steel producer in the United States—its
+
+basic process is the same as Nucor’s, but its technology is
+
+25 years newer.
+
+In this example, both Nucor and Steel Dynamics
+
+took advantage of a new technology that incumbent oper-
+
+ators of integrated mills were unable to implement because
+
+they had sunk billions of dollars into their existing opera-
+
+tions, which they couldn’t just junk to start over. And
+
+while other new entrants to the steel market can (and did)
+
+start companies with a similar mini-mill process, the old
+
+high-cost integrated firms ceded so much market share
+
+that Nucor and Steel Dynamics could post respectable
+
+returns on capital alongside other new mini-mills.
+
+Now, let’s fast-forward all three cases—Southwest,
+
+Dell, and the steel mini-mills—to the present. All three
+
+are still decent businesses, but their moats are weaker
+
+today than they were five or 10 years ago. Why?
+
+Southwest still has a cheaper cost structure than any of
+
+the majors—not exactly a hard thing to do, really—but it
+
+faces competitors like JetBlue and AirTran that have been
+
+able to get access to newer planes and cheap slots at s econd-
+
+tier airports. Also, the declining financial health of the majors
+
+made it easier for low-cost airlines to gain scale—the big
+
+cc0066..iinndddd 8822 11//2266//0088 33::0088::5555 AAMM
+
+COST ADVANTAGES [83]
+
+airlines were struggling so hard to stay afloat that they
+
+could not spare the resources to crush upstarts. So, new
+
+low-cost carriers have been able to copy important parts of
+
+Southwest’s secret sauce and match it on cost.
+
+Dell, meanwhile, is still the lowest-cost manufacturer
+
+of PCs, but its advantage has shrunk considerably as com-
+
+petitors like Hewlett-Packard have retooled their busi-
+
+nesses to cut costs, and high-cost operators like IBM have
+
+sold their PC businesses to more savvy owners like Lenovo.
+
+Dell has also been hurt by shifts in the PC market. Dell
+
+excels at selling cheap desktop PCs to corporations and
+
+sophisticated consumers who know exactly what they want,
+
+but much of the recent growth in the PC market has come
+
+from notebook computers and mass-market consumers.
+
+Dell has almost no cost advantage in notebooks, and non-
+
+techie consumers are often wary of buying a computer
+
+without some handholding from a friendly salesperson at a
+
+retail store.
+
+Finally, the mini-mills are facing serious competition
+
+from global firms like Arcelor Mittal, which have access
+
+to very low-cost steel operations in various corners of the
+
+developing world. (Labor costs in Kazakhstan—to name one
+
+Arcelor Mittal mill—are pretty darn low.) As trade barri-
+
+ers have declined and new competition with massive scale
+
+economies has emerged, the mini-mills’ cost advantage has
+
+lessened.
+
+cc0066..iinndddd 8833 11//2266//0088 33::0088::5555 AAMM
+
+[84] THE LITTLE BOOK THAT BUILDS WEALTH
+
+The upshot of all these cases is that process-based
+
+cost advantages can create a temporary moat if incum-
+
+bents are unlikely to replicate them immediately, and if

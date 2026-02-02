@@ -1,0 +1,212 @@
+SOURCE: Execution_The Missing Link in Retail Ops.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: This text analyzes the drivers of inventory record inaccuracy and misplaced SKUs in retail stores, providing insights to improve execution in retail operations.
+KEYWORDS: inventory record inaccuracy, misplaced SKUs, retail operations, store performance, execution management
+---
+
+P
+
+often not be found. As a result, the company discovered the magnitude of mis-
+
+placed SKUs in its stores.
+
+Conclusion
+
+r
+
+It is important for retailers, at a minimum, to be aware of these problems
+
+and the potential impact they may have on profitabilityo. Moreover, as a Beta
+
+executive pointed out, acknowledging the prevalence of weak execution would
+
+make it less embarrassing for retailers to discuss these problems in public and
+
+thus identify solutions jointly. Execution can be managed. Our data show that
+
+some stores perform better than others year after year. The drivers of these dif-
+
+ferences yield prescriptions to improve execuytion.
+
+p
+
+APPENDIX
+
+Summary of Empirical Analysis
+
+o
+
+Our conclusions on the drivers of inventory record inaccuracy and mis-
+
+placed SKUs are based on regression analysis, a statistical technique that allows
+
+us to explain the variationC in a dependent variable using values of other vari-
+
+ables. We use three regression models to derive our results, two applied to
+
+Gamma data (for inventory record inaccuracy) and one applied to Beta (for mis-
+
+placed SKUs). More details of our technical analysis can be found in DeHoratius
+
+and Raman10and in Raman and Ton.11
+
+We estimate the drivers of inventory record inaccuracy at the record level
+
+t
+
+and at the store level. For our record level analysis, we use logistic regression to
+
+predict the probability of inventory record accuracy as a function of the cost of
+
+o
+
+the recorded item, the quantity sold of that item during the past year, and
+
+whether or not the item was shipped to the store direct from the vendor or from
+
+the retail-owned distribution center. We control for differences across stores and
+
+N
+
+product categories. All variables in our final model are significant at the 99.9%
+
+level.
+
+For our store level analysis, we predict the average error in store inven-
+
+tory as a function of inventory density (the quantity of inventory in a particular
+
+selling floor space), the frequency of inventory audits at the store, the product
+
+o variety displayed at the store, and the DC from which the store receives mer-
+
+chandise. We control for sales differences across stores. In our final model,
+
+inventory density and the frequency of audits are significant at the 95% level,
+
+D product variety is significant at the 99% level, and the impact of the DCs from
+
+which the store received merchandise was significant at the 99.9% level.
+
+We estimate the drivers of misplaced SKUs at the store level. We predict
+
+the fraction of items that are present in storage areas but not on the selling floor
+
+as a function of “SKU density” (the number of SKUs in a particular selling floor
+
+CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001 151
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 152
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+space), “depth” (the quantity of inventory for each SKU), backroom size, full-
+
+P
+
+time and part-time employee turnover, general manager turnover, and “train-
+
+ing” (the number of training assistant managers at a particular store). We control
+
+for regional differences, unemployment rate, age of the store, and the period
+
+during which the audit was conducted. In our final model, part-time employee
+
+turnover is significant at the 95% level, depth is significant at the 99% level, and
+
+SKU density and general manager turnover are significant art the 99.5% level.
+
+o
+
+Notes
+
+1. Carl Steidtmann, “The New Retail Technology,” Discount Merchandiser(November
+
+1999), pp. 23-24.
+
+2. The research consortium, Consortium for Operational Excellence in Retailing
+
+(COER), is directed by Professor Marshall Fyisher of the Wharton School of the
+
+University and Pennsylvania and Professor Ananth Raman of the Harvard Busi-
+
+ness School. The research is supported by the two schools and a grant from the
+
+Alfred P. Sloan Foundation. p
+
+3. John F. Krafcik, “Triumph of the Lean Production System,” Sloan Management
+
+Review, 30 (Fall 1988): 41-52.
+
+4. W.E. Deming, Out of the Crisis(Cambridge, MA: The MIT Press, 2000); P.B. Crosby,
+
+o
+
+Quality Is Free(New York, NY: Mentor, 1980); J. M. Juran, Juran on Leadership for
+
+Quality: An Executive Handbook(New York, NY: The Free Press, 1989).
+
+5. Levy and Weitz define shrink as the difference between the recorded value of
+
+inventory based on mCerchandise bought and received and the value of actual
+
+inventory in stores and distribution centers. Shrink is caused by employee theft,
+
+by customer shoplifting, and by merchandise being misplaced, damaged, or mis-
+
+priced. Michael Levy and Barton A. Weitz, Retailing Management(New York, NY:
+
+Irwin/McGraw-Hill, 1998).
+
+6. Milk at a su permarket would be an example of such a low-price but high-stock-
+
+out-cost item.
+
+t
+
+7. See Steven Nahmias, Production and Operations Analysis(New York, NY:
+
+Irwin/McGraw-Hill 1997).
+
+o
+
+8. For a discussion of manufacturing quality, see David Garvin, Managing Quality
+
+(New York, NY: The Free Press, 1988).
+
+9. See, for example, Marshall Fisher, Ananth Raman, and Anna Sheen McClelland,
+
+N“Rocket Science Retailing is Almost Here: Are you Ready?” Harvard Business
+
+Review, 78/4 (July/August 2000): 115-124.
+
+10. Nicole DeHoratius and Ananth Raman, “Inventory Record Inaccuracy: An Empiri-
+
+cal Analysis,” Harvard Business School Working Paper (2001).
+
+11. Ananth Raman and Zeynep Ton, “An Empirical Analysis of the Magnitude and
+
+Drivers of Misplaced SKUs in Retailing,” Harvard Business School Working Paper
+
+(2001).
+
+o
+
+D
+
+152 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.

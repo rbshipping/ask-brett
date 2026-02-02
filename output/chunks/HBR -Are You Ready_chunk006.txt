@@ -1,0 +1,128 @@
+SOURCE: HBR -Are You Ready.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Retail Data Management
+SUMMARY: Retailers should leverage detailed sales data to optimize their supply chains and improve customer satisfaction.
+KEYWORDS: retail data, sales data, supply chain optimization, customer satisfaction, business intelligence
+---
+
+[Document: HBR -Are You Ready.pdf]
+
+years when estimating future product sales. Given that the cost of computer storage space has fallen sharply, there’s no
+
+reason for retailers not to store sales data electronically and make it easily accessible to their merchants. Those who don’t
+
+either don’t see how the data could be useful in their decision making or made the decision several years ago when computer
+
+storage space was extremely expensive.
+
+Some retailers don’t make even recent sales data available at the detailed level. For example, some apparel retailers track
+
+their sales according to style, color, and size (each has its own bar code) but they store only the data regarding style and color
+
+in the central computer. So a merchandiser might know how many red blouses in a certain style were sold at a particular store
+
+on a particular day but not if those units were sold in small, medium, or large. Is it any wonder that a recent survey found that
+
+one out of three consumers who enter a clothing store intending to buy something leave without buying because he or she
+
+can’t find their size in stock?
+
+Managers at these retailers claim there is little value in knowing sales by size since their vendors and distribution centers can
+
+ship only in standard size packs, which precludes customizing the size assortments by store or region. Meanwhile, it is difficult
+
+to justify changes to their transportation and warehousing systems that would let them customize their shipments, because
+
+they don’t have the appropriate sales-by-size data that would tell them how to do that. It’s the perfect example of the vicious
+
+cycle these retailers fall into: an inflexible supply chain justifies bad data, which justify an inflexible supply chain.
+
+Costs, Customer Satisfaction, and Morale
+
+We’ve outlined the current best practices—and the current best-case scenarios—for the four areas that are fundamental to
+
+achieving rocket science retailing. But there are other areas of improvement for retailers who seek to get closer to the grail.
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012
+
+Are You Ready? - Harvard Business Review Page 7of 8
+
+Many of the issues we’ve touched on have dealt with metrics like forecast accuracy, stockouts, lost sales, gross margins,
+
+markdowns, and inventory carrying costs. But retailers also need to track the variables that drive those measures. For
+
+example, which products and market segments tend to have inaccurate forecasts, and how does forecast accuracy change
+
+over time? Only then will retailers have the information they need to get at the root cause of retail problems, solve them, and
+
+improve performance.
+
+Some retailers also focus too much on the short term. The pressure to immediately improve profits can spur cost-cutting that
+
+leads to customer dissatisfaction and low employee morale. The senior managers at one retailer in our study were challenged
+
+by the board to achieve double-digit profit increases every year. Management achieved this goal by cutting costs through
+
+reducing the number of salespeople in the stores. The board was pleased with the short-term profit growth, but the reduced
+
+head-count pretty quickly created lower customer satisfaction, and employees were unhappy.
+
+To prevent this kind of problem, retailers need to visibly and accurately track customer satisfaction and employee morale. At
+
+least one retailer in our study has engaged an outside audit firm to measure those factors, and the company is even
+
+considering reporting the results in its annual reports. That approach makes sense; without hard numbers on customer
+
+satisfaction and employee morale, those factors would take a backseat to cost reduction. In the long run the retailer would be
+
+worse off.
+
+Marriage of Art and Science
+
+It’s useful to consider the long-standing conflict between left-brainers, the technical types who either produce or rely on
+
+information supplied through technology, and right-brainers, those who rely more on intuition. The core of rocket science
+
+retailing, as we’ve said, involves a marriage of the two. And many retail executives do acknowledge the need for blending left-
+
+and right-brain capabilities, particularly in planning.
+
+Consistent with this view, their organizations have a left-brained planning organization to complement the traditionally right-
+
+brained buying or merchandising organizations. The planner typically looks at sales data—in the absence of software
+
+systems—to determine stocking quantities at the store and SKU levels. The buyer tries to look beyond numbers and history
+
+and focuses on right-brain tasks such as identifying changing patterns in consumer demand and developing new products.
+
+The division of skills and responsibilities between buying and planning appears to work well at most retailers. But in other
+
+areas, there is vast room for improvement; a good example is the relationship between the management information systems
+
+group, which maintains computer systems at the company, and other departments such as merchandising. One retail CEO
+
+reports “The only time [the MIS managers] communicate with me is when they ask me for a $30 million write-off on some
+
+previous project that now has to be abandoned.” Another CEO chastised us for not appreciating the MIS-merchandising divide:
+
+“You guys don’t get it, the merchandising-MIS relationship is broken.”
+
+Most MIS specialists aren’t experts in products or merchandising. They are experts in information technologies such as
+
+database management and computer networks. Prior to joining the retailer, they may have worked at nonretail companies.
+
+Consequently, they don’t always understand the needs of the merchandising organization. In many cases, even the language
+
+is substantially different between the two groups. One MIS group at a leading retailer found, much to its surprise, that when
+
+merchants in the company say “always,” as in “I always follow this procedure,” they mean 75% of the time. This shocked the
+
+literal-minded MIS group for whom “always” means 100%. It is not clear how the relationship between MIS and merchandising
+
+will evolve. But we don’t see how merchandising can become scientific without the two factions understanding each other.
+
+The Systems at the Core
+
+If rocket science retailing is ever to happen across the industry, retailers must pay more attention to the logic that is embedded
+
+in their planning systems.

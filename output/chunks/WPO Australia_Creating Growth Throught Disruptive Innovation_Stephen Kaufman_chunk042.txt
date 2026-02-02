@@ -1,0 +1,162 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disk Drive Industry Dynamics
+SUMMARY: The text analyzes the disk drive industry, highlighting how the 2.5-inch drives used in notebook computers were more profitable than the 3.5-inch drives for desktop PCs, and how IBM's integration strategy allowed it to capitalize on this trend.
+KEYWORDS: disk drive industry, modularity, IBM, profitability, integration strategy
+---
+
+was a powerful driver of cost. The heads and disks, consequently, became not good enough and
+
+evolved toward complex, interdependent subassemblies. Head and disk manufacturing became
+
+so profitable, in fact, that many major drive makers integrated backward into making their own
+
+heads and disks.”
+
+But it wasn’t the disk drive industry that was marginally profitable—it was the modular
+
+circumstance in which the 3.5-inch drive makers found themselves. The evidence: The much
+
+smaller 2.5-inch disk drives used in notebook computers tended not to have enough capacity
+
+during this same era. True to form, their architectures were interdependent, and the products had
+
+to be made by integrated companies. As the most integrated manufacturer and the one with the
+
+most advanced head and disk technology in the 1990s, IBM made 40 percent gross margins in
+
+2.5-inch drives and controlled 80 percent of that market. In contrast, IBM had less than 3 percent
+
+of the unit volume in drives sold to the desktop PC market, where its integration rendered it
+
+uncompetitive.'?
+
+At the time we first published our analysis of this situation in 1999," it appeared that the
+
+capacity of 2.5-inch disk drives was becoming more than good enough in the notebook computer
+
+application as well—presaging, for what had been a beautiful business for IBM, the onset of
+
+commoditization. We asserted that IBM, as the most integrated drive maker, actually was in a
+
+very attractive position if it played its cards right. It could skate to where the money would be by
+
+using the advent of modularity to decouple its head and disk operations from its disk drive design
+
+and assembly business. If IBM would begin to sell its most advanced heads and disks to
+
+competing 2.5-inch disk drive makers—aggressively putting them into the business of
+
+assembling modular 2.5-inch drives—it could eventually de-emphasize the assembly of drives
+
+and focus on the more profitable head and disk components. In so doing, IBM could continue to
+
+enjoy the most attractive levels of profit in the industry. In other words, on the not-good-enough
+
+side of the disruptive diagram, IBM could fight in the war and win. On the more-than-good-
+
+enough side, a better strategy is to sell bullets to the combatants.”
+
+IBM made similar moves several years earlier in its computer business, through its
+
+decisions to decouple its vertical chain and to sell its technology, components, and subsystems
+
+aggressively in the open market. Simultaneously it created a consulting and systems integration
+
+business in the high end and moved to de-emphasize the design and assembly of computers. As
+
+5-6
+
+IBM skated to those points in the value-added chain where complex, nonstandard integration
+
+needed to occur, it led to a remarkable—and remarkably profitable—transformation of a huge
+
+company in the 1990s.
+
+The bedrock principle bears repeating: The companies that are positioned at a spot in a
+
+value chain where performance is not yet good enough will capture the profit. That is the
+
+circumstance where differentiable products, scale-based cost advantages, and high entry barriers
+
+can be created.
+
+To the extent that an integrated company such as IBM can flexibly couple and decouple
+
+its operations, rather than irrevocably sell off operations, it has greater potential to thrive
+
+profitably for an extended period than does a nonintegrated firm such as Compaq. This is
+
+because the processes of commoditization and de-commoditization are continuously at work,
+
+causing the place where the money will be to shift across the value chain over time.
+
+Core Competence and the ROA-Maximizing Death Spiral
+
+Firms that are being commoditized often ignore the reciprocal process of de-
+
+commoditization that occurs simultaneously with commoditization, either a layer down in
+
+subsystems or next door in adjacent processes. They miss the opportunity to move where the
+
+money will be in the future, and get squeezed—or even killed—as different firms catch the
+
+growth made possible by de-commoditization. In fact, powerful but perverse investor pressure to
+
+increase returns on assets (ROA) creates strong incentives for assemblers to skate away from
+
+where the money will be. And having failed to recognize their modular, commoditized
+
+circumstance, the firms turn to attribute-based core competence theory to make decisions they
+
+may later regret.
+
+How can firms that assemble modular products meet investors’ demands that they
+
+improve their return on assets or capital employed? They cannot improve the numerator of the
+
+ROA ratio because differentiating their product or producing it at lower costs than competitors is
+
+nearly impossible. Their only option is to shrink the denominator of the ROA ratio by getting rid
+
+of assets. This would be difficult in an interdependent world that demanded integration, but the
+
+modular architecture of the product actually facilitates dis-integration. We will illustrate how this
+
+happens using a disguised example of the interactions between a component supplier and an
+
+assembler of modular personal computers. We’ll call the two firms Components Corporation and
+
+Texas Computer Corporation (TCC), respectively.
+
+Components Corporation begins by supplying simple circuit boards to TCC. As TCC
+
+wrestles with investor pressure to get its ROA up, Components Corp. comes up with an
+
+interesting proposition: “We’ve done a good job making these little boards for you. Let us supply
+
+the whole motherboard for your computers. We can easily beat your internal costs.”
+
+5-7
+
+“Gosh, that would be a great idea,” TCC’s management responds. “Circuit board
+
+fabrication isn’t our core competence anyway, and it is very asset intensive. This would reduce
+
+our costs and get all those assets off our balance sheet.” So Components Corp. takes on the
+
+additional value-added activity. Its revenues increase smartly, and its profitability improves
+
+because it is utilizing its manufacturing assets better. Its stock price improves accordingly. As
+
+TCC sheds those assets, its revenue line is unaffected. But its bottom line and its return on assets
+
+improve—and its stock price improves accordingly.
+
+A short time later Components Corp. approaches TCC’s management again. “You know,
+
+the motherboard really is the guts of the computer. Let us assemble the whole computer for you.
+
+Assembling those products really isn’t your competitive advantage, anyway, and we can easily
+
+beat your internal costs.”

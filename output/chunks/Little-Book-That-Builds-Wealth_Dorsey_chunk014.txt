@@ -1,0 +1,238 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Business Software Switching Costs
+SUMMARY: The text discusses the challenges and risks for small businesses in switching from one accounting software like QuickBooks to a competing program, highlighting the high switching costs.
+KEYWORDS: accounting software, switching costs, business operations, data integration, QuickBooks
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+And in the same way that you run a risk when you
+
+change banks that your accounts will get scrambled, a
+
+small business owner switching from QuickBooks to
+
+a competing program runs the risk of losing track of some
+
+important bit of financial data that got misfiled during the
+
+transition. If you think an unpaid gas bill from a s crambled
+
+checking account is a problem, imagine if a small business
+
+owner didn’t have enough cash to pay employees because
+
+the accounting program never sent out an invoice to a
+
+customer.
+
+What about the benefits of switching? Maybe the
+
+competition’s program is somewhat cheaper, or maybe it
+
+has some features that QuickBooks lacks. But basic
+
+accounting is about 500 years old (give or take), so it’s
+
+not terribly likely that a new bookkeeping program could
+
+revolutionize the way a small business keeps track of its
+
+finances. Weighing both sides, it’s hard to see how the
+
+benefits of switching could outweigh the costs—which is
+
+why Intuit has dominated the market for years, and will
+
+likely continue to dominate it.
+
+The same story could be told of Intuit’s TurboTax,
+
+though arguably the switching costs are somewhat lower
+
+because there is less embedded personal data and the tax
+
+code changes every year, giving a potential competitor an
+
+easier entrée into the market. But a competing product
+
+would still need to be significantly easier to use, much
+
+cc0044..iinndddd 4477 11//2266//0088 33::0077::4444 AAMM
+
+[48] THE LITTLE BOOK THAT BUILDS WEALTH
+
+cheaper, or more feature-laden to convince people who
+
+view taxes as an annual chore to bother learning a new
+
+tax-preparation program. Most people hate doing their
+
+taxes, so why would they incur the additional cost of time
+
+spent learning a new tax-prep program?
+
+J oined at the Hip
+
+Intuit is a classic example of one broad category of switch-
+
+ing costs, which you might think of as companies that bene-
+
+fit from tight integration into their clients’ businesses. Small
+
+companies keep using QuickBooks because it becomes part
+
+and parcel of their daily operations, and untangling it from
+
+their business to start afresh with a new accounting pro-
+
+gram would be costly, and possibly risky as well.
+
+This is perhaps the most common type of switching
+
+cost, and we see it in a wide variety of companies. Look at
+
+Oracle, the giant software company that sells massive
+
+database programs that large companies use to store and
+
+retrieve huge amounts of data. Because data are rarely of
+
+any use in their raw form, Oracle’s databases typically
+
+need to be connected to other software programs that
+
+analyze, present, or manipulate the raw data. (Think
+
+about the last item you bought online—the raw data about
+
+the product was probably sitting in an Oracle database,
+
+but other programs pulled it together to show you the
+
+web page from which you made your purchase.)
+
+cc0044..iinndddd 4488 11//2266//0088 33::0077::4444 AAMM
+
+SWITCHING COSTS [49]
+
+So, if a company wanted to change from an Oracle
+
+database to one sold by a competitor, not only would it
+
+need to move all the data seamlessly from the old data-
+
+base to the new one, but it would also have to reattach all
+
+the different programs that pull data from Oracle. That’s
+
+a time-consuming and expensive proposition, not to men-
+
+tion a risky one—the conversion might not work, which
+
+might result in a big business disruption. A competing
+
+database would have to be phenomenally better (or
+
+cheaper) than an Oracle database for a company to choose
+
+to pay the massive cost of ripping out its Oracle database
+
+and installing another one.
+
+Data processors and securities custodians are in the
+
+same camp as Oracle. Companies like Fiserv, Inc. and
+
+State Street Corporation do back-office processing for
+
+banks and asset managers—they essentially do all of the
+
+heavy data crunching and record keeping that keep many
+
+banks and asset managers running smoothly. These com-
+
+panies are so tightly integrated with their clients’ busi-
+
+nesses that they often boast retention rates of 95 percent
+
+or better, making substantial portions of their business
+
+essentially annuities.
+
+Now imagine the chaos at a bank if its books didn’t
+
+balance at night, or the disruption at a large wealth-
+
+management firm if clients received incorrect asset pric-
+
+ing on their statements. In this case, the risk of switching
+
+cc0044..iinndddd 4499 11//2266//0088 33::0077::4444 AAMM
+
+[50] THE LITTLE BOOK THAT BUILDS WEALTH
+
+probably outweighs any monetary or time considerations,
+
+given how unhappy customers would be if the back-office
+
+processing went awry. No wonder the challenge for firms
+
+like these is not making money, but increasing sales,
+
+because almost every client is so reluctant to leave its cur-
+
+rent custodian or processor.
+
+This type of competitive advantage isn’t limited to
+
+just service and software companies, of course. For exam-
+
+ple, there is a neat company called Precision Castparts
+
+that sells high-tech, superstrong metal components used
+
+in jet aircraft engines and power-plant turbines. Think for
+
+a minute about the low tolerance for failure in these kinds
+
+of products. Steam turbines in power plants can weigh
+
+more than 200 tons and spin at 3,000 revolutions per
+
+minute—imagine the consequences of a cracked turbine
+
+blade. And of course, a jet engine breakdown at 30,000
+
+feet would be, well, really bad.
+
+So, it should come as little surprise that Precision has
+
+been selling to some of its customers for more than 30
+
+years, and that its engineers actually work together with
+
+customers like General Electric when they design new
+
+products. Look at the cost/benefit balance. The only ben-
+
+efit of GE switching to a new supplier would likely be
+
+monetary, as long as Precision keeps up its quality stan-
+
+dards. So, by dumping Precision for someone else, GE
+
+might be able to build turbines and jet engines for less
+
+cc0044..iinndddd 5500 11//2266//0088 33::0077::4455 AAMM
+
+SWITCHING COSTS [51]
+
+money, which might help it make a larger profit margin
+
+when it sells those products.
+
+What about the cost? Well, the explicit cost is mean-
+
+ingful—the new company would need to spend time get-

@@ -1,0 +1,122 @@
+SOURCE: HBR -Are You Ready.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Retail Inventory Management
+SUMMARY: The text discusses the challenges of inventory planning and forecasting for short-life-cycle products, and the need for more appropriate decision support tools.
+KEYWORDS: inventory planning, forecasting, decision support systems, short-life-cycle products, retail management
+---
+
+[Document: HBR -Are You Ready.pdf]
+
+merchants in the company say “always,” as in “I always follow this procedure,” they mean 75% of the time. This shocked the
+
+literal-minded MIS group for whom “always” means 100%. It is not clear how the relationship between MIS and merchandising
+
+will evolve. But we don’t see how merchandising can become scientific without the two factions understanding each other.
+
+The Systems at the Core
+
+If rocket science retailing is ever to happen across the industry, retailers must pay more attention to the logic that is embedded
+
+in their planning systems.
+
+Most retailers, for example, realize that inventory levels should be reduced toward the end of a product’s life cycle and that
+
+forecasts should be updated based on early sales data after adjusting for product availability and price fluctuations. But most
+
+inventory-planning software is designed for products that have long life cycles and is thus inappropriate for products that have
+
+an economic life of just a few months.
+
+Recommended Reading
+
+Marshall Fisher and Kumar Rajaram, “Accurate Testing of Retail Fashion Merchandise: Methodology and Application,”
+
+Marketing Science, No. 3, Summer 2000.
+
+Marshall Fisher, Ananth Raman, Janice H. Hammond, and Walter Obermeyer, “Making Supply Meet Demand in an Uncertain
+
+World,” HBR May–June 1994.
+
+Ananth Raman and Giulio Zotteri, “A Technique to Estimate Retail Demand and Lost Sales,” Harvard Business School
+
+Working Paper, 2000.
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012
+
+Are You Ready? - Harvard Business Review Page 8of 8
+
+“Sport Obermeyer Ltd.,” HBS Case Study #9-695-022.
+
+Consider, for example, a catalog retailer that recently bought a new software package for planning inventories of short-life-cycle
+
+products. The company was advised to set the system’s parameters to stock four weeks’ worth of projected demand for each
+
+SKU. For these products, however, sales usually peaked in the first week and then declined exponentially. This meant that the
+
+four-week supply ordered by the system was based on inflated sales. It was inevitably too much inventory and often generated
+
+obsolete goods at the end of the products’ life cycles.
+
+What’s more, most inventory planning systems typically require two or three years of demand history on which to model
+
+forecasting and stocking parameters. This is a problem for the many products whose life cycles are measured in months. Some
+
+software vendors are starting to address this problem, and we’re confident an appropriate system will be developed soon.
+
+Rocket science retailing will require the development and use of decision support tools. In the past, many retailers that have
+
+attempted to develop such systems in-house or purchase them from third-party vendors have been disappointed; the systems
+
+did not use the appropriate mathematical techniques and hence produced poor results. The mathematical techniques
+
+underlying such decision-support systems are not straightforward for a number of reasons.
+
+Consider a task as simple as using early sales data to guide replenishment; see what’s selling well and get more of it if you can.
+
+But implementing this concept requires careful attention to detail. For example, it’s important to know not just how much has
+
+sold of a particular product but the conditions under which it sold, including price and inventory availability. This point is well
+
+illustrated by one retailer that had developed a replenishment model based on early sales data. The model showed that a
+
+product in one style and color was selling almost twice as well as had been originally forecast. Based on this, a large
+
+replenishment order was placed. The vice president of merchandising who had placed the order was dismayed to see sales in
+
+the next three weeks fall to 60% of what the model had predicted. She was convinced that the model was flawed. But careful
+
+examination revealed that sales were slow because a delivery of the product that had been expected at the time the order was
+
+placed, and that had been assumed by the model, was delayed by three weeks. Hence, stores were stocking out of many sizes.
+
+Once the fresh product arrived, sales rebounded to the level predicted by the model. The underlying principle is simple—you
+
+can’t sell it if you don’t have it in inventory. But retailers often overlook this principle when they interpret sales data.
+
+• • •
+
+Nature abhors a vacuum, and the retailing situation today is an economic vacuum that cannot persist. Retailers can’t continue
+
+to suffer growing markdown losses yet disappoint a significant portion of their customers who can’t find what they want. They
+
+can’t continue to ignore billions of bytes of unused sales history that could help solve these problems. Somehow this vacuum
+
+will be filled.
+
+Every decade sees a retailer that innovates so powerfully that it rewrites the rules for other retailers and for all companies in the
+
+retail supply chain. In the 1980s, it was Wal-Mart. In the 1990s, it was Amazon.com. We believe the next retail innovator will be
+
+the one that best combines access to consumer transaction data with the ability to turn that information into action.
+
+Marshall L. Fisher is a professor at the Wharton School at the University of
+
+Pennsylvania in Philadelphia.
+
+Ananth Raman is a professor at Harvard Business School in Boston.
+
+Anna Sheen McClelland was a research associate at the Wharton School at the
+
+time the research presented in this article was conducted.
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012

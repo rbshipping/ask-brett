@@ -1,0 +1,186 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: The text discusses examples of disruptive innovations, including Hewlett Packard, Intel, Intuit, Japanese steel makers, JetBlue, and Kodak.
+KEYWORDS: disruptive innovation, technology disruption, industry disruption
+---
+
+now the mainstream printer of choice, having pushed laser jets to the high end. Hewlett Packard stayed atop
+
+this industry by setting up an autonomous ink jet business unit to compete against its laser jet printer
+
+business.
+
+Inte] micro-
+
+processor
+
+Intuit’s
+
+QuickBooks
+
+accounting
+
+software
+
+Intel’s earliest microprocessor in 1971 could only constitute the brain of a four-function calculator. Makers
+
+of computers whose logic circuitry is microprocessor-based have disrupted firms that made mainframe and
+
+minicomputers, whose logic circuitry was printed wiring board-based,
+
+Whereas the established industry leaders in accounting software enabled small business managers to run all
+
+sorts of sophisticated reports for analytical purposes, QuickBooks, which was a derivative of Intuit’s personal
+
+finance software product Quicken, basically helped them keep track of their cash. It created a huge new
+
+market amongst very small business owners (most less than five employees) who historically did not keep
+
+their books on computer. Within two years of launch Intuit had seized 85% of the small business accounting
+
+1-21
+
+software market — mainly by creating new growth. The stealing of the established companies’ customers
+
+came later, as QuickBooks’ functionality improved.
+
+Intuit’s Turbotax
+
+PC-based accounting software is disrupting personal tax preparation services such as H&R Block.
+
+Japanese Steel
+
+Makers
+
+Firms like Nippon Steel, Nippon Kokkan and Kobe and Kawasaki Steel began their growth by exporting very
+
+low quality steel to western markets starting in the late 1950s. As their customers (including disruptive
+
+Japanese auto makers like Toyota) grew, the Japanese steel industry had to increase capacity dramatically,
+
+enabling it to incorporate the latest steelmaking technology like continuous casting and basic oxygen
+
+furnaces in the new mills, This accelerated their up-market trajectory dramatically.
+
+Jet Blue
+
+Kodak
+
+Whereas Southwest Airlines initially followed a strategy of new-market disruption, Jet Blue’s approach is
+
+low-end disruption. Its long-range viability depends upon the major airlines’ motivation to run away from
+
+the attack, as integrated steel mills and full-service department stores did,
+
+Until the late 1800s, photography was extremely complicated. Only professionals could own and operate the
+
+expensive equipment. George Eastman’s simple “point and shoot” “Brownie” camera allowed consumers to
+
+take their own pictures. They could then mail the encased roll of film to Kodak, which would develop and
+
+return the photos by mail.
+
+Kodak Funsaver
+
+Kodak’s Funsaver-brand single-use camera was born out after painful labor within Kodak, because its profit
+
+model - gross margins - were lower than Kodak could eam by selling roll film; and the quality of the images
+
+was not as good as those taken in high-quality 35mm cameras. But Kodak commercialized it through a
+
+different division, and it sold almost exclusively to people who would not have bought film anyway —
+
+because they didn’t have a camera. While it has potential to move up-market taking share against traditional
+
+cameras with a new brand, Maxx, we sense that Kodak has stopped driving it in this direction.
+
+Korean auto
+
+manufacturers:
+
+Hyundai & Kia
+
+Korean automakers, including Hyundai and Kia, gained more points of worldwide market share in the 1990s
+
+than any other country’s automakers. And yet few of the established firms are concerned, because their gains
+
+have come in what is, to them, the lowest-profit portion of the market,
+
+MBNA
+
+McDonald’s
+
+MCT, Sprint
+
+We noted above that credit scoring is a formulaic method of determining the creditworthiness of a loan
+
+applicant. It was originally implemented in commercial banks as a sustaining technology ~ to reduce their
+
+costs of credit evaluation. In the 1990s, however, it was deployed in high-volume, low-cost “monoline”
+
+business models by firms such as MBNA, Capital One and First USA, which have substantially disrupted
+
+commercial banks’ credit card business, At the time of this writing, in fact, Citibank is the only major
+
+commercial bank with a substantial and profitable credit card business.
+
+The fast food industry has been a hybrid disruptor, making it so inexpensive and convenient to cat out that
+
+they created a massive wave of growth in the “cating out” industry. Their earliest victims were “mom-and-
+
+pop” diners. In the last decade the advent of food courts has taken fast food up-market. Expensive, romantic
+
+high-end restaurants still thrive at the high end, of course.
+
+These firms were low-end disruptors relative to AT&T’s long distance telephone business. They enjoyed a
+
+unique opportunity to do this, because AT&T's long distance rates were set by regulation at artificially high
+
+levels, in order to subsidize local residential telephone service.
+
+Merrill Lynch
+
+Charles Merrill’s mantra in 1912 was to “Bring Wall Street to Main Street.” By employing salaried rather
+
+than commissioned brokers, he made it inexpensive enough to trade stocks that middle-income Americans
+
+could become equity investors. Merrill Lynch moved up-market over the next 90 years towards higher net
+
+worth investors. Most of the brokerage firms that held seats on the New York Stock exchange in the 1950s
+
+and 60s have been merged out of existence, because Merrill Lynch disrupted them.
+
+Microsoft
+
+Its operating system was inadequate versus those of mainframe and minicomputer makers; versus Unix; and
+
+versus Apple’s system. But its migration from DOS to Windows to Windows NT is taking the firm up-
+
+market, to the point that the Unix world is seriously threatened. Microsoft, in turn, faces a threat from Linux.
+
+Mini-computers
+
+Companies like Digital Equipment, Prime, Wang, Data General and Nixdorf were new-market disruptors
+
+relative to mainframe computer makers. Their relative simplicity and low price enabled departments
+
+(particularly engineering) in organizations to have their own computers, instead of having to rely on
+
+inconvenient, centralized mainframe computers that typically were optimized for generating financial reports,
+
+On-line stock
+
+brokers
+
+On-line trading of equities is a sustaining technology relative to the business models of discount brokers such
+
+as Ameritrade, and is disruptive relative to full-service brokers such as Merrill Lynch. For Schwab, which
+
+started as a bare-bones discount broker but had moved up towards the mainstream market by the mid-1990s,
+
+Internet-based trading was disruptive enough that the company had to set up a separate division.
+
+On-line travel
+
+agencies

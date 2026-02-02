@@ -1,0 +1,160 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Pharmaceutical Industry Trends
+SUMMARY: The text discusses the challenges faced by major pharmaceutical companies in developing new drugs, with a focus on the declining number of blockbuster drugs and the need to target smaller disease markets.
+KEYWORDS: Pharmaceutical Industry, Blockbuster Drugs, Disruptive Innovation, Ambidextrous Organizations, Disease Markets
+---
+
+and Glaxo Smith-Kline (GSK) have continued to merge to grow, the blockbuster benchmark has inflated to $3-$5
+
+billion. Paltry $1 billion drugs are losing their luster. At the time of this writing (2006) the business press
+
+frequently contrasts the declining number of new drugs emerging from the pipelines of the major pharmaceutical
+
+companies, Is this because the science is tired? We don’t think so. More useful new molecules, enzymes and
+
+proteins than ever are being developed. The problem is that fewer and fewer of them target disease markets that are
+
+large enough to be prioritized as attractive by the major pharmaceutical companies.
+
+® See Edgar Schein, Organizational Culture and Leadership (San Francisco: Jossey-Bass, 1988). This description of
+
+the development of an organization’s culture draws heavily from Schein’s research,
+
+° Professors Michael Tushman of Harvard and Charles O’Reilly of Stanford have studied deeply the need to manage
+
+organizations in this way to create what they call “ambidextrous organizations.” As we understand their work, they
+
+assert that it is not enough simply to spin off an autonomous organization to pursue important but disruptive
+
+innovations that don’t match the mainstream organization’s priorities. The reason is that too often, executives spin it
+
+off to get the disruption off their agenda so that they can focus on managing the core business. To create a truly
+
+ambidextrous organization, Tushman and O’Reilly assert that the two different organizations need to be located
+
+within a business unit. Responsibility for managing the disruptive and sustaining organizations needs to be at a level
+
+in the organization where the two are not treated as businesses in a portfolio, Rather, they should be within a group
+
+or business unit whose management has the bandwidth to pay careful attention to what should be integrated and
+
+shared across the groups, and what should be implemented autonomously. See Michael L. Tushman and Charles A.
+
+O'Reilly, Winning Through Innovation: A Practical Guide to Leading Organizational Change and Renewal
+
+(Boston: Harvard Business School Press, 2002).
+
+'° See chapter 2 in Clayton Christensen and Michael Raynor, The Innovator’s Solution. Boston: Harvard Business
+
+School Press, 2002
+
+11 See chapter 4 in Clayton Christensen and Michael Raynor, The Znnovator’s Sohition. Boston: Harvard Business
+
+School Press, 2002.
+
+"? Willy Shih provided this information during a series of personal interviews at the Harvard Business School with
+
+Clayton Christensen between 2004 and 2006.
+
+8 Reuters, “U.S. Digital Camera Shipments rise 17% in Q2,”
+
+http://today.reuters.com/stocks/QuoteCompanyNewsArticle.aspx?view=CN&storyID=2006-08-
+
+02T201427Z_01_N02236206_RTRIDST_0_TECH-DIGITALCAMERAS.XML&rpc=66
+
+'* See Charles A. Holloway, Steven C. Wheelwright, and Nicole Tempest, “Cisco Systems, Inc.: Acquisition
+
+Integration for Manufacturing,” Case OIT26 (Palo Alto and Boston: Stanford University Graduate School of
+
+Business and Harvard Business School, 1998)
+
+Chapter 6
+
+How to Avoid Commoditization
+
+What causes commoditization? Is it the inevitable end-state of all companies in
+
+competitive markets? Can companies take action at any point in their
+
+development that can arrest its onset? Once the tide of commoditization has
+
+swept through an industry, can the flow be reversed back towards proprietary,
+
+differentiated, profitable products? How could I do this?
+
+_.«*Many executives have resigned themselves to the belief that, no matter how miraculous
+
+their iz,ovations, their inevitable fate is to be “commoditized.” These fears are grounded in
+
+painful experience. Here’s a frightening example: The first one-gigabyte 3.5-inch disk drives
+
+were introduced to the world in 1992 at prices that enabled their manufacturers to earn 60
+
+percent gross margins. These days, disk drive companies are struggling to eke out 15 percent
+
+margins on drives that are sixty times better. This isn’t fair, because these things are mechanical
+
+and microelectronic marvels. How many of us could mechanically position the head so that it
+
+stored and retrieved data in circular tracks that are only 0.00008 inch apart on the surface of
+
+disks, without ever reading data off the wrong track? And yet disk drives of this genre are
+
+regarded today as undifferentiable commodities. If products this precise and complicated can be
+
+commoditized, is there any hope for the rest of us?
+
+It turns out that there is hope. One of the most exciting insights from our research about
+
+commoditization is that whenever it is at work somewhere in a value chain, a reciprocal process
+
+of de-commoditization is at work somewhere else in the value chain.' And whereas
+
+commoditization destroys a company’s ability to capture profits by undermining differentiability,
+
+de-commoditization creates opportunities to create and capture potentially enormous wealth. The
+
+‘recinrocality of these processes means that the locus of the ability to differentiate shifts
+
+continuously in a value chain as new waves of disruption wash over an industry. As this happens,
+
+companies that position themselves at a spot in the value chain where performance is not yet
+
+good enough will capture the profit.
+
+Our purpose in this chapter is to help managers understand how these processes of
+
+commoditization and de-commoditization work, so that they can detect when and where they are
+
+beginning to happen. We hope that this understanding can help those who are building growth
+
+businesses to do so in a place in the value chain where the forces of de-commoditization are at
+
+work. We also hope it helps those who are running established businesses to reposition their
+
+firms in the value chain to catch these waves of de-commoditization as well. To return to Wayne
+
+Gretzky’s insight about great hockey playing, we want to help managers develop the intuition for
+
+skating not to where the money presently is in the value chain, but to where the money will be
+
+5-1]
+
+\s"
+
+Aad”
+
+The Processes of Commoditization and De-commoditization
+
+The process that transforms a profitable, differentiated, proprietary product into a
+
+commodity is the process of overshooting and modularization we described in chapter 4. At the
+
+leftmost side of the disruption diagram, the companies that are most successful are integrated
+
+companies that design and assemble the not-good-enough end-use products. They make
+
+attractive profits for two reasons. First, the interdependent, proprietary architecture of their
+
+products makes differentiation straightforward. Second, the high ratio of fixed to variable costs

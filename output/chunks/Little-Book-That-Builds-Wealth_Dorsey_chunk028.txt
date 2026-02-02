@@ -1,0 +1,256 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Industry Disruption and Moat Erosion
+SUMMARY: This text analyzes how technological and industry changes have eroded the competitive moats of once-profitable businesses like Kodak, newspapers, and telephony.
+KEYWORDS: technological disruption, industry consolidation, competitive moats, business model erosion, industry changes
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+profitable business of selling celluloid, paper, and chemi-
+
+cals that Kodak enjoyed in the past.
+
+Newspapers were once some of the best businesses in
+
+the world, reliably throwing off massive cash flows through
+
+their lock on local news, advertising, and classifieds. No
+
+more—the Internet has done irrevocable damage to the
+
+business of distributing daily news. Newspapers aren’t
+
+about to disappear, but it’s unlikely they will ever be as
+
+profitable as they once were.
+
+The Internet has also permanently killed long-distance
+
+telephony, another business that was once incredibly
+
+cc0088..iinndddd 110066 11//2266//0088 33::1100::1133 AAMM
+
+ERODING MOATS [107]
+
+profitable. Phone companies for decades minted money as
+
+the gatekeepers of connectivity between far-flung individuals
+
+and businesses. Now that phone calls can be routed over
+
+Internet-protocol networks, the legacy telecom carriers face
+
+structurally worse economics than they once did. Anyone
+
+with a computer and a free piece of software can make calls
+
+for pennies per minute, and a once-reliable source of cash for
+
+long-distance carriers is now gone forever.
+
+And you can ask any well-coiffed music executive
+
+what the Internet has done to the music-publishing busi-
+
+ness. Ouch.
+
+A final example that should be near and dear to the
+
+hearts of investors is the experience of equity exchanges—
+
+and especially floor traders and specialists—over the past
+
+few decades. Once NASDAQ became a viable competitor
+
+by the late 1970s and demonstrated that an all-electronic
+
+exchange was a cheaper alternative to a floor-based exchange,
+
+Pandora’s box was opened. Increasing volume on NAS-
+
+DAQ, combined with ever-lower communications and com-
+
+puting costs, spurred the creation of off-exchange trading
+
+networks like Archipelago. The more trading volume that
+
+bypassed floor traders and specialists, the more precari-
+
+ous their positions became, with the added headwind of
+
+tighter bid-ask spreads hurting profit margins.
+
+Granted, the kind of technological disruption that
+
+structurally damages the economics of an entire industry
+
+cc0088..iinndddd 110077 11//2266//0088 33::1100::1133 AAMM
+
+[108] THE LITTLE BOOK THAT BUILDS WEALTH
+
+is relatively rare—but it’s a painful experience for investors
+
+who are unable to recognize the change in time. One thing
+
+to remember is that disruptive technologies can hurt the
+
+moats of businesses that are e nabled by technology even
+
+more than businesses that s ell technology, even though
+
+investors in technology-enabled firms may not think they
+
+own a tech stock.
+
+Industrial Earthquakes
+
+Just as changes in the technological scene can cause once-
+
+strong moats to erode, shifts in the structure of industries
+
+can also cause lasting damage to companies’ competitive
+
+advantages. One common change to watch out for is con-
+
+solidation of a once-fragmented group of customers.
+
+In the United States, the rise of big-box retailers like
+
+Target, Wal-Mart, and others has permanently changed the
+
+economics of many consumer-products companies for
+
+the worse. Although a number of factors have contributed
+
+to decreased pricing power for firms like Clorox and
+
+Newell Rubbermaid, the increased buying power of a
+
+concentrated group of customers certainly tops the list.
+
+In Newell’s case, the company’s brands have also been
+
+hurt by Office Max and Staples, which have been pushing
+
+private-label office supplies.
+
+In another area of retail, the demise of mom-and-pop
+
+hardware stores and their replacement by the Lowe’s/
+
+cc0088..iinndddd 110088 11//2266//0088 33::1100::1133 AAMM
+
+ERODING MOATS [109]
+
+Home Depot duopoly has hurt the economics of many
+
+hardware suppliers. Even companies with venerable
+
+brands like Stanley Works or Black & Decker have lost
+
+pricing power now that they sell a sizable percentage of
+
+their wares through Lowe’s and Home Depot, which have
+
+far more negotiating leverage than a fragmented group of
+
+independent hardware stores.
+
+Changes in the industry landscape needn’t be local,
+
+of course. The entry of low-cost workforces in Eastern
+
+Europe, China, and elsewhere into the global labor pool
+
+has permanently damaged the economics of many manu-
+
+facturing businesses. In some cases, the labor differential
+
+is so large that companies that may have once benefited
+
+from a location-based moat have seen that competitive
+
+advantage disappear, as the cost savings from low-cost
+
+labor is large enough to offset high transportation costs.
+
+The wood-furniture industry in the United States has
+
+seen this happen firsthand.
+
+One final change to watch out for is the entry of an
+
+irrational competitor into an industry. Companies that are
+
+deemed strategic by a national government may take
+
+actions that support political or social goals, even though
+
+they result in lower profitability. For example, the busi-
+
+ness of making jet engines for aircraft has been for years
+
+a comfortable oligopoly among General Electric, Pratt &
+
+Whitney (owned by United Technologies), and UK-based
+
+cc0088..iinndddd 110099 11//2266//0088 33::1100::1133 AAMM
+
+[110] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Rolls-Royce. Standard practice in the industry for a long
+
+time has been to sell the engines at or somewhat below
+
+cost, and to make money on lucrative service contracts;
+
+because jet engines can last for decades, the lengthy
+
+stream of service fees can be quite profitable.
+
+But in the mid-1980s, Rolls-Royce ran into some finan-
+
+cial difficulties and needed subsidies from the British gov-
+
+ernment to keep the company alive. In order to save jobs
+
+and win business at one of the country’s highest-profile
+
+firms, management began cutting prices on both engines
+
+and maintenance contracts. Unfortunately, this practice
+
+continued for years after Rolls-Royce returned to consis-
+
+tent profitability, with the result that margins for Pratt and
+
+GE suffered for a while, as they were forced to match
+
+Rolls’ pricing. Jet engines remained a good business with a
+
+decent economic moat, and GE’s margins in particular
+
+have rebounded, but Rolls’ actions hurt all three players at
+
+the time.
+
+T he Bad Kind of Growth
+
+Some kinds of growth can cause moats to erode. In fact,
+
+I’d say the single most common self-inflicted wound to
+
+competitive advantage occurs when a company pursues
+
+growth in areas where it has no moat. Most corporate
+
+managers think bigger is always better (in fairness, man-
+
+agers at larger companies tend to get paid more than
+
+cc0088..iinndddd 111100 11//2266//0088 33::1100::1144 AAMM
+
+ERODING MOATS [111]
+
+managers at smaller companies, so it’s not illogical in

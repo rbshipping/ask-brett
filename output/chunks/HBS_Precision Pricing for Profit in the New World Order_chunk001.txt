@@ -1,0 +1,170 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Pricing Strategy
+SUMMARY: This article discusses the challenges of pricing in the new world order, including the shift from variable to fixed costs, customer consolidation, competition from different industries, and lack of inflation.
+KEYWORDS: pricing strategy, cost structure, customer consolidation, industry competition, inflation
+---
+
+roses Harvard Business School 9-999-003
+
+December 7, 1998
+
+Precision Pricing for Profit in the New World Order
+
+Increasing Customer Value, Pricing Latitude, and Profits
+
+Price too high and you lose the sale! Price too low and you can’t make money! Competitors
+
+with different cost structures pummel your price structure. Customers batter your salespeople. List
+
+prices are meaningless. Discounts are rampant. The old rules of thumb don’t hold. Cost-plus pricing
+
+never made much sense and now it seems stupid. Life is hard, and sometimes seems impossible—
+
+and pricing is often the hardest part.
+
+Managers who understand how to price in the new era can prosper and grow. It isn’t easy but
+
+it is profitable. And, most of it is necessary just to survive.
+
+This article explains the sources of price pressure carefully so you can clearly understand
+
+them, and then provides an improved framework, and a powerful toolkit for pricing in the new world
+
+order.
+
+iL THE FALL OF THE OLD WORLD ORDER
+
+Among the more fundamental changes which create new price pressure are:
+
+1. A profound shift from variable costs to fixed costs. In fact, for some companies,
+
+such as software providers, variable costs are very close to zero!
+
+2. A sharp consolidation in the size of customers and individual orders. It is not
+
+unusual in today’s concentrated account base world to find companies that do
+
+nearly all their business with a dozen customers. And, in many industries, long
+
+term contracts, global/national supply relationships, and complex multi-product
+
+and service outsourcing arrangements lead to unusually large orders. Orders of
+
+tens and hundreds of millions of dollars are increasingly more frequent.
+
+Locomotive manufacturers in the United States now have only four major
+
+railroads as potential customers down from many just a few years ago.
+
+This note was prepared by Professor Benson P Shapiro, B.P. Shapiro, Inc., 91 Main Street, Concord, MA 01742, (978) 369-
+
+7599.
+
+Copyright © 1998 Benson P. Shapiro. All righs reserved. To order copies or request permission to reproduce
+
+materials, call 1-800-545-7685, write Harvard Business School Publishing, Boston, MA 02163, or go to
+
+http://www.-hbsp.harvard.edu. No part of this publication may be reproduced, stored in a retrieval system,
+
+used in a spreadsheet, or transmitted in any form or by any means—electronic, mechanical, photocopying,
+
+recording, or otherwise-—without the permission of Harvard Business School or Professor Benson P. Shapiro.
+
+9-999-003 Precision Pricing for Profit in the New World Order
+
+3. Competitors from different industries and with vastly different cost structures and
+
+“value propositions” regularly meet in the market place. Natural gas and diesel
+
+buses compete in city transit. Mainframe computers joust with networks of
+
+servers and microcomputers.
+
+4. Almost no inflation and, in some industries, deflation, which makes it difficult to
+
+slip price increases by increasingly sophisticated and vigilant purchasing
+
+executives supported by advanced computer sentries. Flat pricing is the result of
+
+increased worldwide competition; lower transportation, communication and
+
+computer costs which increase the size of the “‘competitive set”; and high
+
+mobility of capital and knowledge which means that “focused monopolies” with
+
+high margins are “commoditized” much faster than ever before.
+
+5. Electronic auctions and near auctions, often facilitated by the Internet, make it
+
+harder to survive because of much lower customer search and acquisition cost
+
+“friction.” There is more fluidity in markets so that more suppliers can compete,
+
+and more buyers can shop prices across more suppliers. The prices of
+
+undifferentiated products and services will increasingly be bid down by this
+
+Draconian process.
+
+In essence, we are in a worldwide, cross-industry buyers’ market with few sustainable high-
+
+margin niches. Despite the challenges, there are better, evolving pricing approaches that help in
+
+many situations. Performance-based pricing is a prime example. It is helping sellers to create more
+
+customer value while being better compensated for their products and/or services. There are other
+
+such approaches as well. Before we consider them we need a firm foundation for improved pricing
+
+and a deeper understanding of the more important changes.
+
+I THE FOUNDATION: AN INTELLIGENT PRICING PHILOSOPHY
+
+A good pricing philosophy must incorporate the customer’s perspective, as well as the dual
+
+nature of customer-vendor relationships. These relationships have a cooperative component and a
+
+conflict-ridden component.
+
+(Exhibit 1) is a real income statement that attempts to capture the whole relationship. It has
+
+three horizontal lines. The lowest is cost (at this point it is not necessary to specify what kind of cost
+
+— variable, total, average, etc.). The top line is the customer’s perceived value. It is the total worth to
+
+the customer of all the tangible and intangible attributes of the product/service.
+
+The range or area between the cost line and the customer value line defines the “Zone of
+
+Possible Agreement” (ZOPA). The customer will not pay more than the perceived value (they may
+
+pay less as noted below). The supplier should not knowingly sell below cost (on a regular basis).
+
+Price moves in the ZOPA range. Raising the price increases the seller’s profits and decreases the
+
+“customer benefit”. The seller’s profit is the driving force to sell, and the customer benefit, the
+
+driving force for the customer to buy. As price goes up, the sale becomes harder, and vice versa.
+
+Setting price in the ZOPA is only a small part of the total pricing decision. But, most
+
+managers focus on the zero-sum game! in the ZOPA and argue about how to balance supplier profit
+
+and customer benefit on the price pivot point (Exhibit 2). More important, however, is how to
+
+1 4 “zero-sum game” is a two-part situation in which the winnings of one participant equals the losses of the
+
+other. It is impossible for both sides to simultaneously win.
+
+i ert —rsnntiiNpen eterna tA TAO ASA
+
+2
+
+Precision Pricing for Profit in the New World Order 9-899-003
+
+expand the zone of possible agreement by increasing perceived customer value and/or decreasing
+
+costs. This process increases the spoils for both buyer and seller, and turns the zero sum game within
+
+ZOPA into a non-zero sum game.

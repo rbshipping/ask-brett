@@ -1,0 +1,222 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Financial Valuation
+SUMMARY: The text discusses the limitations of book value as a valuation metric, particularly for asset-light and service-oriented companies, and highlights the usefulness of book value in the financial services sector.
+KEYWORDS: book value, valuation, financial services, competitive advantage, goodwill
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+dollar of earnings or cash flow is exactly the same from
+
+Company A to Company B, the stuff that makes up book
+
+value can vary dramatically. For an asset-intensive firm
+
+like a railroad or a manufacturing firm, book value repre-
+
+sents the bulk of the assets that generate revenue—things
+
+cc1133..iinndddd 117733 11//2288//0088 77::2277::2299 PPMM
+
+[174] THE LITTLE BOOK THAT BUILDS WEALTH
+
+like locomotives, factories, and inventory. But for a service
+
+or technology firm, for example, the revenue-generating
+
+assets are people, ideas, and processes, none of which are
+
+generally contained in book value.
+
+Moreover, many of the competitive advantages that
+
+create economic moats are typically not accounted for in
+
+book value. Take Harley-Davidson as an example, which
+
+has a P/B ratio of about 5 as of this writing, meaning that
+
+the company’s current market value is about five times the
+
+rough net worth of its factories, land, and inventory of
+
+yet-to-be-built motorcycle parts. That seems pretty rich,
+
+until you consider that the value of the company’s brand
+
+name is not accounted for in book value, and it’s the
+
+brand that allows Harley to earn 25 percent operating
+
+margins and a 40 percent return on equity.
+
+There is one other quirk to book value worth know-
+
+ing. It can often be inflated by an accounting convention
+
+known as goodwill, which is created when one company
+
+buys another. Goodwill is the difference between the
+
+acquired company’s tangible book value and the price paid
+
+for it by the buyer, and as you can imagine, it can be a
+
+huge number for firms without a lot of physical assets.
+
+(When America Online bought Time Warner, the book
+
+value of the combined firm increased by $130 b illion in
+
+goodwill.) The trouble is, goodwill often represents little
+
+more than the desire of the acquiring firm to buy the
+
+cc1133..iinndddd 117744 11//2288//0088 77::2277::2299 PPMM
+
+TOOLS FOR VALUATION [175]
+
+target before someone else does, and so its value is usually
+
+debatable, to say the very least. You’re best off subtracting
+
+goodwill from book value—and often when you see a
+
+price-to-book ratio that seems too good to be true, it’s
+
+because a big goodwill asset is boosting book value.
+
+So, with all these pitfalls, why bother with book value?
+
+Because it is extremely useful for one sector of the market
+
+that contains a disproportionate number of companies
+
+with solid competitive advantages: financial services. The
+
+assets of a financial company are typically very liquid
+
+(think of the loans on a bank’s balance sheet), so they are
+
+very easy to value accurately, which means that the book
+
+value of a financial services company is usually a pretty
+
+decent approximation of its actual tangible value. The
+
+only caveat here is that an abnormally low price-to-book
+
+ratio for a financial firm can indicate that the book value
+
+is somehow in question—perhaps because the company
+
+made some bad loans that will need to be written off.
+
+T he Multiple That Is Everywhere
+
+As you have no doubt guessed by now, every price multiple
+
+has a good side and a bad side—and the mother of all mul-
+
+tiples, the price-earnings (P/E) ratio, is no different. Price-
+
+earnings ratios are useful because earnings are a decent
+
+proxy for value-creating cash flow, and because earnings
+
+results and estimates are readily available from just about
+
+cc1133..iinndddd 117755 11//2288//0088 77::2277::3300 PPMM
+
+[176] THE LITTLE BOOK THAT BUILDS WEALTH
+
+any source you care to name. They are tricky, though,
+
+because earnings can be a noisy number, and because a
+
+price-earnings ratio doesn’t mean a whole lot in a vacuum—
+
+a P/E of 14 is neither good nor bad, unless we know some-
+
+thing about the company or we have a benchmark against
+
+which to compare the P/E.
+
+Of course, one of the trickiest aspects of the price-
+
+earnings ratio is that, while there may be only one “P,” there
+
+may be more than one “E.” I’ve seen P/Es calculated using
+
+earnings from the most recent fiscal year, the current fiscal
+
+year, the current calendar year, the past four quarters, and
+
+estimates for the next fiscal year. Which one should you use?
+
+That’s a tough question. Always approach a forecasted
+
+earnings number with some caution. These forecasts are
+
+usually the consensus estimate of all Wall Street analysts
+
+following the company, and multiple studies have shown
+
+that consensus estimates are typically too pessimistic just
+
+before a beaten-down company rebounds, and too optimis-
+
+tic just before a highflier slows down. A reasonable-looking
+
+P/E of 15 becomes a less reasonable 20 if earnings turn out
+
+to be 25 percent less than expected.
+
+My advice is to look at how the company has per-
+
+formed in good times and bad, do some thinking about
+
+whether the future will be a lot better or worse than the
+
+past, and come up with your own estimate of how much
+
+the company could earn in an average year. That’s the
+
+cc1133..iinndddd 117766 11//2288//0088 77::2277::3300 PPMM
+
+TOOLS FOR VALUATION [177]
+
+best basis for a P/E on which to base your valuation
+
+because (1) it is your own, so you know what went into
+
+the forecast, and (2) it is based on an average year for the
+
+company, not the best of times or the worst of times.
+
+Once you have found your “E,” you are ready to use
+
+the P/E ratio. The most common way to use a P/E is to
+
+compare it with something else, such as a competitor, an
+
+industry average, the entire market, or the same company
+
+at another point in time. There is some merit to this
+
+approach, as long as you don’t go about it blindly and you
+
+remember the four main drivers of valuation that I dis-
+
+cussed earlier in the chapter: risk, growth, return on capi-
+
+tal, and competitive advantage.
+
+A company that is trading at a lower P/E than others
+
+in the same industry might be a good value—or it might
+
+deserve that lower P/E because it has lower returns on
+
+capital, less robust growth prospects, or a weaker com-

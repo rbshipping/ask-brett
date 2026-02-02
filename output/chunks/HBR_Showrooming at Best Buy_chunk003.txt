@@ -1,0 +1,158 @@
+SOURCE: HBR_Showrooming at Best Buy.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Strategies to Counter Showrooming
+SUMMARY: Retailers responded to showrooming by building their own apps, offering exclusive products, and expanding loyalty programs and price matching.
+KEYWORDS: showrooming, retail apps, exclusive products, loyalty programs, price matching
+---
+
+Some stores chose to fight fire with fire by building their own apps or partnering with third-party
+
+app companies. Others invested in their store selection by offering exclusive products not sold online.
+
+Others hoped to entice customers back into stores by expanding their loyalty programs and discounts
+
+for repeat shopping. One major retailer even waged a war directly against online retailers by
+
+matching their prices.
+
+Store-owned and third-party apps
+
+Partnerships between retailers and third-party app developers took many shapes. Shopkick’s
+
+points system, which encouraged in-store shopping by awarding points for “checking in” inside
+
+physical stores, provided a way for traditional retailers to draw in shoppers. In 2012, customers spent
+
+an average of three hours a month using the app.23 “Our Shopkick customers buy twice as often as a
+
+non-Shopkick user, and have helped increase in-store traffic,” said Fred Grover, executive vice
+
+president of clothing retailer American Eagle.24
+
+The development of this and similar apps led to an increase in promotional and coupon-based
+
+spending by both retailers and manufacturers. The number of retail digital-coupon promotions
+
+increased 50% between 2011 and 2012. Once downloaded and launched on a mobile phone, an app
+
+could deliver these coupons and offers to a shopper in a variety of ways: the shopper could take a
+
+picture of a product or scan its barcode, and the app would deliver related discounts. An app could
+
+also evaluate the purchase history of a shopper to deliver tailored discounts for items they were likely
+
+to want or need. Through geofencing, the store could trigger additional coupons for other products in
+
+the store or at neighboring retailers.
+
+These apps also made for the easy collection of real-time data on a variety of customers’ moves
+
+and choices, allowing retailers to draw conclusions about where customers might hesitate over a
+
+price or an option, and prompt them to buy with extra discounts and offers. In addition, by scanning
+
+the data of items already placed in a shopping cart, an app could make further item
+
+recommendations or direct customers toward other departments of the store. Macy’s, Old Navy, J.C.
+
+Penney, Target, Crate & Barrel, and Best Buy all partnered with third-party apps.
+
+Assortment changes
+
+Some traditional retailers further responded to showrooming by adjusting their in-store product
+
+assortments. Such shifts closely reflected the types of products that were the most susceptible to
+
+showrooming, among them toys, clothes, and electronics. For example, Toys “R” Us began to carry
+
+products that could only be purchased at its stores or on its own website. Target established
+
+partnerships with clothing designers, including Missoni and Jason Wu, to develop exclusive products
+
+sold only at Target.25 In early 2012, Target famously sent a letter to vendors asking for help in
+
+thwarting showrooming through the creation of exclusive products. The letter leaked to the press and
+
+the Wall Street Journal reported:
+
+Last week, in an urgent letter to vendors, the Minneapolis-based chain suggested that
+
+suppliers create special products that would set it apart from competitors and shield it
+
+from the price comparisons that have become so easy for shoppers to perform on their
+
+computers and smartphones. Where special products aren’t possible, Target asked the
+
+suppliers to help it match rivals’ prices. It also said it might create a subscription service
+
+that would give shoppers a discount on regularly purchased merchandise.26
+
+4
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Showrooming at Best Buy 515-019
+
+Some electronics retailers even took the extreme decision to diversify their product assortments
+
+away from electronics and into other types of goods. Chicago-area retailer Abt Electronics began to
+
+stock furniture, luggage, and exercise equipment, reducing its reliance on electronics.27
+
+Pricing policy changes
+
+For those retailers not willing to or incapable of demanding exclusive products, the alternative
+
+was to deal with the glaring price differences. Showrooming had a major influence on pricing policy
+
+since the lower prices of online retailers were becoming apparent to customers. Table A shows
+
+Amazon’s price difference (excluding sales tax, including shipping) compared to the website prices of
+
+Wal-Mart and Target (including shipping), and to the in-store prices of Wal-Mart and Best Buy.
+
+Table A Amazon’s Price Difference
+
+Online Prices, All Products (%) In-store Prices, Consumer Electronics (%)
+
+Against Wal-Mart.com - 9% Against Wal-Mart - 11%
+
+Against Target.com - 14% Against Best Buy - 8%
+
+Note: In the left column, sales tax is excluded for Amazon but not for retailers with a physical presence. The law changed
+
+this in 2013-4. In the right column, sales tax is included for both Amazon and physical retailers.
+
+Source: Anne Zimmerman, “Can Retailers Halt ‘Showrooming’?” The Wall Street Journal, April 11, 2012.
+
+Retailers competing for shrinking shopping budgets, especially in the high-stakes holiday season,
+
+were forced to lower their prices to compete with online prices in what many termed a “race to the
+
+bottom.” Yet, with the overhead costs associated with maintaining a physical store, the effort to price-
+
+match online retailers could be hazardous. Traditional big-box retailers mounted their first pricing
+
+attacks against online retailers in 2009. Wal-Mart focused on books, the product on which Amazon
+
+had built its customer base, and dropped the price of its most popular books below $10. Its CEO
+
+commented on the tactic: “If there’s going to be a ‘Wal-Mart of the Web,’ it’s going to be
+
+Walmart.com.”28
+
+A more drastic means for retailers to compete against low prices online was to encourage
+
+manufacturers to adopt a minimum advertised price (MAP) policy.29 Through MAP, a manufacturer
+
+of consumer durables would unilaterally force all its authorized resellers to abide to a minimum price
+
+for advertising the manufacturer’s products in any media. MAP policies typically were introduced
+
+when the manufacturer provided cooperative advertising dollars for the retailer to spend on TV,
+
+print and other media, to advertise the manufacturer’s products. In this case, retailers needed to
+
+respect the MAP and not advertise below a certain price. These policies were lawful if they did not

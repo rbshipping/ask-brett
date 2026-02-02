@@ -1,0 +1,256 @@
+SOURCE: Welch_-_Winning.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Quality Improvement
+SUMMARY: The text discusses the benefits of Six Sigma, a quality improvement program that can boost a company's competitiveness through enhanced operational efficiency, productivity, and cost reduction.
+KEYWORDS: Six Sigma, Quality Improvement, Operational Efficiency, Productivity, Cost Reduction
+---
+
+cannot match.
+
+Yes, mergers and acquisitions have their challenges, and all
+
+kinds of research will tell you that more than half don’t add value.
+
+But nothing says you have to fall victim to that statistic.
+
+Don’t let deal heat get you, and avoid the seven pitfalls—then
+
+reap the rewards of what happens when 1+1 = 3.
+
+— 243 —
+
+15
+
+Six Sigma
+
+BETTER THAN A TRIP
+
+TO THE DENTIST
+
+IN THE PREVIOUS TWO CHAPTERS of this book,
+
+we’ve looked at one of the more exciting aspects of business—
+
+growth—both through starting something new and through
+
+mergers and acquisitions.
+
+In this chapter, we’re leaping to the other end of the spectrum
+
+to talk (briefly, I promise) about what can be one of business’s most
+
+dreary topics, Six Sigma.
+
+Now, I am a huge fan of Six Sigma, the quality improvement
+
+program that GE adopted from Motorola in 1995 and continues
+
+to embrace today.
+
+Nothing compares to the effectiveness of Six Sigma when it
+
+comes to improving a company’s operational efficiency, raising its
+
+productivity, and lowering its costs. It improves design processes,
+
+gets products to market faster with fewer defects, and builds
+
+customer loyalty. Perhaps the biggest but most unheralded benefit
+
+of Six Sigma is its capacity to develop a cadre of great leaders.
+
+Simply put, Six Sigma is one of the great management innova-
+
+— 245 —
+
+YOUR COMPETITION
+
+tions of the past quarter century and
+
+Done right, Six Sigma an extremely powerful way to boost
+
+a company’s competitiveness. These
+
+is energizing and
+
+days, with Six Sigma being increas-
+
+incredibly rewarding.
+
+ingly adopted by companies around
+
+It can even be fun. the world, you can’t afford not to
+
+understand it, let alone not prac-
+
+tice it.
+
+And yet, Six Sigma causes enormous anxiety and confusion.
+
+Over the past several years, in virtually every Q & A session in
+
+country after country, someone in the audience has asked me a
+
+tortured Six Sigma question. You can see the interest level in the
+
+audience plummet and eyes glaze over, as people brace themselves
+
+for a long-winded technical lecture, complete with several graphs
+
+and charts.
+
+I’m exaggerating a bit, of course, but it is fair to say that for
+
+many people, the concept of Six Sigma feels like a trip to a dentist.
+
+But Six Sigma couldn’t be less like a root canal or any other awful
+
+procedure. Done right, it is energizing and incredibly rewarding. It
+
+can even be fun.
+
+You just have to understand what Six Sigma really is.
+
+There is nothing technical in what I am about to say. If you
+
+want to learn about the statistical premise behind the concept, or
+
+learn what it takes to become qualified in Six Sigma, an industry
+
+of books, videos, and training programs eagerly awaits you.
+
+But for our purposes, I’m going to be very simple about what
+
+Six Sigma means and what it does. I call this “Six Sigma for Citi-
+
+zens,”meaning those people—like myself—who’d like to hear the
+
+“elevator speech” version of what Six Sigma is all about and why
+
+it matters so darn much. This explanation is not meant to satisfy
+
+scientists and engineers, who actually do need to know about the
+
+— 246 —
+
+SIX SIGMA
+
+statistical basis of Six Sigma in order to incorporate it into the de-
+
+sign of experiments and complex equipment.
+
+Here goes:
+
+Six Sigma is a quality program that, when all is said and done,
+
+improves your customers’ experience,lowers your costs,and builds
+
+better leaders.
+
+Six Sigma accomplishes that by reducing waste and ineffi-
+
+ciency and by designing a company’s products and internal
+
+processes so that customers get what they want, when they want
+
+it, and when you promised it. Obviously, you want to make your
+
+customers more satisfied than your competitors do, whether you
+
+run Upper Crust Pizza or manufacture the most powerful jet en-
+
+gines. In the strategy chapter we talked about customer loyalty, and
+
+we used the word sticky to describe what you want. Well, a huge
+
+part of making your customers sticky is meeting or exceeding
+
+their expectations, which is exactly what Six Sigma helps you do.
+
+One thing that is sure to kill stickiness is inconsistency in
+
+services or products.
+
+Consider this hypothetical. You make spare parts and promise
+
+ten-day delivery.
+
+Over the course of three deliveries, your customers receive
+
+their parts on day five, day ten, and
+
+day fifteen. On average, ten-day de-
+
+A huge part of making
+
+livery.
+
+your customers sticky is
+
+Over the course of the next three
+
+deliveries, they receive their parts on meeting or exceeding
+
+day two, day seven, and day twelve.
+
+their expectations, which
+
+An average of seven days, a seemingly
+
+is exactly what Six Sigma
+
+big improvement in the customer ex-
+
+helps you do.
+
+perience. But not really—you might
+
+have had some internal process or
+
+— 247 —
+
+YOUR COMPETITION
+
+cost improvements, but the customer has experienced nothing but
+
+inconsistency!
+
+With Six Sigma, your customers would receive all three of
+
+their deliveries on day ten, or in the worst case, on day nine, day
+
+ten, and day eleven.
+
+Six Sigma, in other words, is not about averages. It’s about varia-
+
+tion and removing it from your customer’s interface with you.
+
+To remove variation, Six Sigma requires companies to unpick
+
+their entire supply and distribution chains and the design of their
+
+products. The objective is to wash out anything that might cause
+
+waste, inefficiency, or a customer to get annoyed with your unpre-
+
+dictability.
+
+So, that’s Six Sigma—the elimination of unpleasant surprises
+
+and broken promises.
+
+SIMPLE, COMPLEX, OR NOT AT ALL
+
+From 20,000 feet, Six Sigma has two primary applications. First, it
+
+can be used to remove the variation in routine, relatively simple,
+
+repetitive tasks—activities that happen over and over again. And
+
+second, it can be used to make sure large, complex projects go
+
+right the first time.
+
+Examples of the first kind of application are a multitude.
+
+Call centers from South Dakota to Delhi use Six Sigma to make

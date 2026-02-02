@@ -1,0 +1,202 @@
+SOURCE: Jun HFT Pre-Reading - BBRC PE Research Note.pdf
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Digital Retail Trends
+SUMMARY: The text discusses the rise of live commerce, with home shopping networks, big tech, and social media platforms embracing interactive formats to engage consumers and increase sales.
+KEYWORDS: live commerce, social commerce, interactive retail, digital shopping trends, home shopping networks
+---
+
+[Document: Jun HFT Pre-Reading - BBRC PE Research Note.pdf]
+
+anecdotes and recommendations make home shopping feel like a social experience.
+
+Home shopping networks have managed to remain relevant by adapting their formats to digital
+
+channels, with 60% of QVC’s sales now occurring online. Meanwhile, big tech is also investing in
+
+home shopping formats. In 2019, Amazon launched a home shopping channel, Amazon Live, which
+
+allows Amazon stockists to create livestreamed content and engage with customers via a live chat
+
+function. Meanwhile, in a significant move towards the social commerce model pioneered by
+
+Chinese networks like WeChat, Facebook recently announced the launch of Facebook Shops, which
+
+will allow brands to include shoppable product tags in live videos on Facebook and Instagram so
+
+viewers can shop within the app during a livestream.
+
+Digital 3.0 | 5
+
+Valentine's Day Gift Shop Live
+
+NOON! Appleberny Lip Oi
+
+0.12 Ounces, Heating Dye Eyuuradow Paes
+
+trelisim NUDE ‘dude
+
+Settetets 105 prime - eteietete 138 serine
+
+? 12.00 7 $34.20
+
+in| :
+
+Amazon Live online shoppable product demonstration (Source: TechCrunch)
+
+Live commerce: embrace it, it’s here to stay
+
+Digital 3.0 has arrived — the question is when, not if, to embrace this new era of retailing.
+
+From the growth in Chinese live commerce to TV home shopping’s second wave, the trends are
+
+clear: buoyed by improvements in video and smartphone technology, consumers see novelty in
+
+engaging with brands in more interactive formats, while retailers see potential for brand-building
+
+and increased conversions.
+
+The lessons from China and TV home shopping not only provide a tech roadmap, but also give us
+
+clues into customer behaviour, what and how to sell and what conversion and cost benchmarks to
+
+track.
+
+In the short term, retailers in western countries will experience some limitations when using current
+
+technologies until mainstream platforms (such as Facebook and Shopify) catch up to the technical
+
+capabilities and extensive integrations of Chinese e-commerce and social networks. Covid-19 has a
+
+provided a catalyst for this progress to accelerate, evidenced by Facebook's recent announcement of
+
+its Facebook Shops live shopping features, which has been heralded as a ‘game changer’ for the
+
+industry.
+
+Digital 3.0 | 6
+
+Do it now: test, learn, execute
+
+Retailers have multiple options available to implement live commerce today:
+
+Various software providers currently offer specialised solutions, such as livestreaming or
+
+virtual appointment software. We have mapped some of the available technologies at
+
+Appendix 1.
+
+As a lower-cost alternative, retailers can use Instagram, Facebook and YouTube to livestream
+
+product launches, demos and customer Q&As in order to increase engagement and educate
+
+their customers. To complement store networks, brands can also use Facetime, Zoom and
+
+Skype to connect customers with sales representatives either 1:1 or in groups. We have
+
+explored some of the ways BBRC’s retail businesses are using these strategies at Appendix 2.
+
+Some retailers have also developed their own native software, like H&M subsidiary brand
+
+Monki, which has produced a proprietary livestreaming app.
+
+Even these basic solutions represent the next phase of innovation in online retail. Instead of waiting
+
+for more sophisticated live commerce technology to launch, retailers can use existing solutions to
+
+test and refine their strategy. Retailers currently have a low-stakes opportunity to learn how live
+
+commerce can form part of their long-term omnichannel mix. As with any new and untested
+
+technology, retailers experimenting with live commerce must be careful to measure and adapt their
+
+chosen approach. Before starting with live commerce, brands should consider:
+
+Purpose and frequency: are you using live commerce for immediate sales, product
+
+launches, branding or customer loyalty? How often will you produce content or run live
+
+events?
+
+What products to feature: in China, products sold on Taobao Live are generally priced
+
+between 200-500 yuan (A$40-110), although each platform attracts different demographics
+
+and luxury brands are now experimenting with higher price points. QVC's average selling
+
+price sits in a similar range at around US$54. While brands can use these indicators as a
+
+starting point, you should analyse viewer demographics, test different price points and track
+
+how consumers respond.
+
+How to measure success: TV home shopping networks use dollars per minute (net sales per
+
+minute of airtime) as a key metric to track the efficacy of live selling sessions. Retailers using
+
+Facebook, Instagram or YouTube for live commerce should also use their analytics tools to
+
+calculate viewer engagement and conversion rates.
+
+Choice of platform and integration with overall omnichannel mix: Which platforms best
+
+suit your customer base? Should the live commerce platform form a part of your website?
+
+Will you be take a multi-platform approach (Youtube, Facebook, Instagram, Amazon)?
+
+Software and tech choices: How will you integrate customer data, feedback, service and
+
+payments into the overall experience?
+
+New capabilities, people and assets: even small live commerce experiments require some
+
+upfront investment. Capital considerations include filming and editing equipment, livestream
+
+set design and software. Retailers will also need a presenter (for example, a high-octane
+
+member of their sales team or influencer), videographer and dedicated customer service
+
+team to manage live chat interaction during the livestream. Retailers should track these costs
+
+against new customer acquisition and conversions to calculate a total return on investment.
+
+Digital 3.0 | 7
+
+Closing remarks
+
+Like all innovations in retail, it will ultimately depend on each brand to develop and execute their
+
+own winning formula. As we saw with earlier innovations in retailing, live commerce may help
+
+retailers promote higher-value products that have traditionally been harder to sell online, moving
+
+online retail’s use case further up the value chain. Alternatively, live commerce strategies could be
+
+used for marketing, retention and customer service rather than as a primary sales channel. Either
+
+way, live commerce allows retailers to create a powerful link between physical and online channels
+
+and marks the critical next step in omnichannel retail.
+
+Digital 3.0 | 8
+
+Appendix 1: Software and solutions
+
+Key Digital 3.0 software
+
+Live e-commerce
+
+Livestream creation, broadcasting
+
+and viewer interaction
+
+S sociali 5
+
+ont | cncive® | Mil WIEN
+
+‘dropp) Restreaii.ie O% Vueai
+
+MJ Liv=scace > wootag
+
+Livestreaming platforms Shoppable video creation tools
+
+Online shopping enhancements Virtual sales services

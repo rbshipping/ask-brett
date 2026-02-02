@@ -1,0 +1,290 @@
+SOURCE: Execution_The Missing Link in Retail Ops.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: This document analyzes execution problems in retail operations, including misplaced inventory and inventory record errors, and identifies key drivers such as replenishment and sales processes, merchandising, and employee turnover.
+KEYWORDS: retail operations, inventory management, execution challenges, store performance, process drivers
+---
+
+140 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 141
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+encountered by other retailers with more established systems. Subsequent field
+
+P
+
+visits to other retailers however showed that execution problems were wide-
+
+spread. Over time, we were able to identify anecdotally the two execution prob-
+
+lems described in this article at multiple retailers in food, apparel, book, music,
+
+and office product categories.
+
+Subsequently, we launched a more intensive phase of our research based
+
+r
+
+on data obtained from physical audits conducted at the store-SKU level at Beta
+
+and Gamma. Both were frequently identified by other retailers in our study as
+
+o
+
+having stellar operations and systems. At Beta and Gamma, physical audits are
+
+conducted annually or semi-annually; a team of auditors visits each store and
+
+collects data on the amount and location of various SKUs. Stores are closed at
+
+the time of physical audit, hence execution problems are likely to be less preva-
+
+lent during an audit than during regular storey hours. For each of Beta’s 242
+
+stores, we were able to obtain the fraction of a store’s assortment that had been
+
+misplaced in storage areas and hence was not available in the selling area where
+
+p
+
+consumers could find and purchase them. At Gamma, we obtained “physical”
+
+and “system” inventory levels and hence errors in inventory records for roughly
+
+10,000 SKUs at 37 stores.
+
+o
+
+Our analyses revealed a number of insights that were interesting to man-
+
+agers, and at least a few that were initially surprising to us. The performance of
+
+stores measured on the two execution problems identified here varied consider-
+
+C
+
+ably. For example, average absolute error (between physical and system inven-
+
+tory level) ranged from 2.4 units per store-SKU at one store to 7.9 units per
+
+store-SKU at another. Similarly, with misplaced SKUs, the fraction of a store’s
+
+assortment that was misplaced in storage areas ranged from 0.2% to 10%.
+
+Moreover, store performance for both measures remained consistent from one
+
+year to the ntext. The variation in performance among stores and the consistency
+
+of performance from one year to the next is summarized in Figures 3 and 4.
+
+o
+
+Our statistical analysis (described briefly in Appendix 1) enabled us to
+
+identify three broad categories of drivers: replenishment and sales processes at
+
+stoNres and distribution centers (DCs), merchandising and inventory manage-
+
+ment, and employee turnover. The stores had identical information technology
+
+and monetary incentive mechanisms and were part of the same corporate entity;
+
+consequently, these factors could not explain the differences in store
+
+performance.
+
+o
+
+Replenishment and Sales Processes at Stores and DCs
+
+The processes followed at stores and distribution centers understandably
+
+affect the quality of execution in the stores. Consider the inventory record inac-
+
+D
+
+curacy problem—it is easy to see that store processes contribute substantially to
+
+this problem. Almost all of us, when buying multiple, identically priced items at
+
+a supermarket, say a lemon yogurt and a plain yogurt, have watched the sales-
+
+person scan one item (say, the lemon yogurt) twice instead of each item sepa-
+
+rately. This apparently innocuous practice results in two discrepancies between
+
+CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001 141
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 142
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+FIGURE 3. Consistent Performance in Inventory Accuracy Among Stores in Two
+
+Consecutive Years P
+
+8.00
+
+7.00 r
+
+o
+
+6.00
+
+5.00
+
+y
+
+4.00
+
+3.00 p
+
+2.00
+
+2.00 3.00 4.0o0 5.00 6.00 7.00 8.00 9.00
+
+Absolute Error (1998)
+
+C
+
+FIGURE 4. C onsistent Performance in Misplaced SKUs Among Stores in Two Consecutive Years
+
+t
+
+o
+
+12.00%
+
+10.00%
+
+N
+
+8.00%
+
+6.00%
+
+4.00%
+
+o
+
+2.00%
+
+D
+
+0.00%
+
+0.00% 2.00% 4.00% 6.00% 8.00% 10.00% 12.00%
+
+Fraction of SKUs Not on Floor (1999)
+
+142 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+)9991(
+
+rorrE
+
+etulosbA
+
+)0002(
+
+roolF
+
+no
+
+toN
+
+sUKS
+
+fo
+
+noitcarF
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 143
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+“system inventory level” and “physical inventory level.” In the above example,
+
+P
+
+system inventory would exceed physical inventory by one unit for plain yogurt
+
+and would be a unit short for lemon yogurt. Similarly, many of us have experi-
+
+enced situations where, after buying a “large” garment, we returned to the store
+
+to exchange the “large” for a “medium.” It is not unusual in th is circumstance
+
+for salespeople to exchange the garments without entering either transaction
+
+r
+
+(i.e., the return of one item and the sale of another). Clearly, in this case the
+
+system would underestimate physical inventory for large and overestimate
+
+o
+
+inventory for medium garments.
+
+Store processes also cause the “misplaced SKUs” problem. Store sales
+
+people are often charged with moving merchandise from the storage areas to
+
+the sales floor based on sales of specific items. The task, though it appears to be
+
+simple, is rendered complex by a number of fyactors. One, store salespeople, who
+
+often are very busy during high-traffic periods, find it hard to replenish mer-
+
+chandise promptly from the storage areas. Two, most stores do not organize the
+
+p
+
+inventory in their storage areas very well. Consequently, sales people may not
+
+know if merchandise that has stocked out in the selling area is even available in
+
+the storage areas. Moreover, computerized information systems that track the
+
+o
+
+inventory at the stores often do not maintain separate fields to identify storage
+
+area inventory. The fact that storage areas are often dispersed over multiple loca-
+
+tions and “SKUs not on floor” could be in any of these locations exacerbates the
+
+C

@@ -1,0 +1,144 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Training and Development
+SUMMARY: The text discusses the importance of learning and testing assumptions through After-Action Reviews (AARs) and small experiments in military training.
+KEYWORDS: After-Action Review (AAR), Learning, Training, Military, Experimentation
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+if the unit had anticipated that equipment OPFOR’s AARs, by contrast, focus on im-
+
+maintenance or logistics would be a challenge, proving a unit’s own learning and, as a result,
+
+what resources (mines, wire, ammo, vehicles) its own performance. A unit may generate a
+
+were functioning and available? lesson during the AAR process, but by OP-
+
+The AAR meeting addresses four questions: FOR’s definition, it won’t have learned that les-
+
+What were our intended results? What were son until its members have changed their be-
+
+harvard business review • july–august 2005 page 5
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It
+
+havior in response. Furthermore, soldiers need tion from observation points to plan effective
+
+to see that it actually works. OPFOR’s leaders artillery missions—in the dark, against a mov-
+
+know most lessons that surface during the first ing target. The next challenge would be to test
+
+go-round are incomplete or plain wrong, repre- their assumptions to see first, if they could lo-
+
+senting what the unit thinks should work and cate and target infantry sooner; and second,
+
+not what really does work. They understand what difference that ability would make to
+
+that it takes multiple iterations to produce dy- them achieving their mission.
+
+namic solutions that will stand up under any OPFOR’s need to test theories is another
+
+conditions. reason the brigade conducts frequent brief
+
+For example, in one fight against a small, AARs instead of one large wrap-up. The sooner
+
+agile infantry unit, OPFOR had to protect a a unit identifies targeting infantry as a skill it
+
+cave complex containing a large store of muni- must develop, the more opportunities it has to
+
+tions. BLUFOR’s infantry chose the attack try out different assumptions and strategies
+
+route least anticipated by OPFOR’s command- during a rotation and the less likely those les-
+
+ers. Because scouts were slow to observe and sons are to grow stale. So units design numer-
+
+communicate the change in BLUFOR’s move- ous small experiments—short cycles of “plan,
+
+ments, OPFOR was unable to prevent an at- prepare, execute, AAR”—within longer cam-
+
+tack that broke through its defense perimeter. paigns. That allows them to validate lessons for
+
+OPFOR was forced to hastily reposition its re- their own use and to ensure that the lessons
+
+serve and forward units. Much of its firepower they share with other teams are “complete”—
+
+didn’t reach the crucial battle or arrived too meaning they can be applied in a variety of fu-
+
+late to affect the outcome. ture situations. More important, soldiers see
+
+OPFOR’s unit leaders knew they could ex- their performance improve as they apply those
+
+tract many different lessons from this situation. lessons, which sustains the learning culture.
+
+“To fight an agile infantry unit, we must locate Not all OPFOR experiments involve correct-
+
+and attack infantry before soldiers can leave ing what went wrong. Many involve seeing if
+
+their trucks” was the first and most basic. But what went right will continue to go right under
+
+they also knew that that insight was not enough different circumstances. So, for example, if
+
+to ensure future success. For example, scouts OPFOR has validated the techniques it used to
+
+would have to figure out how to choose patrol complete a mission, it might try the same mis-
+
+routes and observation positions so as to quickly sion at night or against an enemy armed with
+
+and accurately locate BLUFOR’s infantry be- cutting-edge surveillance technology. A consult-
+
+fore it breached the defense. Then staffers ing-firm ad displays Tiger Woods squinting
+
+would need to determine how to use informa- through the rain to complete a shot and the
+
+headline: “Conditions change. Results shouldn’t.”
+
+That could be OPFOR’s motto.
+
+In fact, rather than writing off extreme situ-
+
+Five Ways to Put AARs to Work at Work ations as onetime exceptions, OPFOR em-
+
+braces them as learning opportunities. OP-
+
+The U.S. Army’s standing enemy brigade reason to participate. And customize the FOR’s leaders relish facing an unusual enemy
+
+(referred to as OPFOR) applies the after- process to fit each project and project or situation because it allows them to build
+
+action review (AAR) process to everything phase. For example, during periods of in- their repertoire. “It’s a chance to measure just
+
+it does, but that’s not realistic for most tense activity, brief daily AAR meetings how good we are, as opposed to how good we
+
+companies. Business leaders must act se- can help teams coordinate and improve think we are,” explained one OPFOR com-
+
+lectively, with an eye toward resources the next day’s activities. At other times, mander. Such an attitude might seem antithet-
+
+and potential payoffs. Don’t even think meetings might occur monthly or quar- ical to companies that can’t imagine purposely
+
+about creating an AAR regimen without terly and be used to identify exceptions in handicapping themselves in any endeavor. But
+
+determining who is likely to learn from it volumes of operational data and to under- OPFOR knows that the more challenging the
+
+and how they will benefit. Build slowly, stand the causes. The level of activity game, the stronger and more agile a competi-
+
+beginning with activities where the pay- should always match the potential value tor it will become.
+
+off is greatest and where leaders have of lessons learned. On the next page are
+
+committed to working through several some ways you can use AARs, based on More than a Postmortem
+
+AAR cycles. Focus on areas critical to a examples from companies that have used Corporate AARs are often convened around
+
+team’s mission so members have good them effectively. failed projects. The patient is pronounced
+
+harvard business review • july–august 2005 page 6
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It

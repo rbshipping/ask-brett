@@ -1,0 +1,178 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation in the Computer Industry
+SUMMARY: The text discusses how categorization of industries based on industry-defined lines can be irrelevant to profitability and growth, leading to misunderstandings in the investment management industry.
+KEYWORDS: disruptive innovation, industry categorization, investment management, computer industry
+---
+
+summarized in “Deconstructing the Computer Industry,” Business Week, 23 November
+
+1992, 90-96. As we note in the appendix to this chapter, we would expect that much of
+
+5-17
+
+ll,
+
+12.
+
+13.
+
+Dell’s profit comes from its direct-to-customer retailing operations, not from product
+
+assembly.
+
+With just a few seconds’ reflection, it is easy to see that the investment management
+
+industry suffers from the problem of categorization along industry-defined lines that are
+
+irrelevant to profitability and growth. Hence, they create investment funds for
+
+“technology companies” and other funds for “health care companies.” Within those
+
+portfolios are disruptors and disruptees, companies on the verge of commoditization and
+
+those on the verge of de-commoditization, and so on. Michael Mauboussin, chief
+
+investment strategist at Credit Suisse First Boston, recently wrote an article on this topic.
+
+It builds on the model of theory building that we have summarized in the introduction of
+
+this book, and its application to the world of investing is very insightful. See Michael
+
+Mauboussin, “No Context: The Importance of Circumstance-Based Categorization,” The
+
+Consiliant Observer, New York: Credit Suisse First Boston, 14 January 2003.
+
+Those of our readers who are familiar with the disk drive industry might see a
+
+contradiction between our statement that much of the money in the industry was earned
+
+in head and disk manufacturing and the fact that the leading head and disk makers, such
+
+as Read-Rite and Komag, have not prospered. They have not prospered because most of
+
+the leading disk drive makers—particularly Seagate—integrated into their own head and
+
+disk making so that they could capture the profit instead of the independent suppliers.
+
+IBM did have profitable volume in 3.5-inch drives, but it was at the highest-capacity tiers
+
+of that market, where capacity was not good enough and the product designs therefore
+
+had to be interdependent.
+
+A more complete account of these developments has been published in Clayton M.
+
+Christensen, Matt Verlinden, and George Westerman, “Disruption, Disintegration and the
+
+Dissipation of Differentiability,” Industrial and Corporate Change 11, no. 5 (2002): 955—
+
+993. The first Harvard Business School working papers that summarized this analysis
+
+were written and broadly circulated in 1998 and 1999.
+
+We have deliberately used present- and future-tense verbs in this paragraph. The reason is
+
+that at the time this account was first written and submitted to publishers, these
+
+statements were predictions. Subsequently, the gross margins in IBM’s 2.5-inch disk
+
+drive business deteriorated significantly, as this model predicted they would. However,
+
+IBM chose to sell off its entire disk drive business to Hitachi, giving to some other
+
+company the opportunity to sell the profitable, performance-enabling components for this
+
+class of disk drives.
+
+We have written elsewhere that the Harvard Business School has an extraordinary
+
+opportunity to execute exactly this strategy in management education, if it will only seize
+
+it. Harvard writes and publishes the vast majority of the case studies and many of the
+
+articles that business school professors have used as components in courses whose
+
+architecture is of interdependent design. As on-the-job management training and
+
+corporate universities (which are nonintegrated assemblers of modular courses) disrupt
+
+traditional M.B.A. programs, Harvard has a great opportunity to flip its business model
+
+5-18
+
+15.
+
+16.
+
+through its publishing arm and sell not just case studies and articles as bare-bones
+
+components but also value-added subsystems as modules. These should be designed to
+
+make it simple for management trainers in the corporate setting to custom-assemble great
+
+material, deliver it exactly when it is needed, and teach it in a compelling way. (See
+
+Clayton M. Christensen, Michael Raynor, and Matthew Verlinden, “Skate to Where the
+
+Money Will Be,” Harvard Business Review, November 2001.)
+
+This would suggest, for example, that Hewlett-Packard’s branding power would be
+
+strong mapping upward to not-yet-satisfied customers from the trajectory of improvement
+
+on which its products are positioned. And it suggests that the HP brand would be much
+
+weaker, compared with the brands of Intel and Microsoft, mapping downward from that
+
+same point to more-than-satisfied customers.
+
+We are indebted to one of Professor Christensen’s Harvard M.B.A. students, Aland O° bee
+
+Stevens, for many of these insights, which she developed in a research paper entitled “A
+
+House of Brands or a Branded House?” Stevens noted that branding power is gradually(\4)
+
+migrating away from the products to the channels in a variety of retailing categories.
+
+Manufacturers of branded food and personal care products such as Unilever and Procter
+
+& Gamble, for example, fight this battle of the brands with their channels every day,
+
+because many of their products are more than good enough. In Great Britain, disruptive
+
+channel brands such as Tesco and Sainsbury’s have decisively won this battle after first
+
+starting at the lower price points in each category and then moving up. In the United
+
+States, branded products have clung more tenaciously to shelf space, but often at the cost
+
+of exorbitant slotting fees. The migration of brands in good-enough categories is well
+
+under way in channels such as Home Depot and Staples. Where the products’
+
+functionality and reliability have become more than good enough and it is the simplicity
+
+and convenience of purchase and use that is not good enough, then the power to brand
+
+has begun migrating to the channel whose business model is delivering on this as-yet-
+
+unsatisfied dimension.
+
+Procter & Gamble appears to be following a sensible strategy by launching a
+
+series of new-market disruptions that simultaneously provide needed fuel for its
+
+channels’ efforts to move up-market, and preserve P&G’s power to keep the premium
+
+brand on the product. Its Dryel brand do-it-yourself home dry cleaning system, for
+
+example, is a new-market disruption because it enables individuals to do for themselves
+
+something that, historically, only a more expensive professional could do. Do-it-yourself
+
+dry cleaning is not yet good enough, so the power to build a profitable brand is likely to
+
+reside in the product for some time. What is more, just as Sony’s solid-state electronics
+
+products enabled discount merchandisers to compete against appliance stores, so P&G’s

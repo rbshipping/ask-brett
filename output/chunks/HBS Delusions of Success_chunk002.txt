@@ -1,0 +1,148 @@
+SOURCE: HBS Delusions of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Cognitive Biases in Business
+SUMMARY: The text discusses how cognitive biases and organizational pressures can lead executives and entrepreneurs to be overly optimistic about the outcomes of their business decisions.
+KEYWORDS: cognitive biases, overoptimism, decision-making, risk assessment, business planning
+---
+
+the mind processes information—and to orga- We also tend to exaggerate the degree of
+
+nizational pressures. These biases and pres- control we have over events, discounting the
+
+sures are ubiquitous, but their effects can be role of luck. In one series of studies, partici-
+
+tempered. By supplementing traditional fore- pants were asked to press a button that could
+
+casting processes, which tend to focus on a illuminate a red light. The people were told
+
+company’s own capabilities, experiences, and that whether the light flashed was determined
+
+expectations, with a simple statistical analysis by a combination of their action and random
+
+of analogous efforts completed earlier, execu- chance. Afterward, they were asked to assess
+
+tives can gain a much more accurate under- what they experienced. Most people grossly
+
+Dan Lovallo is a senior lecturer at the standing of a project’s likely outcome. Such an overstated the influence of their action in de-
+
+Australian Graduate School of Manage- outside view, as we call it, provides a reality termining whether the light flashed.
+
+ment at the University of New South check on the more intuitive inside view, reduc- Executives and entrepreneurs seem to be
+
+Wales and a former strategy specialist at ing the odds that a company will rush blindly highly susceptible to these biases. Studies that
+
+McKinsey & Company. Daniel Kahne- into a disastrous investment of money and compare the actual outcomes of capital invest-
+
+man is the Eugene Higgins Professor of time. ment projects, mergers and acquisitions, and
+
+Psychology at Princeton University in market entries with managers’ original expec-
+
+New Jersey and a professor of public af- Rose-Colored Glasses tations for those ventures show a strong ten-
+
+fairs at Princeton’s Woodrow Wilson Most people are highly optimistic most of the dency toward overoptimism. An analysis of
+
+School; he received the Nobel Prize in time. Research into human cognition has start-up ventures in a wide range of industries
+
+economic sciences in 2002. traced this overoptimism to many sources. found, for example, that more than 80% failed
+
+harvard business review • july 2003 page 2 of 9
+
+Delusions of Success
+
+to achieve their market-share target. The stud- nario and then assume that its outcome is in
+
+ies are backed up by observations of execu- fact the most likely outcome. But that assump-
+
+tives. Like other people, business leaders rou- tion can be wrong. Because the managers have
+
+tinely exaggerate their personal abilities, not fully considered all the possible sequences
+
+particularly for ambiguous, hard-to-measure of events that might delay or otherwise dis-
+
+traits like managerial skill. Their self-confi- rupt the project, they are likely to understate
+
+dence can lead them to assume that they’ll be the overall probability of unfavorable out-
+
+able to avoid or easily overcome potential comes. Even though any one of those out-
+
+problems in executing a project. This misap- comes may have only a small chance of occur-
+
+prehension is further exaggerated by manag- ring, in combination they may actually be far
+
+ers’ tendency to take personal credit for lucky more likely to happen than the so-called most
+
+breaks. Think of mergers and acquisitions, for likely scenario.
+
+instance. Mergers tend to come in waves, dur-
+
+ing periods of economic expansion. At such Accentuating the Positive
+
+times, executives can overattribute their com- In business situations, people’s native opti-
+
+pany’s strong performance to their own ac- mism is further magnified by two other kinds
+
+tions and abilities rather than to the buoyant of cognitive bias—anchoring and competitor
+
+economy. This can, in turn, lead them to an neglect—as well as political pressures to em-
+
+inflated belief in their own talents. Conse- phasize the positive and downplay the nega-
+
+quently, many M&A decisions may be the re- tive. Let’s look briefly at each of these three
+
+When pessimistic opinions
+
+sult of hubris, as the executives evaluating an phenomena.
+
+are suppressed, while acquisition candidate come to believe that, Anchoring. When executives and their sub-
+
+with proper planning and superior manage- ordinates make forecasts about a project, they
+
+optimistic ones are
+
+ment skills, they could make it more valuable. typically have, as a starting point, a prelimi-
+
+rewarded, an Research on postmerger performance sug- nary plan drawn up by the person or team pro-
+
+gests that, on average, they are mistaken. posing the initiative. They adjust this original
+
+organization’s ability to
+
+Managers are also prone to the illusion that plan based on market research, financial anal-
+
+they are in control. Sometimes, in fact, they ysis, or their own professional judgment be-
+
+think critically is
+
+will explicitly deny the role of chance in the fore arriving at decisions about whether and
+
+undermined. outcome of their plans. They see risk as a chal- how to proceed. This intuitive and seemingly
+
+lenge to be met by the exercise of skill, and unobjectionable process has serious pitfalls,
+
+they believe results are determined purely by however. Because the initial plan will tend to
+
+their own actions and those of their organiza- accentuate the positive—as a proposal, it’s de-
+
+tions. In their idealized self-image, these exec- signed to make the case for the project—it will
+
+utives are not gamblers but prudent and deter- skew the subsequent analysis toward overopti-
+
+mined agents, who are in control of both mism. This phenomenon is the result of an-
+
+people and events. When it comes to making choring, one of the strongest and most preva-
+
+forecasts, therefore, they tend to ignore or lent of cognitive biases.
+
+downplay the possibility of random or uncon- In one experiment that revealed the power
+
+trollable occurrences that may impede their of anchoring, people were asked for the last
+
+progress toward a goal. four digits of their Social Security number.
+
+The cognitive biases that produce overopti- They were then asked whether the number of
+
+mism are compounded by the limits of human physicians in Manhattan is larger or smaller
+
+imagination. No matter how detailed, the than the number formed by those four digits.
+
+business scenarios used in planning are gener- Finally, they were asked to estimate what the

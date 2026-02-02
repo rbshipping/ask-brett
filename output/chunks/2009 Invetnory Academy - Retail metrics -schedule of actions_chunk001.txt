@@ -1,0 +1,128 @@
+SOURCE: 2009 Invetnory Academy - Retail metrics -schedule of actions.pdf
+SUBFOLDER: Additional\HFT\2009
+TOPIC: Retail Metrics and Performance Optimization
+SUMMARY: This document discusses strategies for optimizing retail metrics such as GMROM, GMROI, GMROL, and NMROI to improve overall business performance.
+KEYWORDS: retail metrics, performance optimization, inventory management, space utilization, merchandising
+---
+
+[Document: 2009 Invetnory Academy - Retail metrics -schedule of actions.pdf]
+
+BBRC: Retail Metrics
+
+Schedule of Actions
+
+Unless this is a must have category/store,
+
+GMROM SPACE Test "how high is high" GMROM SPACE
+
+consider letting it go.
+
+MERCH Increase width not depth MERCH
+
+GMROI GMROI
+
+Intensity Could it be moved to a better space ? Intensity
+
+SERVICE How much more stock and service can you SERVICE
+
+GMROL GMROL
+
+Intensity cram in and what is the impact ? Intensity
+
+If there isn't a problem with the stock and
+
+GMROM SPACE Could it be moved to a better space ? GMROM SPACE
+
+space consider deleting.
+
+MERCH MERCH
+
+GMROI Could you improve team rostering ? GMROI Investigate the reason for the high GMROL.
+
+Intensity Intensity
+
+SERVICE Could you operate with more stock without SERVICE
+
+GMROL GMROL
+
+Intensity increasing service ? Intensity
+
+Is the quality of the team adequate ?
+
+GMROM SPACE GMROM SPACE Test "how high is high"
+
+Is the rostering adequate ?
+
+MERCH MERCH
+
+GMROI Could you fix the mix ? GMROI Could increased service intensity, stock
+
+Intensity Intensity
+
+intensity/improved mix raise the GMROM
+
+SERVICE Is there too much depth of some and not SERVICE
+
+GMROL GMROL back to acceptable levels ?
+
+Intensity enough of others ? Intensity
+
+Would more service increase your sales per
+
+GMROM SPACE GMROM SPACE Test "how high is high"
+
+sqm even further ?
+
+MERCH MERCH Could better stock intensity/mix raise the
+
+GMROI Is the mix right ? GMROI
+
+Intensity Intensity GMROM ?
+
+SERVICE Is there too much depth of some and not SERVICE Is the quality of the team adequate and
+
+GMROL GMROL
+
+Intensity enough of others ? Intensity rostering appropriate ?
+
+“The Profit Wedge”
+
+(Strategic Resource Model’s Expansion To Net Margin)
+
+GMROI
+
+Net Sales Gross Margin Operating Exp. Net Margin
+
+x = - = NMROI
+
+Inventory Inventory Inventory Inventory
+
+x
+
+Inventory
+
+Selling Meters
+
+GMROF
+
+=
+
+Gross Margin Net Sales Gross Margin Operating Exp. Net Margin
+
+x = - = NMROF
+
+Net Sales Selling Meters Selling Meters Selling Meters Selling Meters
+
+x
+
+Selling Feet
+
+LabourHours
+
+= GMROL
+
+Net Sales Gross Margin Operating Exp. Net Margin
+
+x = - = NMROL
+
+LabourHours LabourHours LabourHours LabourHours

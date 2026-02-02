@@ -1,0 +1,168 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Precision Pricing Strategy
+SUMMARY: This text discusses how precision pricing can enable suppliers to remove non-value-added components and optimize costs while maintaining customer value.
+KEYWORDS: precision pricing, customer value, cost optimization, transaction-specific pricing, product/service line pricing
+---
+
+pricing provides the kind of intensive and extensive buyer-seller communication that enables the
+
+Precision Pricing for Profit in the New World Order 9-999-003
+
+supplier to remove all non-value-added components from their offering to minimize costs while
+
+maintaining or increasing customer value.
+
+When one considers each transaction on its own as is, the opportunities for cost reduction are
+
+numerous. In the past, the complexity of the transaction-specific approach was so great that it
+
+overwhelmed the analysis and delivery tools. But, as computing power decreases in cost and
+
+software grows more sophisticated, the balance is changing. In addition, as opportunities for less
+
+detailed, fine-grained approaches are depleted, the astute competitor is forced to look for these
+
+harder-to-tap opportunities.
+
+Of course, the least attractive opportunity is to work in the already defined ZOPA. This
+
+limits the supplier to a zero-sum game with the customer. Suppliers’ gains are customer losses. Not
+
+an encouraging alternative! The best approach here is to price on a transaction basis so that the zero
+
+sum game in the ZOPA can be varied to meet each customer, prospect, and transaction situation. In
+
+that way, each situation can be considered on its own merits including such concerns as the existing
+
+relationship between buyer and seller, other opportunities for doing business together, and industry
+
+conditions such as the demand/supply balance and its dynamics. Working in the ZOPA is limiting
+
+but sometimes necessary.
+
+XI. APPLYING PROFIT-ORIENTED PRECISION PRICING
+
+There have been thirteen pricing approaches presented here. In this last section, we look at
+
+where each is best applied.
+
+The first two approaches are to understand the customer value you provide, and to clarify
+
+that customer value to the customer. Indeed, these should be the first steps in any and all price
+
+setting programs. They are not simple or easy. They are hard and highly leveraged. But the process
+
+of understanding the customer value you provide will enable you and your team to do a better
+
+marketing and management job in general.
+
+Where possible, the process of clarifying customer value should be separated from price
+
+negotiations. When customers experience both together, as in the typical American automobile
+
+buying process, they lose trust in both. An explicit process of value clarification with a well-trained
+
+salesperson can by itself create significant customer value.
+
+Transition-specific pricing is most appropriate where customer value and cost differ across
+
+transactions, and where buyers do not exchange price information. It works best where buyers place
+
+few, infrequent orders; the supply/demand balance shifts rapidly; and customers can’t easily delay
+
+purchases and/or switch from one product/service to another. Notice how well airline fares meet
+
+these conditions. This explains why it has been applied so universally there.
+
+Product/service line pricing such as first and economy air fares works best when different
+
+market segments have different views of customer value and price. The greater the disparity among
+
+market segments, the greater is the opportunity for this form of pricing.
+
+New pricing metrics (not pricing “by the pound”) is most useful when value differs by
+
+transaction and is not linearly related to the cost of each transaction. It is applicable in a surprisingly
+
+large number of transactions.
+
+Servicizing a product and productizing a service are applicable in many situations. Even
+
+where they do not yield a new pricing approach, the exercise is useful to understanding and clarifying
+
+customer value, and more completely defining the competitive set.
+
+13
+
+9-999-003 Precision Pricing for Profit in the New World Order
+
+Bundling and unbundling works where the transaction involves a collection of product
+
+and/or service components, or where components can be combined in a single transaction. Knowing
+
+the customer’s usage and acquisition process in detail is critical here.
+
+Performance-based pricing works only on relatively large transactions where performance
+
+is unclear at time of purchase but where the relationship between customer value and delivered
+
+performance is clear. There is an interesting and useful relationship between bundling and the use of
+
+performance-based pricing. As more product and/or service components are bundled together into
+
+one package, the vendor offers a more integrated service/product. This offers the opportunity for the
+
+vendor to accept more sole-source responsibility. And, the broad responsibility that integrates many
+
+piece parts is particularly appropriate for performance-based pricing. Thus, broad bundles are
+
+generally easier to sell with performance-based pricing than are narrow offerings.
+
+Point guarantees, penalties, and incentives are useful where true performance-based
+
+pricing is too complicated, and/or the transaction is too small to justify the necessary communication
+
+and coordination effort. They also limit risk and vendor responsibility.
+
+Usage-based pricing is appropriate where usage can’t be determined at time of purchase but
+
+only at time of delivery and/or use. Telephone service is a fine example. Performance-based pricing;
+
+point guarantees, penalties and incentives; and usage-based pricing all share the important attribute
+
+that the price is set after the product/service is delivered, and the value is clear. Thus, all of these are
+
+applicable when there is uncertainty concerning amount of usage or level of performance, but not the
+
+value of any given usage amount or performance level.
+
+Terms and conditions are almost always worth considering. They make good additions to
+
+many of the other pricing approaches.
+
+Cost reduction is almost always worth considering too. It is often useful in conjunction with
+
+unbundling and/or performance-based pricing. In both of these approaches, the vendor gains enough
+
+knowledge to remove superfluous cost elements that add no customer value.
+
+Pricing within an established zone of possible agreement (ZOPA) is a last resort when the
+
+ZOPA cannot be expanded. But, it works best in conjunction with transaction-based pricing.
+
+The new pricing menu is full, but it begins with a strong understanding of customer value and
+
+the ability to demonstrate that value to the customer. The variations evolve in many ways, but the
+
+foundation in customer value endures.
+
+14
+
+Precision Pricing for Profit in the New Worid Order 9-999-003
+
+APPENDIX A
+
+THE FALL OF COST-PLUS PRICING
+
+The fastest way to commoditize a product or service is with cost-plus pricing. Cost-plus

@@ -1,0 +1,222 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Advantage Analysis
+SUMMARY: Analyzing Arch Coal's narrow economic moat and Fastenal's location-based scale economies as sources of competitive advantage.
+KEYWORDS: economic moat, competitive advantage, scale economies, location-based advantages, Fastenal
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+assign Arch a narrow economic moat, but it’s a moat that
+
+we’d want to watch pretty closely. If production costs in the
+
+Powder River Basin increase considerably, or if the govern-
+
+ment introduces regulations that make coal less attractive as
+
+a resource by imposing a carbon tax, we’d want to re-evaluate
+
+things. But based on what we know today, Arch seems to
+
+have a (very) narrow moat.
+
+Our fourth company isn’t as well-known as the first
+
+three, but we can learn a lot about moats from looking at it.
+
+The Fastenal Company distributes a wide variety of mainte-
+
+nance, repair, and operations products to manufacturers and
+
+cc1111..iinndddd 115522 11//2266//0088 33::1122::3366 AAMM
+
+WHERE THE RUBBER MEETS THE ROAD [153]
+
+contractors around the United States. It does this through a
+
+network of about 2,000 stores, and specializes in fasteners,
+
+as the company’s name implies. That may sound like a dull
+
+business, but let’s check out the numbers to be sure. (See
+
+Exhibit 11.5 .)
+
+Wow! Whatever you might think of the business, those
+
+are not dull numbers. An average return on equity of more
+
+than 20 percent over a decade, with minimal financial
+
+leverage, is a highly uncommon achievement. In fact, out
+
+of the 3,000 stocks in Morningstar’s database with market
+
+capitalizations over $500 million, only 50 have similar track
+
+records of generating tremendous returns on capital. The
+
+question, of course, is whether Fastenal just got lucky or
+
+built a competitive advantage that will allow it to maintain
+
+such high returns on capital.
+
+When you dig into the company, it turns out that Fas-
+
+tenal benefits from location-based scale economies similar
+
+to the cement and aggregate companies discussed in
+
+Chapter 7 . Fasteners, such as screws, anchors, and bolts,
+
+EXHIBIT 11.5 Fastenal Company
+
+Fastenal FAST 97 98 99 00 01 02 03 04 05 06 TTM Avg
+
+Net Margin (%) 10.3 10.5 10.8 10.8 8.6 8.3 8.5 10.6 11.0 11.0 11.1 —
+
+Return on Assets (%) 22.9 23.2 23.0 22.4 16.0 14.6 13.9 18.4 20.1 20.6 19.0 19.5
+
+Financial Leverage 1.2 1.2 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.2 —
+
+Return on Equity (%) 28.0 27.6 26.2 25.2 17.9 16.3 15.6 20.8 22.7 23.3 21.7 22.3
+
+cc1111..iinndddd 115533 11//2266//0088 33::1122::3377 AAMM
+
+[154] THE LITTLE BOOK THAT BUILDS WEALTH
+
+are heavy and expensive to ship and they don’t cost very
+
+much, which means that Fastenal gets a big cost advan-
+
+tage from having lots of stores close to its customers.
+
+Proximity also means that Fastenal usually has a quicker
+
+delivery time than competitors, which is another big
+
+advantage given that manufacturers typically need fasten-
+
+ers when something breaks, and downtime is a very expen-
+
+sive proposition for these firms.
+
+With twice as many locations as its nearest competitor,
+
+Fastenal seems able to maintain its scale advantage, espe-
+
+cially because it essentially dominates hundreds of small
+
+geographic niches that would not be profitable enough by
+
+themselves for a competitor to attack. The company also
+
+maintains an in-house truck fleet that allows it to distribute
+
+products to its stores—and to customers’ job sites—at much
+
+lower cost than if it used a third-party shipper like UPS.
+
+So, to take on Fastenal, a competitor would need a similarly
+
+scaled distribution network plus a willingness to build non-
+
+economic stores in Fastenal markets that are only large
+
+enough for a single distributor. That sounds like a pretty
+
+daunting task, which is why I think Fastenal is a wide-moat
+
+business with the potential to crank out a superior return
+
+on capital for many years into the future.
+
+For the final example, I want to show you why it is so
+
+important to think about the competitive dynamics of a
+
+business, in addition to looking at its track record of
+
+cc1111..iinndddd 115544 11//2266//0088 33::1122::3377 AAMM
+
+WHERE THE RUBBER MEETS THE ROAD [155]
+
+generating solid returns on capital. If you had looked at
+
+either of these two businesses in 2004 or so, you would
+
+have licked your lips over the returns on capital. Company
+
+B’s track record was not quite as consistent as Company A’s,
+
+but the trend was certainly in the right direction. (See
+
+Exhibit 11.6 and Exhibit 11.7 .)
+
+Company A is Pier 1 Imports, and Company B is
+
+Hot Topic, two retailers that were hitting on all cylinders
+
+in the late 1990s and the early part of the current decade.
+
+Both were growing nicely—Hot Topic at a phenomenal
+
+40(cid:2) percent pace, and Pier 1 at a more measured mid-
+
+teens rate—and both were cranking out very respectable
+
+EXHIBIT 11.6 Company A
+
+Company A 98 99 00 01 02 03 04 Avg
+
+Net Margin (%) 7.3 7.1 6.1 6.7 6.5 7.4 6.3 —
+
+Return on Assets (%) 12.8 12.3 11.3 12.9 12.5 14.1 11.7 12.5
+
+Financial Leverage 1.7 1.6 1.5 1.4 1.5 1.5 1.5 —
+
+Return on Equity (%) 21.8 20.2 17.7 17.8 17.9 21.1 21.1 19.2
+
+EXHIBIT 11.7 Company B
+
+Company B 98 99 00 01 02 03 04 Avg
+
+Net Margin (%) 6.4 5.8 8.0 9.0 8.5 7.8 8.4 —
+
+Return on Assets (%) 9.5 10.8 18.3 22.4 20.3 18.9 19.8 17.1
+
+Financial Leverage 1.2 1.2 1.3 1.2 1.2 1.3 1.3 —
+
+Return on Equity (%) 10.8 12.8 23.3 27.9 24.4 23.4 25.0 21.1
+
+cc1111..iinndddd 115555 11//2266//0088 33::1122::3377 AAMM
+
+[156] THE LITTLE BOOK THAT BUILDS WEALTH
+
+returns on capital. But let’s think about the nature of
+
+their businesses. Pier 1 sells imported furniture and home
+
+accessories, and Hot Topic is a teen clothing retailer with
+
+a very specific look to its wares—both decent businesses, as
+
+long as the companies do a good job managing invento-
+
+ries and staying on top of consumer trends. However, it
+
+would have been a stretch to confidently predict that
+
+Pier 1 and Hot Topic could maintain such high returns
+
+on capital for a long time, as switching costs for their con-
+
+sumers are essentially nil.
+
+It turns out that you would have been right to be
+
+skeptical. (See Exhibit 11.8 and Exhibit 11.9 .)
+
+EXHIBIT 11.8 Pier 1 Imports, Inc.

@@ -1,0 +1,317 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The text discusses the importance of inventory management, including reacting to sales data, adjusting assortment plans, and the consequences of getting it wrong.
+KEYWORDS: inventory management, assortment planning, sales data, product selection
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+[Slide 85]
+
+React, React, React
+
+Example; If we had a range that was expected to hit sales of $60k week one, but it only hit $40k, we would dig into what went wrong to learn for next time, make changes to ranges in ‘in work’ and then react to the current issue;
+
+Change the range plan
+
+Move the range
+
+Promo to get sell through mark down the ‘dogs’
+
+The same takes place at sku level
+
+White sticker mardown
+
+Red sticker markdown
+
+Pull the sku into a promo
+
+Get better stock into the wall
+
+Keep in mind, a dog is a dog, human nature is to look at every other reason first
+
+At the other end for the ranges and pieces that have exceeded our forecasts we react !
+
+[Slide 86]
+
+Most important of all get out and about
+
+[Slide 87]
+
+Time
+
+Topic
+
+86
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 88]
+
+Assortment planning
+
+[Slide 89]
+
+What is an assortment plan?
+
+Assortment: The number of SKUs within a merchandise category, group or department
+
+Assortment planning: The process to determine what and how much should be carried in a merchandise category. An assortment plan reflects the trade-off between the breadth and depth of products that a retailer intends to carry. It's all about offering the right product to the right customers!
+
+The assortment planning process, when conducted systematically, helps answer questions such as:
+
+Our main competitor has gone heavy into plus size lingerie. Should I?
+
+What should the turns on my super trendy lava lamp be?
+
+Our sponge bob square pants pajamas sold really well last year. Should I increase my SKU intensity?
+
+How should the assortment in my new flagship store vary?
+
+Hair scrunchies are selling poorly – should I cut them from my assortment?
+
+[Slide 90]
+
+Don't base an assortment plan on your gut, nor bad data! Or, why it's so important to "get it right"
+
+Company is a major big box retailer in Australia
+
+Buyer (who is different than the customer she buys for), liked a shirt she saw on a buy trip to London
+
+Large order placed for Dolman Sleeve (66k units), although the silhouette had no sales history
+
+5-6% weekly sell-through, even at 70% markdown
+
+Lost target margin of >$1M – just on this 1 style
+
+Negative effect on the OTB; no freshness in store
+
+Two cautionary tales... from well-known mega retailers
+
+Situation
+
+Result
+
+The product
+
+Wal-Mart ran customers research to find out what they liked about competitors: Customers spoke about less clutter and brighter stores
+
+Launched Project Impact (2008), neglecting their core differentiating factor – amazing assortment at rock-bottom prices – and cut 15% of SKUs
+
+Sales losses estimated at $1.85B
+
+Key executives in charge of roll-out  were fired
+
+Project Impact abandoned: SKUs added back to the assortment
+
+same store sales
+
+[Slide 91]
+
+If your assortment plan and product selection is perfect, what you've ordered equals demand...
+
+Customer demand (units at price target)
+
+Order quantity (units)
+
+Right products
+
+At right price
+
+In right location
+
+At right time
+
+to
+
+Meet projected sales
+
+Generate required margins
+
+Maintain defined stock cover
+
+Build loyal customer base
+
+In a perfect world...
+
+...all goals met
+
+[Slide 92]
+
+...But this never happens! Why not?
+
+Assortment planning happens early – often too early to accurately predict trends
+
+Pricing is off (e.g. too high, or too low to be perceived as quality)
+
+Competitors have a similar but better offering
+
+Macro-economic conditions change
+
+Some products – despite the best research – just aren't winners
+
+...and for a whole host of other reasons
+
+Therefore, it is critical to be as systematic as possible
+
+[Slide 93]
+
+Best practice: Varied inputs go into a systematic assortment planning process
+
+Top-down
+
+Bottom-up
+
+Although separate activities, they are all tightly interlinked
+
+Financial projections
+
+What are market share goals?
+
+What are revenue targets?
+
+What is the OTB plan?
+
+What are GMROM, GMROI, and unit sales goals?
+
+Strategy & brand goals
+
+Where do we want to compete in the market?
+
+Who do we want to attract?
+
+How will we localise?
+
+Sales analytics
+
+What sold well before?
+
+How is a category trading?
+
+how much shelf space should I dedicate?
+
+Competitor analytics
+
+Who is our key competition?
+
+How is their assortment different than ours?
+
+What are they winning on?
+
+Consumer trends
+
+What broader consumption trends are shaping the direction of the market?
+
+Macro-economic trends
+
+How has the economy affected how and what people buy?
+
+1
+
+Assortment
+
+plan
+
+2
+
+3
+
+4
+
+5
+
+6
+
+[Slide 94]
+
+Financial projections are typically based on last year's sales
+
+Financial projections
+
+1
+
+Top-down projections important for overall business goal setting, but requires trend data (bottom-up)
+
+Overall sales targets
+
+Category sales targets
+
+OTB targets by category
+
+GM targets
+
+Key top-down projections (among others)
+
+Based on last year's performance
+
+Based on category trends, strategy, and overall targets
+
+Determined in conjunction with category sales targets
+
+Set with rev, markdown, and category mix targets in mind
+
+tightly interlinked
+
+[Slide 95]
+
+Some retailers also set market share goals by category, which feed into assortment plans
+
+Financial projections
+
+1
+
+Example: Apparel retailer
+
+Is the category growing?
+
+What is my market share in this category?
+
+What would 1 pt of higher market share get me in sales and GM$?
+
+Would I be better off putting my money elsewhere?
+
+Can I credibly compete in this category?
+
+Key questions for this approach
+
+[Slide 96]
+
+What assortment mix is strategically right for the business?
+
+Basics
+
+Business model and assortment mix
+
+Very trendy, generally more expensive than rest of assortment
+
+Image enhancer
+
+"one and done" (no replen: Sell-through or mark-down in short time frame)
+
+Typically planned <2 months in advance
+
+Often bought to minimum order quantities
+
+Seasonal SKUs, but less trendy than "fashion"
+
+product in store for 2-6 months
+
+Sell-through, but mark down to clear out at end of season
+
+Used to identify "new" anchors/basics
+
+Typically planned 4-9 months in advance
+
+Typically some replen
+
+Long-term materials/fabrics and styles
+
+carry through of >12 months, or cyclical
+
+Typically larger buys, with several Key Items
+
+Generally, largest profit share
+
+Sales driven by competitive pricing

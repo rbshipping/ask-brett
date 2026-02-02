@@ -1,0 +1,130 @@
+SOURCE: What-Leaders-Really-Do-kotter.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Organizational Management
+SUMMARY: This text discusses the difference between management and leadership, with management focused on order and consistency, and leadership focused on coping with change and aligning people.
+KEYWORDS: management, leadership, organizational structure, change, vision
+---
+
+[Document: What-Leaders-Really-Do-kotter.txt]
+
+management, complex enterprises tend to be- creating an organizational structure and set of
+
+come chaotic in ways that threaten their very jobs for accomplishing plan requirements,
+
+existence. Good management brings a degree staffing the jobs with qualified individuals,
+
+of order and consistency to key dimensions communicating the plan to those people,
+
+like the quality and profitability of products. delegating responsibility for carrying out the
+
+Leadership, by contrast, is about coping plan, and devising systems to monitor imple-
+
+with change. Part of the reason it has become mentation. The equivalent leadership activity,
+
+Now retired, John P. Kotter was a so important in recent years is that the busi- however, is aligning people. This means com-
+
+professor of organizational behavior ness world has become more competitive and municating the new direction to those who can
+
+at Harvard Business School in Boston. more volatile. Faster technological change, create coalitions that understand the vision
+
+He is the author of such books as The greater international competition, the dereg- and are committed to its achievement.
+
+General Managers (Free Press, 1986), ulation of markets, overcapacity in capital- Finally, management ensures plan accom-
+
+The Leadership Factor (Free Press, intensive industries, an unstable oil cartel, plishment by controlling and problem solving—
+
+1988), and A Force for Change: How raiders with junk bonds, and the changing monitoring results versus the plan in some
+
+Leadership Differs from Management demographics of the work-force are among detail, both formally and informally, by
+
+(Free Press, 1990). the many factors that have contributed to this means of reports, meetings, and other tools;
+
+harvard business review • december 2001 page 4
+
+--- Page 3 ---
+
+What Leaders Really Do•••BEST OF HBR
+
+identifying deviations; and then planning and of data and look for patterns, relationships,
+
+organizing to solve the problems. But for and linkages that help explain things. What’s
+
+leadership, achieving a vision requires moti- more, the direction-setting aspect of leader-
+
+vating and inspiring—keeping people moving ship does not produce plans; it creates vision
+
+in the right direction, despite major obstacles and strategies. These describe a business, tech-
+
+to change, by appealing to basic but often un- nology, or corporate culture in terms of what
+
+tapped human needs, values, and emotions. it should become over the long term and artic-
+
+A closer examination of each of these activ- ulate a feasible way of achieving this goal.
+
+ities will help clarify the skills leaders need. Most discussions of vision have a tendency
+
+to degenerate into the mystical. The implica-
+
+Setting a Direction Versus Planning tion is that a vision is something mysterious
+
+and Budgeting that mere mortals, even talented ones, could
+
+Since the function of leadership is to produce never hope to have. But developing good
+
+change, setting the direction of that change is business direction isn’t magic. It is a tough,
+
+fundamental to leadership. Setting direction is sometimes exhausting process of gathering
+
+never the same as planning or even long-term and analyzing information. People who artic-
+
+planning, although people often confuse the ulate such visions aren’t magicians but broad-
+
+two. Planning is a management process, de- based strategic thinkers who are willing to
+
+ductive in nature and designed to produce or- take risks.
+
+derly results, not change. Setting a direction is Nor do visions and strategies have to be
+
+more inductive. Leaders gather a broad range brilliantly innovative; in fact, some of the best
+
+Aligning People: Chuck Trowbridge and Bob Crandall at Eastman Kodak
+
+Eastman Kodak entered the copy business in size the new direction and align people to it: called “Dialog Letters” gave employees the
+
+the early 1970s, concentrating on technically weekly meetings with his own 12 direct re- opportunity to anonymously ask questions of
+
+sophisticated machines that sold, on average, ports; monthly “copy product forums” in Crandall and his top managers and be guar-
+
+for about $60,000 each. Over the next decade, which a different employee from each of his anteed a reply. But the most visible and pow-
+
+this business grew to nearly $1 billion in reve- departments would meet with him as a group; erful written communications were the
+
+nues. But costs were high, profits were hard to discussions of recent improvements and new charts. In a main hallway near the cafeteria,
+
+find, and problems were nearly everywhere. In projects to achieve still better results; and these huge charts vividly reported the qual-
+
+1984, Kodak had to write off $40 million in in- quarterly “State of the Department” meetings, ity, cost, and delivery results for each prod-
+
+ventory. Most people at the company knew where his managers met with everybody in uct, measured against difficult targets. A
+
+there were problems, but they couldn’t agree their own departments. hundred smaller versions of these charts
+
+on how to solve them. So in his first two Once a month, Crandall and all those who were scattered throughout the manufactur-
+
+months as general manager of the new copy reported to him would also meet with 80 to ing area, reporting quality levels and costs
+
+products group, established in 1984, Chuck 100 people from some area of his organization for specific work groups.
+
+Trowbridge met with nearly every key person to discuss anything they wanted. To align his Results of this intensive alignment process
+
+inside his group, as well as with people else- biggest supplier—the Kodak Apparatus Divi- began to appear within six months, and still
+
+where at Kodak who could be important to sion, which supplied one-third of the parts more surfaced after a year. These successes
+
+the copier business. An especially crucial area used in design and manufacturing—he and made the message more credible and helped
+
+was the engineering and manufacturing orga- his managers met with the top management get more people on board. Between 1984 and
+
+nization, headed by Bob Crandall. of that group over lunch every Thursday. 1988, quality on one of the main product lines
+
+Trowbridge and Crandall’s vision for engi- Later, he created a format called “business increased nearly 100-fold. Defects per unit

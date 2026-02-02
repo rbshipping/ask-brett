@@ -1,0 +1,22 @@
+SOURCE: HBR The True Measures of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.11 HFT - Measurement
+TOPIC: Performance Measurement
+SUMMARY: Companies must adopt more effective metrics and analytics to gain competitive advantage in today's business landscape.
+KEYWORDS: metrics, analytics, performance measurement, competitive advantage, data-driven decision making
+---
+
+cling to old-fashioned and often flawed methods for choosing metrics. In the past,
+
+companies could get away with going on gut and ignoring the right statistics because that’s
+
+what everyone else was doing. Today, using them is necessary to compete. More to the
+
+point, identifying and exploiting them before rivals do will be the key to seizing advantage.
+
+A version of this article appeared in the October 2012 issue of Harvard Business Review.
+
+Michael Mauboussin is an investment strategist and an adjunct professor at Columbia Business School. His latest
+
+book is The Success Equation.
+
+This article is about ANALYTICS

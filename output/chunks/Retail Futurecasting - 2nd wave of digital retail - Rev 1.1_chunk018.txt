@@ -1,0 +1,162 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Technology and Analytics
+SUMMARY: The text discusses various location-based technologies and techniques that retailers can use to track and engage with customers in the store.
+KEYWORDS: location-based offers, dynamic pricing, indoor location tracking, shopper guidance, retail analytics
+---
+
+analyzing the “clickstream” of online shoppers.
+
+ Location-based offers - Retailers and manufacturers will be able to push location-based offers.
+
+ Dynamic pricing – Retailers will be able to optimize revenue through the use of dynamic pricing
+
+that varies by shopper, by time, and by location
+
+ Shopper guidance - Retailers will be able deliver customer-valued, location-based experiences in
+
+the store. These include shopping guidance, route planning (using a personal shopping list to
+
+suggest an optimal route through the store), virtual sales assistants, and more.
+
+6.3.2 Indoor location techniques
+
+A wide range of techniques are being developed to determine indoor location, each with varying pros
+
+and cons. The easiest methods to deploy have low accuracy. The more accurate technologies still
+
+require further development or refinement but will become viable within the next several years.
+
+Location tracking comes in two main flavors:
+
+Passive Tracking: In the passive mode the location of a shopper’s device is tracked while it is in
+
+their pocket or purse. The customer is not interacting with their device and so this mode of
+
+tracking is considered to be valuable only for retailers and manufacturers.
+
+Active Tracking: In the active mode the customer is interacting with their device and seeking
+
+some sort of information, service or experience based on their location.
+
+44
+
+Different location techniques are more or less appropriate for each of these two modes. Multiple
+
+techniques are emerging to deliver indoor location. These include:
+
+ Wi-Fi triangulation – This technique is in deployment today and uses well-established
+
+technology. It suffers from low accuracy – around 30m. And it doesn’t work in big box stores
+
+that have not invested in a customer-facing Wi-Fi infrastructure.
+
+ Wi-Fi fingerprint – This is a more sophisticated version of Wi-Fi triangulation that uses learning
+
+algorithms to map a store’s Wi-Fi signal strength profile. In early trials, this has yielded much
+
+better precision, achieving 2-5m location accuracy.
+
+ Bluetooth LE-based beacons – Beacons such as Apple’s* iBeacon* technology can trigger offers
+
+to a shopper’s device when they are within range of an iBeacon transmitter. The range of the
+
+transmitter can be adjusted to cover a small area (5m radius) or the entire store.
+
+ Accelerometer and inertia – Using a known starting location outside the mall (sourced via GPS)
+
+the accelerometer in a phone can be used to track motion once the GPS signal is lost. If the
+
+shopper holds the phone so that it is fairly stable, this approach works quite well in the short
+
+term. However it is not yet accurate enough during normal use (phone jogging around in the
+
+shopper’s pocket) and over longer distances where measurement errors compound over time.
+
+The accuracy of the MEMS devices inside phones will need to improve several orders of
+
+magnitude before this will be a reliable approach on its own, however it is still useful as a way to
+
+augment other location techniques.
+
+ Semantic location – This approach uses additional signal processing on Wi-Fi signals to help
+
+refine location when it is unclear which side of a wall the shopper is standing by looking for the
+
+telltale signal attenuation created by walls.
+
+ Ambient audio – Different stores sound different. Using a device’s microphone to sample the
+
+ambient audio is not enough to determine absolute location but this technique can help when
+
+used in addition to existing, inconclusive location information. For example, when near to an
+
+inner wall inside a mall, a WiFi-based location algorithm may not be sure if the shopper is one
+
+side of the wall in Starbucks*, or the other side of the wall in Bath & Body Works*. The sound
+
+signature of the store could be used to make that final determination by the location software
+
+algorithms on a device.
+
+ Active audio – Some stores are experimenting with adding audio signatures to their in-store
+
+piped music to help devices understand where they are.
+
+ Visual triangulation – When devices are in active tracking mode, visual techniques can be used
+
+to determine location by figuring out the geometry of the room they are in. Google’s Project
+
+Tango is doing some work in this area.
+
+ Visual fingerprint – Similar to the Wi-Fi fingerprint approach, a database of visual fingerprints
+
+could be generated to help devices quickly assess their location in a store based on what they
+
+can see.
+
+ Magnetic field – In a technique similar to Wi-Fi fingerprinting, the digital compass in
+
+smartphones can be used to assess location based on magnetic fields present inside the store.
+
+The best accuracy will be achieved by combining several of these approaches together. Expect these
+
+techniques to evolve over time.
+
+45
+
+6.3.3 How accurate is accurate enough?
+
+The desired accuracy for indoor location depends on the use case desired.
+
+A mall guide would be fine with perhaps 5-7m accuracy. Traffic flow analysis needs roughly 2m accuracy,
+
+enough to assess which aisle a shopper is standing in. And a customer-facing store guide may require 1m
+
+accuracy to be truly valuable to the shopper and guide them right to the product they are looking for.
+
+Highly accurate indoor location information can be used to connect the digital and physical shopping
+
+experiences and delivering location-based interactions to shoppers.
+
+6.3.4 Location and security
+
+Location is also interesting as an additional security measure. For card-present transactions, smartphone
+
+location can be used as an additional verification mechanism that adds another layer of security to
+
+protect shoppers at point of sale.
+
+Challenge: Retailers should work with IT partners to begin exploring and investing in active and passive
+
+location tracking as a key component of their strategy for improving the shopper experience, and to
+
+gather the data needed to provide shopper analytics services to manufacturers.
+
+6.4 CONSUMER DESIRE FOR PERSONALIZATION AND CUSTOMIZATION
+
+Retailers would like to deepen and strengthen the relationship they have with each shopper. A deeper
+
+relationship leads to increased brand affinity: more store visits, more transactions, and increased total
+
+consumption. To achieve this, retailers must reveal and understand the shopper genome. They must

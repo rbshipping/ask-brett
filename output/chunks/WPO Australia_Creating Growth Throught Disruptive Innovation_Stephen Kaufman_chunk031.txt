@@ -1,0 +1,180 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation and Product Architecture
+SUMMARY: The text discusses how disruptive innovations often involve packaging available technologies in a disruptive business model, rather than technological breakthroughs.
+KEYWORDS: disruptive innovation, product architecture, interdependence, sustaining innovations, vertical integration
+---
+
+have found the following ones to be particularly helpful: Rebecca Henderson and Kim B.
+
+Clark, “Architectural Innovation: The Reconfiguration of Existing Product Technologies
+
+and the Failure of Established Firms,” Administrative Science Quarterly 35 (1990): 9-30;
+
+K. Monteverde, “Technical Dialog as an Incentive for Vertical Integration in the
+
+Semiconductor Industry,” Management Science 41 (1995): 1624-1638; Karl Ulrich, “The
+
+Role of Product Architecture in the Manufacturing Firm,” Research Policy 24 (1995):
+
+419-440; Ron Sanchez and J. T. Mahoney, “Modularity, Flexibility and Knowledge
+
+Management in Product and Organization Design,” Strategic Management Journal 17
+
+(1996): 63-76; and Carliss Baldwin and Kim B. Clark, Design Rules: The Power of
+
+Modularity (Cambridge, MA: MIT Press, 2000).
+
+The language we have used here characterizes the extremes of interdependence, and we
+
+have chosen the extreme end of the spectrum simply to make the concept as clear as
+
+possible. In complex product systems, there are varying degrees of interdependence,
+
+which differ over time, component by component. The challenges of interdependence can
+
+also be dealt with to some degree through the nature of supplier relationships. See, for
+
+example, Jeffrey Dyer, Collaborative Advantage: Winning Through Extended Enterprise
+
+Supplier Networks (New York: Oxford University Press, 2000).
+
+Many readers have equated in their minds the terms disruptive and breakthrough. It is
+
+extremely important, for purposes of prediction and understanding, not to confuse the
+
+terms. Almost invariably, what prior writers have termed “breakthrough” technologies
+
+have, in our parlance, a sustaining impact on the trajectory of technological progress.
+
+Some sustaining innovations are simple, incremental year-to-year improvements. Other
+
+sustaining innovations are dramatic, breakthrough leapfrogs ahead of the competition, up
+
+the sustaining trajectory. For predictive purposes, however, the distinction between
+
+incremental and breakthrough technologies rarely matters. Because both types have a
+
+sustaining impact, the established firms typically triumph. Disruptive innovations usually
+
+do not entail technological breakthroughs. Rather, they package available technologies in
+
+a disruptive business model. New breakthrough technologies that emerge from research
+
+labs are almost always sustaining in character, and almost always entail unpredictable
+
+11.
+
+12.
+
+13.
+
+interdependencies with other subsystems in the product. Hence, there are two powerful
+
+reasons why the established firms have a strong advantage in commercializing these
+
+technologies.
+
+Professor Alfred Chandler’s The Visible Hand (Cambridge, MA: Belknap Press, 1977) is
+
+a classic study of how and why vertical integration is critical to the growth of many
+
+industries during their early period.
+
+Economists’ concept of utility, or the satisfaction that customers receive when they buy
+
+and use a product, is a good way to describe how competition in an industry changes
+
+when this happens. The marginal utility that customers receive is the incremental addition
+
+to satisfaction that they get from buying a better-performing product. The increased price
+
+that they are willing to pay for a better product will be proportional to the increased
+
+utility they receive from using it—in other words, the marginal price will equal the
+
+marginal utility. When customers can no longer utilize further improvements in a
+
+product, marginal utility falls toward zero, and as a result customers become unwilling to
+
+pay higher prices for better-performing products.
+
+Sanchez and Mahoney (1996), op. cit., were among the first to describe this phenomenon.
+
+The landmark work of Professors Carliss Baldwin and Kim B. Clark, cited in note 3,
+
+describes the process of modularization in a cogent, useful way. We recommend it to
+
+those who are interested in studying the process in greater detail.
+
+Many students of IBM’s history will disagree with our statement that competition forced
+
+the opening of IBM’s architecture, contending instead that the U.S. government’s
+
+antitrust litigation forced IBM open. The antitrust action clearly influenced IBM, but we
+
+would argue that government action or not, competitive and disruptive forces would have
+
+brought an end to IBM’s position of near-monopoly power.
+
+Tracy Kidder’s Pulitzer Prize-winning account of product development at Data General,
+
+The Soul of a New Machine (New York: Avon Books, 1981), describes what life was like
+
+as the basis of competition began to change in the minicomputer industry.
+
+MIT Professor Charles Fine has written an important book on this topic as well:
+
+Clockspeed (Reading, MA: Perseus Books, 1998). Fine observed that industries go
+
+through cycles of integration and non-integration in a sort of “double helix” cycle. We
+
+hope that the model outlined here and in chapter 5 both confirms and adds causal richness
+
+to Fine’s findings.
+
+The evolving structure of the lending industry offers a clear example of these forces at
+
+work. Integrated banks such as J.P. Morgan Chase have powerful competitive advantages
+
+in the most complex tiers of the lending market. Integration is key to their ability to knit
+
+together huge, complex financing packages for sophisticated and demanding global
+
+customers. Decisions about whether and how much to lend cannot be made according to
+
+fixed formulas and measures; they can only be made through the intuition of experienced
+
+lending officers.
+
+Credit scoring technology and asset securitization, however, are disrupting and
+
+dis-integrating the simpler tiers of the lending market. In these tiers, lenders know and
+
+can measure precisely those attributes that determine whether borrowers will repay a
+
+loan. Verifiable information about borrowers—such as how long they have lived where
+
+4-14
+
+they live, how long they have worked where they work, what their income is, and
+
+whether they’ve paid other bills on time—is combined to make algorithm-based lending
+
+decisions. Credit scoring took root in the 1960s in the simplest tier of the lending market,
+
+in department stores’ decisions to issue their own credit cards. Then, unfortunately for the
+
+big banks, the disruptive horde moved inexorably up-market in pursuit of profit—first to
+
+general consumer credit card loans, then to automobile loans and mortgage loans, and
+
+now to small business loans. The lending industry in these simpler tiers of the market has
+
+largely dis-integrated. Specialist non-bank companies have emerged to provide each slice
+
+of added value in these tiers of the lending industry. Whereas integration is a big
+
+advantage in the most complex tiers of the market, in overserved tiers it is a
+
+disadvantage.

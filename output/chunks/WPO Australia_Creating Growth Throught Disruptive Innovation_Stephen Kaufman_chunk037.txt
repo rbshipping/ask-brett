@@ -1,0 +1,142 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Model Innovation
+SUMMARY: Businesses can create new business models by separating disruptive ventures into autonomous units with different cost structures and priorities.
+KEYWORDS: disruptive innovation, business model transformation, organizational separation
+---
+
+businesses. This can be framed as a make-or-buy decision. We typically frame make-or-buy decisions as
+
+relating to resources, such as making vs. procuring components, developing vs. licensing technology, and
+
+so on. But processes and business models can also be made or bought, as described below.
+
+Creating New Business Models
+
+Companies can develop the capability to prioritize a disruptive opportunity only by setting up a
+
+new business unit with a new cost structure. Charles Schwab, for example, set up its disruptive online
+
+brokerage venture as an autonomous organization, pricing online trades at $29.95, compared to the $69
+
+that Schwab had been charging for trades executed through its telephone and office-based brokers. The
+
+separate unit was indeed disruptive to the mainstream, It grew so fast that within eighteen months the
+
+company decided to fold what had been the mainstream business into the new disruptive organization.
+
+The corporation’s cost structure, and thereby its priorities, were transformed by launching a successful
+
+disruptive enterprise. Separation was a much simpler way to create a new business model that could view ,
+
+$29.95 as a profitable proposition than it would have been to hack enough cost out of the original
+
+organization so that it could make money at the disruptive price point.
+
+Creating new business units rather than transforming the business models of existing units is the
+
+best way to manage business model innovation because the disruptive game almost always begins while
+
+the established business still has substantial, profitable sustaining potential.
+
+What does autonomous mean? Geographical separation from the core business is not a critical
+
+dimension of autonomy. Nor is ownership structure — a disruptive venture can be wholly owned by its
+
+parent. The key dimensions of autonomy relate to processes and priorities. Disruptive businesses need to
+
+have the freedom to create new processes, and build a unique cost structure in order to be profitable as
+
+they make and sell even their earliest products. Moreover, they need to be allowed to compete with — and
+
+cannibalize ~ their sister divisions.
+
+A single organizational unit cannot viably contain within it two fundamentally different cost
+
+structures or business models. When executives force different business models together into a single
+
+6
+
+unit in the name of “cost savings,” at least one — and often both — of the business models is destroyed.
+
+Here’s an example: To prosper from the disruption of photographic film by digital imaging, in the mid-
+
+1990s Kodak had established a digital business group — comprised of some highly profitable niche
+
+businesses as well as consumer cameras. In 2001 Kodak management decided to strip away the niche
+
+businesses whose profitability tended to obscure the intrinsic economics of consumer cameras. This left a
+
+“pure” unit whose only products were consumer digital cameras. “When I finally stood naked in front of
+
+the mirror,” said Willy Shih, VP and General Manager of the division, “It was simply horrifying.” But
+
+this isolation helped the unit’s management team create an economic model in which they could
+
+profitably grow a digital camera business. It was very successful. By 2004 Kodak’s U.S. market share
+
+had grown from 8% to 28% -- and the business was profitable. '
+
+When Antonio Perez replaced retiring Chairman-CEO Dan Karp in 2004, he decided to fold
+
+digital photography into Kodak’s consumer film business. His logic was that because both were
+
+consumer businesses, duplicate overhead costs could be cut significantly by combining the business units.
+
+Within two years Kodak had fallen to a distant third in the digital camera race.’* Consumer cameras were
+
+viewed as unprofitable; and in August 2006 the company decided to hand off its digital camera operations
+
+to Flextronics. There is a dimension of cost that one does not learn in the typical accounting course. It is
+
+easy to see and calculate the cost savings from elimination of “duplicate overhead”. It is much harder to
+
+anticipate and calculate the cost of the slowly eroding market share and the gradually declining
+
+prices/margins that often result when previously dedicated and focused product development, marketing,
+
+and sales resources are eliminated in the pursuit of synergies, or diluted by being combined with another
+
+organization and given many other products to support.
+
+Buying Resources, Processes, and Priorities
+
+Managers often conclude that acquiring rather than building required capabilities makes
+
+competitive and financial sense. Unfortunately, companies’ track records in developing new capabilities
+
+through acquisition are frighteningly spotty. The RPP framework can be a useful way to frame the
+
+challenge of integrating acquired organizations. When one company acquires another, it buys its
+
+resources, its processes, and the priorities embedded in its business model. Acquiring managers therefore
+
+need to begin by asking, “What is it that really made this company that J just bought so attractive? Did I
+
+justify the price because of its resources—its people, products, technology, or market position? Or was a
+
+substantial portion of its worth created by its processes and business model — its unique ways to
+
+understand and satisfy customers; develop, make, and deliver new products in a timely way; and do so
+
+within a cost structure that gave it disruptive potential?”
+
+If the acquired company’s processes and business model are the real drivers of its success, then
+
+the last thing the acquiring manager wants to do is fully integrate it into the parent organization.
+
+Integration will vaporize the processes and business model of the acquired firm when its employees are
+
+required to adopt the buyer’s way of doing business and have their new-growth proposals evaluated
+
+according to the prioritization criteria and product development processes of the acquiring company. If
+
+processes and profit model were the reason for its historical success, a better strategy is to let the acquired
+
+business stand alone, and for the parent to infuse its resources into the acquired firm’s processes and
+
+business model. This truly constitutes the acquisition of new capabilities.
+
+If, on the other hand, the company’s resources (e.g., plant capacity, product platforms,
+
+geographic position, intellectual property) were the primary rationale for the acquisition, then integrating

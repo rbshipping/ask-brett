@@ -1,0 +1,39 @@
+# Document Processor Configuration
+# Edit these settings as needed
+
+# Source folder containing your documents
+source_folder: "C:\\Users\\RyanBenner\\OneDrive - BBRC\\Documents\\Portfolio\\AI\\Ask Brett Data"
+
+# Output folder for chunks and index (will be created if doesn't exist)
+output_folder: "C:\\Users\\RyanBenner\\OneDrive - BBRC\\Documents\\Portfolio\\AI\\doc_processor\\output"
+
+# Chunk settings
+chunk_min_words: 800
+chunk_max_words: 1000
+chunk_overlap_words: 100
+
+# LibreOffice path (update if installed elsewhere)
+libreoffice_path: "C:\\Program Files\\LibreOffice\\program\\soffice.exe"
+
+# Tesseract OCR path (for scanned PDFs)
+tesseract_path: "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+
+# Poppler path (for PDF to image conversion)
+poppler_path: "C:\\Users\\RyanBenner\\poppler-25.12.0\\Library\\bin"
+
+# Claude API settings
+claude_model: "claude-3-haiku-20240307"  # Cheapest option, good for classification
+max_retries: 3
+
+# Test mode: set to a number to only process that many files (e.g., 10)
+# Set to null to process all files
+test_mode: null
+
+# File types to process
+file_types:
+  - ".pdf"
+  - ".doc"
+  - ".docx"
+  - ".ppt"
+  - ".pptx"
+  - ".txt"

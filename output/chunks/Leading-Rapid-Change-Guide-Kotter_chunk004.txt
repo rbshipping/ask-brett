@@ -1,0 +1,64 @@
+SOURCE: Leading-Rapid-Change-Guide-Kotter.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Organizational Structure and Networks
+SUMMARY: The text discusses the differences between traditional hierarchical structures and network-based structures, highlighting the exponential increase in connections and relationships in a network.
+KEYWORDS: organizational structure, network science, relationships, hierarchy, connections
+---
+
+[Document: Leading-Rapid-Change-Guide-Kotter.txt]
+
+Can you share more about the formula? by Helle
+
+An interesting article can be found here and thorough, and detailed technical discussion
+
+Network Science can be found here.
+
+Can you share an example? by Mary
+
+Let's say you have 100 people in your organization/team. In a typical hierarchy, there are few
+
+defined relationships - the manager may have seven supervisors/direct reports, and in turn each
+
+direct report has 12-13 people reporting to them. You can map this out fairly easily and see that there
+
+are a number of 1:1 relationships. Being generous, there may be 13 relationships for each supervisor
+
+and each supervisor has a relationship with the manager. The supervisors will also likely have
+
+relationships between themselves. However you'll probably find that you max out at around 120
+
+connection points. However, if everyone in the network were connected to everyone else, you would
+
+have a total of 4,950 relationships - i.e. (100 * 99)/2. This is a massive (4,000%) increase in the
+
+number of relationships - and this is what is so powerful about the network.
+
+© Kotter 2020
+
+--- Page 9 ---
+
+LEADING CHANGE
+
+THE FAQ'S TO LEADING RAPID CHANGE
+
+POST LEADING RAPID CHANGE WEBINAR | LINKS FOR FURTHER READING
+
+https://www.kotterinc.com/research-and-perspectives/restructure-your-organization/
+
+https://chiefexecutive.net/a-better-way-to-lead-in-a-downturn/
+
+https://www.kotterinc.com/client-story/u-s-military/
+
+https://www.forbes.com/sites/johnkotter/2020/03/24/how-to-lead-virtually-in-a-time-of-
+
+pandemic/#1edd665f3376
+
+https://www.forbes.com/sites/johnkotter/2011/07/12/change-management-vs-change-leadership-
+
+whats-the-difference/#196275484cc6
+
+https://www.the-vital-edge.com/what-is-network-density/
+
+https://en.wikipedia.org/wiki/Network_science#Size
+
+© Kotter 2020

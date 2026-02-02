@@ -1,0 +1,164 @@
+SOURCE: 20120828 - Inventory Management Presentation - OPEN TO BUY SESSION ONLY.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Inventory Management
+SUMMARY: This text discusses the analysis of cost of goods sold, shrinkage, invoiced, open purchase orders, and closing stock targets to optimize inventory management.
+KEYWORDS: COGS, Shrinkage, Invoiced, Open Purchase Orders, Closing Stock Targets
+---
+
+[Document: 20120828 - Inventory Management Presentation - OPEN TO BUY SESSION ONLY.pdf]
+
+COGS FORECAST/ACTUAL $ 1,311,228 $ 1,639,353 $ 1,443,900 $ 1,631,562 $ 4,157,746 2. Do allocations to shrink
+
+LY $ 1,364,183 $ 1,795,032 $ 1,541,333 $ 1,766,459 $ 4,279,926
+
+2 and markdowns make
+
+FORECAST/ACTUAL $ 340,301 $ 122,178 $ 132,515 $ 148,840 $ 172,500
+
+SHRINKAGE
+
+LY $ 154,152 $ 722,916 $ 312,536 $ 529,483 $ 77,568 sense?
+
+FORECAST/ACTUAL $ 118,421 $ 144,175 $ 203,369 $ 248,758 $ 142,804
+
+INVOICED
+
+LY $ 166,414 $ 159,339 $ 187,618 $ 241,037 $ 134,458 3. Can we justify our
+
+STILL TO PLACE $ - $ - $ 1,155,633 $ 1,645,113 $ 1,943,315 closing stock targets
+
+OPEN PO'S $ 363,599 $ 1,806,397 $ 735,399
+
+NEW relative to the forecast /
+
+GOODS IN $ 932,764
+
+LY GOODS IN $ 1,230,141 $ 2,078,853 $ 2,679,295 $ 2,315,771 $ 1,653,553 actual
+
+STILL TO PLACE $ - $ - $ 601,241 $ 3,055,209 $ 1,120,158
+
+OPEN PO'S $ 175,214 $ 1,067,242 $ 417,007 $ 4,307 4. Do the ratios support our
+
+REPEATS GOODS IN $ 440,498 $ - $ - $ - $ - calculations?
+
+TOTAL REPEAT $ 615,712 $ 1,067,242 $ 1,018,248 $ 3,055,209 $ 1,124,465 - GMROI
+
+LY GOODS IN $ 1,265,510 $ 1,660,906 $ 3,421,167 $ 1,536,979 $ 956,799
+
+STILL TO PLACE $ - $ - $ 1,756,873 $ 4,700,322 $ 3,063,473 - Forward Cover
+
+OPEN PO'S $ 538,813 $ 2,873,639 $ 1,152,407 $ - $ 4,307 - Sales to stock ratio
+
+TOTAL ORDERS
+
+GOODS IN $ 1,373,262 $ - $ - $ - $ -
+
+LY GOODS IN $ 2,495,651 $ 3,739,759 $ 6,100,462 $ 3,852,750 $ 2,610,352
+
+FORECAST/ACTUAL
+
+AGED STOCK
+
+LY
+
+3BUDGET $ 6,758,115 $ 7,105,663 $ 10,407,720 $ 13,123,497 $ 10,316,263
+
+TARGET $ 6,625,514 $ 6,845,891 $ 8,097,155 $ 10,768,317 $ 9,363,046
+
+CLOSING STOCK
+
+FORECAST/ACTUAL $ 5,999,726 $ 6,967,659 $ 8,097,155 $ 10,768,317 $ 9,363,046
+
+LY $ 5,869,963 $ 6,932,436 $ 10,991,410 $ 12,556,611 $ 10,824,387
+
+FORWARD ACTUAL
+
+COVER (MTHS) LY
+
+ACTUAL 0.78 0.95 0.72 0.60 1.38
+
+GMROI
+
+LY
+
+4
+
+FORECAST/ACTUAL 1.98 1.98 2.10 2.05 1.98
+
+ACP
+
+LY 2.00 2.00 1.89 1.81 1.88
+
+135
+
+OTB Tips & Tricks
+
+• One in one out – over the longer period
+
+(cid:2)
+
+If you know what the closing stock target should be – the
+
+rest is “arithmetic”
+
+(cid:2)
+
+To be done monthly (for the forecast period), not weekly
+
+(cid:2)
+
+Don’t buy inventory just to achieve the stock target.
+
+• Accurate and agreed OTB is then handed to the product and
+
+merchandise teams, over seen by the CEO to slice and dice and
+
+allocate to core, trend, new, categories, repeat, promotional,
+
+basics, class, colour etc etc
+
+……………..the fun begins
+
+136
+
+OTB Tips & Tricks cont…
+
+• Unit calculation is easier than $ but less accurate. Don’t make
+
+big bets on stock if the trend does not support your stated
+
+belief
+
+(cid:2)
+
+(if you are chasing increases, then increase stock at 10% of
+
+the increase ie if you are chasing a 10% above trend
+
+objective then 1% OTB above required for current trend)
+
+(cid:2)
+
+Avoid confusing OTB meetings with Merchandise Planning
+
+or re-ordering/replenishment meetings
+
+(cid:2)
+
+Keep it simple
+
+(cid:2)
+
+Focus on trends/use graphs
+
+(cid:2)
+
+Don't tolerate bad performance
+
+(cid:2)
+
+Stop knee jerk reactions. make sustainable considered
+
+decisions
+
+137

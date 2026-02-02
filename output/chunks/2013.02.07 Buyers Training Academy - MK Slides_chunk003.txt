@@ -1,0 +1,109 @@
+SOURCE: 2013.02.07 Buyers Training Academy - MK Slides.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Inventory Management
+SUMMARY: The text discusses managing low-selling and low-turn SKUs, the risks of aged inventory, and the importance of considering customer reactions before cutting underperforming products.
+KEYWORDS: inventory management, SKU analysis, customer behavior, product deletion, sales performance
+---
+
+[Document: 2013.02.07 Buyers Training Academy - MK Slides.pptx]
+[Presentation Topic: Range Reviews]
+
+200
+
+100
+
+0
+
+Cumulative sales
+
+600
+
+0
+
+Number of SKUs ranked by top selling
+
+1000
+
+900
+
+800
+
+700
+
+500
+
+400
+
+300
+
+200
+
+100
+
+$20M
+
+0
+
+$40
+
+$60M
+
+$80M
+
+Category 1
+
+Category 2
+
+Low selling
+
+Low turns, poor GMROI
+
+High risk of aged inventory that stuffs up your OTB
+
+Hopefully, via systematic reviews, you understand why some product is not moving
+
+Assumes that any additional SKU follows a predictable pattern
+
+Also need to look at:
+
+Category growth
+
+Target GM
+
+etc.
+
+The more fashion-oriented the category, the longer the tail tends to be… but some items might be important for brand image
+
+[Slide 22]
+
+Before cutting tail products, it is critical to think through potential customer reaction
+
+An convenience store retailer deleted the bottom performing 20% of its SKUs to allow for expansion of its fast 'n fresh meal offerings – a critical part of their new overall strategy
+
+Total sales declined 30%
+
+While all of the deleted SKUs had low sales, when core customers couldn't find them, they decided to shop elsewhere
+
+Issue with cutting the low-performers:
+
+A cautionary tale
+
+Key questions and example basket analytics
+
+Are your best customers buying these products? (and how frequently?)
+
+Are they complementary to another critical category that is doing well?
+
+Does this product attract more shoppers to my store (e.g. The New Science of Retailing example of a grocery retailer offering a $264 bottle of wine to help sell the $67 bottle)?
+
+% of total customer base
+
+Top 20% cust
+
+Other cust
+
+50
+
+100
+
+0

@@ -1,0 +1,204 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Business Process Outsourcing (BPO) Strategy
+SUMMARY: P&G adopted a 'best-of-breed' approach to BPO, outsourcing to specialized partners to improve quality and lower costs while managing complexity.
+KEYWORDS: business process outsourcing, best-of-breed strategy, partner selection, cost reduction, value creation
+---
+
+for the BPO partner, which would secure the biggest outsourc-
+
+ing deal in the industry’s history. But there was no obvious reason
+
+why the deal would help P&G to win. P&G wanted more than
+
+cost-effectiveness and a commitment to a predefined service level
+
+from an outsourcing deal. It wanted flexibility, a partner that could
+
+and would innovate with P&G to create value that didn’t exist in
+
+the current structure.
+
+Passerini soon came up with a new option. Instead of signing
+
+one deal, P&G would outsource various GBS activities to best-of-
+
+breed BPO partners, finding one ideal partner to manage facilities,
+
+another to manage IT infrastructure, and so on. The logic of this
+
+best-of-breed option was that P&G’s needs are highly varied and
+
+that a variety of more specialized partners would be most capa-
+
+ble of meeting the needs. Passerini saw that specialization could
+
+increase the quality and lower the cost of BPO solutions, and
+
+believed that P&G could manage the complexity of multiple rela-
+
+tionships to create more value than it could through one relation-
+
+ship. Plus, there was risk mitigation in having multiple partners,
+
+and they could be benchmarked against one another to promote
+
+better performance. Finally, outsourcing would free up remain-
+
+ing GBS resources to invest in P&G core capabilities and build
+
+sustainable competitive advantage.
+
+The case for a best-of-breed approach was compelling. In 2003,
+
+P&G entered BPO partnerships with Hewlett-Packard in IT sup-
+
+port and applications, IBM Global Services in employee services,
+
+and Jones Lang Lasalle in facilities management. Importantly,
+
+Passerini didn’t simply select the biggest or best-known player in
+
+each BPO space. In fact, as he explains, he chose partners consider-
+
+ing another essential criterion: “For each one of them, there was a
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch02.indd 41 11/6/12 8:17 PM
+
+42 Playing to Win
+
+common denominator: interdependency. It played out in different
+
+ways. For HP, they were a distant fourth player in the industry.
+
+With P&G, they gained instantaneous visibility and credibility. As
+
+important as they are to us, because all of our systems operate on
+
+the HP platform now, we are equally important to them [as their
+
+lead customer]. For each one of the [best-in-breed partners], the
+
+benefit was different, but each one of them became interdependent
+
+with P&G.”5 Passerini had crafted a richer way of thinking about
+
+the BPO relationship, one that asked, under what conditions can
+
+we help each other win?
+
+Passerini’s approach has been a success. The three origi-
+
+nal partnerships have performed well and have led to a handful
+
+of deeper partnerships for different services. The cost of services
+
+has fallen. Meanwhile, quality has risen and service levels have
+
+improved. Satisfaction rates for the six thousand employees who
+
+transferred to the BPO partners went up too; they are now a core
+
+part of their new organizations rather than a noncore part of P&G.
+
+And the approach has freed up P&G’s GBS team members to
+
+focus on innovating and building IT systems that support P&G
+
+strategic choices and capabilities, like designing state-of-the-art
+
+virtual shopping experiences for consumer insights work and a
+
+desktop-based “cockpit” that provides P&G leaders with at-a-
+
+glance decision-making tools. GBS has been able to outsource the
+
+utilities element of P&G’s shared services and focus internally on
+
+areas where it can build strategic advantage. P&G’s approach to
+
+this set of transactions has become a model for other organizations,
+
+as multiple rather than single-source BPOs are becoming a pre-
+
+ferred industry norm.
+
+If the aspiration for GBS was to come to a good-enough solu-
+
+tion, then the best-of-breed option would never have been cre-
+
+ated. But the aspiration was considerably higher. The questions
+
+asked were these: What choice would help P&G win? And how
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch02.indd 42 11/6/12 8:17 PM
+
+What Is Winning 43
+
+could that choice create sustainable competitive advantage? These
+
+questions continue to be asked. Now head of a more agile GBS
+
+organization, Passerini thinks about providing service to P&G
+
+in terms of creating a winning value equation. “I fear becoming a
+
+commodity,” he says. “[In IT] you need to be distinctive to avoid
+
+commoditization. We have been on a quest to deliver unique value
+
+to P&G. Whatever is distinctive and unique, we focus on; whatever
+
+is commodity, because there is not competitive advantage in doing
+
+it inside, we outsource.”
+
+The desire to win spurs a helpfully competitive mind-set, a
+
+desire to do better whenever possible. For this reason, GBS com-
+
+petes for its internal customers. Passerini explains: “We don’t man-
+
+date new services; we offer them [to businesses and functions] at
+
+a cost. If the business units like them, they will buy them. If they
+
+don’t like them, they will pass.” This open market provides impor-
+
+tant feedback and keeps GBS thinking about how to win with its
+
+internal customers and create new value. So much so that Passerini
+
+famously stood at a global leadership team meeting and promised:
+
+“Give me anything I can turn into a service, and I’ll save you sev-
+
+enteen cents on the dollar.” It was a provocative offer, and one that
+
+set the tone for his team. Good enough wasn’t an option. Provid-
+
+ing services wasn’t the strategy. Providing better services at higher
+
+quality and lower costs—while serving as an innovation engine for
+
+the company—was the strategy. It was a strategy aimed at winning.
+
+With Those Who Matter Most
+
+To set aspirations properly, it is important to understand who
+
+you are winning with and against. It is therefore important to be
+
+thoughtful about the business you’re in, your customers, and your
+
+competitors. We asked P&G’s businesses to focus on winning with
+
+those who matter most and against the very best. We wanted them

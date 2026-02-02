@@ -1,0 +1,248 @@
+SOURCE: Total Retail 2015 PwC report.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Mobile Commerce Adoption Challenges
+SUMMARY: The report analyzes the current obstacles to large-scale adoption of mobile payments and product research, including consumer concerns about data security and the limitations of mobile form factors.
+KEYWORDS: mobile payments, mobile commerce, data security, mobile form factors
+---
+
+current obstacles are to a more large- Web started. The majority of us did not shopping are going
+
+scale adoption of mobile for payment or think that commerce would happen
+
+to make the world of
+
+researching products. As figure 8 on the there. More recently, people were not
+
+following page shows, 66% of our global comfortable putting their credit card on difference for a retailer.”
+
+sample is concerned about having their the Web. Almost all of us do. The same
+
+– George Gallate, CEO, Merkle/RKG
+
+personal credit information hacked while thing is going to happen with mobile. The
+
+using a mobile phone. In addition, 41% say issue with mobile is the form factor, the
+
+they either strongly disagree or disagree size. It’s not as easy to transact on a phone
+
+with the notion that they are willing to yet, but the advances that are being made
+
+15
+
+Another challenge for mobile is that the a customer searches UGG® while in New Plastic still rules in payment
+
+technological reality at most retailers York City on the smart phone, you have So how do people want to pay, if most
+
+has not caught up to the promise of a paid search campaign that would show are not yet ready to pay by their mobile?
+
+location-based offers and coupons that nearest the store. On the other hand, if Ninety-four percent of our global sample
+
+mobile offers. the customer is in an airport, the search continued this year to opt for the most
+
+should direct the customer to the mobile traditional, pre-digital modes of payment
+
+“Based on the location of use, the purpose optimized website.” to complete their shopping. Credit cards
+
+can change,” Decker’s Kalinich told (40%), debit cards (28%), cash (20%),
+
+PwC. “We need to develop an awareness and even payment by invoice (6%) all beat
+
+of a customer’s location to optimize the out mobile phones (3%) as the preferred
+
+best connection with the customer. So if method of payment to conclude a purchase.
+
+Figure 8: When it comes to consumer confidence, the mobile phone still has a long way to go
+
+Q: How strongly do you agree or disagree with the following statements
+
+I am happy for stores to
+
+establish my location 30% 21% 20% 16% 9% 4%
+
+through my mobile phone
+
+I am happy to store my
+
+payment and delivery 23% 18% 21% 22% 11% 4%
+
+information in an app
+
+on my mobile phone
+
+I am willing to load
+
+credit onto my mobile
+
+20% 21% 25% 22% 9% 5%
+
+phone to provide
+
+payment for products
+
+My mobile phone will
+
+become my main tool for 17% 21% 27% 20% 9% 5%
+
+which to purchase items
+
+I am happy to receive
+
+offers or coupons via my 13% 12% 20% 33% 20% 3%
+
+mobile phone
+
+I am wary of having
+
+my personal credit 5% 8% 17% 33% 33% 4%
+
+information hacked using
+
+my mobile phone
+
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+Strongly disagree Disagree Neither agree Agree Strongly agree Don’t know
+
+or disagree
+
+Source: Global PwC 2015 Total Retail Survey
+
+Base: 19,068
+
+16
+
+Looking ahead to other forms
+
+Figure 9: So called “digital” or “virtual” currencies such as Bitcoin could
+
+of payment
+
+enable users to pay for products and services electronically without using
+
+The experience with mobile phones is
+
+the local currency
+
+probably a good indicator of the future
+
+of other online payment systems—such
+
+as the more than 70 “digital” currencies, Up until now have you Could you see yourself
+
+been aware of these types using such a digital currency
+
+including Bitcoin. If anything, digital
+
+of currencies? in the future?
+
+currencies could face far greater obstacles
+
+of trust and ease of use than mobile phones,
+
+which are exceedingly easy to use, familiar,
+
+and globally available. Indeed, many
+
+people around the world have a distrust
+
+36% 39%
+
+even of their own currencies, displayed 40%
+
+repeatedly during the last few years across
+
+60%
+
+a range of regions, from Argentina to the
+
+Eurozone. As The New York Times’s Sydney
+
+25%
+
+Ember has written, “Without government
+
+regulation, many are reluctant to use the
+
+virtual currency.”10
+
+And yet, our survey respondents’ answers Yes, I was aware of these Yes
+
+to questions about Bitcoin and other digital
+
+currencies—the first time in our survey No, I was not aware of these No
+
+history we have posed them—display
+
+I’m not sure/Don’t know
+
+a strong interest. In fact, 39% of our
+
+respondents state that they can envisage
+
+“using a digital currency in the future.”
+
+Source: Global PwC 2015 Total Retail Survey
+
+Another 36% said they weren’t sure, leaving
+
+Base: 19,068
+
+just 25% of our global sample that firmly
+
+ruled out using a digital currency. One of
+
+the reasons behind this willingness could
+
+be that consumers have begun to see digital
+
+currencies being used in other sectors, one
+
+of which is the entertainment industry.
+
+For example, according to a February
+
+2014 PwC white paper on Bitcoin, social
+
+gaming company Zynga added Bitcoin as
+
+a payment method for its most popular
+
+games early in 2014. Besides the added
+
+option for its users, the company generated
+
+thousands of media mentions over its
+
+decision, according to the white paper.
+
+Other well-known organizations that made
+
+the jump to accepting Bitcoin in 2014
+
+according to the PwC white paper, include
+
+the Sacramento Kings NBA franchise and
+
+Overstock.com, which reported 840 orders
+
+on its first day of accepting the currency.
+
+17
+
+Mobile: the glue that binds
+
+When a company is voted best department store in the world three
+
+times in five years, it must be doing a lot of things right. Simon
+
+Forster is executive director for multichannel, marketing and supply
+
+chain for UK-based Selfridge’s, which has been awarded that title by
+
+Global Department Store Summits in 2010, 2012, and 2014.
+
+With online sales surging at the company–cyber sales were up 300%
+
+in 2014 from the previous year on Black Friday (which has now
+
+become a major shopping day in the UK as well as the US)—Forster

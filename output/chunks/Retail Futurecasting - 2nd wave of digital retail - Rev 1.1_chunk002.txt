@@ -1,0 +1,148 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Transformation
+SUMMARY: Retailers must embrace new technologies, take risks, and make data-driven decisions to remain competitive in the evolving retail landscape.
+KEYWORDS: digital retail, technology adoption, data-driven decision making, operational efficiency, customer experience
+---
+
+businesses on gut and historical experience will become uncompetitive. They will need to learn new
+
+skills, embrace new technology, and take big risks. Retailers will all need to be much braver than in the
+
+past; and only the bravest will win.
+
+Technology will remake the face, the bones, and the brains of retail. Vast amounts of data will be
+
+gathered, stored and analyzed to provide unique insight into operational efficiency and shopper needs
+
+and wants. These breakthroughs will be made possible by computing capability that comes at very low
+
+cost, tiny physical sizes, and ever higher performance levels.
+
+Historically retailers have focused IT spending on improving the bones of retail: manufacturer-facing
+
+efforts designed to optimize the supply chain, manage inventory, and handle secure transactions. In
+
+response to new shopper expectations, retailers are rebalancing their IT spend to include customer-
+
+facing technologies that also improve the face of retail: technology to improve the shopper experience,
+
+to make mission shopping more efficient, and experience shopping more enjoyable. Giant data centers
+
+will amplify the effectiveness of both the bones and face by connecting them to the brains of retail:
+
+analytics and intelligence at every stage of the retail machine that multiplies the effectiveness of the
+
+bones and face. Retailers will no longer operate on gut and experience but will make data-driven
+
+decisions based on operational insight and a deep understanding of the shopper genome—shopper
+
+habits, desires, and expectations. Data gathered from smart, connected in-store infrastructure will
+
+enable retailers to optimize profits by optimizing operational efficiency, delivering personalized
+
+experiences and value that customers crave, and selling valuable insights to manufacturers. In-store
+
+intelligence will also enable retailers to deliver personalized offers, dynamic pricing, and the customized
+
+products and services shoppers want. Computers that can see, hear and understand the world around
+
+them will enable brands and retailers to have new types of interactions with shoppers, and tell stories in
+
+new ways. Finally, technology will optimize the effectiveness of labor by connecting assistants to real-
+
+time store data with the use of wearable computing.
+
+7
+
+By 2030, smart cars will navigate down smart streets in smart cities. Smart products will be delivered by
+
+smart trucks to smart stores inside smart packaging. These smart products will create new revenue
+
+streams built on new business models that enable retailers and manufacturers to build new service
+
+businesses. Smart stores will be filled with smart infrastructure and smart shelves that bristle with a
+
+myriad of sensors gathering vast amounts of data. In-store automation will free up labor to focus on
+
+customer service and enable human touch connections that can’t be replicated online.
+
+The smart shelf is an oft-mentioned fable of the retail future that to date has not made either financial
+
+or business sense. In the next decade, the smart shelf will finally come of age, not as the garish, Vegas-
+
+like display shelf imagined in the past, but as a vital data-gathering endpoint that is part of a broader
+
+intelligent and sensing physical store. The smart, sensing physical environment will use a variety of
+
+sensing tools ranging from Wi-Fi, video, and SKU-level RFID to temperature, humidity, proximity and
+
+other sensors arrayed according to the segment, store layout, and business need. Low-cost, low power
+
+computing will enable this smart, sensing infrastructure to connect shoppers with retailers in new ways
+
+and allow retailers to gather insight that they can use to optimize their business, and to sell value-added
+
+analytics services to manufacturers. Cloud-connected smart shelves will evolve to facilitate the
+
+conversation between manufacturers and shoppers and will actively participate in the selling process.
+
+They will revolutionize the level of service retailers are able to offer to manufacturers and shoppers alike.
+
+Smart stores will interact with the shopper in a way that is natural, comfortable, and fully respectful of
+
+shopper privacy. Intelligence will be used to deliver personalized experiences to the shopper, to reward
+
+shopper loyalty, to create data-led sales and marketing opportunities for manufacturers, and to
+
+maximize profit for the retailer by delivering dynamic pricing at the shelf.
+
+Eventually shelves will understand natural human language, context, and even sense emotional states.
+
+They will serve shoppers intelligently by assessing whether they are stressed, relaxed, in a hurry,
+
+confused, in discovery, or close to making a purchase decision. Like any good sales person, the shelf will
+
+have a personality that combines deep product knowledge, trustworthiness, great shopper insight and
+
+strong selling skills. It will navigate a wide range of conversations, make choosing easier for the shopper
+
+and move them towards purchase. Smart shelves will also handle loss prevention, and manage samples,
+
+inventory and assets. To unlock maximum value, smart shelves will need to be supported by a
+
+sophisticated back-end server infrastructure able to gather, store, and analyze data, and deliver media
+
+and other services to the shelf. New business models will emerge that allow retailers to optimize the
+
+experience for shoppers, for manufacturers, or both. Proprietary, vertical solutions that initially come to
+
+market will eventually yield to lower-cost solutions based on standard building blocks, interfaces, and
+
+APIs. This will lead to an explosion of value creation as it enables developers to collaborate across
+
+standardized platforms.
+
+The sharing economy creates an opportunity for retailers to monetize goods and services in new ways
+
+but also threatens existing retail business. Shoppers are finding more efficient ways to consume. In a
+
+fast-growing trend that could limit future consumption and that could spread to nearly every sector of
+
+retail, some shoppers in some markets now aspire to merely have access to products rather than own
+
+them.
+
+Local just-in-time manufacturing, led by ever-improving 3D printing technology, will reframe the
+
+economics, supply chain and customization capabilities of retail. 3D printing promises to offer shoppers
+
+maximum choice and immediacy inside the minimal physical store footprint.
+
+8
+
+The shift to online sales has remade the retail landscape and the availability of high-speed delivery
+
+services will probably accelerate the rise of mobile and online shopping. “Next hour” delivery capability
+
+is emerging and will eventually become widespread, removing the immediacy advantage for traditional

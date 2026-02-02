@@ -1,0 +1,130 @@
+SOURCE: HBR How do customers judge quality in an e-tailer.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Website Usability and Design
+SUMMARY: Customers judge the quality of an e-tailer's website based on ease of use, visual appeal, and reliable functionality.
+KEYWORDS: website usability, online shopping experience, e-commerce design, web navigation, product presentation
+---
+
+has. In an online setting, customers associate ease of use with transaction. It is equivalent to the atmospherics in a brick-and-
+
+freedom from significant mental effort.3 mortar store. Customers want a Web site that is visually pleasing
+
+One of the strengths of online retailing — endless shelf space but not distracting. Excessive use of animation, flashing colors
+
+— can quickly turn into a weakness if a Web site is difficult to use. and scrolling words can take away from the shopping experience.
+
+Customers want easy-to-use search engines that allow them to Additionally, retailers must be aware of text size and font along
+
+find products quickly. For instance, Amazon.com Inc. has a wide with colors that are conducive to reading. For instance, red letters
+
+variety of products spanning numerous product lines. If custom- on a blue background and blue letters on a red background are
+
+ers are not given a way to quickly narrow choices down to an extremely difficult to read. Online retailers must be mindful of
+
+acceptable number, they will turn to other online retailers and/or how easy the Web site is to read and must ensure proper spacing
+
+brick-and-mortar retailers for their product purchases.4 Best Buy between columns and lines of text.
+
+Company Inc.’s Web site is a good example of how to easily allow Online retailers also need to include both detailed descrip-
+
+patrons to search for a product. Online customers are allowed to tions and visual representations of products. Customers often
+
+search for products based on category and are then allowed to need to see the object to verify and justify a purchase decision.
+
+further refine their search within each category based on relevant Thumbnail images are an increasingly popular technique with
+
+product attributes such as brand name, price range and types of many retailers that offer a large variety of products. Retailers such
+
+processors. Best Buy allows customers to a find a product with as Lands’ End Inc. have added a “try it on” function that allows
+
+the fewest “clicks” possible. Ease of navigation is also extremely the customer to see a clothing item on a mannequin that has their
+
+important. Without it, customers can get lost and could ulti- individual measurements. With this function, customers can ac-
+
+mately leave the Web site in frustration. Finally, a retailer’s Web tually view how the clothing will look on their own body type
+
+site should prompt for missing information or alert the customer before purchasing the item.
+
+when an error has been made.
+
+Consistency and Flexibility Reliability or consistency of a Web site’s
+
+Privacy Customers want to know that their Web site interactions function is necessary in order to build and maintain an online
+
+are private and their information is safe. For example, customers customer base. Customers use phrases such as “this Web site is al-
+
+must feel assured that credit card information is secure and pro- ways down” and “it’s never working” after only a few visits to a Web
+
+tected from potential hackers. Providing recognized Web site that has reliability issues. Online retailers need to be mindful
+
+assurance seals from reputable security organizations such as that a Web site that experiences problems, thus preventing custom-
+
+VeriSign Inc. and TRUSTe will often quell customers’ security ers from shopping and purchasing products, is the equivalent to
+
+concerns and influence a customer’s decision to make a purchase putting a “closed” sign on a brick-and-mortar store.
+
+with an online retailer.5 For example, in an effort to promote A Web site’s applications and links must also work properly.
+
+online security, Google Inc. has just introduced Google Check- Hyperlinks should not lead to dead ends or fail to carry the cus-
+
+out, a Web site where patrons enter their personal information tomer to the desired Web page. In a conventional brick-and-mortar
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+36 MIT SLOAN MANAGEMENT REVIEW FALL 2006
+
+store, this would be the same as
+
+About the Research
+
+posting a sign directing customers
+
+to the men’s department but actu-
+
+ally leading them to housewares. Our conclusions in this article are based upon a survey designed to assess customers’ evalua-
+
+Hyperlinks that fail to work or tions of their last online retail experiences. The survey took place in a major city, where
+
+work improperly can have a tre- respondents were recruited and prescreened. To qualify for the survey, all respondents had to
+
+mendous influence on customers’ have previously completed an online transaction with an e-tailer. Online auction sites such as
+
+evaluations of quality. eBay Inc. did not qualify as an online e-tailer for this study. Respondents were asked to re-
+
+member their last online transaction and respond to questions in four areas.
+
+An online retailer needs to be
+
+The first area asked questions that specifically related to the interactivity of the customer
+
+mindful of providing a consistent
+
+with the e-tailer’s Web site. This section asked questions about ease of use, navigation, search
+
+service that is flexible enough to
+
+engines, privacy, Web assurance seals, Web site design, graphics and print quality. This sec-
+
+appeal to what may be widely dif-
+
+tion also asked about reliability: how often the site crashed, the accuracy of information
+
+fering types of customers in their
+
+posted and the objectivity of the information. Customers were also asked about their percep-
+
+target markets. To appeal to di-
+
+tion of waiting and how it influenced their quality evaluation of the Web site and e-tailer.
+
+verse elements of a retailer’s target
+
+The second section asked customers to evaluate e-tailers based on delivery of the product
+
+market, a Web site must, for ex- purchased. In this section, questions of order accuracy, order timeliness and order condition
+
+ample, accommodate were asked of patrons who had completed an online transaction. An e-tailer’s ability to ac-
+
+multilingual translations. Addi- commodate flexible delivery dates and rush orders was addressed in this section. Customers
+
+tionally, a Web site must be able to were also asked about the care with which items were protectively packed for shipment.

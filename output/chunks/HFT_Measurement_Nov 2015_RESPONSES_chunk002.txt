@@ -1,0 +1,50 @@
+SOURCE: HFT_Measurement_Nov 2015_RESPONSES.docx
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.11 HFT - Measurement
+TOPIC: Business Measurement and Analytics
+SUMMARY: The text discusses the importance of measuring key business metrics, including challenges and best practices for implementing effective measurement systems.
+KEYWORDS: business analytics, performance measurement, data-driven decision making, key performance indicators (KPIs), data warehouse
+---
+
+I recall when first coming into this business I got pushback for a more detailed dashboard because we did not have a BI tool, however it was interesting we were able to get more than enough measurements to show us that we were nowhere near where we needed to be.
+
+We are now building a data warehouse which will allow us to implement better dashboard and drill down capabilities now that we are measuring the basic
+
+GARY JONES (Aventus Property Group)
+
+What’s the most significant change you’ve seen in your career as a result of starting to measure something?
+
+Measuring arrears collection – the measurement (and internal publication ie amongst centres) of retailer arrears has a more direct impact on the timeliness of rental payments than any other measurement I’ve seen in property
+
+What should we be measuring? What shouldn’t we be measuring?
+
+Should – anything that can impact the business and that we can alter our actions/behaviour in order to influence ie occupancy, arears, traffic, WALE, turnover, % of fixed increases, interest cover ratio.  Also should be measuring more input/productivity type factors – how many external meetings per week for the leasing team, time spent outward facing activities vs internal facing activities etc; shouldn’t is anything of low impact or that we can’t do much about – most relevant to Property is probably frequency of measurement ie catchment area, spend per capita etc, traffic on feeder roads etc are useful to know but can be measured once every couple of years;  also, we can over-benchmark or fail to benchmark against the right comparison
+
+Why aren’t we measuring the things we ought to? i.e. what is stopping us?
+
+Perception of cost-time/benefit ratio, not having set systems in place to measure on a timely basis, manual measurement rather than automating the process, view that time is better spent ‘doing’ than ‘analysing’, allowing urgent to take priority over important
+
+SHANE FALLSCHEER / PAUL GROSMANN (Lovisa)
+
+What’s the most significant change you’ve seen in your career as a result of starting to measure something?
+
+The space measurement and performance by both each SKU versus budget and the space management by having an allocated budget per fixture in our stores. Constant management of this has delivered our ongoing results.
+
+What should we be measuring?
+
+Anything that can be improved
+
+What shouldn’t we be measuring?
+
+Depending on where we are in the life cycle of the business and structure of the team, I think we need to question ‘the size of the prize’ before we get excited about measuring everything.
+
+Why aren’t we measuring the things we ought to?
+
+A change on personnel and then thinking, “I will let them get going before I complicate their role”
+
+We get too busy “doing” to revise and ask ourselves what should we be measuring and how can we improve this.
+
+In our business we have a lot of KPI’s around product and if we ever end up overstocked this then throws out all of the measures into the “red”, then it is too easy to think “they are all red until we get the stock fixed” so the detail of each KPI is ignored until the bigger issue is fixed.
+
+i.e. what is stopping us?
+
+Time and discipline to manage the tables that we have in place.

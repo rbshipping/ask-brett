@@ -1,0 +1,148 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Model Innovation
+SUMMARY: The text discusses IBM's business model innovation to disrupt the computing industry by setting up a new business unit, leveraging partnerships, and evolving its own business model.
+KEYWORDS: business model innovation, disruptive innovation, value network, IBM, computing industry
+---
+
+was also the only maker of minicomputers that became a leader in personal computers. It did this by
+
+setting up yet again a different business unit, in Boca Raton, Florida. This one made computers by the
+
+millions, and sold them at prices of $2,000. Its profit formula required 40% gross margins in the best
+
+of years. As volumes grew, the available margins quickly deteriorated to 25%.
+
+When IBM set up its disruptive business model in Florida to build microprocessor-based
+
+computers, it also proactively constructed an entirely new value network in order to accelerate the
+
+emergence of this disruption. It made a major equity investment in Intel, so that it could build the
+
+capacity to supply the needed microprocessors. It then found a start-up software company in Seattle
+
+Module Note—What Are Business Models, and How Are They Built? 610-019
+
+called Microsoft and gave it a major purchase order; and did the same for Seagate, a small maker of
+
+5.25-inch disk drives in Scotts Valley, CA. Because there were no retailers that could profitably and
+
+competently sell desktop computers, IBM had to set up its own network of retail stores. Had IBM not
+
+been able to establish this entire value network, its disruptive business model might not have
+
+succeeded—or at a minimum, would have taken much longer to become a major success.
+
+Then as the original business models got disrupted, IBM sold off or shut down most of these
+
+hardware business units, as it grew its services and IT consulting business units. IBM, the
+
+corporation, has evolved significantly, even while its business units did not. Almost all other
+
+computer makers, in contrast, did not evolve—because they did not engage successfully in business
+
+model innovation.
+
+When Are There Opportunities for Business Model Innovation?
+
+Many markets can be conceived geographically as a set of concentric circles. Before modern
+
+technology emerges in an industry, activity typically occurs in the largest circle: problems are
+
+addressed where and when they arise in people's lives. The advent of sophisticated high-
+
+performance technology, however, often drives a “centralization” of the industry. This is because the
+
+technology’s earliest manifestations are so expensive and complicated that only people with a lot of
+
+money and a lot of skill can own and use the products, or offer the services. During this phase, people
+
+need to take their problems to a central location, where someone with the requisite expertise and
+
+capital can solve them. The very cost and inconvenience of this centralized structure, however,
+
+typically then spawns a reciprocal process of “decentralization,” in which successive generations of
+
+disruptive innovations make the products and services so much more affordable and so much
+
+simpler, that a larger population of less-skilled and less-wealthy people can own and use them.
+
+As illustrated in Figure C, for centuries in the computing industry we used slide rules (or pens) to
+
+compute wherever the problems arose. The advent of digital computing, however, drove a
+
+centralization of the industry. Mainframe computers cost millions of dollars and could only be run by
+
+highly trained operators. The typical campus or corporation had one mainframe, at most; and we had
+
+to take our problems, in the form of stacks of punched cards, to that central location to have them
+
+solved by experts. The cost and inconvenience of this arrangement, however, then drove a sequence
+
+of disruptive innovations that decentralized the industry again, step by step. The minicomputer
+
+brought computing to corporations’ engineering departments. The desktop computer brought it to
+
+our offices and homes; the notebook put it in our briefcases; and the hand-held brought computing to
+
+our pockets and purses.
+
+Because each step was achieved by making the product simpler and more affordable, it was
+
+generally disruptive relative to the business models of the prior generation of competitors in the
+
+inner circles. Those competitors aggressively pursued sustaining innovations, competing against
+
+direct competitors within their circle—a circle that was characterized by the value proposition,
+
+resources, processes, and profit formulae that comprised their business model. Unless they created
+
+new business models that were attuned to competition in the next wave of “decentralization,”
+
+competitors in the inner circles ultimately found that their customers were drawn away to the more
+
+convenient outer circles, application by application, as the performance of products in those larger
+
+circles became good enough.
+
+610-019 Module Note—What Are Business Models, and How Are They Built?
+
+Figure C Cycles of Centralization and Decentralization in an Industry’s Structure
+
+Source: Casewriters.
+
+Numerous industries—including telecommunications, higher education, retailing, automobiles,
+
+software and steel making—have gone through or are now going through similar cycles of
+
+centralization and decentralization.> Others, such as health care and electricity generation, are poised
+
+to begin the process of decentralization.
+
+Many economists hold to a simplistic view that competition always drives prices down. However,
+
+head-on competition amongst competitors with similar business models in a given circle, in terms of
+
+Figure C, typically drives prices up, as competitors vie to make better and better products that can be
+
+sold for more attractive margins. For example, competition amongst hospitals drives prices up. As
+
+soon as one is licensed to perform transplant surgery, others press for licenses to perform the same
+
+surgery. As soon as one has a PET scanner, everyone needs a PET scanner. When one hospital invests
+
+in a multi-million-dollar surgical robot, all need a robot; and so on. Similar competitive races between
+
+Sony’s Playstation and Microsoft’s X-Box up the sustaining trajectory; and competition amongst elite
+
+universities, mainframe computer makers, hotels, and urban real estate developers typically drives
+
+competitors up the trajectory of sustaining innovation—all in the pursuit of higher margins. Typically
+
+3 Sometimes decentralization at one stage in the value-adding chain is achieved by centralization in an adjacent stage in the
+
+chain. In software, for example, software-as-a-service (SaaS) providers such as Salesforce.com house their software in central
+
+locations, enabling them to “serve” it at lower prices to a larger population of smaller companies, in distributed locations—
+
+companies and locations that previously could not afford licenses to Oracle software. In on-line higher education, as another

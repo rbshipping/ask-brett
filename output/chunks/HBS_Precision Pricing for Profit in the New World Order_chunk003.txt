@@ -1,0 +1,150 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Pricing Strategy
+SUMMARY: The text discusses how a company's pricing strategy should be influenced by its cost structure and customers' price sensitivity.
+KEYWORDS: pricing strategy, cost structure, price sensitivity, profit impact, account concentration
+---
+
+of the revenue from the additional units drops to the bottom line as profit. The opposite is true in high
+
+variable cost industries. Incremental volume isn’t very important there. (Exhibit 4) shows that a 10%
+
+increase in unit volume has almost no impact on profitability in a high variable cost business but that
+
+a 10% price increase has big profit impact.
+
+If customers are price sensitive, it would encourage us as a supplier to cut price. On the other
+
+hand, if customers are not price sensitive, we are encouraged to raise prices.
+
+Crossing price sensitivity and cost structure leads us to (Exhibit 5). The arrows in each box
+
+indicate the direction of the pressure on price. In the upper left-hand box we have high price
+
+sensitivity and fixed costs both encouraging lower prices. Tourist (quite price sensitive customers)
+
+airlines fit in this box. That helps to explain the vicious price wars among airlines in the early 1990s.
+
+The lower right hand box, with variable cost and low customer price sensitivity, is a kinder, gentler
+
+world. But, fewer companies Jive in that world. The off diagonals with mixed arrows are the more
+
+challenging decision making areas. The upper right is particularly difficult: it has high variable costs
+
+creating the need for higher prices and margins, and price sensitive customers who put pressure on
+
+getting lower prices. This is precisely where many suppliers live, and more and more are being
+
+pushed into that crowded, treacherous world by increasing customer price sensitivity!
+
+IV. THE SHIFT TO A CONCENTRATED ACCOUNT BASE
+
+Another significant change in most businesses is a shift to a more concentrated account base.
+
+Fewer customers comprise a larger share of the typical revenue base. In the “old days” it was said
+
+that 20% of a company’s accounts generated 80% of the revenue. Now, even for many large
+
+/
+
+t
+
+Precision Pricing for Profit in the New World Order 9-999-003
+
+companies, 20 accounts represent 80% of the volume. In the toy business, the neighborhood shop has
+
+been replaced by chains — three account for the preponderance of retail toy sales.
+
+Two trends have led to account concentration. Mergers, acquisitions and strategic exit have
+
+eliminated many customers. And, the differential growth of successful firms has created fewer, larger
+
+prospects and customers.
+
+As if more account concentration were not enough, some smaller and mid-sized buyers have
+
+turned to virtual account concentration — buying groups. Hospitals have joined buying groups to
+
+extract better prices, service, and terms and conditions from suppliers. Small retailers in many
+
+industries such as farm supplies and hardware have done the same. Some groups don’t buy together,
+
+they “just” exchange purchase cost information, often for infrequently purchased capital equipment,
+
+and thus increase price pressure.
+
+Astute buyers, furthermore, have amplified the account concentration process by
+
+concentrating their orders with fewer suppliers. Trends among sophisticated purchasers include
+
+longer commitments and more centralized purchasing. Thus, the larger customers provide even larger
+
+orders than their sheer size would dictate.
+
+And, “dictate” is the operative word. The natural consolidation in customer industries has
+
+been accompanied by order concentration because buyers understand the clout of large orders. This
+
+represents a big issue for marketers. Business in terms of orders, and customers, and prospective
+
+orders and customers, is in bigger “chunks.” The pressure to obtain the fewer, bigger chunks is high.
+
+And, the focal point for the pressure is price, and its close relative, terms and conditions. Terms and
+
+conditions (T&Cs in many industries) refer to such issues as credit and payment agreements, etc.
+
+(Exhibit 6) is a useful way to consider the shifts in cost structure and account base. In
+
+essence, the movement has been toward the upper left quadrant—meaning that price setting is
+
+becoming even more important and even harder. The profit leverage in the upper left quadrant (fixed
+
+costs and concentrated account base) is in major account management, price making, and, of course,
+
+negotiation—which in a sense, is the combination of account management and pricing.
+
+Vv. LIMITLESS LEVERAGE: INCREASING RETURNS TO SCALE
+
+The old adage, “The rich get richer..” is truer in many more businesses than ever before. In
+
+some businesses, customer value increases with supplier unit volume. This phenomenon which
+
+economists call “network externalities,” is clearest in a simple example of the old telephone system.
+
+If you are the first telephone on an isolated network, the phone is useless — there is no one to call you
+
+or for you to call. The value begins with the second telephone on the network. And, of course, it
+
+goes up rapidly with more phones on the network Thus, each succeeding customer generates more
+
+value for the previous customers.
+
+The same thing happens in many “new age” businesses. Consider commercial software. As
+
+more users adopt it, there are more workers skilled in its use, more consultants and systems
+
+integrators are able to install and customize it, and more software and hardware are designed to be
+
+compatible with it. After a point, it becomes a de facto standard. This, of course, has happened with
+
+many Microsoft programs and its Windows and NT operating systems.
+
+When this is teamed with high fixed costs/almost no variable cost (the cost of reproducing a
+
+set of diskettes or a CD-ROM is very low, and the cost of software distribution over the Internet is
+
+almost nothing) you have enormous returns to scale. (Exhibit 7) shows the shape of the customer
+
+value and average cost curves plotted against unit volume. After they cross, there is a great range in
+
+9-999-003 Precision Pricing for Profit in the New World Order
+
+pricing discretion, and a wonderful opportunity for ever-greater profits. As unit volume increases,
+
+costs go down, customer value goes up, and profits skyrocket. Of course, it becomes increasingly
+
+difficult for a competitor to even survive let alone catch up. The walls of what otherwise might be
+
+defensible niches are breached by the overwhelming growth in customer value and the almost
+
+negligible incremental cost. This process, of course, has made Bill Gates apparently the richest

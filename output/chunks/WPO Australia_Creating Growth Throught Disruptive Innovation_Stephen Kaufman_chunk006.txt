@@ -1,0 +1,168 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Sustaining Innovation and Disruption
+SUMMARY: The text discusses the importance of sustaining innovation and how it can be a dilemma for companies to address disruptive threats and opportunities.
+KEYWORDS: sustaining innovation, disruptive innovation, growth strategies, market disruption, technology trends
+---
+
+technology, and each is subject to these fundamental forces.
+
+1-6
+
+The Role of Sustaining Innovation in Generating Growth
+
+gairist“thevaggressive-pursuit of Sustaining.,
+
+innovation. Several other insightful books offer management techniques to help companies excel
+
+in sustaining innovations—and their contribution is important.® Almost always a host of similar
+
+companies enters an industry in its early years, and getting ahead of that crowd—moving up the
+
+sustaining-innovation trajectory more decisively than the others—is critical to the successful
+
+exploitation of the disruptive opportunity. But this is the source of the dilemma: Sustaining
+
+innovations are so important and attractive, relative to disruptive ones, that the very best
+
+sustaining companies systematically ignore disruptive threats and opportunities until the game is
+
+over.
+
+Sustaining innovation essentially entails making a better mousetrap. Starting a new
+
+company with a sustaining innovation isn’t necessarily a bad idea: Focused companies
+
+sometimes can develop new products more rapidly than lar ger firms because of the conflicts and
+
+distractions that broad scope often creates. The heory
+
+curve,andythen,selling,out,quic
+
+retutiis»This is common practice in the health care industry, and was the well-chronicled
+
+mechanism by which Cisco Systems “outsourced” (and financed with equity capital, rather than
+
+expense money) much of its sustaining-product development in the 1990s.
+
+A sustaining-technology strategy is not a viable way to build new-growth businesses,
+
+however. If you create and attempt to sell a better product into an established market to capture
+
+established competitors’ best customers, the competitors will be motivated to fight rather than to
+
+flee.” This advice holds even when the entrant is a huge corporation with ostensibly deeper
+
+pockets than the incumbent.
+
+For example, electronic cash registers were a radical but sustaining innovation relative to
+
+electromechanical cash registers, whose market was dominated by National Cash Register
+
+(NCR). NCR totally missed the advent of the new technology in the 1970s—so badly, in fact,
+
+‘that NCR’s product sales literally went to zero. Electronic registers were so superior that there
+
+was no reason to buy an electromechanical product except as an antique. Yet NCR survived on
+
+service revenues for over a year, and when it finally introduced its own electronic cash register,
+
+its extensive sales organization quickly captured the same share of the market as the company
+
+had enjoyed in the electromechanical realm.'° The attempts that IBM and Kodak made in the
+
+1970s and 1980s to beat Xerox in the high-speed photocopier business are another example.
+
+These companies were far bigger, and yet they failed to outmuscle Xerox in a sustaining-
+
+technology competition. The firm that beat Xerox was Canon—and that victory started with a
+
+disruptive tabletop copier strategy.
+
+Similarly, corporate giants RCA, General Electric, and AT&T failed to outmuscle IBM
+
+on the sustaining-technology trajectory in mainframe computers. Despite the massive resources
+
+they threw at IBM, they couldn’t make a dent in IBM’s position. In the end, it was the disruptive
+
+personal computer makers, not the major corporations who picked a direct, sustaining-innovation
+
+fight, that bested IBM in computers. Airbus entered the commercial airframe industry head-on
+
+1-7
+
+against Boeing, but doing so required massive subsidies from European governments. In the
+
+future, the most profitable growth in the airframe industry will probably come from firms with
+
+disruptive strategies, such as Embraer and Bombardier’s Canadair, whose regional jets are
+
+aggressively stretching up-market from below."
+
+Disruption Is'a Relative Term
+
+An idea that is disruptive to one business may be sustaining to another. Given the stark
+
+odds that favor the incumbents in the sustaining race but entrants in disruptive ones, we
+
+recommend a strict rule: If your idea for a product or business appears disruptive to some
+
+established companies but might represent a sustaining improvement for others, then you should
+
+go back to the drawing board. You need to define an opportunity that is disruptive relative to all
+
+the established players in the targeted market space, or you should not invest in the idea. If it is a
+
+sustaining innovation relative to the business model of a significant incumbent, you are picking a
+
+fight you are very unlikely to win.
+
+Take the Internet, for example. Throughout the late 1990s, investors poured billions into
+
+Internet-based companies, convinced of their “disruptive” potential. An important reason why
+
+many of them failed was that the Internet was a sustaining innovation relative to the business
+
+models of a host of companies. Prior to the advent of the Internet, Dell Computer, for example,
+
+sold computers directly to customers by mail and over the telephone. This business was already a
+
+low-end disruptor, moving up its trajectory. Dell’s banks of telephone salespeople had to be
+
+highly trained in order to walk their customers through the various configurations of components
+
+that were and were not feasible. They then manually entered the information into Dell’s order
+
+fulfillment systems.
+
+For Dell, the Internet was a sustaining technology. It made Dell’s core business processes
+
+work better, and it helped Dell make more money in the way it was structured to make money.
+
+But the identical strategy of selling directly to customers over the Internet was very disruptive
+
+relative to Compaq’s business model, because that company’s cost structure and business
+
+processes were targeted at in-store retail distribution.
+
+The theory of disruption would conclude that if Dell (and Gateway) had not existed, then
+
+start-up Internet-based computer retailers might have succeeded in disrupting competitors such
+
+as Compaq. But because the Internet was sustaining to powerful incumbents, entrant Internet
+
+computer retailers have not prospered.
+
+A Disruptive Business Model Is a Valuable Corporate Asset
+
+A disruptive business model that can generate attractive profits at the discount prices
+
+required to win business at the low end is an extraordinarily valuable growth asset. When its
+
+executives carry the business model up-market to make higher-performance products that sell at
+
+higher price points, much of the increment in pricing falls to the bottom line—and it continues to
+
+fall there as long as the disruptor can keep moving up, competing at the margin against the
+
+higher-cost disruptee. When a company tries to take a higher-cost business model down-market

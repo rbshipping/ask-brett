@@ -1,0 +1,263 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The document discusses various inventory management challenges and the actions taken to address them, focusing on improving data integrity and moving from reactive to proactive inventory management.
+KEYWORDS: inventory error, data integrity, process improvement, stock adjustments, proactive management
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+Known theft
+
+Faulty
+
+Stock adjustments
+
+Sales without SKU
+
+Price overrides
+
+Transaction error refunds
+
+Refunds
+
+Stocktakes
+
+Stockholding
+
+[Slide 167]
+
+Store Report
+
+Delivered to Store, Regional and State teams
+
+Inventory Pack
+
+Delivered to State Mgrs and Support Centre Team
+
+KRI Scorecard
+
+Delivered to SWAT Stores, Regional Mgrs, State & National Mgrs
+
+Measures & Reporting Examples
+
+[Slide 168]
+
+Most significant issues we had to deal with...
+
+The lack of process infrastructure, inter-department knowledge and ownership
+
+We had mini processes in every department...each department did it ‘their way’ without consultation as to the impact on other departments and the flow-on effect to data integrity.
+
+Our actions to fix inventory error was actually causing more damage!
+
+Example –Stock adjustments …we were fixing the outcome not the cause!
+
+We processed over 815k units of adjustments in the first half of FY12.  It took 2 TM in merch to process.  Our merch team was spending more time reacting than planning.  We started to adjust our adjustments.
+
+Rectification –
+
+we ceased adjusting inventory errors and started to focus on the cause…IBT management was the largest impact
+
+process for faulty and theft implemented daily to ensure data was up to date to increase replenishment.  Reports created to monitor compliance
+
+restructured the adjustment process and appointed an inventory analyst, trained to investigate prior to adjustment to minimise error
+
+implemented a check system and signoff prior to adjustment being processed to ensure all IBT faulty/theft was up to date to avoid over adjustment
+
+all adjustments were logged and the cause of the error identified
+
+the causes were assessed and consistently applied to improve processes.
+
+Significant reduction in stock unit adjustments (in & out) in 2nd half of FY12
+
+An Issue we had to Address
+
+[Slide 169]
+
+To date we have implemented the following to manage data integrity....
+
+identified the core risks and processes in the business
+
+reviewed and identified opportunities across retail, merch, buying, IT and DC
+
+implemented exception reporting, targeted to identify issues and support the business in achieving its KPIs
+
+created training packages on inventory management across retail to educate the team on the bigger picture and impact on sales
+
+implemented audit processes in store and DC to ensure compliance
+
+upgraded polling processes to improve success rate
+
+re-aligned tasks to departments and team to create ownership of results
+
+implemented structured stock adjustment processes
+
+removed black holes/dumping grounds - refined shrinkage write-off branches to manage cost and impact and create a clearer picture of our position
+
+random  10 item data integrity review part of every regional store visit
+
+2  store controlled fortnightly stocktake program (to commence).
+
+We are aiming to move from reactive inventory management to
+
+proactive management and risk mitigation
+
+Our Actions to Date
+
+[Slide 170]
+
+External third party impacts
+
+Delivery and transit –
+
+stock between DC and Store and the processes linked to accepting IBTs
+
+we need to start formally documenting issues and push ownership onto our freight partners
+
+eg: split deliveries, damaged deliveries, IBT paperwork error, wrong delivery/wrong store.
+
+Rostering/wage restraints –
+
+we have reviewed all inventory processes, added structure, training and ownership.   Stocktakes are starting to identify external theft as a threat
+
+our theft profile is a Minor – School-aged female.  Minimal organised theft
+
+we currently roster as per base rosters – frequently 1 TM in a store at any one time.
+
+Hall Of Mirrors
+
+12 months ago diva would have ranked 3 out of 10 for data integrity.  We were focused on fixing errors, not the processes causing them.
+
+Now we rank ourselves 7 out of 10
+
+We have tackled data integrity from the retail perspective and now our opportunity lies with support centre training and processes around markdown stock.
+
+Moving Forward
+
+[Slide 171]
+
+Brand Questions / Discussion
+
+What measures are used?
+
+What reports are used? What happens to them?
+
+KPIs?
+
+Who’s “3 to 5” KPIs have Data Integrity as one of them? Ownership?
+
+Method of “Culturalising” Data Integrity in the business (Retail & CS)?
+
+Most significant issues? How addressed?
+
+Any unique solution you are particularly “excited” about?
+
+Single biggest existing unsolved frustration or issue?
+
+170
+
+[Slide 172]
+
+Data Integrity September 2012
+
+It’s about the Customer, always!
+
+[Slide 173]
+
+Measures and Reports for Data Integrity
+
+Negative SOH report by store
+
+Outstanding IBT and PO by store
+
+Stocktake
+
+Negative Receipts by Store
+
+Warehouse Pick Checks
+
+DTS delivery errors by Supplier
+
+It’s about the Customer, always!
+
+[Slide 174]
+
+Negative SOH by Store
+
+Sent to stores every second week for action.
+
+Stores perform count on negative stock and return to Customer Support for correction
+
+Reported monthly as part of board pack.
+
+No consequences for stores if negative SOH report not actioned.
+
+Introduction of dynamic targets makes it crucial for data integrity to be right.
+
+It’s about the Customer, always!
+
+[Slide 175]
+
+Store Negative SOH
+
+Store keys in count and returns to customer support
+
+It’s about the Customer, always!
+
+[Slide 176]
+
+Monthly Negative SOH
+
+It’s about the Customer, always!
+
+[Slide 177]
+
+It’s about the Customer, always!
+
+[Slide 178]
+
+It’s about the Customer, always!
+
+[Slide 179]
+
+Outstanding PO and IBT
+
+Emailed weekly to AM’s
+
+As part of work-out just conducted this will be emailed directly to every store.
+
+Checked at Customer Support on a weekly basis for ALL outstanding IBT’s – this identifies where stores have sent stock to wrong locations (e.g. in-transit locations)
+
+It’s about the Customer, always!
+
+[Slide 180]
+
+Despite weekly reports to AM’s you can see that there are still outstanding IBT’s between stores (our biggest problem) and from DC’s
+
+It’s about the Customer, always!
+
+[Slide 181]
+
+Outstanding PO Report
+
+It’s about the Customer, always!
+
+[Slide 182]
+
+Identifying “negative” receipts
+
+It’s about the Customer, always!
+
+[Slide 183]
+
+Stocktake
+
+Performed six monthly on all stores, except stores with a poor result.
+
+A good stocktake result will have a positive result in that the store does not need to re-do a stocktake for another 12 months (4 to 5 stores currently)
+
+Very poor results will see the store re-scheduled almost immediately, an unacceptable result sees them scheduled again in the next 6 month cycle.
+
+It’s about the Customer, always!

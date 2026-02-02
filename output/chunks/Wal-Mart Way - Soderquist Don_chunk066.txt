@@ -1,0 +1,188 @@
+SOURCE: Wal-Mart Way - Soderquist Don.pdf
+SUBFOLDER: Additional\HFT
+TOPIC: Supplier Relationship Management
+SUMMARY: Wal-Mart and its suppliers revamped their relationship to focus on customer needs, streamline communication and processes, and support local businesses.
+KEYWORDS: supplier relationship, communication, process improvement, local suppliers, customer focus
+---
+
+[Document: Wal-Mart Way - Soderquist Don.pdf]
+
+—Albert Einstein
+
+This began an ongoing dialogue, a series of meetings between the senior
+
+leaders of Wal-Mart and our suppliers, in order to rethink and alter the nature
+
+of our relationship. Our suppliers began to see that their customers were not
+
+Wal-Mart and other retailers, but the people who bought the merchandise off
+
+our counters in the stores and clubs. Suppliers began to talk about customers
+
+as real live people, instead of “consumers.”We worked together on what was
+
+good for our customers.
+
+A beginning point in revamping our relationship with suppliers was to
+
+review and change the way we ordered merchandise, followed by a review of
+
+the entire buying process. Previously, our buyer interfaced with the supplier’s
+
+salesperson, and all communication flowed between those two people. The
+
+problem was that our buyer knew our business from the all-important
+
+merchandising standpoint, but he or she did not fully understand important
+
+details about technology, logistics, accounting, or other functions in Wal-
+
+Mart. The same was true about their salespeople, which left us with continual
+
+struggles and problems in other functional areas of the company.
+
+Our suppliers’ computers were operating one way; our computers were
+
+operating in a completely different way. Their accounts-receivable
+
+department was operating under certain rules; our accounts-payable
+
+department was operating under another set of rules.
+
+Our orders called for suppliers to ship fifteen to twenty loads of
+
+merchandise to one of our distribution centers once every two weeks, but we
+
+could unload only one of their trucks a day. We sent our orders to them on
+
+our forms and they had to reenter identical information on their forms and
+
+then into their computers. Not only did this redundancy create unnecessary
+
+work and expense, but many human mistakes were made in the translation
+
+process. The exact same thing was taking place on the invoicing side. This
+
+caused a lot of confusion and frustration at both ends.
+
+When we were willing to sit down together and look at these processes
+
+with a critical eye, it was obvious that what we were doing didn’t make
+
+sense. After extensive dialogue about ways to create a better, more seamless
+
+flow between us and our suppliers, our first change was to stop funneling all
+
+communications through one person at each company and find appropriate
+
+ways to get the right people talking to the right people to solve problems. We
+
+developed cross-functional teams with many of our suppliers. The teams
+
+worked together on how to simplify and streamline our communications.
+
+Wal-Mart and Local Suppliers
+
+• Wal-Mart buys the vast majority of its merchandise from well over ten
+
+thousand U.S. suppliers. This includes some of the largest manufacturers in
+
+the world as well as small, even “mom and pop” suppliers, small farmers,
+
+and minority and women-owned businesses.
+
+• Buying from these small local businesses supports Wal-Mart’s Store of the
+
+Community concept, which showcases local products from local
+
+producers. For example, Wal-Mart buys apples in Washington, pumpkins
+
+in Illinois, bacon in Minnesota, pies in California, household chemicals in
+
+Colorado, barbecue sauce in Missouri, bedroom slippers in Ohio, and
+
+many other products too numerous to mention.
+
+• Wal-Mart has established a special U.S. export office to send goods to our
+
+stores overseas. Last year, Wal-Mart sold more than $2 billion in U.S.
+
+goods in Wal-Mart stores in other countries.
+
+Because we established a new relationship model with our suppliers, now
+
+our technology people work directly with their technology people, our
+
+logistics people work directly with their logistics people, and our accounts-
+
+payable department works directly with their accounts-receivable department.
+
+We streamlined both ordering and invoicing processes by transmitting orders
+
+and invoices electronically, directly into each other’s computers, and letting
+
+the computers do the translating.
+
+Instead of shipping fifteen or twenty truckloads every two weeks, we
+
+agreed it would be much more efficient to spread out the merchandise flow
+
+and ship just what we could handle at a given time. As a direct result of this
+
+change, we eliminated countless errors and reduced the frustration level in
+
+both companies, and we have also significantly improved the flow of
+
+merchandise through the supply chain. We have reduced inventory levels
+
+significantly and improved the “in stock” rate in our stores for our customers.
+
+Finally, we drove millions of dollars of cost out of the process for both the
+
+suppliers and Wal-Mart and have been able to reduce thousands of our prices
+
+for our customers.
+
+Our success in establishing a trust relationship led us to develop what we
+
+described in chapter 8, a system we call Retail Link. We gave our suppliers
+
+direct access to our computers to follow and analyze on their PC screens the
+
+retail sales of all their items by store, district, region, state, or the whole
+
+country. They are now able to track daily sales on any item in any location
+
+and test new items anywhere in the country and get instant feedback on how
+
+those items are selling in the stores. We trusted that our suppliers would not
+
+share the information with our competitors, which provided a whole new
+
+foundation for our relationship with our suppliers.
+
+No One Wins Until Everyone Wins
+
+A fundamental element of a trust relationship that needs to be underscored
+
+is that the relationship must be beneficial for all parties involved. No one
+
+wins until everyone wins. Again, the supplier has to win, the retailer has to
+
+win, and the customer has to win—and we all won. In 1987, before we
+
+embarked on this relationship with Procter & Gamble, our annual purchases
+
+from them were approximately $350 million. In the year ending January 31,
+
+2004, these purchases surpassed $8 billion.
+
+Another dramatic example was what happened to the inventory turns of
+
+some items. In 1987, inventory turns on disposable diapers was
+
+approximately twenty times per year. As a result of Wal-Mart and Procter &
+
+Gamble’s working together, the number of turns was increased to seventy-
+
+five times per year. This type of improvement would appear to be impossible,

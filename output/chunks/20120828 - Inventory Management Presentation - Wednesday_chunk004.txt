@@ -1,0 +1,133 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management and Sales Forecasting
+SUMMARY: The document discusses methods for accurately forecasting sales, managing inventory, and identifying and predicting trends to optimize business performance.
+KEYWORDS: sales forecasting, inventory management, trend analysis
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+By performing these calculations in advance we can forecast with reasonable accuracy expected sales by range, place our orders in advance and save on freight etc. while ensuring we will be adequately stocked for peak trade
+
+[Slide 67]
+
+Regular Reporting
+
+On a regular basis we are reviewing reports such as;
+
+Category sales and stock mix
+
+Range sales and stock mix
+
+Colour sales and stock mix
+
+Sub-category sales and stock mix
+
+DC vs In Store stock vs sales
+
+Shrink by category
+
+Price point sales and stock mix
+
+ASP vs unit sales
+
+Range reviews (at 6 week point of a new range being in stores) to identify what has worked and not worked for future learning
+
+Markdown vs full price product sales and stock mix
+
+ACP vs ASP (therefore also GM)  by range and category
+
+OOS reports on key lines
+
+GM sales to space mix
+
+[Slide 68]
+
+Understand Patterns
+
+Line-graphing sales data for categories, sub-categories and key lines will show more obvious patterns than reports
+
+Example is seasonality (e.g. Wristwear, Neckwear) and event-dependant patterns (e.g. School Holidays, CNY in Asia).
+
+“Bigger picture” would not be obvious without reports over longer periods
+
+Patterns will shift over time, comparisons should be made from period to period (e.g. Last summer vs this summer)
+
+[Slide 69]
+
+Seasonal influence
+
+Dip in wrist sales due to colder weather, lift in neckwear
+
+[Slide 70]
+
+Identify and Predict Trends
+
+Unlike seasonality, trends can signify a temporary shift in Customer spending habits (e.g. Colour, material or category)
+
+Trends can be obvious and predictable – e.g. Apparel trend such as brights or colour blocking
+
+Can also be more subtle and appear gradually.  (For example, short neckwear vs earrings as a statement).  By monitoring our sales graphs we can see these trends emerging and/or slowing and can adjust our product mixes and forecasts to suit.
+
+[Slide 71]
+
+An Emerging Trend
+
+The two necklaces below were released as new fashion pieces and expected to do well but we were blown away with their performance – each achieved a ROS more than 4 times higher than the next best-selling neck style.
+
+Our brains trust got together quickly to determine what it was that made these styles perform so well so we could replicate this success (e.g. Colour?  Style?  Materials?).  This is a process we repeat regularly for stand out styles, particularly when they have taken us by surprise
+
+The buyers were then given the task of getting equally successful styles in as quickly as possible that would follow in this same trend (speed to market being extremely important to strike while the iron was hot)
+
+As a result, several “spin-off” styles have since been in store and sales have been phenomenal in most cases
+
+[Slide 72]
+
+Consider All Influences (Internal and External)
+
+Small changes within our brand can have a big impact on sales and therefore need to be considered when forecasting.  Internally, we consider the impact on sales of things such as;
+
+PRICE – E.g. an item with past ROS of 1.0 per store at $19.99 but is about to be permanently repriced to $14.99 could result in a ROS of 1.5.
+
+MERCHANDISING – Position within the store, position within the range, card type, and any signage or POS to support the style will all have an impact on it’s sales
+
+COMPETING PRODUCTS – A silver love heart necklace that acheived a ROS of 3.0 last Christmas will likely fall short on sales expectations the following year if there are several other similar heart styles available
+
+COMPETING PROMOTIONS – If a different product or range is on a price or some other kind of promotion in store, it is likely that Customers will be coaxed into purchasing the offered item.  This can drop sales of the item/s that are not on promotion versus previous sales
+
+IN-STORE INCENTIVES – If an item has previously been promoted by the Team in store as an “add-on” it is important to take this into account when forecasting future sales without an incentive (sales will undoubtedly drop, in the case of our brands this can be a significant drop in sales)
+
+[Slide 73]
+
+Internal influence
+
+Lift in ring sales due to Lovisa price promotion, contribution of all other categories drops as a result
+
+[Slide 74]
+
+Consider All Influences (Internal and External)
+
+Things happening outside of our brand can also have an influence on sales and therefore need to be taken into account when forecasting.  For example;
+
+COMPETITOR PROMOTIONAL ACTIVITY – If a direct competitor is aggressive with price-focused activity we may see a general dip in sales for a short period.
+
+COMPETITOR SPEED TO MARKET – Having a competitor beat us to the mark can have a drastic effect on sales and mean that we may under-forecast for the following year.  For example, if we launch Racing fascinators too late one year, we will have poor sales and sell through and could find that launching earlier the next year would see a sales spike and have us run out of stock too soon as we have under-forecast
+
+COMPLEMENTARY PRODUCTS – Fashion apparel and accessories tend to go together for fashion ranges.  Sometimes this can affect sales of what may have otherwise been a successful range and should not be discounted for release next year. (E.g. Military)
+
+[Slide 75]
+
+Follow Your Gut
+
+While history, patterns and trends all help us to forecast accurately, there often needs to be an element of “intuition” or “gut feel” that comes into forecasting
+
+The key - use all data available to you and then tweak.  E.g. If product is about to be displayed in a new way with no exact history
+
+At diva, Sdia2 (the “glitzy” diamante range) was given a facelift of new cards and an A-location.  Sales went through the roof (became our highest GM$ range outside of Christmas, sales almost doubling within 2 weeks).
+
+This uplift was mostly anticipated, only a few lines caught us short.
+
+[Slide 77]
+
+Follow Your Gut

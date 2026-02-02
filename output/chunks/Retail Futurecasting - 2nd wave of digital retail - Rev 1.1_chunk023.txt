@@ -1,0 +1,164 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Delivery Network Innovation
+SUMMARY: The text discusses how delivery networks are undergoing technology and business innovations that could disrupt traditional retail and strengthen online retail.
+KEYWORDS: delivery network, delivery innovation, online retail, traditional retail, transportation infrastructure
+---
+
+See section 4.2.4 for discussion on the security and privacy implications for handling all the personal
+
+data that such membership schemes would generate.
+
+6.7 DELIVERY NETWORK DISRUPTION WILL FURTHER STRENGTHEN ONLINE
+
+High-speed delivery could totally tip the balance in the battle between traditional and online retail.
+
+Online retailers are keen to remove one of the final major barriers to buying from them—lack of
+
+immediacy.
+
+Traditional retailers still have ‘immediacy’ as a major advantage when it comes to convenience
+
+purchases and impulse buys. They are also still the obvious suppliers for goods with a short shelf life
+
+such as fresh food and flowers.
+
+But delivery networks are about to undergo both technology and business innovation. “Next hour”
+
+delivery services are already emerging and may eventually become widespread. Traditional retailers
+
+should watch closely for changes to delivery networks that could strip away one of their key advantages.
+
+Challenge: Retailers should partner as needed with existing and emerging delivery providers to assure
+
+they have a clear line of sight to high-speed delivery services as they become available.
+
+53
+
+A number of disruptive business and technology forces are at play that will affect the future of delivery:
+
+ Algorithms fed by sensors will improve delivery efficiency - Fleet management, route
+
+management, and truck packing algorithms will continue to improve. These will boost the
+
+productivity, efficiency, and speed of existing delivery networks. They may also help improve the
+
+accuracy of delivery windows encouraging more shoppers to seek home delivery.
+
+ New peer-to-peer delivery networks will emerge and compete with the existing giants -
+
+Companies like Uber* won’t just be satisfied disrupting the taxi business. Uber is already
+
+experimenting with delivery services, including UberFRESH* for lunch delivery, and Uber Corner
+
+Store* for on-demand delivery of convenience store staples.
+
+ Public infrastructure – Municipalities wrestling with how to supply the megacities of the future
+
+are already conducting delivery experiments using public infrastructure. Dedicated trains in
+
+Japanese subways deliver goods as a way to remove delivery trucks from surface routes in major
+
+cities. Subway trains removing waste will surely follow. Cities may seek ways to generate
+
+additional revenue as a way to monetize existing transportation infrastructure and to justify
+
+investment in future infrastructure, leading them to overlay delivery services on top of public
+
+networks.
+
+ Autonomous delivery vehicles and robots will slowly emerge – beyond autonomous cars lie
+
+autonomous delivery vehicles, and beyond that robots and drones that can deliver packages the
+
+final few meters from the curb. The speed of this transition from human labor to autonomous
+
+machinery will more likely be set by social desires, public safety concerns, regulation, and labor
+
+policy (and union power) than technological readiness. This will likely be a very slow, but socially
+
+significant transition.
+
+ Delivery drones may speed last mile or last ten meter delivery – once they have been adequately
+
+tested and airspace has been cleared for their use, drones could deliver many of the smaller,
+
+lighter weight items we need. This said, many regulatory and social hurdles still remain before
+
+this becomes a reality. Several companies already have development programs in this area,
+
+including Amazon*, UPS*, and Google*’s Project Wing. Drones could cut delivery times from
+
+days to minutes, moving many impulse purchases from physical to online. Such a shift would
+
+need to be considered against a broader conversation on sustainability, energy efficiency, public
+
+safety, and the environment.
+
+ Click and collect – Self-delivery is on the increase, mostly in Europe. Carrefour* in France has big
+
+drive-through collection centers next to their hypermarket stores.
+
+ Mobile stores – Auchan*, another major French retailer, has created 3000 mobile stores that go
+
+to the places where they know their time-strapped customers will be: the parking lots of big
+
+businesses, schools, churches etc.
+
+To amortize the huge investment they are making in delivery infrastructure, will we see Amazon
+
+eventually horizontalize their delivery offering and compete with existing players like FedEx* and UPS?
+
+This strategy would be consistent with the way Amazon have monetized their other major infrastructure
+
+investments, including offering compute, storage, merchandising, warehousing, and distribution as a
+
+service.
+
+54
+
+Home delivery is clearly a growing trend. However, it is worth noting that home delivery is not a
+
+panacea desired by everyone. For some it offers great convenience, but for others it can be the exact
+
+opposite, mostly driven by inconvenient and unpredictable delivery windows.
+
+Challenge: Retailers will need to ensure that they still have a strong brand proposition once immediacy
+
+is stripped away as a differentiator versus online suppliers.
+
+55
+
+7 THE FUTURE OF THE SHELF
+
+The smart shelf is an oft-mentioned fable of the retail future that to date has not made either financial
+
+or business sense. In the next decade, the smart shelf will finally come of age, not as the garish, Vegas-
+
+like display shelf imagined in the past, but as a vital data-gathering endpoint that is part of a broader
+
+intelligent and sensing physical store.
+
+7.1 DEFINING THE “SHELF”: SHELVES, RACKS, ROUNDERS, PEG BOARDS, END CAPS AND MORE
+
+When we talk about a shelf, what are we talking about exactly? As the primary user interface of retail
+
+for at least a couple of millennia, we have seen the shelf show up in a variety of forms: the shelf, the rail,
+
+the end cap, the apparel rounder, and even virtual shelves on a digital sign. One could even think of an
+
+Amazon product page as a shelf of sorts.
+
+In this report, we will use the term “shelf” as a shorthand that is intended to encompass all these
+
+various forms of product display. Shelves display wares to shoppers and try to entice them to buy.
+
+Shelves also help facilitate the conversation between the manufacturer and the consumer. They help
+
+the shopper to discover and experience the product, and often to see that product within the broader
+
+context of other products and offers. And they help the manufacturer to move the customer towards a
+
+purchase.
+
+7.2 REDEFINING THE ROLE OF THE SHELF

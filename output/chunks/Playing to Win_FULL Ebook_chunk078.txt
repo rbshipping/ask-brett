@@ -1,0 +1,282 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Market Economics
+SUMMARY: The text discusses the dynamics of supply and demand, explaining how firms can be arrayed on an industry supply curve based on their variable cost of production, and how the intersection of supply and demand determines price and quantity in a commodity market.
+KEYWORDS: supply and demand, industry supply curve, commodity market, variable cost of production, marginal cost
+---
+
+curves—the curve slopes downward as higher prices produce lower
+
+demand and lower prices produce higher demand (fi gure B-1).
+
+Structure of Supply
+
+A similar dynamic occurs on the supply side. Each firm is willing
+
+to produce a certain amount of output, given the prevailing price
+
+level. That supply has costs associated with it, and the most cru-
+
+cial type of cost for our purposes is the variable cost of producing
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 228 11/6/12 8:17 PM
+
+The Microeconomic Foundations of Strategy 229
+
+Figure B-2
+
+Construction of industry supply curve
+
+Firm E
+
+Price
+
+Firm D
+
+Firm C
+
+Firm B
+
+Marginal cost of
+
+production for Firm A
+
+Firm A
+
+Quantity
+
+Capacity of
+
+Firm A
+
+another unit of output. Some costs don’t vary with the produc-
+
+tion of another unit—such as R&D or advertising—while other
+
+costs increase when an additional unit is produced—such as raw
+
+materials or direct labor. These latter costs are most important in
+
+driving price.
+
+Firms can be arrayed on an industry supply curve on the basis
+
+of their variable cost of production, using the marginal cost to pro-
+
+duce an additional item, from low to high (figure B-2). By their
+
+very nature, supply curves are upward sloping; the lower the price
+
+in the market, the less quantity will be produced.
+
+Where the supply crosses the downward-sloping demand
+
+curve, price and quantity are set by the proverbial invisible hand
+
+(figure B-3). This is the case for all kinds of products and services.
+
+However, the dynamics work differently in a commodity versus a
+
+distinct or unique offering.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 229 11/6/12 8:17 PM
+
+230 Appendix B
+
+Figure B-3
+
+The intersection of supply and demand
+
+Demand
+
+Price Supply
+
+P
+
+Q
+
+Quantity
+
+Competition in Commodity Products and Services
+
+In a classic commodity industry, such as gold, there are multiple
+
+producers. Buyers see the offerings from these different producers
+
+as essentially identical—an ounce of gold is pretty much like any
+
+other ounce of gold. In such a market, a producer has no choice
+
+but to accept the market price. If it prices even a little bit above
+
+the prevailing market price, buyers will go en masse to competitors
+
+and the producer will sell nothing. If the producer prices below the
+
+prevailing market price, it will just be throwing away some of its
+
+possible profit margin.
+
+Thus, while the industry demand curve is actually downward
+
+sloping—higher gold price will generate lower demand and lower
+
+gold price will generate higher demand—individual producers
+
+in the commodity market feel as if they are facing a flat demand
+
+curve. There is no opportunity to price higher or lower to reduce
+
+or increase demand. The price is the price. It may well fluctuate
+
+over time, but not due to anything an individual producer does.
+
+In such a market, relative cost position is the sole determinant
+
+of competitiveness and profitability. Price is established at the
+
+point at which the aggregate industry demand curve intersects with
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 230 11/6/12 8:17 PM
+
+The Microeconomic Foundations of Strategy 231
+
+Figure B-4
+
+Cost position determines competitiveness
+
+Market
+
+demand
+
+Market price
+
+Firm A’s
+
+Price profit Firm E
+
+margin
+
+Firm D
+
+Firm C
+
+Firm B
+
+Marginal cost of
+
+production for Firm A
+
+Firm A
+
+Capacity of
+
+Quantity
+
+Firm A
+
+actually sold
+
+Quantity
+
+the aggregate industry supply curve, and the latter is created by the
+
+variable cost of the marginal producer. Once that price is estab-
+
+lished, each firm earns a profit margin over and above its variable
+
+costs, the size of which is determined by its relative cost position
+
+(figure B-4).
+
+In the industry in figure B-4, firms survive in this market as
+
+long as the market price exceeds their marginal cost of produc-
+
+tion. So, firms A, B, C, and D remain in the market, but firm E
+
+must reduce its cost or exit. The most efficient firm, firm A, earns
+
+healthy profits despite the intense competition. The same dynam-
+
+ics of price-setting and profitability are at work in all commodity
+
+industries. Pricing is bid down until the marginal player just cov-
+
+ers its variable costs. If buyers were to attempt to bid down prices
+
+further, firm D would go out of business and there would be an
+
+undersupply, which would drive prices back up.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 231 11/6/12 8:17 PM
+
+232 Appendix B
+
+Figure B-5
+
+Pulp and paper
+
+Example cost curve: North American uncoated free sheet (standard photocopier paper)
+
+1200
+
+Fixed costs Demand=11.5 milion metric tons
+
+ADCC
+
+960
+
+Price=$US805 per metric ton
+
+720
+
+480
+
+240
+
+0
+
+Mill A Mill B Mill C
+
+Cumulative capacity (million metric tons)
+
+The bars represent the various companies that make free sheet.
+
+The tricky thing is that firms have to pay for all of their fixed
+
+costs plus their return on investment out of the margin between
+
+their variable costs and the market price. Figure B-5 illustrates the
+
+impact of fixed cost on net profitability in the uncoated free sheet
+
+(i.e., standard photocopier paper). The data is from an analysis in
+
+the mid-1990s, but the principles remain unchanged.
+
+In this industry, low-cost mill A has variable costs of about
+
+$480 per metric ton. Market price is $805 per metric ton, provid-
+
+ing a margin of $325 per metric ton. Out of that, the mill has fixed
+
+costs to cover, which work out to about $150 per ton across its
+
+total volume. That leaves a profit of $175 per ton for mill A.

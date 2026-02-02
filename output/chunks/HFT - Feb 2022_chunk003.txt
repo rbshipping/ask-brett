@@ -1,0 +1,566 @@
+SOURCE: HFT - Feb 2022.pdf
+SUBFOLDER: Additional\HFT\2022
+TOPIC: Business Management, Retail Performance
+SUMMARY: The text discusses strategies for managing businesses in an inflationary environment, including benchmarking, the Strategic Profit Model, and the Strategic Resource Model.
+KEYWORDS: inflation, business management, retail performance, benchmarking, strategic profit model, strategic resource model
+---
+
+[Document: HFT - Feb 2022.pdf]
+
+• We are going to have to learn how to manage businesses in an
+
+inflationary environment
+
+16
+
+BBRC WORLDWIDE
+
+What it means
+
+• Share experience when prices went up every 6 months, match-fit at
+
+changing prices overnight
+
+• Restickering, re-pricing, etc
+
+• Lovisa journey so far…
+
+17
+
+BBRC WORLDWIDE
+
+The Magic Nine
+
+Greg Milne (aka “The Chief”)
+
+Benchmarking
+
+Business Performance
+
+“Using analytical performance monitors to compare inter-business
+
+results and rank accordingly to motivate management”
+
+“…keeping the leaders focused because it is a performance
+
+competitive ranking”
+
+Brett Blundy
+
+“The Magic 9 + Online”
+
+Greg Milne
+
+19
+
+BBRC WORLDWIDE
+
+20
+
+BBRC WORLDWIDE
+
+Background
+
+The why and how behind the Magic 9
+
+21
+
+BBRC WORLDWIDE
+
+2009 BBRC University
+
+Introduction to contemporary retail thinking and science
+
+Understanding Strategy
+
+• Business Model to deliver?
+
+The Strategic Profit Model (SPM)
+
+• Importance of ROE and what drives it
+
+The Strategic Resource Model (SRM)
+
+• Utilising our key resources to generate results
+
+What Now?
+
+22
+
+BBRC WORLDWIDE
+
+Performance Challenge
+
+23
+
+BBRC WORLDWIDE
+
+Performance Challenge
+
+24
+
+BBRC WORLDWIDE
+
+Solutions
+
+Strategic Retail & Inventory Management Academy
+
+• The Integrated Framework explained
+
+• Practical exercises and understanding of contemporary retail theory
+
+• Analytical tools and how to use them
+
+SAR (Semi Annual Review)
+
+• Total review of the entire business – six monthly
+
+• Within the Integrated Framework
+
+• Is the strategy still correct? Are we delivering on it?
+
+• SPM, SRM and Three Level “Deep Dive” into business’s performance
+
+• Identify specific SMART action plans
+
+The “Magic 9”
+
+• Weekly report on key performance metrics
+
+• Inter-business comparison
+
+• Competitive spirit and camaraderie
+
+25
+
+BBRC WORLDWIDE
+
+The Strategic Resource Model
+
+(SRM)
+
+26
+
+BBRC WORLDWIDE
+
+Strategic Resource Model (Productivity Model)
+
+27
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+28
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Gross Margin
+
+Net Sales
+
+29
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales
+
+x
+
+Inventory
+
+Gross Margin
+
+Net Sales
+
+30
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+Gross Margin
+
+Net Sales
+
+31
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+Inventory
+
+Stock
+
+Selling Meters Intensity
+
+Gross Margin
+
+Net Sales
+
+32
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+# SKUs Range Inventory Stock
+
+Selling Meters Density Selling Meters Intensity
+
+Gross Margin
+
+Net Sales
+
+33
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+x
+
+# SKUs Range Inventory Stock
+
+Selling Meters Density Selling Meters Intensity
+
+=
+
+Gross Margin Net Sales
+
+Net Sales Selling Meters
+
+34
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+x
+
+# SKUs Range Inventory Stock
+
+Selling Meters Density Selling Meters Intensity
+
+=
+
+Gross Margin Net Sales Gross Margin
+
+x = GMROM
+
+Net Sales Selling Meters Selling Meters
+
+35
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+x
+
+# SKUs Range Inventory Stock
+
+Selling Meters Density Selling Meters Intensity
+
+=
+
+Gross Margin Net Sales Gross Margin
+
+x = GMROM
+
+Net Sales Selling Meters Selling Meters
+
+Selling Meters
+
+Service
+
+Labour Hours* Intensity
+
+(Labour Hours can be substituted by FTEs)
+
+* From Productivity Report
+
+36
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+x
+
+# SKUs Range Inventory Stock
+
+Selling Meters Density Selling Meters Intensity
+
+=
+
+Gross Margin Net Sales Gross Margin
+
+x = GMROM
+
+Net Sales Selling Meters Selling Meters
+
+x
+
+Selling Meters
+
+Service
+
+Labour Hours* Intensity
+
+=
+
+Net Sales
+
+Labour Hours*
+
+(Labour Hours can be substituted by FTEs)
+
+* From Productivity Report
+
+37
+
+BBRC WORLDWIDE
+
+Strategic Resource Management Model
+
+Net Sales Gross Margin
+
+x = GMROI
+
+Inventory Inventory
+
+x
+
+# SKUs Range Inventory Stock
+
+Selling Meters Density Selling Meters Intensity
+
+=
+
+Gross Margin Net Sales Gross Margin
+
+x = GMROM
+
+Net Sales Selling Meters Selling Meters
+
+x
+
+# Transactions Closure Selling Meters Service
+
+Labour Hours Rate Labour Hours* Intensity
+
+=
+
+Net Sales Gross Margin
+
+x = GMROL
+
+Labour Hours* Labour Hours*
+
+(Labour Hours can be substituted by FTEs)
+
+* From Productivity Report
+
+38
+
+BBRC WORLDWIDE
+
+Strategic Resource
+
+Management Model
+
+Sales to stock GMROI
+
+2020 2019 2020 2019
+
+x 9.66 v 7.80 = 6.64 v 5.39
+
+x
+
+Merchandising Intensity Rent to Sales
+
+=
+
+740 v 879 15% v 12%
+
+GM Sales per square meter GMROM
+
+2020 2019
+
+68.8% V 69.1% x $7,146 v $6855 = $4,916 v $4,735
+
+x
+
+Service intensity Wages to Sales
+
+29 v 27 18.5% v 15.3%
+
+=
+
+Sales per Avgweekly hrs GMROL
+
+$204k v $186k = $140k v $128k
+
+x
+
+39
+
+BBRC WORLDWIDE
+
+What do you use the SRM for?
+
+You can use the SRM model to analyse differences between:
+
+• BIP and current year
+
+• Your company vs a competitor
+
+• Brands within a group (e.g. Platypus vs Hype)
+
+• Store(s) to group, state, area, peer group (e.g. WA vs NSW)
+
+• Area / Regional managers
+
+• Categories within a store (e.g. dusk candles vs decor)
+
+• All the way to SKU level (not GMROL)
+
+40
+
+BBRC WORLDWIDE
+
+41
+
+BBRC WORLDWIDE
+
+SRM “Rules & Controls”
+
+(Physical Stores)
+
+Your Primary “Basic T” Instruments
+
+GMROI………………... High as possible
+
+(subject to GMROM)
+
+GMROM………………. Maximise
+
+GMROL……………….. Optimise
+
+Secondary Instruments Directional Controls
+
+Stock Intensity GM%, Space Allocation
+
+Range Density SKU Count
+
+Service Intensity Store Positioning
+
+Closure Rate Rosters etc.
+
+Other Instruments & Controls
+
+WOS (Insight and SOH)
+
+“Freshness Ratio”
+
+(= Last 13 weeks purchases / Closing stock)
+
+Marketing & Promotion
+
+Fuel Mixture
+
+OTB (see later)
+
+42
+
+BBRC WORLDWIDE
+
+43
+
+BBRC WORLDWIDE
+
+SRM “Rules & Controls”
+
+(Online Stores)
+
+Your Primary “Basic T” Instruments
+
+GMROI………………... High as possible
+
+(subject to GMROM)
+
+Conversion Rate……. Maximise
+
+(monitor over time)
+
+GMROL……………….. Optimise
+
+Secondary Instruments Directional Controls
+
+Time on Site / Page / TTL UX (Site Design), Hosting Service
+
+Range Density SKU Count
+
+Cart Abandonment Rate Freight Policy, GM% etc.
+
+Organic & Direct Traffic SOE / SEM
+
+Other Instruments & Controls
+
+WOS (Insight and SOH)
+
+“Freshness Ratio”
+
+(= Last 13 weeks purchases / Closing stock)
+
+Marketing & Promotion
+
+Fuel Mixture

@@ -1,0 +1,294 @@
+SOURCE: HBS_How The Growth Outliers Do It_Rita Gunther McGrath.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Corporate Growth Strategy
+SUMMARY: This text analyzes the challenges of achieving steady, long-term growth for large companies and identifies key traits of the rare 'growth outliers' that have defied the odds.
+KEYWORDS: corporate growth, steady growth, growth outliers, performance analysis, business strategy
+---
+
+Outliers
+
+Do it
+
+Few companies manage to
+
+prosper over the long term.
+
+Those that do are both more
+
+stable and more innovative
+
+_ ___. than their competition.
+
+oO ___ by Rita Gunther McGrath
+
+teady, predictable growth is what ev-
+
+ery big company strives for and what
+
+investors prize above all else. Recently
+
+some colleagues and I conducted re-
+
+search to find out just how difficult it
+
+is to achieve. To start, we asked a simple question:
+
+How many publicly traded companies with a mar-
+
+ket capitalization of at least US$1 billion grew by
+
+5% each year for five years ending with 2009? We
+
+combed the enormous database of Capital IQ, (We
+
+selected the 5% threshold because global annual
+
+GDP growth averaged about 6% during that period.
+
+And note that we were looking for steady perfor-
+
+mance, not compound annual growth.) The answer
+
+surprised us: Only 8% of the 4,793 companies in our
+
+sample grew their revenues by at least 5% year after
+
+year, and only 4% achieved a net income growth of
+
+at least 5% in each of the five years.
+
+SOR
+
+sh
+
+Ke
+
+E
+
+¥
+
+Fas Cee
+
+oy
+
+Loe
+
+Oy
+
+/
+
+HOW THE GROWTH OUTLIERS DO IT
+
+Thinking that perhaps we’d chosen an unfair
+
+period, given that the Great Recession started in
+
+2008, we repeated the study for the previous five
+
+years. The numbers were higher—15% and 7%, re-
+
+spectively—but the odds still seemed to be stacked
+
+against steady growth.
+
+We then wondered what the results would look
+
+like if we did a 10-year scan. The answer: Only 10 of
+
+the 2,347 companies that qualified across that entire
+
+period grew their net income by 5% in all 10 years,
+
+and only five grew both revenues and net income
+
+every year.
+
+The contrast between what investors and observ-
+
+ers expect and what the vast majority of companies
+
+deliver struck us as important. The data suggest a
+
+need to rethink our assumptions about corporate
+
+performance, Steady, consistent growth is difficult
+
+to achieve even at modest rates, never mind by
+
+the double digits that corporate leaders are fond of
+
+promising, (And no “normal” period in which to as-
+
+sess company performance seems to exist: Any five-
+
+year period we could have chosen included unex-
+
+pected events in the economy and the environment
+
+that would have caused some among our sample to
+
+drop out.) We recognize, of course, that luck plays
+
+a part in strategic success and~~as some advertise-
+
+ments caution in disclaimers~that past success does
+
+not predict future performance. However, the outli-
+
+ers we found—those that defied the odds by achiev-
+
+ing steady growth for 10 years running—turned out
+
+to have interesting traits in common, some predict-
+
+able and some surprising.
+
+What the Outliers Are Not
+
+The companies revealed by our study (see the ex-
+
+hibit “The Growth Outliers”) don’t match up well
+
+with some conventional ideas about growth, One
+
+school of thought in strategy says that a company’s
+
+growth rate will be determined largely by the indus-
+
+try it’s in. This didn’t seem to hold. Our outliers are
+
+in wildly different industries, including pharmaceu-
+
+ticals, beer, construction, and banking. All outper-
+
+formed their industry. Moreover, most of them are in
+
+very competitive industries, without the protections
+
+that patents or trade secrets provide.
+
+Similarly, we tend to assume that the larger a
+
+company gets, the harder it is to sustain growth.
+
+That didn’t hold, either: The outliers were not small
+
+relative to the full pool of companies we analyzed.
+
+By number of employees, the largest is Actividades
+
+de Construccién y Servicios (ACS), a Spanish con-
+
+112 Harvard Business Review January-February 2012
+
+struction company, with nearly 140,000 people. The
+
+smallest, FactSet Research Systems, a U.S.-based
+
+financial research company, employs more than
+
+4,000. Market cap also varied widely above our
+
+$1 billion threshold.
+
+We might have expected to find consistently
+
+higher growth rates in fast-growing markets, but
+
+that wasn’t true, either, No single geographic region
+
+dominates the outlier group, which represents both
+
+high-growth emerging economies and mature econ-
+
+omies. Nor did the degree to which the companies
+
+had globalized seem to be a factor. Although Infosys
+
+and ACS both planned from the beginning to focus
+
+on overseas opportunities, Yahoo Japan conducts
+
+business almost entirely in Japan, HDFC Bank oper-
+
+ates only in India, and Atmos Energy focuses on the
+
+U.S. market. Tsingtao Brewery earns 50% of its reve-
+
+nue from exports, but it didn’t venture outside China
+
+to manufacture until 2007. Krka Group is mainly a
+
+regional player, manufacturing generic pharmaceu-
+
+ticals throughout Eastern Europe.
+
+Conventional wisdom also suggests that growth
+
+slows as companies age. But we saw no such effect
+
+in this group. More than half the outliers were estab-
+
+lished in their current form after 1980, but the two
+
+oldest date from 1903 and 1906. All the companies
+
+have performed well throughout major shifts in
+
+globalization, underlying technology, and business
+
+practices.
+
+One might think that companies started by entre-
+
+preneurs would have an edge, but that seems untrue
+
+as well. Although two of our outliers (Infosys and
+
+FactSet) were indeed start-ups, with founders who
+
+maintained a strong presence throughout our study
+
+period, others (Indra Sistemas, ACS, Atmos, Krka)
+
+were the product of mergers and consolidations, and
+
+still others (Cognizant, HDIF'C, Yahoo Japan) were
+
+spun out of or funded by existing organizations.
+
+Once we’d established that exogenous factors
+
+such as industry, geographical position, and age
+
+didn’t explain the outliers’ growth rates, we turned
+
+to the next, more qualitative phase of our project.
+
+We attempted to learn what these companies did
+
+have in common, using archival research and inter-
+
+views. In addition, we compared each one with its
+
+top three competitors—according to Hoover’s, to
+
+avoid selection bias—to determine whether differ-
+
+ences in competitive behavior might offer some ex-
+
+planations. The outliers turned out to share a lot of
+
+practices that, although unsurprising in themselves,
+
+add up to an intriguing, counterintuitive profile:
+
+Only a tiny percent-
+
+age of large companies
+
+reliably grow the bot-
+
+Those that do share
+
+certain characteristics.

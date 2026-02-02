@@ -1,0 +1,144 @@
+SOURCE: HBR_Showrooming at Best Buy.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Strategies
+SUMMARY: This case study examines how traditional brick-and-mortar retailers like Best Buy responded to the rise of showrooming, where shoppers used physical stores to browse products but then purchased them online.
+KEYWORDS: showrooming, retail strategies, price matching, online shopping, brick-and-mortar stores
+---
+
+9-515-019
+
+REV: JANUARY 12, 2015
+
+THALES TEIXEIRA
+
+ELIZABETH ANNE WATKINS
+
+Showrooming at Best Buy
+
+At the height of the 2012 holiday shopping season, stores were packed with customers checking
+
+out the best and brightest of the year’s gadgets. They crowded around store counters to tap
+
+touchscreen buttons, marvel at the glowing displays of the newest tablets, and play the latest games
+
+and apps right there in the store. Despite the modest increase in store traffic, the cash registers at the
+
+end of the day told a sobering story. At home-goods retailer Target, sales were flat, with no increase
+
+in revenue at all over the previous year.1 Best Buy, the world’s largest electronics retailer, fared even
+
+worse: sales at stores opened in the previous year had fallen by over 4%.2 At department store J.C.
+
+Penney, same-store sales fell by 26% compared to the same period the year before.3 This was a
+
+marked contrast to the global online retail market, which was expanding at a rate of 17% per year.4
+
+While many traditional retailers had been responding to weak holiday shopping by holding their
+
+customary “doorbuster” sales offering significant discounts, Amazon, eBay, and other online retailers
+
+opted to release mobile phone apps designed to give shoppers an easy way to search online for the
+
+best deals. Shoppers with a tight holiday budget still went to physical stores to check out new
+
+products, but these mobile apps could now be used to easily find better prices and discounts online.
+
+In effect, shoppers began using brick-and-mortar retail stores as show rooms. During 2012’s holiday
+
+shopping season, 27% of mobile phone owners used their phone while inside a store to look up the
+
+price of a product elsewhere.5 Price differences had in effect become transparent and effortless to
+
+compare. Traditional retailers now faced a critical question: how could they compete in a world in
+
+which shoppers could easily see competing prices and offers?
+
+Retailers initially experimented with a combination of counter-attacks. Clothing retailer Macy’s
+
+redesigned its stores to work more closely with mobile devices, allowing shoppers to pay for items
+
+with their phones and tablets in-store.6 Other stores offered perks unavailable from online
+
+competitors, like extended customer service. Target and Wal-Mart chose to fight fire with fire and
+
+created their own shopping apps to reach shoppers with coupons and discounts, while Old Navy,
+
+J.C. Penney, and Crate & Barrel introduced shopping apps designed by third-party companies. The
+
+most extreme reaction came from consumer electronics retailer Best Buy, which decided to
+
+permanently price-match online competitors. This meant that Best Buy would match any price that
+
+customers found from an approved list of competitors, including online retailers such as Amazon.
+
+Could a traditional brick-and-mortar retailer like Best Buy, which had higher operating costs than
+
+online retailers, afford to permanently price match its online competitors?
+
+Professor Thales Teixeira and Research Associate Elizabeth Anne Watkins prepared this case. This case was developed from published sources.
+
+Funding for the development of this case was provided by Harvard Business School and not by the company. HBS cases are developed solely as
+
+the basis for class discussion. Cases are not intended to serve as endorsements, sources of primary data, or illustrations of effective or ineffective
+
+management.
+
+Copyright © 2014, 2015 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-
+
+7685, write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized,
+
+photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+515-019 Showrooming at Best Buy
+
+Online Shopping and Price Comparison Apps
+
+The U.S. economy recovered slowly after the global recession of 2008. At the time, online
+
+shopping comprised only 5% of U.S. retail sales7 with most goods still being purchased offline.
+
+Unemployment remained high; people saved more and spent less in stores. According to
+
+ShopperTrak, retail foot traffic dropped year-over-year over 28% in 2011 and over 16% in 2012. 8
+
+Online spending told a story of a changing landscape with online sales rising by 42% between
+
+2008 and 2012.9 The rise of Amazon and other online retailers was changing the way people shopped
+
+as the Internet made it easy to find user reviews and information on prices. In 2012, on the day after
+
+Thanksgiving—traditionally known as Black Friday, which marks the beginning of the American
+
+holiday shopping season—shoppers spent a record $1.042 billion online, an increase of 26% over the
+
+same day in 2011,10 bringing online retail sales up to 9.3% of total Black Friday spending.11
+
+As e-commerce grew, some shoppers of electronics still preferred to visit stores to check out a new
+
+flat-screen TV or listen to a stereo in person and then go home to spend time looking for deals online.
+
+With an interest in encouraging this behavior, Amazon was one of the first to launch a mobile app for
+
+people to begin their price hunting earlier, when they were still inside the store.
+
+Amazon’s price-comparison app
+
+Amazon was one of the companies most successful in pulling customers away from traditional
+
+stores. After the success of its retail website it introduced a shopping app for mobile phones, which
+
+shoppers could use to search for products in Amazon’s online listings.12 The company soon followed
+
+that with its first price-comparison app in 2010.13 A customer could type in the name of the product,
+
+or simply take pictures of it or of its barcode with their phone’s camera. The app would then search
+
+for the item within Amazon’s inventory and the inventories of other partner retailers, often finding it
+
+at a lower price (see Exhibit 1). To increase new customer adoption, Amazon offered a promotional
+
+deal of a $15 discount to anyone who used the app to buy online while in a physical retail store.14

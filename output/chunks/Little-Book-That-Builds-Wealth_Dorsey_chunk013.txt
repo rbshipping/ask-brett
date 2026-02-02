@@ -1,0 +1,240 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Customer Loyalty and Switching Costs
+SUMMARY: The text discusses how banks can maintain high profitability due to the high switching costs customers face when changing banks, leading to customer loyalty and reluctance to switch.
+KEYWORDS: switching costs, customer loyalty, banking profitability
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+created by a number of small-scale rules, rather
+
+than one big rule that could be changed.
+
+cc0033..iinndddd 4422 11//2266//0088 33::0077::0022 AAMM
+
+h a p te r F o
+
+C u
+
+r
+
+Switching Costs
+
+(cid:1)
+
+Sticky Customers Aren’t Messy,
+
+They’re Golden .
+
+W
+
+you changed banks?
+
+HEN WAS THE LAST TIME
+
+Unless you have moved recently, I’ll bet the answer is
+
+“It’s been awhile,” and you wouldn’t be alone in sticking
+
+with your current bank. If you talk to bankers, you’ll find
+
+that the average turnover rate for deposits is around
+
+15 percent, implying that the average customer keeps his
+
+or her account at a bank for six to seven years.
+
+cc0044..iinndddd 4433 11//2266//0088 33::0077::4433 AAMM
+
+[44] THE LITTLE BOOK THAT BUILDS WEALTH
+
+When you think about it, that’s a curiously long time.
+
+After all, money is the ultimate commodity, and bank
+
+accounts don’t vary a whole lot in terms of their features.
+
+Why don’t people switch banks frequently in search of
+
+higher interest rates and lower fees? People will drive a
+
+couple of miles out of their way to save a nickel per gallon
+
+on gasoline, after all, and that’s only a buck or two of sav-
+
+ings per fill-up. A bank account that doesn’t nickel-and-
+
+dime you for late fees and such could easily save you a lot
+
+more than that cheap out-of-the-way gas station can.
+
+The answer is pretty simple, of course. Switching
+
+from the nearby gas station to the cheaper one costs you
+
+maybe 5 to 10 minutes extra of time. That’s it. Moreover,
+
+you know with certainty that is the only cost, because gas-
+
+oline is gasoline. But switching bank accounts involves
+
+filling out some forms at the new bank and probably chang-
+
+ing any direct-deposit or bill-paying arrangements you may
+
+have made. So, the known cost is definitely more than a
+
+few minutes. And then there’s the unknown hassle cost
+
+that could occur if your current bank delays or mishandles
+
+the transfer to your new bank—your paycheck could go
+
+into limbo, or your electricity bill might not get paid.
+
+Now, I’m sure that you know why banks are basically
+
+licenses to print money. The a verage bank in the United
+
+States earns a return on equity of around 15 percent, a
+
+level of profitability that is clearly above average for just
+
+cc0044..iinndddd 4444 11//2266//0088 33::0077::4433 AAMM
+
+SWITCHING COSTS [45]
+
+about any other kind of company. There are lots of rea-
+
+sons for this, but one of the biggest is that bank custom-
+
+ers incur a s witching cost if they want to move from one
+
+bank to another. Plainly speaking, moving your bank
+
+account is a royal pain, so people don’t do it all that often.
+
+Banks know this, so they take advantage of their custom-
+
+ers’ reluctance to leave by giving them a bit less interest
+
+and charging them somewhat higher fees than they would
+
+if moving a bank account were as easy as driving from
+
+one filling station to another.
+
+As you can see, switching costs are a valuable compet-
+
+itive advantage because a company can extract more money
+
+out of its customers if those customers are unlikely to
+
+move to a competitor. You find switching costs when the
+
+benefit of changing from Company A’s product to Com-
+
+pany B’s product is smaller than the cost of doing so.
+
+Unless you use a product yourself—like a bank
+
+account—companies that benefit from switching costs can
+
+be hard to find because you need to put yourself in the
+
+customer’s shoes to really understand the balance between
+
+costs and benefits. And, like any competitive advantage,
+
+switching costs can strengthen or weaken with time.
+
+Let’s start with a software company that is probably
+
+familiar to you: Intuit, which makes QuickBooks and
+
+TurboTax. Intuit has generated returns on capital north of
+
+30 percent for eight years running, and its two flagship
+
+cc0044..iinndddd 4455 11//2266//0088 33::0077::4433 AAMM
+
+[46] THE LITTLE BOOK THAT BUILDS WEALTH
+
+products have each retained a more than 75 percent share
+
+of their respective markets by successfully keeping the
+
+competition—which has included Microsoft more than
+
+once—from eating into its core franchises. Like the bank
+
+example, this is somewhat surprising on the face of things.
+
+Technology changes rapidly, so it doesn’t seem likely that
+
+Intuit has held off the competition just by having better fea-
+
+tures in its software, and Microsoft is no slouch when it
+
+comes to squashing competitors. The answer lies in switch-
+
+ing costs.
+
+Although strategic decisions by Intuit, such as focusing
+
+on ease of use and a large menu of software versions to fit
+
+different consumers, have definitely helped the company, a
+
+big reason that Intuit has held on to the lion’s share of the
+
+market for these two products is that there are meaningful
+
+switching costs for users of QuickBooks and TurboTax.
+
+If you’re running a small business and you’ve already
+
+entered all of your company’s data into QuickBooks,
+
+switching to a competing program will cost you time.
+
+That time is valuable, especially to a small business owner
+
+who is likely wearing multiple hats at once. Even if a com-
+
+peting program offered a data-import feature, odds are
+
+good that the consumer would want to check a lot of the
+
+data herself, because that information is the financial life-
+
+blood of her business. So, the cost in time is likely to be
+
+quite high.
+
+cc0044..iinndddd 4466 11//2266//0088 33::0077::4444 AAMM
+
+SWITCHING COSTS [47]
+
+And in the same way that you run a risk when you
+
+change banks that your accounts will get scrambled, a
+
+small business owner switching from QuickBooks to
+
+a competing program runs the risk of losing track of some
+
+important bit of financial data that got misfiled during the
+
+transition. If you think an unpaid gas bill from a s crambled
+
+checking account is a problem, imagine if a small business
+
+owner didn’t have enough cash to pay employees because
+
+the accounting program never sent out an invoice to a
+
+customer.
+
+What about the benefits of switching? Maybe the

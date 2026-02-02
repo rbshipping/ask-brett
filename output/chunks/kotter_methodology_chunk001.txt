@@ -1,0 +1,52 @@
+SOURCE: kotter_methodology.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Change Management Methodology
+SUMMARY: The Kotter Methodology is a science-based approach to leading change, with 8 steps and 4 core principles for driving sustainable transformation.
+KEYWORDS: Kotter Methodology, Change Management, Transformation, Adaptability
+---
+
+[Document: kotter_methodology.txt]
+
+TITLE: Kotter Methodology
+
+SOURCE: https://www.kotterinc.com/methodology/
+
+============================================================
+
+### Leading Change
+
+# Kotter Methodology
+
+There’s a science to change — and Kotter pioneered it.
+
+### Our foundations
+
+##### The 8-Steps For Leading Change
+
+John Kotter’s book Leading Change introduced the 8 Steps framework. His subsequent Harvard Business Review article and book, Accelerate, modernized the 8 Steps by evolving it from a linear model built for episodic change into an iterative model suited for today’s world, where change is constant.
+
+##### The 4 Core Change Principles
+
+Kotter’s 4 Core Change Principles represent the mindsets, attitudes, and leadership behaviors needed to drive change. When used consistently and fully embraced, they are the key to unlocking the power of the 8 Accelerators.
+
+##### The Science of Change
+
+Why do some organizations outperform others? Why do some individual managers and executives produce so much more? What allows individuals and enterprises to sustain high levels of performance over time? These questions have fueled the career-spanning research that has made Dr. John Kotter the world’s foremost change expert.
+
+> "”Kotter's is a universally foundational methodology, over which many frameworks can lay and have their results amplified by the pure engagement Kotter's approach drives. Len SchlesingerPresident Emeritus, Babson College"
+
+”Kotter's is a universally foundational methodology, over which many frameworks can lay and have their results amplified by the pure engagement Kotter's approach drives.
+
+### Ready to change your approach?
+
+### We can help!
+
+### Accelerate!
+
+##### The Evolution of the 21st Century Organization.
+
+The world is changing faster than ever before, and many organizations can’t keep up. In this video, Dr. Kotter explains why people struggle with major transformation, and how a dual operating system that combines the traditional hierarchy with an agile network creates a more adaptable organization.
+
+### Learn more with our Hierarchies + Networks e-book.
+
+###### Ready for a change? Let's start working together!

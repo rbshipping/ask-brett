@@ -1,0 +1,152 @@
+SOURCE: HBR The True Measures of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.11 HFT - Measurement
+TOPIC: Business Strategy Analysis
+SUMMARY: The text discusses the challenges of using intuition and common business practices to identify successful strategies, as luck often plays a significant role in outcomes.
+KEYWORDS: business management, strategy analysis, performance measurement, causality, luck
+---
+
+measure of value creation in large part because of vivid examples of companies whose
+
+stock rose after they exceeded EPS estimates or fell abruptly after coming up short. To
+
+many executives, earnings growth seems like a reliable cause of stock-price increases
+
+because there seems to be so much evidence to that effect. But, as we’ll see, the availability
+
+heuristic often leads to flawed intuition.
+
+The Perils of Intuition
+
+To identify useful statistics, you must have a solid grasp of cause and effect. If you don’t understand
+
+the sources of customer satisfaction, for example, you can’t identify the metrics that will help you
+
+improve it. This seems obvious, but it’s surprising how often people assign the wrong cause to an
+
+outcome. This failure results from an innate desire to find cause and effect in every situation—to
+
+create a narrative that explains how events are linked even when they’re not.
+
+Consider this: The most common method for teaching business management is to find successful
+
+businesses, identify their common practices, and recommend that managers imitate them. Perhaps
+
+the best-known book using this method is Jim Collins’s Good to Great. Collins and his team analyzed
+
+thousands of companies and isolated 11 whose performance went from good to great. They then
+
+identified the practices that they believed had caused those companies to improve—including
+
+leadership, people, a fact-based approach, focus, discipline, and the use of technology—and
+
+suggested that other companies adopt them to achieve the same great results. This formula is
+
+intuitive, includes some compelling narrative, and has sold millions of books.
+
+If causality were clear, this approach would work. The trouble is that the performance of a company
+
+almost always depends on both skill and luck, which means that a given strategy will succeed only
+
+part of the time. Some companies using the strategy will succeed; others will fail. So attributing a
+
+firm’s success to a specific strategy may be wrong if you sample only the winners. The more important
+
+question is, How many of the companies that tried the strategy actually succeeded?
+
+Jerker Denrell, a professor of strategy at Oxford, calls this the “undersampling of failure.” He argues
+
+that because firms with poor performance are unlikely to survive, they are absent from the group
+
+under observation. Say two companies pursue the same strategy, and one succeeds because of luck
+
+while the other fails. Since we draw our sample from the outcome, not the strategy, we observe the
+
+successful company and assume that the favorable outcome was the result of skill and overlook the
+
+influence of luck. We connect cause and effect where there is no connection.
+
+The lesson is clear: When luck plays a part in determining the consequences of your actions—as is
+
+often the case in business—you don’t want to study success to identify good strategy but rather study
+
+strategy to see whether it consistently led to success. Statistics that are persistent and predictive, and
+
+so reliably link cause and effect, are indispensable in that process.
+
+Status quo.
+
+Finally, executives (like most people) would rather stay the course than face the risks that
+
+come with change. The status quo bias derives in part from our well-documented tendency
+
+to avoid a loss even if we could achieve a big gain. A business consequence of this bias is
+
+that even when performance drivers change—as they invariably do—executives often resist
+
+abandoning existing metrics in favor of more-suitable ones. Take the case of a subscription
+
+business such as a wireless telephone provider. For a new entrant to the market, the
+
+acquisition rate of new customers is the most important performance metric. But as the
+
+company matures, its emphasis should probably shift from adding customers to better
+
+managing the ones it has by, for instance, selling them additional services or reducing
+
+churn. The pull of the status quo, however, can inhibit such a shift, and so executives end
+
+up managing the business with stale statistics.
+
+Considering Cause and Effect
+
+To determine which statistics are useful, you must ask two basic questions. First, what is
+
+your objective? In sports, it is to win games. In business, it’s usually to increase
+
+shareholder value. Second, what factors will help you achieve that objective? If your goal is
+
+to increase shareholder value, which activities lead to that outcome?
+
+What you’re after, then, are statistics that reliably reveal cause and effect. These have two
+
+defining characteristics: They are persistent, showing that the outcome of a given action at
+
+one time will be similar to the outcome of the same action at another time; and they are
+
+predictive—that is, there is a causal relationship between the action the statistic measures
+
+and the desired outcome.
+
+Statistics that assess activities requiring skill are persistent. For example, if you measured
+
+the performance of a trained sprinter running 100 meters on two consecutive days, you
+
+would expect to see similar times. Persistent statistics reflect performance that an
+
+individual or organization can reliably control through the application of skill, and so they
+
+expose causal relationships.
+
+It’s important to distinguish between skill and luck. Think of persistence as occurring on a
+
+continuum. At one extreme the outcome being measured is the product of pure skill, as it
+
+was with the sprinter, and is very persistent. At the other, it is due to luck, so persistence is
+
+low. When you spin a roulette wheel, the outcomes are random; what happens on the first
+
+spin provides no clue about what will happen on the next.
+
+To be useful, statistics must also predict the result you’re seeking. Recall the Oakland A’s
+
+recognition that on-base percentage told more about a player’s likelihood of scoring runs
+
+than his batting average did. The former statistic reliably links a cause (the ability to get on
+
+base) with an effect (scoring runs). It is also more persistent than batting average because it
+
+incorporates more factors—including the ability to get walked—that reflect skill. So we can
+
+conclude that a team’s on-base percentage is better for predicting the performance of a
+
+team’s offense.

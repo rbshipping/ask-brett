@@ -1,0 +1,216 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: After Action Review (AAR) Process
+SUMMARY: This text discusses how companies can leverage the After Action Review (AAR) process to improve their response to emergencies, product development, new business ventures, sales, and mergers and acquisitions.
+KEYWORDS: After Action Review, Continuous Improvement, Organizational Learning, Business Strategy, Operational Efficiency
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+committed to working through several some ways you can use AARs, based on More than a Postmortem
+
+AAR cycles. Focus on areas critical to a examples from companies that have used Corporate AARs are often convened around
+
+team’s mission so members have good them effectively. failed projects. The patient is pronounced
+
+harvard business review • july–august 2005 page 6
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It
+
+The AAR in practice The payoff
+
+1 >>Survey past emergencies to identify types >>Avoid similar emergencies in
+
+of events and learning challenges. the future.
+
+Emergency >>Ask team members to take notes during >>Improve the speed and quality
+
+response the response process to facilitate the ofyour responses and damage
+
+upcoming AAR. control.
+
+>>Conduct AARs during the response >>Improve the long-term
+
+process (if possible) or immediately effectiveness of your solutions.
+
+afterward to begin building procedures
+
+and long-term solutions.
+
+>>Periodically review past AARs to identify
+
+potential systems improvements.
+
+2 >>Start each phase of product development >>Improve quality,reduce cost,
+
+with a before-action review (BAR). and shorten time to market.
+
+Product >>Conduct AARs to identify insights >>Anticipate customers’changing
+
+development to feed from one phase of product expectations.
+
+development into the next—and then
+
+into the next project.
+
+>>Periodically conduct AARs on the
+
+product-planning process to identify
+
+potential improvements.
+
+3 >>Launch business planning with a BAR >>Apply lessons from past successes
+
+to re ect on past lessons. and failures to improve results on
+
+Entering a >>Conduct AARs throughout the launch new ventures.
+
+new business process to test lessons and create
+
+innovative solutions.
+
+or market
+
+>>Conduct a wrap-up AAR to improve
+
+performance on the next venture.
+
+4 >>Build AARs into the sales process, >>Improve the win/loss ratio.
+
+focusing as much on learning from wins >>Re ne the value proposition
+
+Sales as from losses. for a new product.
+
+>>Conduct AARs on customer defections
+
+to competitors’products.
+
+5 >>Build AARs into strategy,negotiation, >>Ensure that transactions deliver
+
+due diligence,and execution phases promised value to stakeholders.
+
+Mergers and to continually reveal,test,and modify
+
+assumptions about the deal.
+
+acquisitions
+
+>>Wrap up each M&A activity by compar-
+
+ing it with previous efforts to identify
+
+problems and good ideas.
+
+harvard business review • july–august 2005 page 7
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+.devreser
+
+sthgir
+
+llA
+
+.noitaroproC
+
+gnihsilbuP
+
+loohcS
+
+ssenisuB
+
+dravraH
+
+5002
+
+©
+
+thgirypoC
+
+Learning in the Thick of It
+
+dead, and everyone weighs in on the mistakes we’ll see writ large in a few weeks. We really do
+
+that contributed to his demise. The word “ac- need to take lessons from these fights, realizing
+
+countability” comes up a lot—generally it that we’ll have a far more mobile attack unit.
+
+means “blame,” which participants expend Deception will be an issue. Multiple routes will
+
+considerable energy trying to avoid. There is a be an issue. Our job is to figure out common
+
+sense of finality to these sessions. The team is targets. We need to rethink how to track move-
+
+putting a bad experience behind it. ment. How many scouts do we need in close to
+
+“Accountability” comes up a lot during OP- the objective area to see soldiers? They will be
+
+FOR’s AARs as well, but in that context it is for- extremely well-equipped. So one thing I’m
+
+ward-looking rather than backward-looking. challenging everyone to do is to be prepared to
+
+Units are accountable for learning their own discard your norms next month. It’s time to sit
+
+lessons. And OPFOR’s leaders are account- down and talk with your sergeants about how
+
+able for taking lessons from one situation you fight a unit with a well-trained infantry.”
+
+and applying them to others—for forging ex- Immediately after the AAR meeting breaks
+
+plicit links between past experience and future up, commanders gather their units to conduct
+
+performance. their own AARs. Each group applies lessons
+
+At the end of an AAR meeting, the senior from these AAR meetings to plan its future ac-
+
+commander stands and offers his own assess- tions—for example, repositioning scouts to
+
+ment of the day’s major lessons and how they better track infantry movements in the next
+
+relate to what was learned and validated dur- battle.
+
+ing earlier actions. He also identifies the two or OPFOR also makes its lessons available to
+
+three lessons he expects will prove most rele- BLUFOR: The groups’ commanders meet be-
+
+vant to the next battle or rotation. If the units fore rotations, and OPFOR’s commander al-
+
+focus on more than a few lessons at a time, lows himself to be “captured” by BLUFOR at
+
+they risk becoming overwhelmed. If they focus the conclusion of battles in order to attend its
+
+on lessons unlikely to be applied until far in AARs. At those meetings, the OPFOR com-
+
+the future, soldiers might forget. mander explains his brigade’s planning as-
+
+At the meeting following the infantry battle sumptions and tactics and answers his oppo-
+
+described earlier, for example, the senior com- nents’ questions.
+
+mander summed up this way: “To me, this set Beyond those conferences with BLUFOR,
+
+of battles was a good rehearsal for something formally spreading lessons to other units for
+
+later application—the chief focus of many cor-
+
+porate AARs—is not in OPFOR’s job descrip-
+
+tion. The U.S. Army uses formal knowledge
+
+Doctrine and Tactics systems to capture and disseminate important
+
+lessons to large, dispersed audiences, and the
+
+The lessons produced and validated by inform the Army’s other class of organi- National Training Center contributes indi-
+
+the U.S. Army’s Opposing Force (OPFOR) zational knowledge: doctrine. Doctrine— rectly to those. (See the sidebar “Doctrine and
+
+and the units it trains at the National which rarely changes and is shared by the Tactics.”) Informal knowledge sharing among
+
+Training Center (NTC) in Fort Irwin, Cali- entire Army—establishes performance peers, however, is very common. OPFOR’s

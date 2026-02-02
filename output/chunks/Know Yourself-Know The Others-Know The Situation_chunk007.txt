@@ -1,0 +1,432 @@
+SOURCE: Know Yourself-Know The Others-Know The Situation.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Racing Sponsorship and Tire Performance
+SUMMARY: The text discusses the financial implications of a race outcome, including a potential $1 million sponsorship and the need to return $25,000 if the race is withdrawn.
+KEYWORDS: racing sponsorship, tire performance, gasket failures
+---
+
+blows an engine in this race
+
+2 - Goodstone Tire has already committed to a
+
+sponsorship of the car for $40,000.
+
+A top five finish will mean a full season sponsorship next
+
+year to the tune of $1 million plus incentives.
+
+Withdrawing from this race means that $25,000 will have
+
+to be returned to Goodstone and no sponsorship next
+
+year.
+
+Relationship Between Temperature and Gasket Failures
+
+Head
+
+Gasket
+
+Failures
+
+Ambient Air Temperature (in degrees)
+
+Ambient Temperature for Races w/o Blown Gaskets
+
+Ambient Air Temperature (in degrees)
+
+Ambient Temperature for This Year's Races
+
+2
+
+Number
+
+of
+
+Incidents
+
+50 55 60 65 7 ri 80
+
+Calculated Joint Temperature (in degrees)
+
+Temperature # Gasket # Races
+
+Failures
+
+HISTORY OF O-RING DAMAGE ON SAH FIELD JOINTS
+
+t Cross Sectional View Top View
+
+2 Yrostoa” ‘Perimeter — Kantnal Tenth or Yotst Meat Clacktng
+
+< er si Oepth Atected Ofte, Max Eroston Affected Length —Lecat fon
+
+- KW (in) de (in,) Us.) in. (dea)
+
+‘
+
+& Cars un canterleteyae Kone Higa 5 Rene Hong
+
+2 2614 Ut FleLoe® HONE 6:38 HONE HONE
+
+4,¢ SiC Lil Forvard Fielde« 0.010 0,280 4.25
+
+$.25
+
+PS5IC Ri Center Fleld (prin)t* 0.038 0.280 12.80 58.75
+
+sy MGIC Ral Center Fteld (sec}te* None 0,280 Hane 29.60
+
+41D RH Forward Field 0.028 9.280 3.00 Hone
+
+AIC LH Aft Flold* VA Kone 260 Rane Kone
+
+418 LH Forward Field JOA 0.040 0,280 3.00 14.50
+
+STS-2 RU AE Fleld a 0.053 0,280 - ad
+
+sHot gas path detected fo putty. Indication of heat an O-ring, but no demage.
+
+weSeot banind prisary O-ring.
+
+weeSoot behind prinary O-ring, heat affected secondary O-ring.
+
+Cincking location of Teak check part - 0 deg.
+
+GTHER SAH~15 FLELD JOINTS NAD HO BLOWHOLES IN PUTTY AND KO SOOT
+
+HEAR OR BEYOND THE PRIRARY O-RING.
+
+SQH-22 FORWARD FIELD JOINT JAD PUTTY PATH TO PRIMARY O-RING, BUT HO O-RING EROSION
+
+AND HO SOOT BLOWDY. OTHER SRM-22 FIELD JOINTS HAD HO BLOHHOLES 18 PUTTY.
+
+PRIMARY CONCERNS ~
+
+FIELD JOINT ~ HIGHEST CONCERH
+
+EROSION PENETRATION OF PRIMARY SEAL REQUIRES RELIABLE-SECOKDARY SEAL
+
+FOR PRESSURE INTEGRITY
+
+© —IGHITION TRANSIENT - (0-600 HS)
+
+© (0-170 AS)HIGH PROBABILITY OF RELIABLE SECONDARY SEAL
+
+© (170-330 HS) REDUCED PROBABILITY OF RELIABLE SECONDARY SEAL
+
+0 (330-600 MS) HIGH PROBABILITY OF KO SECONDARY SEAL CAPABELITY
+
+STEADY STATE ~ (600 HS ~ 2 MINUTES)
+
+© {F EROSIOH PEHETRATES PRIMARY O-RING SEAL. ~ HIGH PROBABILITY OF
+
+HO SECONDARY SEAL CAPABILITY
+
+@ BENCH TESTING SHOWED O-RING KOT CAPABLE OF MAINTAINING CONTACT
+
+WITH HETAL PARTS GAP OPENING RATE TO EGP °
+
+o BENCH TESTING SHOKED CAPABILITY TO HALNTAIN O-RING CONTACT DURING
+
+~ THITIAL PHASE (0-170 HS) OF TRANSIEKT
+
+PRIHARY CONCERNS ~ CONT
+
+SECHEMT CENTERL IKE
+
+Prue =o PSIG
+
+UNPRESSURIZED JOINT - KO ROTATION
+
+~ SEGMENT CENTERLINE
+
+GAP OPENIHG (0.042 IK, ~ 0.0864
+
+Prat = 1004 pste
+
+PRESSURIZED JOLMT - ROTATION EFFECT (EXAGGERATED)
+
+Brow &y HisTeay
+
+SEM -IS WORST Glow- My
+
+O 2 Case Tomes (90'), (110%) Aas
+
+O MUCH WORSE Visuaery FHA! SMt-Ad
+
+SRM DR tous By
+
+© LeysE Yowts ‘a go-go")
+
+Sit-12 15, 164A, 1% A384 2¥4
+
+9 MOZzLE ({Stouw-O@Y
+
+HISTORY OF O-RING TEMPERATURES
+
+(DEsaees - F)
+
+MGT AmB 9-aine
+
+oe Be 47
+
+76 4g SZ.
+
+43
+
+43 s/
+
+64 53
+
+78 7S
+
+26 29
+
+27
+
+CaNnclLusionsS !
+
+TEMPERATURE OF O-RING 15 NoT ony PARAMETER
+
+CONTROLLING Blow-8Y
+
+SRM IS WITH Blew. BY HAD AN O-RING TEMP AT 53°F
+
+S222 WTA —Blow-GY Hero Ao O-@nq TEMP AT TSE
+
+FovR DevELOPMENT’ MoeroRs with No Btow- BY
+
+WERE TESTED AT O-RING TEMP oF 47° Te 52°F
+
+DEVELOPMENT MoreRs HAD Purry PACKING WHICH
+
+RESULTED IN BETTER PerRFoRMANCE
+
+AT AGSouwt 50°F BLow-BY covuLp BE
+
+EXPERIENCED IN GASE Joins
+
+TEMP FoR SRM 25 oN [26-66 LAUNCH WILL
+
+BE 29°F FAM .
+
+BA°F 2PM
+
+HAVE No DATA “THAT WouLD INDICATE SRM 25 IS
+
+DIFFERENT THAN SRM IS OTHER THAN “TEMP
+
+RECOMMENDATIONS &
+
+© O-RING ‘TEMP MUST BE = SB °F AT LauNen
+
+DEVELOPMENT Morors AT 47° "To S2°F wrrH
+
+PurvyY PACKING HAD No BlLow-BY
+
+SRM 15 (THE Best simuLATION) WorKkEO AT 53 °F
+
+° PRovEcT AMBIENT coNDrrions CremPp ¢ wind)
+
+Te DETERMINE LAUNCH “TIME
+
+Date Temperature Erosion © Blow-by Damage Comments
+
+oF incidens incidents index.
+
+01.24.85 53° 2 1
+
+02.03.84 87°
+
+01.12.86 58°
+
+04.06.84 63°
+
+04.12.81 66°
+
+04.04.83 67
+
+11.08.84 67°
+
+04.12.85 or
+
+11,641.82, 68°
+
+03.22.82 69°
+
+11,12.81 70°
+
+11.28.83 70°
+
+08,30,84 70°
+
+06.17.85 70°
+
+06.18.83 72°
+
+08.30.83 73
+
+04.29.85 73°
+
+10.30.85 78°
+
+08.27.85 76°
+
+11.26.85 76°
+
+10,035.84 78°
+
+10.03.85 79°
+
+06.27.82 80?
+
+07.29.85 Bre
+
+Most erosion any flight; blow-by; back-up rings heated.
+
+Deep, extensive erosion.
+
+O-ring erosion on launch two weeks before Challenger.
+
+O-tings showed signs of heating, but no damage,
+
+Coolest (66%) launch without O-ring problems,
+
+Extent of erosion not fully known,
+
+No erosion, Soot found behind two primary O-rings.
+
+O-ring condition unknown; rocket casing lost at sea,
+
+1
+
+4
+
+4
+
+2
+
+o
+
+0
+
+0
+
+°
+
+0
+
+0
+
+4
+
+0
+
+4
+
+0
+
+0
+
+°
+
+0)
+
+4
+
+0
+
+0
+
+0
+
+0
+
+?
+
+0)
+
+O-ring damage
+
+index, each launch
+
+2
+
+aG'n29" range of forecasted temperatures
+
+/ bso) v.27, 1986) for dhe Lunch,
+
+of tpace shuutde Challenger on January 28
+
+as we ss oot
+
+‘Temperature (*F) of field joints at time of launch
+
+Situational Characteristics
+
+of
+
+The Challenger Disaster
+
+Time Pressure
+
+Extreme Public Scrutiny
+
+Lots of Smart People
+
+Numbers vs Intuition
+
+Framing
+
+The managers viewed another delay as a financial loss:
+
+“This shuttle thing will cost us 10 cents a share this year.”
+
+therefore, they were not risk averse
+
+Availability
+
+It was easy to remember the last 24 events, all successes
+
+Representativeness
+
+They gave little credence to Paul Edwards, a mechanic
+
+Anchoring
+
+They fixed on their initial choice to launch
+
+Overconfidence
+
+The managers essentially scoffed at the engineers’
+
+information that something might go wrong
+
+Escalation of Commitment
+
+They had postponed three times before;
+
+this launch was tied to a Presidential address
+
+Confirmation
+
+They didn’t seek potentially disconfirming evidence
+
+The Power of Numbers
+
+Managerial Preferences for Action, not Inaction
+
+Groupthink
+
+Corrective Actions
+
+* Search for Disconfirming Evidence
+
+* Ask Outsiders (less influenced by
+
+representativeness); Maximize Diversity
+
+* Change Reference points (e.g., invoice,
+
+not list price)

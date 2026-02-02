@@ -1,0 +1,268 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Financial Market Structure
+SUMMARY: The text discusses how the network effect can benefit some financial exchanges, such as futures exchanges, but not others, like stock exchanges, due to differences in market structure and competition.
+KEYWORDS: network effect, financial exchanges, liquidity, market competition, futures contracts
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+can be deep, meaning that participants can trade a large
+
+volume of assets without affecting the quoted price.
+
+Sounds like a great business, right? Let the network
+
+effect work its magic to build a nice pool of liquidity that’s
+
+both deep and broad, and watch the profits roll in. That’s
+
+actually not a bad description of futures exchanges like the
+
+Chicago Mercantile Exchange (the Merc) and the New York
+
+Mercantile Exchange (NYMEX), which are enormously
+
+profitable companies with wide moats due to their net-
+
+work-induced liquidity. Unfortunately, the story is a bit
+
+more complicated, because exchanges that trade mainly
+
+stocks—like the NYSE and NASDAQ—have much weaker
+
+competitive advantages, even though they also have deep
+
+pools of liquidity.
+
+cc0055..iinndddd 6677 11//2266//0088 33::0088::2222 AAMM
+
+[68] THE LITTLE BOOK THAT BUILDS WEALTH
+
+In fact, stock exchanges have seen falling returns on
+
+capital in recent years as competition has moved in, while
+
+futures exchanges have maintained very robust profitabil-
+
+ity. This is because futures contracts are captive to an
+
+individual exchange—if I buy a futures contract on the
+
+NYMEX or the Merc, I have to sell it there. (The reason
+
+for this is complicated, so just trust me.) Futures exchanges
+
+can extract a lot more value from market participants,
+
+because they exert more control over each transaction.
+
+Stocks, however, can be bought and sold on a wide
+
+variety of exchanges, which leads to much greater price
+
+competition. A professional investor might buy a thou-
+
+sand shares of IBM on the NYSE, but wind up selling
+
+them on any one of a half dozen other exchanges that also
+
+trade Big Blue’s shares, if one of those other exchanges
+
+offers a better price. Because the pool of liquidity in IBM
+
+shares is not limited to any one exchange, none of them
+
+benefits from the network effect nearly as much as futures
+
+exchanges do.
+
+The lesson here is that for a company to benefit from
+
+the network effect, it needs to operate a closed network,
+
+and when formerly closed networks open up, the net-
+
+work effect can dissipate in a hurry. It’s a good question
+
+to ask whenever you’re evaluating a company that might
+
+benefit from network economics: How might that net-
+
+work open up to other participants?
+
+cc0055..iinndddd 6688 11//2266//0088 33::0088::2233 AAMM
+
+THE NETWORK EFFECT [69]
+
+Moving on from exchanges to other industries, we
+
+also see the network effect at work in lots of other areas
+
+of the market. Money-transfer firm Western Union is
+
+just one good example, and the value of its network to
+
+users is demonstrated by the fact that even though its net-
+
+work is three times larger than that of its closest competi-
+
+tor, Western Union processes about five times as many
+
+transactions. In other words, Western Union gets more
+
+business per location—on average—because its users can
+
+send money to more places than they could if they used
+
+the competition.
+
+This is a common effect of network-based businesses:
+
+The benefit of having a larger network is nonlinear, which
+
+means that the economic value of the network increases
+
+at a faster rate than its absolute size. You can get some
+
+sense of this by looking at Exhibit 5 .2 and Exhibit 5 .3 ,
+
+which compare the number of nodes in a network—analo-
+
+gous to the number of Western Union locations—with
+
+the number of connections between those nodes.
+
+It’s pretty incredible to see how fast the number of
+
+connections grows as you add more nodes. Practically
+
+speaking, you easily can see how attractive the economics
+
+are. If a network-based business increases its invested
+
+capital by, say, 50 percent to expand its number of nodes
+
+from 20 to 30, it increases the number of connections by
+
+almost 130 percent, from 190 to 435.
+
+cc0055..iinndddd 6699 11//2266//0088 33::0088::2233 AAMM
+
+[70] THE LITTLE BOOK THAT BUILDS WEALTH
+
+EXHIBIT 5.2 A Few More Nodes Equals a Lot More Connections
+
+Nodes Connections
+
+2 1
+
+3 3
+
+4 6
+
+5 10
+
+10 45
+
+20 190
+
+30 435
+
+40 780
+
+50 1,225
+
+EXHIBIT 5.3 Nodes and Connections
+
+Nodes Connections
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829
+
+Of course, you need to be a bit careful with this kind
+
+of analysis, because the odds are very good that not all
+
+connections in a network are equally valuable to all users.
+
+Sticking with Western Union as an example, I would
+
+cc0055..iinndddd 7700 11//2266//0088 33::0088::2233 AAMM
+
+THE NETWORK EFFECT [71]
+
+imagine that the large number of Western Union branches
+
+in various parts of Mexico makes the service very valuable
+
+for folks who live in the Pilsen neighborhood in C hicago,
+
+where I live, because Pilsen is home to a large number of
+
+immigrants with ties to Mexico. But I don’t think there
+
+are all that many Pilsen residents who are sending money
+
+to Dubai or Dhaka, so those particular node-to-node con-
+
+nections aren’t as valuable to most folks in Pilsen.
+
+It’s fair to say that the value of a network to its users
+
+is more closely tied to the number of connections than
+
+it is to the number of nodes, but the value-to-connection
+
+relationship likely slows down as the number of connec-
+
+tions becomes extremely large.
+
+Our next set of network-effect examples comes from an
+
+incredibly profitable industry that’s not nearly as well known
+
+as it should be: third-party logistics. That may sound dull,
+
+but 40 percent returns on capital combined with 20 to 30
+
+percent growth rates over more than a decade should pique
+
+your interest. How did firms like Expeditors International
+
+and C. H. Robinson compile such impressive track records?
+
+By building moats based on the network effect.
+
+Both of these companies essentially connect shippers
+
+with cargo carriers—think of them as brokers for cargo
+
+space. C. H. Robinson operates in the U.S. trucking
+
+industry, matching companies with cargo to ship with
+
+trucking operators that want to keep their trailers as full
+
+cc0055..iinndddd 7711 11//2266//0088 33::0088::2233 AAMM
+
+[72] THE LITTLE BOOK THAT BUILDS WEALTH

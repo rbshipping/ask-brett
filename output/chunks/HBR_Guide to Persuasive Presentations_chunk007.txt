@@ -1,0 +1,280 @@
+SOURCE: HBR_Guide to Persuasive Presentations.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Visual Aid Design
+SUMMARY: The text discusses the importance of designing visually engaging presentations by thoughtfully formatting visual aids to effectively convey the intended message.
+KEYWORDS: visual aids, presentation design, data visualization
+---
+
+Too often, a presenter will display a dense table
+
+ofnumbers, perhaps copied fromanother source.
+
+Which numbers should I look at? What trend do
+
+they illustrate? You should design and edit your
+
+page 13
+
+Presentations 101
+
+visual aids in much the same way you format
+
+and edit a document—continually thinking
+
+about the effect on the audience. Should key
+
+numbers in this table be boldfaced? Should it
+
+be a pie chart or stacked-bar chart instead? By
+
+asking such questions, you continually compare
+
+your visual aid to the message you want it to
+
+convey.
+
+6. Not letting visual aids do their work.
+
+Presenters make fascinating mistakes with
+
+visual aids:
+
+» Blocking the screen with their bodies
+
+«Talking to the screen rather than the
+
+audience
+
+= Displaying a slide for ten seconds or
+
+less--not enough time for its message to
+
+sink in
+
+Since you spend so much time developing
+
+an effective slide, make sure you let it do its
+
+work while you do yours. Practice to make
+
+the following physical actions become second
+
+nature:
+
+= Stand where most of the audience can
+
+see both you and the screen
+
+»Glance at each slide to make sure
+
+it’s correct, then turn to address the
+
+audience
+
+page r4
+
+#As you speak, check your audience’s
+
+faces to see that the slide has registered
+
+with them
+
+7. Presenting without passion. Despite an
+
+ever-growing array of communication options,
+
+presentations remain essential to the business
+
+world. Why? In part, a presentation allows
+
+interaction between audience and presenter,
+
+and among audience members who can develop
+
+team spirit. But mainly, a presentation is an
+
+in-person experience. It’s not just your words
+
+and visuals that make your presentation, bat
+
+you. The audience will judge your credibility,
+
+substance, and passion—and they’ve come to
+
+the presentation because they can best make
+
+those judgments in person.
+
+When you stand up in front of a crowd, you
+
+must believe that you're telling them something
+
+important. When the audience feels your trust
+
+and faith in the topic—if you have been effective
+
+in communicating it~you pass the implicit
+
+test they came to this room to give you. Your
+
+presentation succeeds,
+
+This article originally appeared in Harvard
+
+Management Communication Letter (product
+
+#CooB). fo order, visit hbr.org.
+
+wa. hbrorg
+
+HARVARD MANAGEMENT COMMUNICATION LETTER
+
+Easy on the Eyes
+
+by Kirsten D. Sandberg
+
+Kirsten D. Sandberg can be reached at ksandberg@hbsp.harvard.edu.
+
+Graphic designer Nigel Holmes has been one of the gurus of the “thinking visually”
+
+movement, using charts, graphs, and pictures to make complex data more accessible. Along with
+
+writing three industry primers on the topic, Holmes has worked at a number of publications, including
+
+16 years as the graphics director for Time magazine. He now directs his own design firm, Explanation
+
+Graphics, and has lectured on graphic design at the Stanford Professional Publishing Course for more
+
+than 20 years.
+
+Contributing editor Kirsten D. Sandberg caught up with Holmes in his Westport, Conn., offices.
+
+Your peers have credited you with pioneering a whole new design genre called “explanation
+
+graphics.” What does that mean?
+
+It’s literal: graphics (drawings or animations that are generally two-dimensional) that explain
+
+information quickly and clearly. I use the term “explanation graphics” because | believe that
+
+‘information graphics” is an overused, as well as inadequate and imprecise, name for what! do. Today,
+
+many graphics explain nothing, They just present data, and the reader is expected to work out their
+
+meanings. Charts that don’t explain themselves are worse than no charts. “Information must inform”
+
+has become a cliché, but it’s right.
+
+How do you go about creating an “explanation graphic”?
+
+I start by thinking, How can I keep the result simple? However, “simple” is a difficult word, because
+
+there is a fine balance between “simplifying” and “dumbing down.” Nevertheless, I remind myself
+
+Harvard Business Review Guide to Persuasive Presentations page is
+
+Easy on the Eyes
+
+page 16.
+
+that most graphics appear in situations where
+
+the reader, viewer, or audience can take only
+
+so much at one time, especially during live
+
+presentations.
+
+Rementber that we move around in a full-color
+
+world with images passing by us all the time.
+
+But charts are not pictures of the real world;
+
+they depict abstract ideas, numbers, and
+
+concepts, We don’t change the color of the type
+
+to blue when we describe the sky. It’s the idea
+
+that counts.
+
+And so I often start by imagining that I can use
+
+only black and white, I introduce color only
+
+when the information requires it to clarify a point
+
+or to focus the reader’s eye on the point. Charts
+
+distinguish themselves best when they don’t
+
+imitate the rush of images around them. They
+
+should be simpler than their surroundings.
+
+Then how can we use graphics software
+
+programs more effectively?
+
+PowerPoint is a good program, but people
+
+misuse it appallingly every day. Words shouldn’t
+
+rush in from the side and screech to a halt just
+
+because a clever programmer wrote some code
+
+to make that possible. Besides, people start
+
+critiquing the form and not seeing the content.
+
+“Did you see what he did with the latest version
+
+of PowerPoint? It’s got these cool effects!”
+
+So try making your presentation not look
+
+like PowerPoint. Don't rely on the programs
+
+defaults—formulas always end up looking like
+
+formulas, Start with a blank slide every time,
+
+and paste—if you must—the vital parts that are
+
+common to all your slides. Spend much less
+
+time with the animation, those fades and wipes
+
+from one slide to another, and concentrate on
+
+your key points.
+
+Are charts culturally universal, or must we
+
+translate them in some way?
+
+Most of us are the same, whether in Africa,
+
+Japan, India, or New York. We can concentrate
+
+for a while, then the mind wanders, especially
+
+after lunch. Simple messages, straightforwardly
+
+presented without jargon and with some humor,
+
+are better than earnest, data-stulfed boxes with
+
+tiny graphics that look important but in fact
+
+glaze your eyes over.
+
+What should we remember when using
+
+graphics in live presentations versus in
+
+print?
+
+The human voice is more powerful than the

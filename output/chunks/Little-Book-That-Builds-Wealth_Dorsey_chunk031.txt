@@ -1,0 +1,248 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Advantages in Business Sectors
+SUMMARY: The text analyzes the varying degrees of competitive advantages (moats) in different business sectors, including technology, telecommunications, and media.
+KEYWORDS: moats, competitive advantages, business sectors, software vs. hardware, telecommunications, media
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+Utilities 80 1 81
+
+cc0099..iinndddd 111188 11//2266//0088 33::1100::5544 AAMM
+
+FINDING MOATS [119]
+
+In technology, you can see that software companies
+
+tend to have an easier time creating moats than hardware
+
+companies. This is not simply an accounting artifact—
+
+hardware firms are generally more capital-intensive than
+
+software firms—but has a strong basis on the way these
+
+two broad categories of products are used. A piece of
+
+software often needs to be integrated with other pieces
+
+of software to work properly, and this integration leads to
+
+customer lock-in and higher switching costs. Hardware
+
+is more frequently based on common industry standards,
+
+and can be swapped out for new hardware with less effort.
+
+There are important exceptions, of course, especially when
+
+a hardware company—like, say, Cisco Systems—is able to
+
+embed software in its products and create switching costs.
+
+But you’ll generally find more moats among software
+
+companies than among hardware companies.
+
+Given the turmoil in telecommunications over the
+
+past several years, it’s a bit surprising to see that almost
+
+two-thirds of the telecom companies that we cover have
+
+moats, but there’s a simple explanation: More than half
+
+of the telecom companies Morningstar covers are foreign,
+
+and they are often located in countries where the regula-
+
+tory environment is more benign than here in the United
+
+States. In general, moats in the telecom sector are highly
+
+dependent on having either a favorable regulatory struc-
+
+ture or a niche position that is not attractive to potential
+
+cc0099..iinndddd 111199 11//2266//0088 33::1100::5544 AAMM
+
+[120] THE LITTLE BOOK THAT BUILDS WEALTH
+
+competitors, such as some of the carriers located in rural
+
+parts of the United States. But if you are looking for a
+
+telecom company with a competitive advantage, your best
+
+bet is to look abroad.
+
+Although some media companies have been under
+
+siege recently, the industry is still a reasonably good hunt-
+
+ing ground for companies with competitive advantages.
+
+Companies such as Disney and Time Warner, for exam-
+
+ple, control vast amounts of unique content that may cost
+
+a lot to produce initially, but which costs almost nothing
+
+to redistribute ad infinitum. In general, we’ve found that
+
+diversity and control of distribution channels help media
+
+companies create competitive advantage and a buffer
+
+against the inevitable loss of popularity of any individual
+
+media property. More so than many other sectors, how-
+
+ever, many media companies are threatened with techno-
+
+logical disruption as the Internet blows up well-established
+
+business models. Companies with extremely strong brands
+
+(Disney) or broad distribution networks (Comcast) seem
+
+like they will have the best chance of surviving with moats
+
+intact.
+
+Like telecom companies, health care companies also
+
+face regulatory challenges—a change in Medicare’s reim-
+
+bursement rules can alter smaller companies’ economics
+
+overnight—but the product diversity of larger firms miti-
+
+gates this risk. Don’t let the apparently small percentage
+
+cc0099..iinndddd 112200 11//2266//0088 33::1100::5544 AAMM
+
+FINDING MOATS [121]
+
+of companies with moats in the table above fool you,
+
+because the large number of tiny biotech and single-
+
+product companies in the health care sector skews the
+
+data. Generally, you’ll find more moats among companies
+
+that sell health care products, like drugs or medical
+
+devices, than you will among health maintenance organi-
+
+zations (HMOs) and hospitals that provide health care
+
+services. It’s often harder to differentiate a service offer-
+
+ing relative to a product that requires years or research
+
+and development plus Food and Drug Administration
+
+(FDA) approval to reach the market. And while the giant
+
+drug and device companies usually have solid competitive
+
+advantages, don’t overlook smaller health care companies
+
+that often build very solid moats by dominating a niche—
+
+like Respironics and ResMed in sleep apnea, or Gen-
+
+Probe in blood testing.
+
+Companies that cater directly to the consumer, like
+
+restaurants and retailers, often have a very hard time
+
+building competitive advantages—the percentage of con-
+
+sumer services companies with wide moats is one of the
+
+smallest of all the market sectors. The culprit here is
+
+low switching costs, because walking down the street from
+
+one shop or cafe to another is incredibly easy, and popular
+
+concepts can almost always be copied with ease. Popular
+
+fashion retailers or restaurant chains often present the
+
+illusion of a moat due to their fast growth and the buzz
+
+cc0099..iinndddd 112211 11//2266//0088 33::1100::5544 AAMM
+
+[122] THE LITTLE BOOK THAT BUILDS WEALTH
+
+that surrounds a new type of store that is opening up
+
+several new locations every month, but be wary, because
+
+the odds are good that a knockoff concept is not far off.
+
+The moats that do exist in consumer services—companies
+
+like Bed Bath & Beyond, Best Buy, Target, or Starbucks—
+
+are generally the result of getting a lot of little things
+
+consistently right for years, which results in the kind of
+
+dependable consumer experience that drives loyalty and
+
+repeat traffic. It can be done, but it’s not easy.
+
+Companies that provide services to businesses are in
+
+many ways the polar opposite of the restaurants and retail-
+
+ers. This sector has one of the highest percentages of
+
+wide-moat companies in Morningstar’s coverage universe,
+
+and that’s largely because these firms are often able to
+
+integrate themselves so tightly into their clients’ business
+
+processes that they create very high switching costs, giv-
+
+ing them pricing power and excellent returns on capital.
+
+Data processors like DST Systems and Fiserv fall into
+
+this category, as do companies with impossible-to-replicate
+
+databases, like IMS Health (prescription drugs) or Dun &
+
+Bradstreet and Equifax (credit histories). This part of the
+
+market also has an outsize number of niche-dominating
+
+firms like Stericycle (medical waste), Moody’s Investors
+
+Service (bond ratings), FactSet (financial data aggregation),
+
+and Blackbaud (fund-raising software for nonprofits).
+
+Although business services firms may be further from
+
+cc0099..iinndddd 112222 11//2266//0088 33::1100::5555 AAMM
+
+FINDING MOATS [123]
+
+your everyday radar screen, they’re usually worth the effort
+
+it takes to get to know them, given how rich in moats the
+
+sector tends to be.
+
+The financial-services sector is another great place to
+
+look for companies with moats. Barriers to entry are quite

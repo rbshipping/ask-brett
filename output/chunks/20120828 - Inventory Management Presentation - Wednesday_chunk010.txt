@@ -1,0 +1,385 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management Process
+SUMMARY: Zara's design, sourcing, and production process optimized for flexibility and speed to quickly respond to customer demands.
+KEYWORDS: Inventory Management, Supply Chain Optimization, Fashion Retail
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+Design
+
+Sourcing
+
+Production
+
+6 months before season
+
+3 months before season
+
+During the season
+
+15-20%
+
+65%
+
+9-12%
+
+5-6%
+
+80-85%
+
+35%
+
+12-20%
+
+35%
+
+30-35%
+
+Extern
+
+Intern
+
+Zara-Principle:
+
+Design based on
+
+available material
+
+following a Pull-logic
+
+Mostly basics
+
+Mostly fashion
+
+Source: Company Information; Expert Interviews; Press & Literature Research
+
+[Slide 123]
+
+Designers and store mgrs. know exactly what is selling /what is not – and are empowered to buy: True localisation
+
+Creative organization
+
+Creative Team
+
+Designers (circa 200)
+
+Sourcing specialists
+
+Product Development
+
+Flat Design organization with heavy commercial orientation
+
+No ‘maestros’
+
+Design with production in mind
+
+sampling mostly internally
+
+Continuous tracking of customer preferences and POS data (in-season)
+
+Designers analyze POS data
+
+...and react with new designs and repeat orders to suppliers
+
+Store managers with full responsibility for the business
+
+Weed-out ‘dog’ products weekly
+
+Monitor out-of-stocks
+
+Weekly feedback to Design on best & slow movers
+
+“The center of it all is the store” (Managing Director Inditex)
+
+Collection development process
+
+Seasonal collection ideation starts 9 months in advance
+
+Creative Team simultaneously working on 3 collections
+
+Current floor-set:
+
+modifications
+
+fast-fashion
+
+Next collection: basics
+
+Second next collection:
+
+idea scouting
+
+raw material development
+
+Store manages actively involved in Collection development
+
+Customer/store ‘pulse’ in season
+
+Input on product mix, colors and sizes to Design
+
+Approval of initial basic collection
+
+Use of soft-launches and small production runs
+
+Failure rate <1% (vs 10% industry average)
+
+Source: Zara company reports; Harvard Business Review; Press & Literature Search
+
+[Slide 124]
+
+To make quick assortment changes, Zara's supply chain optimized for flexibility and speed
+
+Product
+
+design
+
+Sourcing
+
+Manufacturing
+
+Central
+
+distribution
+
+Local
+
+distribution
+
+Stores
+
+1. Mainly Turkey, Bulgaria and Romania 2. China, India, Cambodia, Bangladesh 3. Mexico, Peru
+
+4. Women's and men's merchandise, serves Spain, Portugal, the Americas and Middle East 5. Women's and men's merchandise, serves non-Iberian Europe, Russia, and Asia 6. Children's wear for all Zara stores 7. Heavily automated, specialized by garment type, and focused on capital intense processes (pattern design and cutting)
+
+Sources: Harvard Business Review; Company information; Expert interviews
+
+External manufacturing(incl. 450 sewing workshops located primarily in Galicia/Portugal)
+
+In-house finishing
+
+(20 fully own factories, 18 located around HQ)
+
+Un-dyed products
+
+Dyed products
+
+External fabric sourcing (260 contracted suppliers)
+
+Semi-finished products
+
+(pre-woven)
+
+50%
+
+In-house manufacturing7
+
+(dyeing, knitting/weaving, finishing)
+
+In-house yarn/fabric production (~50%)
+
+(Comditel, 100% owned)
+
+~40% of finished garments
+
+~60% of finished garments
+
+Buying in HQ + Sourcing offices in Barcelona and Hong Kong
+
+[Slide 125]
+
+Time
+
+Topic
+
+124
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 126]
+
+OTB – What we want to cover today
+
+125
+
+What is Open To Buy and why is it so important
+
+How Open To Buy works: tools and tips you can use and critical areas you need to review
+
+Who is involved and what is the role of each participant
+
+OTB Standards and Disciplines
+
+ü
+
+ü
+
+ü
+
+ü
+
+[Slide 127]
+
+The Science Behind OTB…
+
+126
+
+OTB
+
+OTB is the gatekeeper of inventory management
+
+It is the control that moderates the inventory we buy
+
+Everyone is involved in the OTB process and has a specific role to play
+
+OTB is a blunt instrument
+
+[Slide 128]
+
+Why the OTB process is so important
+
+127
+
+OTB is a formal process to ensure we keep track of exactly what $ we should commit to inventory to support the expected customer demand
+
+The process ensures communication between buyers, merchandise planners as well as finance and the CEO to ensure we are being financially prudent to meet our strategic and operational objectives
+
+The key control preventing us from being over or under stocked!
+
+Overstock will force us to markdown eroding $GM and profits!
+
+Over purchase does clog the OTB preventing fresh stock
+
+Over purchase can, in the extreme, send us broke
+
+Over purchase does disrupt good operations and effect morale
+
+Over purchase does effect our brand
+
+Over purchase does cause inefficiency and costs
+
+Understock will have negative impact on sales
+
+[Slide 129]
+
+OTB Is a holistic view of the major drivers of the business…
+
+128
+
+OTB
+
+Opening Stock
+
+(Futura or other)
+
+Purchases
+
+(OTB)
+
+Sales
+
+(Budget)
+
+Closing stock
+
+(All things being equal will equal opening stock)
+
++
+
+-
+
+=
+
+OTB is the Art and Science in determining the right $ amount to open with in order to meet demand
+
+[Slide 130]
+
+Skills Required for OTB
+
+129
+
+Emotional maturity
+
+Ability to see the reality
+
+Forecasting
+
+Trend awareness
+
+Understanding the year plan (peaks & troughs)
+
+Disciplined: to be prepared on time (monthly with weekly auditing)
+
+Strength of character: to withstand pressure from CEO’s to change forecasts
+
+[Slide 131]
+
+Common (issues) affecting OTB forecasting
+
+130
+
+No OTB process
+
+Over ambitious forecasting
+
+Orders placed not entered or entered inaccurately(bad processes)
+
+Late deliveries
+
+Data integrity issues
+
+Not allowing for returns / faulties / samples / breakages
+
+Not allowing for shrinkage
+
+No awareness of building stock before it’s needed (pulling the OTB back)
+
+CFO not and carrying out audits to ensure all processes that contribute or can effect accurate OTB forecasting are accurate and appropriate
+
+CFO that does not play Devil’s advocate
+
+CEO that overrides CFO
+
+[Slide 132]
+
+Common (issues) affecting OTB forecasting Continued…
+
+131
+
+Confusing OTB meetings with Merchandise Planning or re-ordering/replenishment meetings
+
+Not allowing enough % of OTB for repeats or ongoing
+
+All Product Team believe all their products and initiatives will sell
+
+CFO not and carrying out audits to ensure all processes that contribute or can effect accurate OTB forecasting are accurate and appropriate
+
+Product and product support team unaware of the impact and flow on of their work to the OTB forecasting
+
+Not forecasting or inaccurately forecasting for unplanned product purchases (keeping some flexibility and $ in the back pocket)
+
+Driving cash to hard
+
+Not clearing “dogs” fast enough
+
+Believing in miracles
+
+[Slide 133]
+
+Common (issues) affecting OTB forecasting Continued…
+
+132
+
+Delegation of OTB Planning to Merchandise Planning
+
+Being too strict / Being too loose (near enough is good enough)
+
+Unrealistic markdown forecasting
+
+More than one OTB meeting per month.  You are overthinking the process
+
+Weekly meetings should not have the word OTB mentioned
+
+Forecasting to far ahead

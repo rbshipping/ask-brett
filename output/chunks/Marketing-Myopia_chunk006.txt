@@ -1,0 +1,222 @@
+SOURCE: Marketing-Myopia.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Product-Oriented Marketing
+SUMMARY: The text discusses how companies in the electronics industry have become too focused on product research and development, neglecting the realities of the market and customer needs.
+KEYWORDS: product-oriented marketing, technology focus, customer needs, market realities
+---
+
+[Document: Marketing-Myopia.pdf]
+
+ariseswhentopmanagementiswhollytransfixedby
+
+favorthosebusinessactivitieswhichlendthem-
+
+the profit possibilities of technical research and de-
+
+selves to careful study, experimentation, and
+
+velopment. To illustrate I shall turn first to a new
+
+control—the hard, practical realities of the lab,
+
+industry—electronics—andthenreturnoncemoreto
+
+theshop, the books.
+
+theoilcompanies.Bycomparingafreshexamplewith
+
+a familiar one, I hope to emphasize the prevalence What gets shortchanged are the realities of the
+
+andinsidiousnessof a hazardousway of thinking. market.Consumersareunpredictable,varied,fickle,
+
+Marketingshortchanged.Inthecaseofelectronics, stupid,shortsighted,stubborn,andgenerallybother-
+
+the greatest danger which faces the glamorous new some. This is not what the engineer-managers say,
+
+companies in this field is not that they do not pay butdeepdownintheirconsciousness,itiswhatthey
+
+enough attention to research and development, but believe.Andthisaccountsfortheirconcentratingon
+
+that theypay too much attention to it.Andthefact what theyknowand what they can control,namely,
+
+that the fastest growing electronics firms owe their product research, engineering, and production. The
+
+eminence to their heavy emphasis on technical re- emphasisonproductionbecomesparticularlyattrac-
+
+search is completely beside the point. They have tive whenthe product can bemade at declining unit
+
+vaulted to affluence on a sudden crest of unusually costs. There is no more inviting way of making
+
+strong general receptiveness to new technical ideas. money thanby runningtheplant full blast.
+
+Also, their success has been shaped in the virtually Today the top-heavy science–engineering–produc-
+
+guaranteedmarketofmilitarysubsidiesandbymili- tion orientation of so many electronics companies
+
+taryordersthatinmanycasesactuallyprecededthe worksreasonablywellbecausetheyarepushinginto
+
+existence of facilities to make the products. Their new frontiers in whichthearmed services havepio-
+
+expansion has, in other words, been almost totally neeredvirtuallyassuredmarkets.Thecompaniesare
+
+devoidof marketing effort. in the felicitous position of having to fill, not find,
+
+Thus, they are growing up under conditions that markets;ofnothavingtodiscoverwhatthecustomer
+
+come dangerously close to creating the illusionthat needs and wants but of having the customer volun-
+
+a superior product will sell itself. Having created a tarily come forward with specific new product de-
+
+successfulcompanybymakingasuperiorproduct,it mands. If a team of consultants had been assigned
+
+is not surprising that management continues to be specificallytodesignabusiness situationcalculated
+
+10 HARVARD BUSINESSREVIEW September–October1975
+
+.
+
+.
+
+topreventtheemergenceanddevelopmentof acus- “In Refinery Processes”
+
+tomer-oriented marketing viewpoint, it could not “In PipelineOperations”
+
+have produced anything better than the conditions
+
+justdescribed. Significantly, every one of the industry’s major
+
+Stepchildtreatment.Theoilindustryisastunning functional areas is listed, except marketing. Why?
+
+example of how science, technology, and mass pro- Eitheritisbelievedthatelectronicsholdsnorevolu-
+
+ductioncandivertanentiregroupofcompaniesfrom tionary potential for petroleum marketing (whichis
+
+theirmaintask.To theextentthe consumerisstud- palpablywrong),ortheeditorsforgottodiscussmar-
+
+iedatall(whichisnotmuch),thefocusisforeveron keting (which is more likely and illustrates its step-
+
+gettinginformationwhichisdesignedtohelptheoil child status).
+
+companies improve what they are now doing. They The order in which the four functional areas are
+
+trytodiscover moreconvincingadvertisingthemes, listed also betrays the alienation of the oil industry
+
+more effective sales promotional drives, what the from the consumer. The industry is implicitly de-
+
+market shares of the various companies are, what finedasbeginning with the search foroilandending
+
+peoplelikeordislikeaboutservicestationdealersand with its distribution fromthe refinery. But the truth
+
+oil companies, and so forth. Nobody seems as inter- is,itseemstome,thatthe industry beginswiththe
+
+ested in probing deeply into the basic human needs needs of the customer for its products. From that
+
+that the industry might be trying to satisfy as in primal position its definition moves steadily back-
+
+probingintothebasicpropertiesoftherawmaterial stream to areas of progressively lesser importance,
+
+that the companies work with in trying to deliver until it finally comesto restatthe “searchfor oil.”
+
+customersatisfactions. Beginning and end.Theview thatan industryisa
+
+Basic questions about customers and markets sel- customer-satisfying process, not a goods-producing
+
+dom get asked.The latter occupya stepchildstatus. process,isvitalforallbusinesspeopletounderstand.
+
+Theyarerecognizedasexisting,ashavingtobetaken An industrybeginswiththecustomer andhisorher
+
+care of, but not worth very much real thought or needs,notwithapatent,arawmaterial,oraselling
+
+dedicated attention. No oil company gets as excited skill.Giventhecustomer’sneeds,theindustrydevel-
+
+aboutthecustomersinitsownbackyardasaboutthe opsbackwards,firstconcerningitselfwiththephysi-
+
+oil in the Sahara Desert. Nothing illustrates better caldeliveryofcustomersatisfactions.Thenitmoves
+
+the neglect of marketing than its treatment in the back further to creating the things by which these
+
+industry press. satisfactionsareinpartachieved.Howthesemateri-
+
+The centennial issue of the American Petroleum als are created is a matter of indifference to the
+
+Institute Quarterly, published in 1959 to celebrate customer, hence the particular form of manufactur-
+
+thediscoveryof oilin Titusville, Pennsylvania,con- ing, processing, or what-have-you cannot be consid-
+
+tained 21 feature articles proclaiming the industry’s ered as a vital aspect of the industry. Finally, the
+
+greatness.Onlyoneofthesetalkedaboutitsachieve- industry moves back still further to finding the raw
+
+ments in marketing, and that was only a pictorial materialsnecessary for making its products.
+
+recordofhowservicestationarchitecturehaschanged. Theironyofsomeindustriesorientedtowardtech-
+
+The issue also contained a special section on “New nicalresearchanddevelopmentisthatthescientists
+
+Horizons,” which was devoted to showing the mag- who occupy the high executive positions are totally
+
+nificentroleoilwouldplayinAmerica’sfuture.Every unscientificwhenitcomes todefiningtheir compa-
+
+reference wasebullientlyoptimistic,neverimplying nies’ overall needs and purposes. They violate the
+
+once that oil might have some hard competition. firsttworulesofthescientificmethod—beingaware
+
+Even the reference to atomic energy was a cheerful ofanddefiningtheircompanies’problems,andthen
+
+catalogueofhowoilwouldhelpmakeatomicenergy developing testable hypotheses about solving them.
+
+a success. There was not a single apprehension that Theyarescientificonlyabouttheconvenientthings,
+
+the oilindustry’saffluencemight bethreatened ora such aslaboratoryand product experiments.
+
+suggestion that one “new horizon” might include The customer (and the satisfaction of his or her
+
+newandbetterwaysofservingoil’spresentcustomers. deepest needs) is not considered as being “the prob-
+
+But the most revealing example of the stepchild lem”—notbecausethereisanycertainbeliefthatno
+
+treatmentthatmarketinggetsisstillanotherspecial such problem exists, but because an organizational
+
+seriesofshortarticleson“TheRevolutionaryPoten- lifetimehasconditioned managementto look in the
+
+tial of Electronics.” Under that heading, this list of oppositedirection. Marketingis a stepchild.
+
+articlesappeared in thetable of contents: I do not mean that selling is ignored. Far from it.
+
+.
+
+Butselling,again,isnotmarketing.Asalreadypointed
+
+.
+
+“In theSearchfor Oil” out, selling concernsitself with the tricks and tech-
+
+“In Production Operations” niques of getting people to exchange their cash for
+
+HARVARDBUSINESSREVIEW September–October1975 11
+
+yourproduct.Itisnotconcernedwiththevaluesthat preceding examples and analysis. It would take an-
+
+theexchangeisallabout.Anditdoesnot,asmarket- other article to show in detail what is required for
+
+inginvariablydoes, view theentirebusinessprocess specific industries.In any case, it shouldbeobvious
+
+asconsistingofatightlyintegratedefforttodiscover, that building an effective customer-oriented com-
+
+create, arouse, and satisfy customer needs. The pany involves far more than good intentions or pro-
+
+customer is somebody “out there” who, with motional tricks; it involves profound matters of hu-
+
+propercunning,canbeseparatedfromhisorherloose manorganizationandleadership.Forthepresent,let
+
+change. me merely suggest what appear to be some general
+
+Actually, not even selling gets much attention in requirements.
+
+sometechnologicallymindedfirms.Becausethereis Visceralfeelofgreatness.Obviouslythecompany
+
+avirtuallyguaranteedmarketfortheabundantflow has to do what survival demands. It has to adapt to
+
+of their new products, they do not actually know the requirements of the market, and it has to do it
+
+whatarealmarketis.Itisasiftheylivedinaplanned sooner ratherthanlater.Butmeresurvival is a so-so

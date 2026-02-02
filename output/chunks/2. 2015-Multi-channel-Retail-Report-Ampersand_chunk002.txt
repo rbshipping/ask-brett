@@ -1,0 +1,248 @@
+SOURCE: 2. 2015-Multi-channel-Retail-Report-Ampersand.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Multichannel Retail Trends
+SUMMARY: Analysis of various multichannel retail trends, including guest checkout, real-time stock information, alternative payments, and delivery options across different retail sectors.
+KEYWORDS: multichannel retail, retail trends, customer experience, delivery options, payment methods
+---
+
+Just 69% offer a guest checkout, meaning that 31% force customers to sign-up to buy. Only 42% of retailers offer real-time
+
+stock availability information.
+
+Customer journey by sector
+
+Real-time stock information was most prevalent amongst: Sports & Outdoor (63%), Stationary & Gifts (71%), Electrical
+
+(52%) and Fashion (45%)
+
+Alternative payments were more available for retailers in: Sports & Outdoor (94%), Fashion (62%), Luxury Fashion (62%)
+
+and Health & Beauty (83%)
+
+A persistent cart across devices was embraced most widely by Fashion and Department stores.
+
+See how you compare.
+
+Download the full Retail Matrix
+
+(Excel file).
+
+Click here
+
+browsing
+
+Retailers offering faceted navigation, by sector.
+
+(i.e. ability to filter products by multiple selections)
+
+30
+
+20
+
+10
+
+0
+
+YES NO
+
+Fas hion Depar tment Health & Beauty Sports & Outdoors
+
+Fo od Stationer y & Gifts Home & DIY Elect ricals
+
+mobile wall of shame
+
+There are still retailers in the UK that have websites not optimised for mobile.
+
+These are their logos*.
+
+Out of these, three have a mobile app, only one of which is transactional – Nespresso. 12% of retailers do not make use of smart phone geolocation as part of their
+
+store locator. The 21 retailers that do not are from a range of different sectors and include House of Fraser, Links of London, Ikea and WH Smith.
+
+* This data is correct at time of publishing: February 2015. This page features 12 out of the 14 retailers who do not have a transactional mobile-optimised website.
+
+Delivery
+
+Click and collect offers retailers service differentiation opportunities in store, yet just 58% offer it.
+
+More surprising though, is that only 72% of retailers are offering next day delivery. Same day delivery and collection in less
+
+than an hour are only offered by 7% and 9% of retailers respectively.
+
+Furthermore, just 10% offer a non-store collection service such as train station locker.
+
+Delivery by sector
+
+Fashion and Sports & Outdoor retailers excelled in delivery metrics, with retailers in the Food sector following closely
+
+behind. However, Luxury Fashion retailers were least likely to offer click and collect services.
+
+Department stores were most likely to offer next day and Sunday delivery. Electrical and Food retailers came out on
+
+top for same day delivery.
+
+Health & Beauty retailers were least likely to advertise free returns.
+
+See how you compare.
+
+Download the full Retail Matrix
+
+(Excel file).
+
+Click here
+
+Click + Collect
+
+Number of retailers offering click and collect, by sector.
+
+25
+
+20
+
+15
+
+10
+
+10
+
+0
+
+YES NO
+
+Fas hion Depar tment Health & Beauty Sports & Outdoors
+
+Fo od Stationer y & Gifts Home & DIY Elect ricals
+
+Next day + same day
+
+Number of retailers offering next day and same day delivery, by sector.
+
+30
+
+20
+
+10
+
+0
+
+Next day SAME DAY
+
+Fas hion Depar tment Health & Beauty Sports & Outdoors
+
+Fo od Stationer y & Gifts Home & DIY Elect ricals
+
+Retailers have to be deliberate in their
+
+decisions on what to do next.
+
+This often means that some ‘obvious’ strategies fall further down the list for some
+
+retailers. This is reflected in many of the findings.
+
+Retailers must continue to keep pace but also push ahead with building
+
+differentiating services. Harvey Nichols, for example, launched Click & Try last year.
+
+This enables not only a collection point but the ability to try on products in store
+
+with the help of a style advisor. This maintains a luxury customer experience and is
+
+a great example of well-integrated retail.
+
+Today’s consumers see time as a luxury and convenience as a given. Faster
+
+delivery, low-friction transactions and excellent customer service are at the core of
+
+retail.
+
+A truly multi-channel experience requires seamlessness across all shopping
+
+channels and platforms. Pure-play retailers are now entering into bricks and mortar
+
+Let’s talk.
+
+to compete for every transaction. Amazon’s foray into stores should serve as a
+
+signal to retailers everywhere that this is just the beginning. Customer expectations
+
+Darryl Adie, Managing Director
+
+continue to grow as retailers continue to innovate.
+
+Ampersand
+
+Multi-channel retailers are not just leading that drive, they are the true face da@amp.co
+
++ 44 161 236 5504
+
+of retail today.
+
+APPENDIX
+
+Method
+
+To create the list of retailers in this report, we first aggregated various existing lists. Website navigation and product information including clear signposting, images,
+
+We used IMRG financial rankings, web traffic data from Hitwise and Sitemorse’s faceted navigation, real-time stock and alternative payment methods
+
+usability list. This gave us over 2,000 companies to research. We eliminated retailers
+
+GPS/location information – whether customers can find the nearest store by using
+
+that had no ecommerce presence or no physical stores.
+
+geolocation
+
+The remaining 177 retailers were split into their appropriate sectors, as detailed on
+
+Availability of guest checkout
+
+page 3.
+
+Persistent cart across different devices
+
+The Ampersand Retail Matrix criterion are our view of the core tenets of multi-
+
+channel retailing. These tenets cross the boundaries of digital and physical customer
+
+Delivery options, Click & Collect, non-store pick up options and communication of
+
+experiences.
+
+free returns
+
+The criteria includes:
+
+Mobile – whether the retailer has a transactional mobile site
+
+Page load speeds and performance on desktop and mobile using Google Developers
+
+PageSpeed Tools
+
+Whether retailers provided clear information on payment options and returns policies
+
+Retailers were then scored against the criteria and with a weighted formula, ranked in We then calculated the final score to be out of 100: =100/29*SCORE.
+
+the Retail Matrix.
+
+To calculate the base score marked out of 29 possible points from 25 criteria, a
+
+retailer was awarded 1 point if it scored positively for each of the criteria mentioned
+
+above, with these specifics:
+
+• Offering click and collect same day
+
+• Desktop Speed >81
+
+• Mobile Speed >71
+
+• UX Score >99
+
+We awarded 3 points for the following criteria:
+
+• Transactional mobile website
+
+• Persistant cart
+
+All research was completed in London, UK on a desktop PC (Windows 8) in a private browsing window and an iPhone 6 using iOS 8.1 operating system

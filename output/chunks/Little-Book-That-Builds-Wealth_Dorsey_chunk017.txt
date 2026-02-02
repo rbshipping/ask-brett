@@ -1,0 +1,230 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Market Concentration and Network Effects
+SUMMARY: This text examines how network effects create natural monopolies and oligopolies, with a focus on the competitive advantages of American Express and Microsoft.
+KEYWORDS: network effect, market concentration, competitive advantage, American Express, Microsoft
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+a tiny number of users. That huge network of merchants
+
+is what gives Amex a competitive advantage over any
+
+other company that may want to start up a new credit
+
+card. The more places you can use your Amex card, the
+
+more valuable that card becomes to you, which is a big
+
+reason behind the company’s recent push to get Amex
+
+accepted at smaller merchants like convenience stores
+
+and gas stations.
+
+Now think about how many large credit card net-
+
+works there are in the United States. The top four—Visa,
+
+MasterCard, Amex, and Discover—account for 85 per-
+
+cent of all spending on credit cards nationwide. That’s a
+
+huge amount of market concentration, and it illustrates
+
+a fundamental reason why the network effect can be an
+
+extremely powerful competitive advantage: Network-
+
+based businesses tend to create natural monopolies and
+
+oligopolies. As economist and academic Brian Arthur has
+
+succinctly put it, “Of networks, there will be few.”
+
+cc0055..iinndddd 6600 11//2266//0088 33::0088::2211 AAMM
+
+THE NETWORK EFFECT [61]
+
+This makes a lot of sense. If the value of a good or
+
+service increases with the number of people using it, then
+
+the most valuable network-based products will be the ones
+
+that attract the most users, creating a virtuous circle that
+
+squeezes out smaller networks and increases the size of
+
+dominant networks. And as the dominant networks get
+
+bigger, they also get stronger. That sounds like a pretty
+
+powerful competitive advantage.
+
+But of course, the very nature of the network effect
+
+means that there won’t be a very large number of busi-
+
+nesses that benefit from it, given the propensity of net-
+
+works to consolidate around the leader. Let’s put this theory
+
+to the test in a simple way by looking at the companies in
+
+the Dow Jones Industrial Average and seeing which ones
+
+benefit from the network effect.
+
+It turns out that only two companies in the Dow
+
+derive the bulk of their competitive advantage from the
+
+network effect—Amex and Microsoft. We’ve already
+
+talked about Amex’s moat, and the way the network effect
+
+helps Microsoft is fairly easy to understand as well. Lots
+
+of people use Word, Office, and Windows because,
+
+well—lots of people use Word, Office, and Windows.
+
+It’s hard to argue that Windows is the acme of PC
+
+operating systems, but its massive user base means that
+
+you pretty much have to know how to operate a Windows-
+
+based PC to survive in corporate America. Word and
+
+cc0055..iinndddd 6611 11//2266//0088 33::0088::2211 AAMM
+
+[62] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Excel are similar. Even if a competitor showed up on the
+
+scene next week with a word processor or spreadsheet that
+
+was five times easier to use and half the price, it would
+
+have a hard time gaining traction in the market because
+
+Excel and Word have become (like it or not) the common
+
+language of knowledge workers around the world.
+
+In fact, there has been an Office competitor called
+
+“OpenOffice” on the market for several years, selling for
+
+a lot less than Excel and Word—it’s actually free, which
+
+is a tough price to beat. The word-processing and spread-
+
+sheet programs look and feel a lot like Word and Excel,
+
+and the files are (largely) compatible with their Microsoft
+
+analogs. I’ve tried OpenOffice, and it’s pretty good. But it
+
+really hasn’t gained much market share among mainstream
+
+businesses because there are some small differences, and
+
+since the rest of the world still uses Microsoft Office, peo-
+
+ple don’t want to bother using a program that produces
+
+files they might not be able to share with others.
+
+If a product that is pretty good and costs nothing
+
+can’t dent a company’s market share, I think you can
+
+safely say that company has a competitive advantage.
+
+There is another interesting fact that comes out of
+
+our quick tour through the Dow, which is that Amex and
+
+Microsoft both operate in relatively new industries. Credit
+
+cards have been around for only a few decades, after all,
+
+and the PC industry is even younger. As you look for
+
+cc0055..iinndddd 6622 11//2266//0088 33::0088::2211 AAMM
+
+THE NETWORK EFFECT [63]
+
+network-based businesses, you’ll find this is not a fluke—
+
+the network effect is much more common among busi-
+
+nesses based on information or knowledge transfer than
+
+among businesses based on physical capital.
+
+This is the case because information is what econo-
+
+mists call a “nonrival” good. Most goods can be used by
+
+only one person at a time—if I buy a big earthmover from
+
+Caterpillar, no one else can use it while I’m excavating a
+
+foundation. (These types of things are called “rival”
+
+goods.) But I can use the Amex payment network at the
+
+same time as millions of other cardholders, in the same
+
+way that all those cardholders could use the New York
+
+Stock Exchange (NYSE) at the same time to find out how
+
+much some shares of American Express would cost. One
+
+person’s use of the Amex network or the NYSE does not
+
+impede the ability of others to use those networks—and in
+
+fact, the more people who use these networks, the more
+
+valuable they are to others.
+
+The bottom line is that you’re most likely to find the
+
+network effect in businesses based on sharing informa-
+
+tion, or connecting users together, rather than in busi-
+
+nesses that deal in rival (physical) goods. As we’ll see later
+
+in the chapter, this is not exclusively the case, but it’s a
+
+good rule of thumb.
+
+By this point, I imagine that you have a good idea of
+
+why network effects are such a powerful competitive
+
+cc0055..iinndddd 6633 11//2266//0088 33::0088::2211 AAMM
+
+[64] THE LITTLE BOOK THAT BUILDS WEALTH
+
+advantage: A competing firm would need to replicate the
+
+network—or at least come close—before users would see
+
+more value in the new network and switch away from
+
+the existing one. Generally speaking, that’s a really tall
+
+order. It can happen under the right set of circumstances,
+
+as we’ll see when we discuss financial exchanges later in
+
+the chapter, but network-based businesses are usually

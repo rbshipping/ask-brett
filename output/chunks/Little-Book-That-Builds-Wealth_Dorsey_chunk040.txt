@@ -1,0 +1,252 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Retail Business Analysis
+SUMMARY: The text analyzes the performance of two retail companies, Pier 1 and Hot Topic, highlighting the importance of sustainable competitive advantages in maintaining high returns on capital.
+KEYWORDS: retail industry, competitive advantage, return on capital, consumer trends
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+accessories, and Hot Topic is a teen clothing retailer with
+
+a very specific look to its wares—both decent businesses, as
+
+long as the companies do a good job managing invento-
+
+ries and staying on top of consumer trends. However, it
+
+would have been a stretch to confidently predict that
+
+Pier 1 and Hot Topic could maintain such high returns
+
+on capital for a long time, as switching costs for their con-
+
+sumers are essentially nil.
+
+It turns out that you would have been right to be
+
+skeptical. (See Exhibit 11.8 and Exhibit 11.9 .)
+
+EXHIBIT 11.8 Pier 1 Imports, Inc.
+
+Pier 1 Imports, Inc. PIR (Company A) 05 06 07 TTM
+
+Net Margin (%) 3.2 (cid:1)2.2 (cid:1)14.0 (cid:1)16.3
+
+Return on Assets (%) 5.6 (cid:1)3.6 (cid:1)21.8 (cid:1)26.3
+
+Financial Leverage 1.6 2.0 2.5 2.8
+
+Return on Equity (%) 9.1 (cid:1)6.4 (cid:1)47.9 (cid:1)60.5
+
+EXHIBIT 11.9 Hot Topic, Inc.
+
+Hot Topic, Inc. HOTT (Company B) 05 06 07 TTM
+
+Net Margin (%) 6.0 3.1 1.8 1.8
+
+Return on Assets (%) 14.2 7.8 4.4 4.0
+
+Financial Leverage 1.5 1.5 1.4 1.5
+
+Return on Equity (%) 19.3 11.5 6.5 6.1
+
+cc1111..iinndddd 115566 11//2266//0088 33::1122::3377 AAMM
+
+WHERE THE RUBBER MEETS THE ROAD [157]
+
+Both companies have fallen off a cliff over the past few
+
+years, in terms of both returns on capital and stock price.
+
+(From early 2005 to mid-2007, Hot Topic’s stock price was
+
+cut in half, and Pier 1’s stock is down a painful 75 per-
+
+cent.) The story was the same in both cases—consumers
+
+stopped buying what the companies were selling as trends
+
+moved in different directions (and for Pier 1, competition
+
+heated up as well). Retail is a tough business—easy come,
+
+easy go.
+
+Although I used retailers in this example, I could have
+
+picked a smaller technology company just as easily—or
+
+really any company without a structural competitive advan-
+
+tage. The point is that unless a company has some kind of
+
+economic moat, predicting how much shareholder value it
+
+will create in the future is pretty much a crapshoot, regard-
+
+less of what the historical track record looks like. Looking
+
+at the numbers is a start, but it’s only a start. Thinking
+
+carefully about the strength of the company’s competitive
+
+advantage, and how it will (or won’t) be able to keep the
+
+competition at bay, is a critical next step.
+
+At this point, you have all the tools you need to start
+
+separating wonderful businesses from companies with
+
+more uncertain futures. But how will you know when
+
+those businesses are trading at attractive prices? That’s
+
+the subject of our next two chapters.
+
+cc1111..iinndddd 115577 11//2266//0088 33::1122::3388 AAMM
+
+[158] THE LITTLE BOOK THAT BUILDS WEALTH
+
+The Bottom Line
+
+1. T o see if a company has an economic moat, first
+
+check its historical track record of generating
+
+returns on capital. Strong returns indicate that
+
+the company may have a moat, while poor returns
+
+point to a lack of competitive advantage—unless
+
+the company’s business has changed substantially.
+
+2. If historical returns on capital are strong, ask
+
+yourself how the company will maintain them.
+
+Apply the tools of competitive analysis from
+
+Chapters 3 to 7, and try to identify a moat. If you
+
+can’t identify a specific reason why returns on
+
+capital will stay strong, the company likely does
+
+not have a moat.
+
+3. If you can identify a moat, think about how
+
+strong it is and how long it will last. Some moats
+
+last for decades, while others are less durable.
+
+cc1111..iinndddd 115588 11//2266//0088 33::1122::3388 AAMM
+
+ha p t er T w e
+
+l
+
+C v
+
+e
+
+What s a Moat Worth?
+
+’
+
+(cid:1)
+
+Even the Best Company Will
+
+Hurt Your Portfolio If You Pay
+
+Too Much for It.
+
+I
+
+as simple as identifying wonderful
+
+F INVESTING WERE
+
+businesses with economic moats, making money in the
+
+stock market would be a lot easier—and this book would
+
+be finished. But the reality is that the price you pay for a
+
+stock is critically important to your future investment returns,
+
+which is why step 2 of the game plan I wrote about way
+
+back on the first page of the Introduction read: “Wait
+
+cc1122..iinndddd 115599 11//2288//0088 77::2277::0011 PPMM
+
+[160] THE LITTLE BOOK THAT BUILDS WEALTH
+
+until the shares of those businesses trade for less than
+
+their intrinsic value, and buy.”
+
+Valuation is a funny thing. I’ve met lots of very intelli-
+
+gent investors who could quote me chapter and verse
+
+about the companies whose shares they owned, or were
+
+thinking of buying, but couldn’t answer a simple ques-
+
+tion: “So, what’s it worth?” The same individuals who
+
+will haggle for hours over a car, or drive a mile out of
+
+their way to save a few cents per gallon on a tank of gas,
+
+will buy stocks with only a vague sense of the potential
+
+value of the business.
+
+The reason for this, I think, is simply that valuing a
+
+stock is hard—and pretty uncertain, even for professionals—
+
+so most people just throw in the towel and don’t try. After
+
+all, it’s easy to know if a gas station or car dealer is giving
+
+you a good deal, because you know what similar products
+
+are selling for. If a dealer wants $40,000 for that new
+
+Lexus and other dealers are selling it for $42,000, it’s the
+
+same car so you can be reasonably confident that you’re not
+
+overpaying at $40,000. But in valuing companies, we run
+
+into two hurdles.
+
+First, every company is slightly different, which makes
+
+comparisons tough. Growth rates, returns on capital,
+
+strength of competitive advantage, and a host of other
+
+factors all affect the value of a business, so comparing two
+
+companies with each other is likely to be a difficult exercise.
+
+cc1122..iinndddd 116600 11//2288//0088 77::2277::0033 PPMM
+
+WHAT’S A MOAT WORTH? [161]
+
+(It is useful in some cases—more on that later in this chapter.)
+
+Second, the value of a company is directly tied to its
+
+future financial performance, which is unknown, though
+
+we can obviously make some educated guesses. For these

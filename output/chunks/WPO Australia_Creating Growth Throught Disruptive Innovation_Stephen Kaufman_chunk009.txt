@@ -1,0 +1,320 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: The text analyzes strategies for shaping ideas into disruptive innovations through new-market and low-end disruptions.
+KEYWORDS: disruptive innovation, new-market disruption, low-end disruption, strategic planning, market trends
+---
+
+’ consumer power tools
+
+Japanese steel companies
+
+Uluasound soft
+
+Inte] microprocessor Steel minimills
+
+¥ tissue imaging . Credit scoring in
+
+Endoscopic surgery Southwest Airlines consumer lending Boxed beef
+
+ral Flat-panel displays Fidelity (self-service Charles Schwab Vanguard index mutual find:
+
+$ investment management) Blended Plastics Barnes & Noble
+
+faa} Personal computers C ity coll . (Himont, etc.) GE Capital
+
+(Apple, IBM, Compag, etc.) ‘Ommunity colleges Seiko Pp
+
+Bloomberg, digital watches MCI, Sprint Toys-R-Us
+
+~1980 Kodak Funsaver .
+
+single-use camera Portable diabetes Circuit City,
+
+Microsoft glucose meters University of Sun Home Depot
+
+Wireless telephony Oracle Canon photocopiers Embraer, Del} Microsystems BestBuy
+
+Cisco Intuit QuickBooks (accounting) Canadair Computer
+
+Ink jet printers and Turbo-tax software MBNA Hyundai, Kia
+
+Veritas, Network Appliance Galan microwave ovens Digital animation (Pixar et.al.)
+
+E-Ba airconeitoners E-mail Microsoft SQL database software ECNs
+
+¥ Unmanned military aircraft Google Linux Amazon.com
+
+Palm pilot, RIM BlackBerry Digital printing On-line stock On-line Jet Bl
+
+¥ ~2000 Sonosite Ultrasound gajocn m 802.11 brokers travel agencies jet Blue
+
+New Market « ee > Low-end
+
+Shaping Ideas to Become Disruptive: Three Litmus Tests
+
+At the beginning of this chapter, we mentioned that few technologies or product ideas are
+
+inherently sustaining or disruptive when they emerge from the innovator’s mind. Instead, they go
+
+through a process of becoming fleshed out and shaped into a strategic plan in order to win
+
+funding. Many—but not all—of the initial ideas that get shaped into sustaining innovations could
+
+just as readily be shaped into disruptive business plans with far greater growth potential. The
+
+shaping process must be consciously managed, however, and not left in an autopilot mode.
+
+Executives must answer three sets of questions to determine whether an idea has
+
+disruptive potential. The first explores whether the idea can become a new-market disruption.
+
+For this to happen, at least one and generally both of two conditions must be satisfied:
+
+e Is there a large population of people who historically have not had the money,
+
+equipment, or skill to do this thing for themselves, and as a result have gone without
+
+it altogether or have needed to pay someone with more expertise to do it for them?
+
+1-13
+
+e To use the product or service, do customers need to go to an inconvenient, centralized
+
+location?
+
+If the technology can be developed so that a large population of less skilled or less
+
+affluent people can begin owning and using, in a more convenient context, something that
+
+historically was available only to more skilled or more affluent people in a centralized,
+
+inconvenient location, then there is potential for shaping the idea into a new-market disruption.
+
+The second set of questions explores the potential for a low-end disruption. This is
+
+possible if these two conditions exist:
+
+e@ Are there customers at the low end of the market who would be happy to purchase a
+
+product with less (but good enough) performance if they could get it at a lower price?
+
+e Can we create a business model that enables us to earn attractive profits at the
+
+discount prices required to win the business of these overserved customers at the low
+
+end?
+
+Often, the innovations that enable low-end disruption are improvements in
+
+manufacturing, service, or business processes, which enable a company to earn attractive returns
+
+on lower gross margins, coupled with processes that turn assets faster.
+
+Once an innovation passes the new-market or low-end test, there is still a third critical
+
+consideration, or litmus test, to apply:
+
+e Is the innovation disruptive to a// of the significant incumbent firms in the industry?
+
+If it appears to be sustaining to one or more significant players in the industry, then
+
+the odds will be stacked in that firm’s favor, and the entrant is unlikely to win.
+
+If an idea fails the litmus tests, then it cannot be shaped into a disruption. It may have
+
+promise as a sustaining technology, but in that case we would expect that it could not constitute
+
+the basis of a new-growth business for an entrant company.
+
+For summary, table 1-1 contrasts the characteristics of the three strategies that firms
+
+might pursue in creating new-growth businesses: sustaining innovations, new-market
+
+disruptions, and low-end disruptions. It compares the targeted product performance or features,
+
+the targeted customers or markets, and the business model implications that each route entails.
+
+We hope that managers can use this as a template so that they can categorize and see the
+
+implications of different plans that might be presented to them for approval.
+
+Executives can use this categorization and the litmus tests to foresee the competitive
+
+consequences of alternative strategies as they shape an idea. To illustrate, we’ll examine three
+
+questions: whether Xerox could disrupt Hewlett-Packard’s ink-jet printing business, how to
+
+create growth in air conditioning, and whether online banking had (or has) the disruptive
+
+potential to create a new-growth business.
+
+Dimension
+
+Targeted
+
+performance of
+
+the product or
+
+service
+
+Targeted
+
+customers or
+
+market
+
+application
+
+Impact on the
+
+required business
+
+model (processes
+
+and cost
+
+structure)
+
+Table 1-1:
+
+Distinguishing Characteristics of Sustaining vs. Low-End and New-Market Disruptions
+
+Sustaining
+
+Innovations
+
+Results in
+
+performance
+
+improvement in
+
+attributes most
+
+valued by the
+
+industry’s
+
+mainstream
+
+customers. These
+
+improvements may be
+
+incremental or
+
+breakthrough in
+
+character.
+
+The most attractive
+
+(i.e., profitable)
+
+customers in the
+
+who are willing to
+
+pay for improved
+
+performance.
+
+Improves or
+
+maintains profit
+
+margins by exploiting
+
+the existing processes
+
+and cost structure,
+
+and making better use
+
+of current competitive
+
+advantages.
+
+oes tomers:
+
+w alonwead of the
+
+mainstream markets omainsir am tharket. ”
+
+Low-end
+
+disruptions
+
+Technology yields
+
+products that are
+
+good enough along
+
+the traditional
+
+metrics of
+
+performance at the
+
+low end of the
+
+mainstream market.
+
+Utilizes a new
+
+operating and / or
+
+financial approach
+
+—a different
+
+combination of
+
+lower gross profit
+
+margins and higher
+
+asset utilization that
+
+can earn attractive
+
+returns at the
+
+discount prices
+
+required to win
+
+business at the low
+
+end of the market.
+
+New Market
+
+Disruptions
+
+Results in lower
+
+performance in
+
+“traditional”
+
+attributes, but
+
+improved
+
+performance in new
+
+attributes — typically
+
+simplicity and
+
+convenience,
+
+Business model must
+
+make money at
+
+lower price per unit

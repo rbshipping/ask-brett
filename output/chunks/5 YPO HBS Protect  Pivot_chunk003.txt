@@ -1,0 +1,148 @@
+SOURCE: 5 YPO HBS Protect  Pivot.pdf
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Business Strategies and Efficiency
+SUMMARY: The text discusses how companies are adapting to the pandemic by prioritizing efficiency, pivoting to new opportunities, and making deeper changes to their business models.
+KEYWORDS: business efficiency, pandemic response, business model transformation
+---
+
+[Document: 5 YPO HBS Protect  Pivot.pdf]
+
+even if you are not prioritizing it, your competition is. In addition, your competition may also be operating
+
+with 10-20% less real estate needs post-pandemic due to a long-term increase in remote work. Do not be
+
+satisfied until you achieve greater efficiency, as it will benefit your organization now and after the crisis
+
+has subsided.
+
+Pivot to New Opportunities
+
+Some companies have pivoted immediately to address the crisis, motivated by the need to
+
+generate new revenue streams as well as public spirit, as reported on NPR’s “The Indicator on Planet
+
+Money”:
+
+Some companies have reacted [to the spread of coronavirus] by laying off staff and closing their
+
+doors, hunkering down and waiting for the storm to pass. Others have decided to pivot. They've
+
+come up with innovative ideas of how to retool or reconfigure their operations, to keep their
+
+doors open and their employees working. Some are big, like General Motors, a car company that's
+
+making ventilators. Others are small, mom-and-pop restaurants that are making up fruit-and-
+
+vegetable boxes for people and delivering them door-to-door.xii
+
+General Motors is not the only big company stepping up to this challenge. For example, LVHM, a French
+
+multinational corporation and conglomerate specializing in luxury goods, has announced it will cease the
+
+production of perfumes in some of its factories in order to make hand sanitizer,xiii and Nike has stated that
+
+it will start producing PPE (personal protective equipment) for healthcare workers.xiv These responses may
+
+be focused on the immediate emergency of the pandemic with the idea of returning to business-as-usual
+
+at some point. Other companies are making deeper changes that are changing their business-as-usual
+
+models for good.
+
+4
+
+Take two examples from the United Kingdom. Marco Castelanelli, founder of the two-year-old
+
+company Club Vino, has made one such pivot. The company had been hosting themed wine tastings, often
+
+in prestigious locations, but when the COVID-19 outbreak hit and social gatherings were no longer
+
+permitted, Castelanelli had to rethink the business. He decided to promote the idea of wine tastings from
+
+home. Customers can order a tasting package from the company website, including the wine, tasting
+
+notes and a link to a video that would essentially serve as a virtual tasting. As Castelanelli explained to
+
+Forbes.com, “This is a more scalable business and complements perfectly the physical business we have
+
+built so far.”xv Another example is MyoMaster, a company that specializes in recovery products and
+
+knowledge for athletes. Founded by couple Joe Gray and Lottie Whyte, MyoMaster generated revenue by
+
+selling at sporting events and to gyms. After the COVID-19 outbreak, however, when sporting events were
+
+cancelled and gyms were forced to close, they pivoted to ecommerce and started focusing on home
+
+workouts. As Whyte explained to Forbes.com, “What we used to sell in a month, we are now selling online
+
+in a single day. There are real opportunities out there for brands that can sell online and provide people
+
+with products that can bring them joy at home.”xvi In both cases, these companies were forced to leverage
+
+ecommerce in unexpected ways in order to survive the COVID-19 outbreak, but in the end these changes
+
+led to a long-term revision of their business models, which will continue to add value after the crisis
+
+subsides. Saenz and O’Keeffe state, “Leading companies are reallocating resources to pockets of current
+
+and future growth, such as e-commerce, to protect against revenue loss.”xvii This exactly what Club Vino
+
+and MyoMaster have done. Whether pivoting for the short-term or the long-term, the three practices
+
+below might help your company to think through its pivot.
+
+Again, Look to Cross-Functional Teams
+
+Again, a cross-functional team assigned to this challenge would be one practice to consider. Ask
+
+this team, with their diversity of experiences and perspectives, to focus on what opportunities exist
+
+outside the core business. Ask them to think about new revenue streams for the short-term and the long-
+
+term. Challenge them to think outside the box. You may also want to consider monitoring the team for
+
+burnout, given the intensity of their work, and perhaps rotating people off and on the team in
+
+predetermined intervals. This could both prevent burnout and provide a pipeline of fresh perspectives.
+
+Create an Agile Enterprise from the Top Down
+
+We recommend building agile leadership teams to support an agile enterprise. Building such an
+
+enterprise means striking a balance between standardizing operations and pursuing innovations. Bain &
+
+Company’s Darrell Rigby, Sarah Elk and Steve Berez elaborate on the role of the agile leadership team:
+
+To find the optimal balance, the agile leadership team typically begins by creating new
+
+metrics to help determine how agile the company is, how agile it should be, whether it is moving
+
+in the right direction at the right speed, and which constraints are impeding progress. Surveys of
+
+internal and external stakeholders to obtain their subjective views of business processes
+
+combined with objective measures—such as innovation cycle times, flow efficiency (work time
+
+versus wait time), and market share changes—are useful for determining the existing state of the
+
+operating system components. The team then develops a sequenced list of activities aimed at
+
+5
+
+achieving an optimal balance for each component. The agile process forces leaders to get out of
+
+their silos and work together as a multidisciplinary group, breaking through impediments and
+
+pivoting when necessary. By rebalancing whichever of the components are out of alignment, they
+
+will, over time, create an operating system for an agile enterprise.xviii
+
+An agile leadership team includes some or all executive team members. They do not dedicate all
+
+of their time to a single, specific initiative, as that would just not be possible. They must balance
+
+establishing an agile enterprise with the more traditional duties of their roles. As such, they act as sponsors
+
+of the specific initiatives that are most closely connected to their areas of expertise, letting assigned
+
+“initiative owners” take full-time responsibility for their projects. The central project of any agile

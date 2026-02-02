@@ -1,0 +1,219 @@
+SOURCE: 2013.02.07 Buyers Training Academy - MK Slides.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Product Range Reviews
+SUMMARY: A presentation on the purpose, frequency, and attendees for product range reviews to make smarter buying decisions.
+KEYWORDS: product range reviews, retail performance analysis, buying strategy, category management
+---
+
+[Document: 2013.02.07 Buyers Training Academy - MK Slides.pptx]
+[Presentation Topic: Range Reviews]
+
+[Slide 1]
+
+Range reviews
+
+February 7, 2013
+
+[Slide 2]
+
+Product and range reviews
+
+What we will cover in this session:
+
+Purpose: Why run range reviews?
+
+Frequency: How often should we run these?
+
+Attendees: Who should attend?
+
+Preparation: What do I need to do ahead of time? (where we will spend most of our discussion)
+
+[Slide 3]
+
+Range reviews: Purpose at a high level
+
+Understand performance of your Buy
+
+Find out what particular ranges and items did well/didn’t do well, and why
+
+Determine if/how range should be repeated
+
+Learn from each other’s range performance and document findings for future buying decisions
+
+Make decisions on whether to shift spend on Buy to other categories
+
+Help make smarter buying decisions for the future
+
+1. Mark up 2. Mark down 3. Buy more 4. Buy less/exit5. Don't do anything
+
+Not a presentation: Learning and decision-oriented
+
+[Slide 4]
+
+Range reviews: 3 different types
+
+Systematic, thorough review of how the product ranges (the Buy) have performed
+
+Generally, run in 3 different cycles:
+
+Weekly (Mondays – I never met a retailer that did this on a different day!)
+
+Check how ranges are performing, make decisions on repeats, DC stock, markdowns, and range rollout based on how performance is trending
+
+Primarily focused  on GM$, SOH, and a read on new reactions. Best if conducted in the product room so team can point to products
+
+Semi-regular (monthly or seasonal – generally 4-12 times per year)
+
+Review total range performance relative to LY (GM$, turns, GMROI, sales vs. SOH)
+
+Takeaway learnings on overall performance and what to do differently going forward
+
+Semi-annual (generally 1-2X/year): Not all retailers do this systematically
+
+Review performance of range over time to decide shifts in investment by category, product attributes, price architecture, and store grading
+
+Our focus today, because this is where we have the most room for improvement!
+
+[Slide 5]
+
+Semi-regular range reviews: How often should we be running these?
+
+No easy answer: It depends! And it may depend on whether the range is Core/Ongoing vs. Fashion
+
+Typical frequency cycles that retailers use:
+
+Seasonal (retailers that have seasonal cycles, e.g. 4 major drops per year, or long lead times often do formal range reviews based on these cycles)
+
+Monthly  (generally used by retailers with a regular monthly drop of newness, or those going through a strategic shift)
+
+Frequency set by sell-through targets (e.g. if a fast fashion retailer generally plans to sell 50% within 6 weeks, like diva, a review would be run at 6 weeks, before markdowns)
+
+Frequency set planned by length of range (e.g. if a range is meant to live for 12 weeks, run the review towards the end of the life)
+
+A few notes:
+
+Not all categories need to be run at the same time, as long as regular reviews are set up
+
+There is no one right answer – it depends on the category and the  organisation. What do you think is right for us?
+
+[Slide 6]
+
+Semi-regular range reviews: Attendees
+
+Attendees:
+
+Head of Buying
+
+Buying team (how deep down depends on organisation structure/size)
+
+Merch Planning
+
+CEO
+
+Head of Retail?
+
+Practical tips for setting these up:
+
+Time box each range/set a schedule in advance; first ranges reviewed tend to get inordinate amount of time
+
+Nominate a “secretary” to take down key points/decisions to circulate after the range review; it can be a long session and it can be useful for recall
+
+If org is big, do not bring whole Buying team; focus tends to get lost
+
+Bring actual product to discuss – in fact, best if whole range is available for discussion
+
+Core. Buying
+
+Driven!
+
+[Slide 7]
+
+Semi-regular range reviews: 3 main levels of analyses to prepare beforehand
+
+Performance analysis on overall assortment:
+
+Performance of whole assortment, ranked by product category:
+
+GMROI, sales to buy, GM%, and ASP this year vs. last year
+
+Performance of whole assortment, ranked by range:
+
+GMROI, sales to buy, GM%, and ASP this year vs. last year
+
+3. 	Review of competitor assortment, promos, and marketing moves
+
+Performance analysis at range level:
+
+Overview by category within range
+
+GMROI, sales to buy, GM%, ASP, and sell-through (TY vs. LY, if applicable, and vs. company average)
+
+Performance on individual items within a range:
+
+Best and worst performers – this is a tricky one!
+
+Tail analysis
+
+The focus of our discussion, since it’s where we have the most room to improve
+
+[Slide 8]
+
+Are you using these measures for category and range level analyses?
+
+What does these analyses tell you? (Pantyhose example)
+
+[Slide 9]
+
+Why GMROI is important for assortment and range performance
+
+What the heck is GMROI?
+
+GMROI = Gross Margin in Monetary Units/Average Inventory Investment
+
+To take a very simple example: An item with $10,000 of gross margin and $5,000 of average inventory would have a GMROI of 200% ($10,000 ÷ $5,000). The ratio may also be expressed as 2.0 or $2.00
+
+GMROI tells you how many times you earned back from your original investment
+
+Takes into account both GM$ as well as the cost of the inventory, so it is better than looking at only GM$
+
+To increase GMROI, you have 2 levers: increase GM% or increase turnover
+
+Over the planned lifecycle of the product/range, anything less than 1 is abysmal!
+
+Is the higher the better when it comes to GMROI?
+
+NOT ALWAYS!
+
+[Slide 10]
+
+Individual range tail analysis: A good way of looking at individual item performance in a range
+
+What do these charts tell you?
+
+Why run a tail analysis:
+
+It will help you understand the individual SKU performance of a range and help you which products to exit and which to maximise
+
+GM%
+
+GM%
+
+References
+
+References
+
+[Slide 11]
+
+Tail analysis “how-to” Step 2: Map each SKU on a chart
+
+The Y-axis is GM$ totals to 100%
+
+The X-axis is each individual SKU
+
+The top GM$ item brought in ~7% of the total GM$ for the range
+
+The slope shows that the bottom 1/3 of SKUs only contributed ~15% of total GM$ to the range
+
+diva data
+
+[Slide 12]

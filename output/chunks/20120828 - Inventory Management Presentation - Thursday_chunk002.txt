@@ -1,0 +1,413 @@
+SOURCE: 20120828 - Inventory Management Presentation - Thursday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: This presentation discusses the importance of stocktakes, the consequences of inaccurate stock holdings, and tips for conducting effective stocktakes.
+KEYWORDS: stocktakes, inventory accuracy, inventory variance, inventory shrinkage, inventory management
+---
+
+[Document: 20120828 - Inventory Management Presentation - Thursday.pptx]
+[Presentation Topic: Inventory Management]
+
+Diva	- 38% Napier
+
+Dusk – 20% Innaloo
+
+Lovisa - 30% Epping
+
+Stocktakes
+
+[Slide 24]
+
+Agenda:
+
+Why do we have Stocktakes ?
+
+Consequences of inaccurate stock holdings
+
+How we get inaccurate stock levels
+
+How the process works
+
+Measurement and reporting
+
+Tips and traps
+
+Stocktakes
+
+[Slide 25]
+
+Why do we have Stocktakes ?
+
+Highlights areas in the business that need to be addressed
+
+Shrink (rings, etc)
+
+Data integrity (warehouse, store, SS)
+
+Training issues
+
+Processes
+
+Corrects data integrity issues
+
+Accurate available data
+
+By colour, by size
+
+Correct pack sizes (singles, in packs of four, etc)
+
+Misplaced SKUs
+
+Stocktakes
+
+[Slide 26]
+
+Why do we have Stocktakes ?
+
+Allows for accurate replenishment and visibility on overstocks/understocks
+
+Good corporate governance
+
+Financial accuracy
+
+Confirms the true dollar Gross Margin of the business
+
+Stocktakes
+
+[Slide 27]
+
+Consequences of inaccurate stock holdings
+
+Merchandise planning will allocate incorrect inventory
+
+The store believes stock is available for sale (poor customer satisfaction)
+
+Cash tied up through higher inventory levels
+
+Lower GMROI
+
+Excessive store labour - unproductive team unpacking inventory not required
+
+Loss of margin due to markdowns
+
+Increase costs (storage, freight, warehouse)
+
+Loss of sales
+
+More markdowns - less good product available to sell
+
+Stocktakes
+
+[Slide 28]
+
+How we get inaccurate stock levels in stores or the DC
+
+Moving inventory without recording
+
+store transfers
+
+samples taken
+
+Bar codes not reading
+
+Team not understanding that the Barcode is more than just the price
+
+Scanning one item twice rather than each item separately
+
+Not scanning returns
+
+Incorrect stock sent to stores from DC
+
+Negative balances being adjusted without proper checking
+
+Too much inventory - misplaced sku’s (drawers/back rooms)
+
+Stocktakes
+
+[Slide 29]
+
+Tips to a good stocktake
+
+Ownership at all levels
+
+Stocktake preparation is completed and store is ready
+
+Team meeting is held prior to commencement of scanning
+
+Adequately rostered
+
+All receiving and transfers are up to date
+
+Double count
+
+Manual count of sku’s per “set” agreed to computer
+
+No scanning till the store is closed
+
+Everything is scanned
+
+Backroom, drawers, bags received, counter
+
+Someone is overseeing the process during the entire time
+
+Store Manger to be accountable for results
+
+Stocktakes
+
+[Slide 30]
+
+How to improve
+
+Create awareness
+
+KPI’s
+
+Benchmark
+
+stores
+
+regions
+
+DC audits – accuracy of picking
+
+Absolute vs net differences
+
+Stocktakes
+
+[Slide 31]
+
+Absolute vs Net variance
+
+Net variance
+
+A positive variance offsets a negative variance
+
+Eg, one extra item counted at $7 will offset one item lost at $10
+
+Net variance of $3
+
+Absolute variance
+
+A positive variance is added to a negative variance
+
+Ignores positive or negative signs
+
+The above example will have an Absolute variance of $17
+
+Stocktakes
+
+[Slide 32]
+
+Measurement tools
+
+Stock take variance reporting
+
+Absolute results as a percentage of sales (units and dollars)
+
+Retail shrink as a percentage of sales
+
+Cost as a percentage of sales (for accounting purposes only)
+
+Negative Stock On Hand
+
+No. of POS overrides per store
+
+IBT’s outstanding for more than 7 days per store
+
+Overdue Purchase Order report
+
+Measurement and Reporting
+
+[Slide 33]
+
+Tips and Traps
+
+KPI’s to be monitored and actioned
+
+Accountability
+
+Proper training of team leading the stocktake
+
+At least 8 months per year (up to Christmas set-up)
+
+Rolling stocktakes creates rhythm
+
+2 stock takes per annum (more if data integrity issues not resolved)
+
+Accept delivery notes on day of delivery
+
+Double count - manual count of SKUs per set agreed to computer
+
+Stocktakes
+
+[Slide 34]
+
+Tips and Traps
+
+All CFO’s, CEO’s, GM’s and Operational Teams must  attend stocktakes
+
+Counting by range doesn’t work
+
+Great in theory but not in practice
+
+Insufficient focus during work hours
+
+Stock in drawers and back-room
+
+Don’t accept poor results
+
+Find the cause of the issue and fix -it
+
+If you manage shrink, it will reduce
+
+Stocktakes
+
+[Slide 35]
+
+Questions ?
+
+Stocktakes
+
+[Slide 36]
+
+Time
+
+Topic
+
+35
+
+Inventory Management ConferenceThursday 30th August 2012
+
+[Slide 37]
+
+Inventory Management
+
+Sanity’s journey learning about Inventory Management
+
+[Slide 38]
+
+Background Information
+
+Average store has $180,000 worth of stock at cost  (14 000 Units)
+
+Average store has 4500 different sku’s at any given time
+
+Average store changes the price of product on 450 units of stock each week and once a month on 3500 units
+
+Average store returns to suppliers  1280 units per month
+
+150,000 titles are transacted each week  in our stores
+
+Ohhhh we have so hard!!
+
+[Slide 39]
+
+All Variances at Stocktake 2008/09
+
+[Slide 40]
+
+All Variances at Stocktake  2009/10
+
+[Slide 41]
+
+All Variances at Stocktake (5 Years)
+
+[Slide 42]
+
+Net Shrinkage
+
+[Slide 43]
+
+Tools We Use
+
+C:\Users\Ritaoui\Desktop\Rouse Hill Sanity.xls
+
+C:\Users\Ritaoui\Desktop\Stocktake Result Spreadsheet Round 1 Jun - Oct 2012.xls
+
+[Slide 44]
+
+Stock 13 Months Plus
+
+[Slide 45]
+
+Negative Stock On Hand
+
+[Slide 46]
+
+Negative SOH
+
+[Slide 47]
+
+Purchase Orders
+
+[Slide 48]
+
+Over Due Purchase Order Report
+
+[Slide 49]
+
+Price Mods from Dec 2008 to Aug 2012
+
+[Slide 50]
+
+In Stock Position
+
+Average 2.65 out of stock of the top 20
+
+[Slide 51]
+
+Inventory At Cost
+
+[Slide 52]
+
+Value Of Getting It Right
+
+[Slide 53]
+
+Lessons Learned
+
+Its about Inventory Management, Always
+
+Excuses start from the top (YOU AND ME).... Stop making them and allowing others to make them
+
+Reporting is critical. Not just having them but reading, understanding and doing something about them
+
+Job descriptions and incentives aligned to your Inventory goals
+
+Conducting an AAR review after every campaign makes a real difference
+
+Continues Improvement is the key to success but the ultimate challenge we face....
+
+[Slide 55]
+
+QUESTIONS?
+
+[Slide 56]
+
+Time
+
+Topic
+
+55
+
+Inventory Management ConferenceThursday 30th August 2012
+
+[Slide 57]
+
+Inventory Conference
+
+August 2012
+
+Dynamic Pricing
+
+[Slide 58]
+
+Why dynamic pricing?
+
+To minimise aged stock and maximise gross margin by being quicker at matching product price to customer demand
+
+FACTS
+
+We bring in 300 new sku’s every month and have to assign a price based on history, product cost and competitive landscape
+
+The % of sku’s marked down from full price has been about 30% (Includes exiting residual stock on new sellers, exiting styles and marking down non performers)

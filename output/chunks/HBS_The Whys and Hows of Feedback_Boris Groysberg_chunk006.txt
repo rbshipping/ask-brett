@@ -1,0 +1,152 @@
+SOURCE: HBS_The Whys and Hows of Feedback_Boris Groysberg.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Cross-Cultural Management
+SUMMARY: The text discusses how cultural differences can affect the effectiveness and perception of feedback practices in multinational companies.
+KEYWORDS: cross-cultural feedback, performance appraisal, multinational organizations, cultural norms, organizational culture
+---
+
+26 P. 111 of David A. Garvin, Amy C. Edmondson, and Francesca Gino, “Is Yours a Learning Organization?” Harvard Business
+
+Review (2008): 109-116.
+
+27 Regina Eckert, Bjorn Z. Ekelund, William A. Gentry, and Jeremy F, Dawson, “I Don’t See Me Like You See Me, But Is That a
+
+Problem?” Cultural Influences on Rating Discrepancy in 360-degree Feedback Instruments,” European fournal Of Work &
+
+Organizational Psychology 19, no. 3 (2010): 259-278; Hazel R. Markus and Shinobu Kitayama, “Culture and the Self: implications
+
+for Cognition, Emotion, and Motivation,” Psychological Review 98, no. 2 (1991): 224-253.
+
+8
+
+This document is authorized for use only by Ryan Benner {ryan@bbreworld.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or
+
+800-988-0886 for additional copies.
+
+The Whys and Hows of Feedback 416-013
+
+attributional bias that can lead employees to overestimate their performance.?® However, seeking or
+
+giving feedback may be avoided in Asian cultures as it could cause the loss of face or upset group
+
+dynamics.?° Some Latin cultures as well may find formal feedback systems, particularly competitive
+
+ones, to be destructive of organizational culture. Because the effect of different feedback techniques
+
+may vary across cultures ~ for example, 360-degree feedback may cause stress in cultures with a high
+
+power distance between subordinates and superiors — it is important to recognize cultural differences
+
+when developing performance appraisal and feedback processes in multinational companies.3!
+
+Cultural differences, however, should not be magnified out of proportion.S* Culture may affect
+
+particular behavioral norms around giving feedback, as well as the value of aspects of the equation (the
+
+social cost of seeking feedback, for example, might be higher in a shame-based cultures), but it doesn’t
+
+change the variables, The building blocks of good feedback practices are similar everywhere:
+
+¢ Motivation (employees high in internal motivation, rather than being motivated exclusively
+
+by rewards, use feedback most effectively, and good feedback practices can increase
+
+motivation),
+
+« Trust (for feedback to be effective, the recipient must trust the giver’s goodwill and
+
+competence, and the information and process used to develop and deliver the feedback),
+
+¢ Organizational alignment and clarity (performance can only be judged against metrics and
+
+goals; an organization that cannot define success for itself cannot define good or bad
+
+performance in its employees), and
+
+¢ A supportive infrastructure (feedback efforts need to be culturally normalized and rewarded,
+
+and the skills of giving and receiving feedback should be coached).
+
+Also, cultures are not immutable; some research suggests, for example, that modernization efforts
+
+in China may be leading to more Western-style preferences in feedback.
+
+28 Amy TH. Mezulis, Lyn Y. Abramson, Janet S. Hyde, and Benjamin L. Hankin, “Is There a Universal Positivity Bias in
+
+Attributions? A Meta-Analytic Review of Individual, Developmental, and Cultural Differences in the Self-Serving
+
+Attributional Bias,” Psychological Bulletin 130, no. 5 (2014); 711-747.
+
+29 Harriet A. MacDonald et al., “Cultural Differences in the Motivation to Seek Performance Feedback: A Comparative Policy-
+
+Capturing Study,” Human Performance 26 (2013): 211-235,
+
+30 A. Davila and M. Elvira, “Psychological Contracts and Performance Management in Mexico," International Journal of
+
+Manpower 28 (2007): 384-402; T.T. Selvarajan, and Peggy A. Cloninger, “Can Performance Appraisals Motivate Employees to
+
+Improve Performance? A Mexican Study,” The hiternational Journal of Human Resource Management 23, no. 15 (2012): 3063-3084.
+
+3} Frank Shipper, Richard C. Hoffman, and Denise M. Rotondo, “Does the 360 Feedback Process Create Actionable Knowledge
+
+Equally Across Cultures?” Acadenty of Management Learning & Education 6 (2007): 33-50; Lanny Entrekin and Yee Wah Chung,
+
+“Attitudes Towards Different Sources of Executive Appraisal: A Comparison of Hong Kong Chinese and American Managers
+
+in Hong Kong,” International Journal Of Human Resource Management 12 (2001): 965-987; Chin-Ju Tsai and Wen-Lai Wang,
+
+“Exploring the Factors Associated with Employees’ Perceived Appraisal Accuracy: A Study of Chinese State-Owned
+
+Enterprises,” Infernational Journal of Human Resource Management 24 (2013): 2197-2220; Clive Fletcher and Elissa L. Perry,
+
+“Performance Appraisal and Feedback: A Consideration of National Culture and a Review of Contemporary Research and
+
+Future Trends,” in Handbook of industrial, Work and Organizational Psychology, Volume 1: Personnel Psychology, eds. N. Anderson,
+
+DS, Onez, HK. Sinangil, C. Viswesvaran. (Thousand Oaks, CA: Sage, 2002), PP, 127-144.
+
+32 See, for example, Lowell Gaertner, Constantine Sedikides, Huajian Cai, “Wanting to Be Great and Better but not Average: On
+
+the Pancultural Desire for Self-Enhancing and Self-Improving Feedback,” Journal Of Cross-Cultural Psychology 43 (2012); 521-526.
+
+33 James R. Bailey, Chao C, Chen and Sheng-Gong Dou, “Conceptions of Self and Performance-Related Feedback in the US.,
+
+Japan and China,” Journal of International Business Studies 28, no. 3 (1997): 605-625.
+
+This document is authorized for use only by Ryan Benner (ryan@bbreworld.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or
+
+800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+Leaders who are working in a foreign country —or even moving from one distinct region of their
+
+home country to another—are advised to get a formal or informal “communication coach” to help
+
+ensure that difficult conversations, such as those around performance, are handled effectively. One
+
+cultural difference to be alert to is the preference for straightforward versus indirect communication,
+
+In some cultures, feedback is sought given and directly, whereas in others feedback is conveyed and
+
+sought indirectly.4 In many Western cultures, particularly the U.S., self-promotion is considered
+
+appropriate and not off-putting. Even within a particular country, industry and organizational
+
+cultures can differ on this dimension, so it is good practice for leaders to pay attention to the feedback
+
+norms in their particular environment before attempting to give or solicit feedback.
+
+Erin Meyer offered the following practical advice in the Harvard Business Review for gauging a
+
+culture’s feedback practices:
+
+One way to begin gauging how a culture handles negative feedback is by listening to
+
+the types of words people use. More direct cultures tend to use what linguists call
+
+upgraders, words preceding or following negative feedback that make it feel stronger,
+
+such as absolutely, totally, or strongly: “This is absolutely inappropriate,” or “This is
+
+totally unprofessional.” By contrast, more indirect cultures use more downgraders,

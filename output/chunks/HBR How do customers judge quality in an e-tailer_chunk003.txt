@@ -1,0 +1,134 @@
+SOURCE: HBR How do customers judge quality in an e-tailer.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Online Retail Operations
+SUMMARY: The text discusses the importance of flexibility, delivery options, and accurate information in online retail operations to ensure customer satisfaction and retain customers.
+KEYWORDS: e-commerce, customer experience, online retail management
+---
+
+multilingual translations. Addi- commodate flexible delivery dates and rush orders was addressed in this section. Customers
+
+tionally, a Web site must be able to were also asked about the care with which items were protectively packed for shipment.
+
+adapt to numerous types of users, The third section asked customers about failures that occurred during online transactions.
+
+old and young, technologically so- Of the 338 respondents, 189 noted some problem or failure with their last online transaction.
+
+We asked respondents about several aspects of the interactions that took place between the
+
+phisticated and unso-
+
+e-tailer and the customer when these problems occurred. Questions were asked about the
+
+phisticated. The flexibility of an
+
+company’s concern and ability to resolve the issue. Similarly, we asked if the e-tailer honestly
+
+online retailer is also revealed by
+
+communicated with the customer about the service failure. This section addressed how
+
+the billing and delivery options
+
+quickly the e-tailer responded to the problem and how easy it was to voice a complaint.
+
+provided. For example, online re-
+
+Finally, customers were asked about the resolution of the problem and whether or not they
+
+tailers need to provide payment
+
+received compensation and the outcome they felt they deserved.
+
+options that include different The fourth part of the survey addressed overall customer satisfaction and the intentions of
+
+types of credit and debit cards as the customer to patronize the e-tailer in the future. All four survey sections used Likert scale
+
+well as allowing customers to questions formatted as 1 = Totally Agree to 5 = Totally Disagree. Among the respondents to the
+
+choose alternative billing ad- survey, 52% percent were female, with an average age of 25. The results of the survey were an-
+
+dresses for product shipments. alyzed using structural equation modeling to discover which factors had the strongest effect
+
+on satisfaction and subsequently on intentions to patronize the online retailer. While Web site
+
+Good Information Managers of on- interactivity or service recovery efforts were significant predictors of customers’ satisfaction,
+
+the outcome (delivery) of the online transaction had the strongest impact on satisfaction and
+
+line retail operations must ensure
+
+intentions to purchase from an online retailer in the future.
+
+that information on the Web site
+
+is accurate and updated. Display-
+
+ing products that are sold out,
+
+providing inaccurate price information and listing incorrect mation in this context will lead to customer distrust of the online
+
+product delivery information are just some of the issues that can retailer, and ultimately to defection.
+
+cause customers to become dissatisfied with an online retailer.
+
+The frustration that customers feel when they are charged an Delivery of the Product
+
+incorrect price in a brick-and-mortar setting is compounded in Customers initiate an online transaction in order to receive a prod-
+
+an online setting. After all, no employees are readily available to uct. Though the interactivity of the Web site is very important, the
+
+answer questions on a Web site. most important aspect of the quality of the online retail experience
+
+A retailer’s Web site must fully inform customers of all policies is the delivery of the purchase. When a customer purchases a prod-
+
+and procedures, along with any changes that have occurred. Pur- uct online, an implicit contract is made. There is an assumption
+
+chasing products online involves evaluating information away that an online retailer will deliver the product purchased in the
+
+from a traditional brick-and-mortar store context to determine if manner agreed upon on the Web site. In a brick-and-mortar set-
+
+a product is worth purchasing. Out-of-date or inaccurate infor- ting, customers have little interest in how a product was delivered
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+FALL 2006 MIT SLOAN MANAGEMENT REVIEW 37
+
+E-tailers that establish a foundation of delivering products in a timely manner could buffer the effects of future
+
+delivery failures, as customers believe this represents a one-time exception to a normally excellent delivery record.
+
+to the store. However, when delivery is made directly to a custom- ery failures, as customers believe that this represents a one-time
+
+er’s home or business, customers are concerned with both how and exception to a normally excellent delivery record. Delivering
+
+when the delivery will be accomplished. The fact that certain on- products in a timely manner not only to meet but exceed custom-
+
+line retailers use well-known and trusted carriers, such as United ers’ expectations should be an important concern for all managers
+
+Parcel Service Inc. and FedEx Corp., has been shown to influence a of online retail operations.
+
+customer’s purchase decision.6
+
+Obviously, the delivery (or not) of the product at the end of The Accuracy of the Order Since online customers take on some of
+
+the transaction plays an extremely influential role in customer the roles traditionally performed by a brick-and-mortar retail
+
+intentions to use an online retailer in the future. A customer who employee, customers have high expectations that they will receive
+
+has a bad experience with a product delivery is much more likely the exact product they ordered and nothing they did not order,
+
+to turn to a different online retailer for future transactions. Three delivered to the desired location, and that they will be billed the
+
+aspects of product delivery significantly influence customer eval- correct amount. When customers receive a partially or inaccu-
+
+uations of the quality of an online retail experience. rately filled order, they not only feel a sense of frustration, but
+
+also the aggravation of having to contact the online retailer to try
+
+The Timeliness of the Order Customers increasingly want a shorter to resolve the problem.
+
+time frame between when they place an online order and when Receiving an inaccurate order only serves to reinforce a percep-
+
+they receive the product. Many customers view themselves as tion of incompetence on the part of an online retailer. In the
+
+“time starved” and will pay premium prices to a have a product customer’s mind, he or she has made the effort to place the order,

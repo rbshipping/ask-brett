@@ -1,0 +1,148 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Pricing Strategy
+SUMMARY: The text discusses the importance of precision pricing, differentiation, and understanding cost behavior to maximize profits in a highly competitive and deflationary business environment.
+KEYWORDS: pricing strategy, customer value, cost behavior, differentiation, deflation
+---
+
+2
+
+Precision Pricing for Profit in the New World Order 9-899-003
+
+expand the zone of possible agreement by increasing perceived customer value and/or decreasing
+
+costs. This process increases the spoils for both buyer and seller, and turns the zero sum game within
+
+ZOPA into a non-zero sum game.
+
+The customer always pays less than the value they perceive, but sometimes they pay a great
+
+deal less. There are two causes for this. First, the seller has set the price too low because he or she
+
+did not understand (or often even tried to understand) the value the customer perceived. The second
+
+cause is competition. If your product/service is undifferentiated, your dumbest competitor will set
+
+your price, The dumbest will not focus on customer value and will price too low, destroying the
+
+market in the process. Thus, differentiation in the form of a unique provision of customer value
+
+provides protection from competition. A combination of customer value and differentiation provides
+
+the opportunity for the seller to extract value (Exhibit 3).
+
+Understanding the “real income statement” (Exhibit 1) is particularly important with deflation
+
+or a Jack of inflation, and the greater intensity of today’s competition. Inflation provided an easy
+
+opportunity to reset prices and remedy mistakes. If you set the price too low, you could catch up in
+
+the next quarter. Without inflation, you live with your mistakes.
+
+Further, globalization and the blurring of boundaries between traditionally separate industries
+
+(e.g., outlet stores, off-price retailers, and department stores) has led to much more competition.
+
+There is no respite. The easy availability of capital worldwide also means that most advantages are
+
+very temporary. This forces one to look for micro advantages. The easy macro advantages such as a
+
+unique product are more fleeting than ever before, however. So, transaction-specific pricing for each
+
+situation is a requirement to maximize short-term profits—and build long-term market position.
+
+Transaction-specific pricing requires a rapid, accurate pricing process built on a strong pricing
+
+philosophy. The real income statement provides a picture of the philosophy and the options.
+
+The philosophy also requires a complete grasp of cost behavior, a careful specification of
+
+goals, and a detailed understanding of leverage. The next three sections will provide these.
+
+Yi. THE SHIFT TO FIXED COSTS
+
+As (Exhibit 1) shows, costs are an important factor in setting prices. The cost of a particular
+
+product line item or service interaction and the behavior of costs as volume changes have profound
+
+effect on pricing decisions. The movement from variable to fixed costs has enormous implications.
+
+Variable costs were in many ways easier to integrate into price making. High variable costs were one
+
+of the major assumptions of cost-plus pricing, a previously popular, but misguided pricing approach
+
+which is now totally obsolete. The appendix explains why cost-plus pricing is so dangerous.
+
+The Impact of Cost Accounting on Pricing
+
+Fixed costs produce two changes. First, it is exceedingly difficult to allocate high fixed costs
+
+to individual items in the product/service line. This is the classic problem of incremental costing and
+
+pricing. If each order does not need to absorb its “share” of fixed costs, one is encouraged to
+
+calculate costs and (using any form of cost-plus pricing) prices as lower than normal. Some orders
+
+are seen as “base loading” a facility and receive the fixed cost allocation. Other orders are viewed as
+
+“incremental” and don’t “absorb” their “fair” share of fixed costs. One trouble is that different
+
+competitors view different orders as incremental. A typical outcome is that each competitor prices its
+
+existing customers’ orders to absorb all costs, and its prospective customers’ orders incrementally. In
+
+this scenario, the competitors attack each other’s customers, eventually driving industry prices to
+
+unsustainably low levels. This is what typically happens during recessions in cyclical, high-fixed cost
+
+industries such as chemicals, paper and pulp, and petroleum. It happens less dramatically in many
+
+9-999-003 Precision Pricing for Profit in the New World Order
+
+non-cyclical, fixed cost industries. And, again less dramatically, the fixed cost allocation problem
+
+clouds cost and profitability analysis even where it does not directly impact pricing.
+
+How Volume Impacts Costs
+
+The second change involves the relationship of costs to volume. With high fixed costs, total
+
+average cost drops precipitously as unit volume increases. In the past, when fixed costs were large
+
+plant investments, the range of unit volume over which prices dropped was limited by the plant’s
+
+capacity. Now, where fixed costs are in product development and variable costs are often very low,
+
+as in the software industry, fixed cost absorption continues through infinity with no addition. This
+
+leads to enormous returns to scale for the leading firm. As unit volume increases, total cost hardly
+
+goes up at all. When teamed with increasing customer value as unit volume goes up, the pricing
+
+challenge and opportunity are extraordinary. These are discussed in Section V.
+
+There are, of course, ways to change cost structure quite dramatically. Outsourcing is a
+
+clever approach to turn fixed costs into variable costs. Instead of building its own telemarketing
+
+center, for example, with high fixed costs, a company can outsource its telemarketing needs and pay
+
+for each call or each sale on a variable cost basis. This typically has been why companies use
+
+independent commission sales agents instead of a company sales force with at least some fixed costs.
+
+Outsourcing manufacturing, logistics, computer service, etc. does the same thing.
+
+Getting Your Goals Right
+
+Before we leave the fixed cost topic, it is useful to focus on appropriate goals and the tradeoff
+
+between higher unit volume, and higher prices on fewer units. We also must consider the relationship
+
+between cost structure and customer price sensitivity. In a high fixed cost situation, there is a great
+
+deal of temptation, and good logic, to cut price to generate incremental unit volume. After all, most
+
+of the revenue from the additional units drops to the bottom line as profit. The opposite is true in high
+
+variable cost industries. Incremental volume isn’t very important there. (Exhibit 4) shows that a 10%

@@ -1,0 +1,152 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Knowledge Management
+SUMMARY: The U.S. Army uses formal knowledge systems and informal knowledge sharing to capture and disseminate lessons learned from its training operations.
+KEYWORDS: Organizational Knowledge, Doctrine and Tactics, Knowledge Sharing, Lessons Learned, U.S. Army
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+tion. The U.S. Army uses formal knowledge
+
+Doctrine and Tactics systems to capture and disseminate important
+
+lessons to large, dispersed audiences, and the
+
+The lessons produced and validated by inform the Army’s other class of organi- National Training Center contributes indi-
+
+the U.S. Army’s Opposing Force (OPFOR) zational knowledge: doctrine. Doctrine— rectly to those. (See the sidebar “Doctrine and
+
+and the units it trains at the National which rarely changes and is shared by the Tactics.”) Informal knowledge sharing among
+
+Training Center (NTC) in Fort Irwin, Cali- entire Army—establishes performance peers, however, is very common. OPFOR’s
+
+fornia, contribute to the Army’s two standards for the kinds of actions and leaders, for example, use e-mail and the Inter-
+
+classes of organizational knowledge. One conditions military units commonly face. net to stay in touch with leaders on combat
+
+class, known as Tactics, Techniques, and For example, many of the steps in the duty. The OPFOR team shares freshly hatched
+
+Procedures (TTP), focuses on how to per- doctrine for a brigade-level attack (such insights and tactics with officers in Afghanistan
+
+form specific tasks under specific condi- as planning for mobility, survivability, and Iraq; those officers, in turn, describe new
+
+tions. It is the responsibility of each unit and air defense) began life as lessons and unexpected situations cropping up in real
+
+leader to build her own library of TTP by from the NTC and other Army training battles. And, of course, OPFOR’s leaders don’t
+
+learning from other leaders as well as by centers. stay out in the Mojave Desert forever. Every
+
+capturing good ideas from her subordi- The difference between doctrine and year as part of the Army’s regular rotation,
+
+nates. Two unit leaders in the same bri- TTP is a useful one for businesses, some one-third move to other units, which they seed
+
+gade may need to employ different TTP of which draw few distinctions among with OPFOR-spawned thinking. Departing
+
+to address different conditions. the types of knowledge employees gener- leaders leave behind “continuity folders” full of
+
+Sufficiently weighty, widely applicable, ate and about how widely diverse lessons lessons and AAR notes for their successors.
+
+and rigorously tested TTP may ultimately should be applied and disseminated. In an environment where conditions change
+
+harvard business review • july–august 2005 page 8
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It
+
+Instead of producing constantly, knowledge is always a work in project will likely require different levels of
+
+progress. So creating, collecting, and sharing preparation, execution, and review. However,
+
+static “knowledge assets”
+
+knowledge are the responsibility of the peo- we have distilled some best practices from the
+
+to file away in a ple who can apply it. Knowledge is not a staff few companies we studied that use AARs well.
+
+function. For example, leaders should phase in an AAR
+
+management report or
+
+regimen, beginning with the most important
+
+The Corporate Version and complex work their business units per-
+
+repository, OPFOR’s
+
+It would be impractical for companies to form. Teams should commit to holding short
+
+AARs generate raw adopt OPFOR’s processes in their entirety. BAR and AAR meetings as they go, keeping
+
+Still, many would benefit from making their things simple at first and developing the pro-
+
+material that the brigade
+
+own after-action reviews more like OPFOR’s. cess slowly—adding rehearsals, knowledge-
+
+feeds back into the The business landscape, after all, is competi- sharing activities and systems, richer metrics,
+
+tive, protean, and often dangerous. An organi- and other features dictated by the particular
+
+execution cycle.
+
+zation that doesn’t merely extract lessons from practice.
+
+experience but actually learns them can adapt While companies will differ on the specifics
+
+more quickly and effectively than its rivals. they adopt, four fundamentals of the OPFOR
+
+And it is less likely to repeat the kinds of errors process are mandatory. Lessons must first and
+
+that gnaw away at stakeholder value. foremost benefit the team that extracts them.
+
+Most of the practices we’ve described can be The AAR process must start at the beginning
+
+customized for corporate environments. Sim- of the activity. Lessons must link explicitly to
+
+pler forms of operational orders and brief future actions. And leaders must hold every-
+
+backs, for example, can ensure that a project is one, especially themselves, accountable for
+
+seen the same way by everyone on the team learning.
+
+and that each member understands his or her By creating tight feedback cycles between
+
+role in it. A corporate version, called a before- thinking and action, AARs build an organiza-
+
+action review (BAR), requires teams to answer tion’s ability to succeed in a variety of condi-
+
+four questions before embarking on an impor- tions. Former BLUFOR brigades that are now
+
+tant action: What are our intended results and deploying to the Middle East take with them
+
+measures? What challenges can we antici- not just a set of lessons but also a refresher
+
+pate? What have we or others learned from course on how to draw new lessons from situa-
+
+similar situations? What will make us success- tions for which they did not train—situations
+
+ful this time? The responses to those questions they may not even have imagined. In a fast-
+
+align the team’s objectives and set the stage for changing environment, the capacity to learn
+
+an effective AAR meeting following the action. lessons is more valuable than any individual
+
+In addition, breaking projects into smaller lesson learned. That capacity is what compa-
+
+chunks, bookended by short BAR and AAR nies can gain by studying OPFOR.
+
+meetings conducted in task-focused groups, es-
+
+tablishes feedback loops that can help a project Reprint R0507G
+
+team maximize performance and develop a To order, see the next page
+
+learning culture over time. or call 800-988-0886 or 617-783-7500
+
+Every organization, every team, and every or go to www.hbrreprints.org
+
+harvard business review • july–august 2005 page 9

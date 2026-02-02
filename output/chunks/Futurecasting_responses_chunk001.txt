@@ -1,0 +1,184 @@
+SOURCE: Futurecasting_responses.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Customer Experience Strategy
+SUMMARY: The text discusses ways to personalize the shopping experience for customers, including improving product management, marketing, and using data and technology to enhance customer insights.
+KEYWORDS: personalized shopping experience, data-driven decision making, customer insights, omnichannel marketing, operational efficiency
+---
+
+HIGH FOCUS TOPIC, Futurecasting responses, 15th April 2015
+
+Attendees
+
+George Wahby, BnT
+
+Pete King, Dusk
+
+Eloise Monaghan, Honey Birdette
+
+Paul Grosmann, Lovisa
+
+Darren Holland, BBRC Property
+
+Gary Jones, BBRC Property
+
+Ray Itaoui
+
+Greg Milne
+
+Lovisa (Paul)
+
+Question 1
+
+The big takeaway I have from this pre-read is how can we edge our business closer and closer to
+
+having a more personalised shopping experience for our customer. I think easy to be daunted (or
+
+excited) by the giant leaps in the pre-read examples – but we can start edging our way towards that
+
+end state. The action for me is taking this objective into the work-out we are doing next week to
+
+build our business improvement plan.
+
+Some specific examples
+
+ Product: we’re currently strong at a company level at reacting on a weekly basis to the
+
+performance of our ranges and their position on the shop floor. While this can always be
+
+strengthened - in the coming year we need to be able to do the same level of execution for
+
+each market we are operating in. This requires a lot to make it happen – likely a couple of
+
+extra ranges, automation of floorplans, building and reviewing yellow reports by region,
+
+stronger regional comms. This would be great first step edging us closer to more
+
+‘personalised’ shopping experience – and continue to take it further from there
+
+ Marketing: we need to have a stronger voice by region (internally & externally) – stronger
+
+marketing calendar that finds many more events by region to have promotions /add ons /;
+
+EDMs and our social media comms in local dialects would be good first step
+
+Question 2
+
+The “face, bones and brains” I thought was a great framework which made me think about where in
+
+the business we’re using technology and data. Traditionally we have focussed on product as this is
+
+where business demands most attention. While we have a long way to go in this area – other areas
+
+of the business have even further to catch up. For example
+
+ Production process - tighter reporting and KPIs for work we do with suppliers. Product lead
+
+times, cost prices, QC issues, growth & shrink of supplier spend. This will create better
+
+dialogue with our suppliers, help us make better decisions as to who we work, improve
+
+execution (getting product into store at right time) and improve product quality
+
+ Rostering – currently exploring a reporting tool which will help us optimise labour in store.
+
+Reconciling sales trends by stores with rostered hours
+
+Question 3
+
+While we are getting stronger on our analytics – If technology was free I feel customer insight is a big
+
+gap which would be great to fill. Technology which would help us harness basic demographic
+
+information through to preferences and buying habits. So capturing demographic information and
+
+linking this to purchase behaviours / patterns (frequency of visits, what they’re purchasing and in
+
+combination with what). This would go a long way in strengthening what we buy, where we allocate
+
+it and how we market it
+
+Bras n Things (George)
+
+Hi Jason,
+
+I managed to modify the first question as per the requested change. This was a challenging exercise
+
+and really pushed me outside the comfort zone which shows how much work we need to do in this
+
+area. As a suggestion it would be great to bring in expert as a group within this field to provide and
+
+facilitate initiatives to develop the “Brain” of retailing within the group that will multiply the
+
+effectiveness of the “Bones” and “Face”. I certainly don’t have the skill within the business and a
+
+shared resource in this area to get us going would be great.
+
+Below are the answers to the questions. Please note that some of the suggestion can be considered
+
+wishful thinking but a futuristic thought anyway.
+
+1. Based on the pre-reading report shared, what is one specific action you are going to
+
+take in your brand?
+
+a. Personalisation – Making sure the experience, communication and marketing
+
+is unique by customer. This can only be done by investing in data analytical
+
+tools (BI Tools) and smart analyst that can provide specific attributes of a
+
+customer allowing personalised communication and targeted
+
+marketing. Really understand behaviours, habits buying patterns and
+
+communicate and engage based on learning’s.
+
+2. How can we better leverage the technology and data that we have today, that our
+
+systems are already producing or capable of producing?
+
+a. Invest in BI tool to access the rich data we have and turn data into
+
+information that will allow us to respond faster to initiatives that will drive
+
+greater sales.
+
+b. Invest in customer data analyst within the marketing team to really provide
+
+customer behaviour insights and buying patterns allowing us to really target
+
+market and properly measure effectiveness and engagement. This will also
+
+help develop and rive an affective loyalty program.
+
+c. We have just starting customer segmented EDM’s and we need to measure
+
+sales conversions and uplifts and continually monitor and trial.
+
+d. In Store search on the website – We have the data on what inventory is
+
+available at what store and we know much of our online traffic is researching
+
+to buy in store. We should merge the 2 and give customers the ability to
+
+search inventory and truly implement proper “Click and Collect” It would be
+
+dependent on data integrity of course.
+
+e. Displaying current online reviews on in store products – Can show physical
+
+headers in store calling out “Top Rated Product” according to reviews they
+
+are capturing online. We are already capturing reviews for online purchases
+
+at BNT, nothing stopping us calling out top products in store, removing
+
+barriers to purchase in store and providing powerful feedback to customers
+
+purchasing decision
+
+3. If computer power is free what technology would we need and implement? and how
+
+could you work it to your advantage?
+
+a. Servers – More power behind online infrastructure means more speed for

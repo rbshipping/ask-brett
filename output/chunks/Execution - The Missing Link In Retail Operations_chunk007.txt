@@ -1,0 +1,154 @@
+SOURCE: Execution - The Missing Link In Retail Operations.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Analysis
+SUMMARY: The authors use regression models to analyze the drivers of inventory record inaccuracy and misplaced SKUs in retail operations.
+KEYWORDS: inventory record accuracy, misplaced SKUs, retail operations, regression analysis, store-level factors
+---
+
+ables. We use three regression models to derive our results, two applied to
+
+Gamma data (for inveritory record imageuracy) and one applied to Beta (for mis-
+
+placed SKUs). More details of ourtechnical analysis can be found in DeHoratius
+
+and Raman"? and in Raman and Ton."
+
+We estimate thé drivers of inventory record inaccuracy at the record level
+
+and at the store level. For our record level analysis, we use logistic regression to
+
+predict the pft@bability of inventory record accuracy as a function of the cost of
+
+the recorded itempthe quantity sold of that item during the past year, and
+
+whether or. not.the itemiwas shipped to the store direct from the vendor or from
+
+the retail4owned distribution center. We control for differences across stores and
+
+product categories, All variables in our final model are significant at the 99.9%
+
+level
+
+» store level analysis, we predict the average error in store inven-
+
+va
+
+chan
+
+_ NOFPASAefunetion of inventory density (the quantity of inventory in a particular
+
+“selling floor space), the frequency of inventory audits at the store, the product
+
+Mp isPlaved at the store, and the DC from which the store receives mer-
+
+dise. We control for sales differences across stores. In our fina] model,
+
+inventory density and the frequency of audits are significant at the 95% level,
+
+which the store received merchandise was significant at the 99.9% level.
+
+parr variety is significant at the 99% level, and the impact of the DCs from
+
+We estimate the drivers of misplaced SKUs at the store level. We predict
+
+the fraction of items that are present in storage areas but not on the selling floor
+
+as a function of “SKU density” (the number of SKUs in a particular selling floor
+
+CALIFORNIA MANAGEMENT REVIEW VOL 43,NO.3 SPRING 2001 {51
+
+Thin dnnumant ie authariond far ian anh: bu
+
+TALIA CTDARIC until Anvil ON49 Canving ar ranting in an infrinanmant
+
+Execution: The Missing Link in Retail Operations
+
+space), “depth” (the quantity of inventory for each SKU), backroom size, full.
+
+time and part-time employee turnover, general manager turnover, and ‘ -
+
+ing” (the number of training assistant managers at a particular store) /" We ¢ tol,
+
+for regional differences, unemployment rate, age of the store, and the perig
+
+during which the audit was conducted. In our final model, part- time,employee
+
+turnover is significant at the 95% level, depth is significant at the 99 el, and
+
+SKU density and genera] manager turnover are significant at the 99. 5% ‘evel.
+
+HES
+
+Notes ey
+
+1. Carl Steidtmann, “The New Retail Technology,” Disco Rg ZM(Novernder
+
+1999), pp. 23-24.
+
+2. The research consortium, Consortium for Operational Bixcellendsi in Retailing
+
+(COER), is directed by Professor Marshall Fisher of the Wharton School of the
+
+University and Pennsylvania and Professor Ananth Raman of the Harvard Busi-
+
+ness School. The research is supported by the two schools and a grant from the
+
+Alfred P. Sloan Foundation.
+
+3. John F. Krafcik, “Triumph of the Lean Proditetion System,” Sloan Management
+
+Review, 30 (Fall 1988): 41-52.
+
+4. WE. Deming, Out of the Crisis (Cambfidge, MA; The MIT Press, 2000); P.B. Crosby,
+
+Quality Is Free (New York, NY: Mentor, 1980); J. M. Juran, Juran on Leadership for
+
+Quality: An Executive Handbook (New York, NY: The Free Press, 1989).
+
+5. Levy and Weitz define shrinks thésdifférence between the recorded value of
+
+inventory based on merchandise bought and feceived and the value of actual
+
+inventory in stores and distribution centers. Shrink is caused by employee theft,
+
+by customer shoplifting, and by merchandise being misplaced, damaged, or mis-
+
+priced. Michael, levy and Barton A. Weitz, Retailing Management (New York, NY:
+
+Irwin/McGraw-+Hill, 1998).
+
+6. Milk at a supermarket would be an example of such a low-price but high-stock-
+
+out-cost item. ~
+
+7. See Steven Nahmias, Prodtiction and Operations Analysis (New York, NY:
+
+Irwin/MeGraw-Hill 1997).
+
+8. For a discussion of manufacturing quality, see David Garvin, Managing Quality
+
+(New York, N¥pLhe Free Press, 1988).
+
+9. Seegfor example, Marshall Fisher, Ananth Raman, and Anna Sheen McClelland,
+
+“Rocket Scienice Retailing is Almost Here: Are you Ready?” Harvard Business
+
+ey. 78/4 (July/August 2000): 115-124.
+
+cole DeHoratius and Ananth Raman, “Inventory Record Inaccuracy: An Empiri-
+
+‘Analysis,” Harvard Business School Working Paper (2001).
+
+‘ML pAnanth Raman and Zeynep Ton, “An Empirical Analysis of the Magnitude and
+
+“ Drivers of Misplaced SKUs in Retailing,” Harvard Business School Working Paper
+
+“% (2001),
+
+100)
+
+Aer
+
+152 CALIFORNIA MANAGEMENT REVIEW VOL 43,NO.3 SPRING 200!
+
+Thin daaumant ie auitharizad fariien anks hy IAUM CTDARIA until April 9049 Canina av nncting ie an infrinnamant

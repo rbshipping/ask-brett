@@ -1,0 +1,198 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Strategy
+SUMMARY: The text discusses how disruptive innovation and moving upmarket can boost profit margins for companies, and the importance of targeting markets that established firms are motivated to ignore.
+KEYWORDS: disruptive innovation, profit margins, business strategy, upmarket migration, value network
+---
+
+higher price points, much of the increment in pricing falls to the bottom line—and it continues to
+
+fall there as long as the disruptor can keep moving up, competing at the margin against the
+
+higher-cost disruptee. When a company tries to take a higher-cost business model down-market
+
+to sell products at lower price points, almost none of the incremental revenue will fall to its
+
+bottom line. It gets absorbed into overheads. This is why, as we discuss in chapter 6, established
+
+firms that hope to capture the growth created by disruption need to do so from within an
+
+1-8
+
+autonomous business with a cost structure that offers as much headroom as possible for
+
+subsequent profitable migration up-market.
+
+Moving up the trajectory into successively higher-margin tiers of the market and
+
+shedding less-profitable products at the low end is something that all good managers must do in
+
+order to keep their margins strong and their stock price healthy. Standing still is not an option,
+
+because firms that stop moving up find themselves in a rebar-esque situation, slugging it out with
+
+hard-to-differentiate products against competitors whose costs are comparable. |?
+
+innovator’s solution. It does not guarantee success, but. it sure helps: The Innovator’s Dilemma
+
+showed that following a strategy of disruption increased the odds of creating a successful growth
+
+business from 6 to 37 percent.’ Because the established company’s course of action is mandated
+
+so clearly, it is also clear what executives who seek to create new-growth businesses should do:
+
+Target products and markets that the established companies are motivated to ignore or run away
+
+from. Many of the most profitable growth trajectories in history have been initiated by disruptive
+
+innovations.
+
+Two Types of Disruption
+
+For the sake of simplicity, The Innovator’s Dilemma presented the disruptive innovation
+
+diagram in only two dimensions. In reality, there are two different types of disruptions, which
+
+can best be visualized by adding a third axis to the disruption diagram, as shown in figure 1-3.
+
+The vertical and horizontal axes are as before: the performance of the product on the vertical
+
+axis, with time plotted on the horizontal dimension. The third axis represents new customers and
+
+new contexts for consumption.
+
+Our original dimensions—time and performance—define a particular market application
+
+in which customers purchase and use a product or service. In geometric terms, this application
+
+and set of customers reside in a plane of competition and consumption, which The Innovator’s
+
+Dilemma called a value network. A value network is the context within which a firm establishes
+
+a cost structure and operating processes and works with suppliers and channel partners in order
+
+to respond profitably to the common needs of a class of customers. Within a value network, each
+
+firm’s competitive strategy, and particularly its cost structure and its choices of markets and
+
+customers to serve, determines its perceptions of the economic value of an innovation. These
+
+perceptions, in turn, shape the rewards and threats that firms expect to experience through
+
+disruptive versus sustaining innovations."
+
+The third dimension that extends toward us in the diagram represents new contexts of
+
+consumption and competition, which are new value networks. These constitute either new
+
+customers who previously lacked the money or skills to buy and use the product, or different
+
+situations in which a product can be used—enabled by improvements in simplicity, portability,
+
+and product cost. For each of these new value networks, a vertical axis can be drawn
+
+representing a product’s performance as it is defined in that context (which is a different measure
+
+from what is valued in the original value network).
+
+1-9
+
+Figure 1.3: Two Types of Disruptive Innovations
+
+Sustaining strategy:
+
+la Bring a better product into
+
+é le-€_an established market
+
+Performance
+
+asuge
+
+rn ress ©
+
+ers WN
+
+“ cyst0T sires
+
+Of Performance
+
+\
+
+.
+
+Different
+
+——
+
+Time
+
+is Exsilng Plage
+
+2. crsg Pegers
+
+{ ret nat w Anon a
+
+“aL Counpet” consutPe
+
+Ao
+
+e
+
+gah
+
+oo Time
+
+Different value networks can emerge at differing distances from the original one along
+
+the third dimension of the disruption diagram. In the following discussion, we will refer to
+
+disruptions that create a new value network on the third axis as new-market disruptions. In
+
+contrast, /ow-end disruptions are those that attack the least-profitable and most overserved
+
+customers at the low end of the original value network.
+
+New=Market Disruptions”
+
+We say that new-market disruptions compete with “nonconsumption” because new-
+
+market disruptive products are so much more affordable to own and simpler to use that they
+
+enable a whole new population of people to begin owning and using the product, and to do so in
+
+a more convenient setting. The personal computer and Sony’s first battery-powered transistor
+
+pocket radio were new-market disruptions, in that their initial customers were new consumers—
+
+they had not owned or used the prior generation of products and services. Canon’s desktop
+
+photocopiers were also a new-market disruption, in that they enabled people to begin
+
+conveniently making their own photocopies right in their offices, rather than taking their
+
+originals to the corporate high-speed photocopy center where a technician had to run the job for
+
+them. When Canon made photocopying so convenient, people ended up making a Jot more
+
+copies. New-market disruptors’ challenge is to create a new value network, where it is non-
+
+consumption, not the incumbent, that must be overcome.
+
+Although new-market disruptions initially compete against non-consumption in their
+
+unique value network, as their performance improves they ultimately become good enough to
+
+pull customers out of the original value network into the new one, starting with the least-
+
+demanding tier. The disruptive innovation doesn’t invade the mainstream market; rather, it pulls
+
+customers out of the mainstream market into the new one because these customers find it more
+
+convenient to use the new product.
+
+feels good to the leading firms, because as they move up-market in their own world, for a time
+
+they are replacing the low-margin revenues that they lose to the disruptors with higher-margin
+
+revenues.

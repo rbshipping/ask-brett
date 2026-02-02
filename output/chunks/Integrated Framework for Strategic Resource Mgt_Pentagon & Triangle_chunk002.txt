@@ -1,0 +1,828 @@
+SOURCE: Integrated Framework for Strategic Resource Mgt_Pentagon & Triangle.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Product Performance Analysis
+SUMMARY: This text chunk provides detailed sales, gross margin, and unit sales data for various beverage products.
+KEYWORDS: sales data, gross margin, unit sales, product performance, beverage products
+---
+
+UDVNA /PRI PAK $11.35
+
+WILLIAM GRANT $26.68
+
+SCHIEFFELIN & SOM $2.35
+
+HIRAM WALKER $25.92
+
+SCHIEFFELIN & SOM $23.91
+
+PREMIER BEVERAG $15.79
+
+$5,016,597
+
+SALES $
+
+$460,171
+
+$312,892
+
+$197,217
+
+$205,212
+
+$133,888
+
+$115,291
+
+$105,792
+
+$9,868
+
+$180,529
+
+$187,634
+
+$74,194
+
+$78,040
+
+$76,470
+
+$133,157
+
+$66,991
+
+$135,898
+
+$66,490
+
+$95,619
+
+$137,023
+
+$91,377
+
+$87,258
+
+$78,258
+
+$207,869
+
+$70,006
+
+$51,333
+
+$79,601
+
+$173,091
+
+$49,794
+
+$55,072
+
+$67,678
+
+$52,894
+
+$33,494
+
+$80,836
+
+$6,510
+
+$61,424
+
+$60,351
+
+$35,341
+
+$1,448,256
+
+GMS
+
+$107,420
+
+$97,544
+
+$58,221
+
+$50,420
+
+$40,714
+
+$36,539
+
+$29,036
+
+$3,530
+
+$50,895
+
+$40,601
+
+$8,179
+
+$24,321
+
+$23,113
+
+$44,473
+
+$14,520
+
+$30,530
+
+$17,405
+
+$38,967
+
+$48,200
+
+$28,738
+
+$28,465
+
+$24,063
+
+$60,802
+
+$18,132
+
+$9,984
+
+$28,850
+
+$40,908
+
+$16,079
+
+$15,701
+
+$22,210
+
+$19,183
+
+$14,373
+
+$24,823
+
+$2,517
+
+$18,040
+
+$16,098
+
+$11,045
+
+28.87%
+
+GM %
+
+23.34%
+
+34.17%
+
+29.52%
+
+24.57%
+
+30.41%
+
+31.69%
+
+27.45%
+
+35.77%
+
+28.19%
+
+21.64%
+
+41.02%
+
+27.32%
+
+30.22%
+
+33.40%
+
+21.67%
+
+22.47%
+
+26.18%
+
+40.75%
+
+35.18%
+
+31.45%
+
+33.77%
+
+30.75%
+
+29.24%
+
+25.90%
+
+19.45%
+
+36.24%
+
+23.63%
+
+32.29%
+
+28.51%
+
+32.82%
+
+36.27%
+
+42.91%
+
+30.71%
+
+38.66%
+
+29.37%
+
+26.67%
+
+31.25%
+
+250,697
+
+UNIT SLS
+
+15,583
+
+14,566
+
+10,936
+
+9,465
+
+8,618
+
+6,967
+
+6,844
+
+6,424
+
+6,285
+
+6,181
+
+6,112
+
+5.418
+
+§,313
+
+5,112
+
+§,030
+
+4,951
+
+4,828
+
+4,784
+
+4.621
+
+4,543
+
+4,503
+
+4,413
+
+4,388
+
+4,027
+
+3,759
+
+3,559
+
+3,507
+
+3,468
+
+3,433
+
+3,293
+
+3,291
+
+3,057
+
+2,966
+
+2,759
+
+2,746
+
+2,725
+
+2,208
+
+82.02%
+
+“TOT SLS
+
+9.17%
+
+6.24%
+
+3.93%
+
+4.09%
+
+2.87%
+
+2.30%
+
+2.11%
+
+0.20%
+
+3.60%
+
+3.74%
+
+1,48%
+
+1.56%
+
+1.52%
+
+2.65%
+
+1.34%
+
+2.71%
+
+1.33%
+
+1.91%
+
+2.73%
+
+1.82%
+
+1.74%
+
+1.56%
+
+4.15%
+
+1.40%
+
+1.02%
+
+1.59%
+
+3.45%
+
+0.99%
+
+1.10%
+
+1.35%
+
+1.05%
+
+0.67%
+
+4.61%
+
+0.13%
+
+1.22%
+
+1.20%
+
+0.70%
+
+100.00%
+
+%CUM SLE
+
+9.17%
+
+15.41%
+
+19.34%
+
+23.43%
+
+26.10%
+
+28.40%
+
+30.51%
+
+30.70%
+
+34.30%
+
+38.04%
+
+39.52%
+
+41.08%
+
+42.60%
+
+45.26%
+
+46.59%
+
+49.30%
+
+50.63%
+
+52.53%
+
+55.26%
+
+57.09%
+
+58.82%
+
+60.38%
+
+64.53%
+
+65.93%
+
+66.95%
+
+68.54%
+
+71,99%
+
+72.98%
+
+74.08%
+
+75.43%
+
+76.48%
+
+77.15%
+
+78.76%
+
+78.89%
+
+80.11%
+
+81.32%
+
+82.02%
+
+An integrated Framework For Strategic Resource Management - 23
+
+LEVEL 3, TOOL #6:
+
+LINE REVIEWS & CATEGORY SCORECARDS
+
+e Data Requirements (minimum)
+
+SKU (UPC) number
+
+English description
+
+Size (and color for fashion items)
+
+Sub-category
+
+Brand
+
+Full retail price
+
+Actual (realized) retail price achieved
+
+Retail sales $
+
+Gross margin $ Using a Category Scorecard
+
+Unit volume
+
+An Integrate ““ramewark For Strategic Resource Management - 18
+
+PERFORMANCE GRID
+
+e The L/H quadrant:
+
+— Produces high space productivity, but low inventory productivity
+
+— Here we will increase the space while reviewing the merchandise mix
+
+e The L/L quadrant:
+
+— Produces both low space and low inventory productivity
+
+— Here we are broken and must fix it, reduce the space and reduce the
+
+inventory or change the mix, or we must close it
+
+— In all cases where one or both components are low, we should also
+
+consider a market scoping exercise
+
+Master Matrix Roles and
+
+Measurements
+
+An Integrated Framework For Strategic Resource Management - 17
+
+PERFORMANCE GRID
+
+e The H/H quadrant:
+
+— Superstars which deliver both high space and high
+
+inventory productivity
+
+— The job here is to add both additional space and
+
+additional inventory and assortment
+
+e The H/L quadrant:
+
+— Produces high inventory productivity, but low space
+
+productivity
+
+— Here we keep or reduce the space and increase the
+
+merchandise intensity
+
+Master Matrix Roles and
+
+Measurements
+
+An Integrate ~ramework For Strategic Resource Management - 16
+
+CLASSIFYING DEPARTMENTS IN ONE OR ALL.
+
+STORES
+
+GMROF
+
+Hi 1
+
+|
+
+I
+
+|
+
+|
+
+I
+
+I
+
+xX ;
+
+I
+
+I
+
+I
+
+i
+
+|
+
+I
+
+I
+
+Lo
+
+An Integrated Framework For Strategic Resource Management - 15
+
+Strategic Resource Management Model
+
+Net Sales . | Gross Margin
+
+x
+
+Inventory
+
+Selling Feet
+
+Gross Margin Net Sales = Gross Margin .
+
+E Net Sales x Selling Feet Selling Feet GMROF
+
+x
+
+Selling Feet
+
+FTE Employees
+
+Net Sales _ |_Gross Margin
+
+x FTE Employees| ~ |FTE Employees GMROL
+
+*Also cited as GMROS
+
+; An Integrate” ~“ramework For Strategic Resource Management - 10
+
+Vendor Price
+
+(+) Insurance & Freight
+
+(+) Landing Costs
+
+(-) Discounts
+
+Volume
+
+Seasonal
+
+Cash ...
+
+(-) Allowances
+
+Merchandising
+
+Advertising ...
+
+(=) Cost of Merchandise
+
+(+) Initial Mark-Up
+
+(-) Markdowns
+
+Overstock
+
+End of Season
+
+Wrong Color... ?
+
+Irregular
+
+etc. etc.
+
+(-) Reductions
+
+Shrink
+
+Pilferage
+
+Damage
+
+Errors ...
+
+(=) Final Retail Price
+
+Margin Management In Retailing
+
+Gross Margin
+
+(-) Direct Expenses
+
+(=) Contribution Margin
+
+Gross Margin
+
+(-) Operating Expenses
+
+(=) Net Operating Margin
+
+ot
+
+B
+
+Gross Margin
+
+(-) Direct Expenses
+
+(=) Contribution Margin
+
+(-) Allocable Expenses
+
+(=) Direct Product Profit
+
+An Integrated Framework For Strategic Resource Management - 9
+
+RETAIL TRENDS
+
+e Shortening retail life-cycles
+
+e Value retailing and selling-oriented retailers
+
+— Role of price and brands
+
+e Need to be a Data-Driven Retailer
+
+— Margins and Productivity
+
+— Competition
+
+— Consumers
+
+— Technology and lower price of admission
+
+An Integra’ "Framework For Strategic Resource Management - 2
+
+Wrailaw & Mary
+
+MASON
+
+Scxoo. of Business
+
+An integrated Framework
+
+For Strategic Retail Management
+
+Lawrence J. Ring
+
+Chancellor Professor of Business Administration
+
+757.221.2903
+
+larry.ring@mason.wm.edu
+
+John S. Strong
+
+CSX Professor of Finance & Economics
+
+757.221.2864
+
+john.strong@mason.wm.edu
+
+The College of William & Mary
+
+Williamsburg, Virginia USA
+
+An integrated Framework For Strategic Resource Management - 4
+
+Wiiisam & Mary
+
+MASON
+
+Scuoor of Busiwess
+
+Strategic Resource Management Model Peony.
+
+Z
+
+Net Sal Gross Margi 5 \
+
+et sales = ross Niargin GMROI 2. \
+
+Inventory Inventory LSU
+
+__Inventory _ .
+
+Selling Feet
+
+*
+
+i
+
+Gross Margin
+
+Net Sales
+
+Net Sales . |_Gross Margin /
+
+Selling Feet_| ~ | ~ Selling Feet GMROF* ()
+
+Selling Feet
+
+FTE Employees
+
+Net Sales _ |_Gross Margin a \
+
+FTE Employees} "| FTE Employees GMROL (S
+
+*
+
+i |
+
+(Y
+
+CCE
+
+pow REE ER Lee eee NEE ‘< URE I
+
+*Also cited as GMROS
+
+Retail Productivity Analysis 5
+
+oot,
+
+“on
+
+oy

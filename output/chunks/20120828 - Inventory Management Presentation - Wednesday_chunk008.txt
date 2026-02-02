@@ -1,0 +1,483 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management and Product Assortment
+SUMMARY: This text discusses how attribute mapping and modeling can help in deciding SKUs, balancing breadth vs. depth, and optimizing inventory based on customer needs and sales analytics.
+KEYWORDS: inventory management, product assortment, attribute mapping, product modeling, sales analytics
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+[Slide 107]
+
+Attribute mapping can help decide which SKUs and weigh trade-offs between breadth vs. depth in a category (modeling)
+
+Sales analytics
+
+3
+
+Ergonomics
+
+Performance
+
+Design
+
+3
+
+2
+
+4
+
+Handle type
+
+Anti-adhesive
+
+Deformation
+
+Heat distribution
+
+Cover resistance
+
+Shape
+
+Handle
+
+Finish
+
+Color
+
+Expectation
+
+Options
+
+Rank
+
+Decision criteria
+
+Functional
+
+attributes
+
+Basic/Normal/Ergo
+
+No/Yes/Yes+Relief
+
+Aluminum
+
+Steel & Stainless steel
+
+Coated
+
+Copper
+
+Lacquer/enamel
+
+Lyonnaise/High
+
+Black/silver/metal/color
+
+Gas/elect/vit. ceramic
+
+Basic
+
+Yes
+
+2 mm
+
+Alu
+
+
+
+Lacquered
+
+Lyonnaise
+
+Black
+
+Gas
+
+$
+
+Normal
+
+Yes
+
+2.5 mm
+
+Alu
+
+ 
+
+Lacquered
+
+High
+
+Black
+
+Gas/ elect. / vitro ceramic
+
+$$
+
+Ergo
+
+Yes
+
+3 mm
+
+Alu
+
+  
+
+Enamel
+
+Lyonnaise
+
+Black
+
+Gas/ elect. /
+
+vitro ceramic
+
+$$$
+
+Ergo. + bm
+
+Yes +relief
+
+3.5 mm
+
+Alu
+
+   
+
+Enamel
+
+High
+
+Colored
+
+Induction
+
+$$$$
+
+Entry
+
+Mid
+
+Luxury
+
+High
+
+Type of handle
+
+Anti-adhesive
+
+Thickness
+
+Material
+
+Internal cover
+
+External cover
+
+Shape
+
+Handle color
+
+Cooking mode
+
+Price
+
+Map subcategories against customer types & potential usage
+
+Identify functional attributes and associated options
+
+Stewpot
+
+Pan
+
+High-sided frying pan
+
+Frying pan
+
+Others
+
+Pan
+
+Recrea-tional
+
+cooks
+
+Pro
+
+Usage type
+
+Boil
+
+Fry
+
+Brown
+
+Grill
+
+Stew
+
+Not a priority
+
+example:
+
+frying pans
+
+Steps 1-3: Identify range of potential products for each category based on customer needs
+
+Map functional attributes  to GBB/"triangle" strategy
+
+1
+
+2
+
+3
+
+potential specifications
+
+No substitution between functional attributes
+
+Important to identify potential for substitution among options
+
+Modeling a critical prerequisite to estimation and optimisation, which New Science of Retailing covers in depth
+
+[Slide 108]
+
+Modeling a critical prerequisite for estimation & optimisation
+
+Sales analytics
+
+3
+
+Estimation
+
+Steps 4-6: Mapping customer needs back to product plan
+
+Build initial SKU plan
+
+For each SKU, estimate demand for each based on sales of similar existing products (e.g. have at least 1 attribute in common with new product)
+
+If a new product  is too similar to an old one, question need for it
+
+Treat aSKU as a collection of attributes
+
+Evaluate importance of each collection of attributes and estimate potential substitution between them
+
+Build assortment plan
+
+Number of SKUs constrained by category's available shelf space
+
+Number of SKUs can be determined based on importance of attributes to the customer
+
+Optimisation
+
+Maximise revenue via shifts to the assortment
+
+Calculate estimated substitution between SKUs to refine offering
+
+Use the "greedy rule"  (a method to maximise revenue)
+
+Build a localisation plan
+
+4
+
+5
+
+6
+
+- BACKUP -
+
+[Slide 109]
+
+Within a category, the size curve/intensity is a difficult area to get right, but can result in serious GM$ impact
+
+Sales analytics
+
+3
+
+Best practices
+
+Size curve should be based on sales history
+
+Units purchased need to be evaluated against actual sales
+
+It's important to use cluster analyses, so you can buy better by clusters (e.g. certain regions may have different size curves)
+
+Make sure to map out of stocks when reading sales data – since you can't measure sales of items you did not stock
+
+Note: Many assortment planning programs exist to help plan size curve
+
+Example: Leading apparel retailer
+
+Sales units, '000
+
+Difficult to know true demand, but at $20 margin per pants, an additional 20k units in high demand sizes could have equaled $400k in GM$
+
+Note: Could run a similar analysis for price points
+
+[Slide 110]
+
+Analysing competitor ranges in detail can provide eye-opening gaps in merchandise offerings and pricing strategy
+
+Assortment benchmarks
+
+(sources: store visits and detailed assortment patterning)
+
+Competitor analytics
+
+4
+
+Based on this analysis, Avenue shifted assortment focus to dress category (and away from underperforming knitwear) with a combined GM enhancement of >$12M
+
+[Slide 111]
+
+Localisation is another factor to consider in the planRequires detailed store clustering based on varied attributes
+
+Customer trends
+
+5
+
+Potential clusters, not mutually exclusive, nor exhaustive!
+
+Flagship/Power stores
+
+Add more merchandise variety to top stores
+
+Chanel only sends its fine jewellery collection to a handful of its flagship and best stores
+
+Climate zones
+
+Send different intensities of warm weather vs. cold weather  items to different store clusters
+
+Avenue carries fewer outerwear options and creates more "alts" (short-sleeve versions of long sleeve tops) in its Southern stores
+
+Size of store
+
+Increase or reduce SKU variety and intensity based on store size (superstores vs. small-format stores)
+
+Target Australia carries a much tighter range of merchandise in its "country" stores (about 40% of its network)
+
+Demographics
+
+Vary SKU variety within categories based on ethnic, income, age, etc. demographics of store location
+
+Coles carries ethnic products in different concentrations across network
+
+examples
+
+description
+
+How localised should the assortment be?
+
+[Slide 112]
+
+Example: Macy's dept. store launched "My Macy's" to more systematically vary merchandise across its nearly 900 stores (I)
+
+Downtown Brooklyn, NY
+
+Herald Square, Manhattan, NY
+
+37% white
+
+32% black
+
+20% hispanic
+
+11% asian
+
+33.3% HH have children under 18
+
+median income/HH: $32,135
+
+% pop in poverty: 25%
+
+48% white
+
+25% hispanic
+
+13% black
+
+11% asian
+
+17% HH have children under 18
+
+median income/HH: $47,030, but in some Manhattan zip codes it is >$90,000
+
+race
+
+family
+
+income
+
+Only several km apart, but completely different customers: The same assortment will NOT work!
+
+demographic clustering example: Why it is important
+
+Source: 2010 Census
+
+Customer trends
+
+5
+
+[Slide 113]
+
+Example: Macy's dept. store launched "My Macy's" to more systematically vary merchandise across its nearly 900 stores (II)
+
+Downtown Brooklyn store
+
+Herald Square Manhattan store
+
+Heavier concentration on every day wear
+
+No dedicated formalwear (only seasonal)
+
+No designer floor
+
+Very small footwear section
+
+No home wares section
+
+Carries no luxury designers
+
+Carries certain lines, like Sean John, in more depth (on a relative sq. meter basis)
+
+While cosmetic section has similar sq. meters, fewer premium brands (La Mer, Chanel) on offer
+
+Broad assortment
+
+Several designer floors
+
+Dedicated 'event' section
+
+Special event shop-in-shops (e.g. a Christmas shop around December)
+
+Has luxury brand concessions (such as LV) and designer collaborations (Karl Lagerfeld, Giambattista Valli)
+
+Differentiated category approach
+
+Differentiated brand strategy
+
+demographic clustering example: Why it is important
+
+Customer trends
+
+5
+
+[Slide 114]
+
+Understanding how marketplace trends affect consumers is critical to shifting assortment over time
+
+Apparel example
+
+Customer trends
+
+5
+
+[Slide 115]
+
+Common assortment planning pitfalls

@@ -1,0 +1,226 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Stock Valuation Analysis
+SUMMARY: The text discusses the importance of considering various factors beyond just the price-to-earnings (P/E) ratio when evaluating a company's valuation, such as risk, growth, return on capital, and competitive advantage.
+KEYWORDS: valuation, price-to-earnings ratio, cash flow, competitive advantage, investment analysis
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+industry average, the entire market, or the same company
+
+at another point in time. There is some merit to this
+
+approach, as long as you don’t go about it blindly and you
+
+remember the four main drivers of valuation that I dis-
+
+cussed earlier in the chapter: risk, growth, return on capi-
+
+tal, and competitive advantage.
+
+A company that is trading at a lower P/E than others
+
+in the same industry might be a good value—or it might
+
+deserve that lower P/E because it has lower returns on
+
+capital, less robust growth prospects, or a weaker com-
+
+petitive advantage. The same limitations apply to any
+
+comparison of a single company’s price-earnings ratio
+
+with the average P/E of the whole stock market.
+
+A company with a P/E of 20 relative to the market P/E
+
+of about 18 (as of mid-2007) looks a little pricey; but
+
+what if that company is, say, Avon Products, with a wide
+
+economic moat, 40 percent returns on capital, and robust
+
+growth prospects in emerging markets? Hmm—maybe
+
+the shares are not so pricey after all.
+
+cc1133..iinndddd 117777 11//2288//0088 77::2277::3300 PPMM
+
+[178] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Similar cautions apply when comparing a company’s
+
+current P/E with past price-earnings ratios. It is common
+
+for investors to justify an undervalued stock by declaring,
+
+“The shares are trading at their lowest multiple in a decade!”
+
+(I’ve done this more than a few times myself.) All else being
+
+equal, a company trading for 20 times earnings that has his-
+
+torically traded for 30 to 40 times earnings sounds like one
+
+heck of a deal—as long as it has the same growth prospects,
+
+returns on capital, and competitive position. But if any of
+
+those attributes has changed, then all bets are off. Past per-
+
+formance may not guarantee future results, after all.
+
+L ess Popular, but More Useful
+
+Finally, there’s my favorite price multiple, which uses cash
+
+flow from operations in the denominator, rather than earn-
+
+ings. Without getting into the gory accounting details,
+
+cash flow can present a more accurate picture of a compa-
+
+ny’s profit potential because it simply shows how much
+
+cash is flowing in and out of a business, whereas earnings
+
+are subject to a lot of adjustments. For example, publish-
+
+ers usually have higher cash flow than earnings, because
+
+people pay for a year’s worth of magazines before they
+
+actually receive them. By contrast, a business that that sells
+
+stuff on credit—say, a store selling plasma TVs—will have
+
+higher earnings than cash flow, because the store will record
+
+earnings as soon as you walk out the door with the TV,
+
+cc1133..iinndddd 117788 11//2288//0088 77::2277::3300 PPMM
+
+TOOLS FOR VALUATION [179]
+
+even though it won’t get your cash until you send in your
+
+monthly installment payments.
+
+As you might guess, it’s pretty nice when your cus-
+
+tomers pay you b efore you have to do anything for them.
+
+Businesses with this characteristic—often subscription-
+
+based—tend to have higher cash flow than earnings, so
+
+while they may look expensive using a P/E ratio, they can
+
+look much more reasonably priced using a ratio of price to
+
+cash flow. (More often than not, these kinds of businesses
+
+also have high returns on capital.) For example, the com-
+
+pany I used as an example in the previous chapter, Corpo-
+
+rate Executive Board, typically reports about 50 percent
+
+more cash flow than earnings each year.
+
+The ratio of price to cash flow is also useful because
+
+cash flow tends to be a bit steadier than earnings; for exam-
+
+ple, it is not affected by noncash charges that come from a
+
+corporate restructuring or an asset write-down. Also, cash
+
+flow takes capital efficiency into account in some ways,
+
+because companies that need less working capital to grow
+
+will usually have higher cash flow than earnings. One thing
+
+cash flow does not do is take depreciation into account, so
+
+asset-intensive companies will often have higher cash flow
+
+than earnings, which can overstate their profitability because
+
+those depreciated assets will need to be replaced someday.
+
+That’s it for the four most common multiples, the
+
+first type of tool in our valuation kit. A second useful
+
+cc1133..iinndddd 117799 11//2288//0088 77::2277::3311 PPMM
+
+[180] THE LITTLE BOOK THAT BUILDS WEALTH
+
+group of tools is yield-based valuation metrics, which are
+
+great because we can compare them directly to an objec-
+
+tive benchmark—bond yields.
+
+Say Yes to Yield
+
+If we turn the P/E on its head and divide earnings per
+
+share by a stock’s price, we get an earnings yield. For
+
+example, a stock with a P/E of 20 (20/1), would have an
+
+earnings yield of 5 percent (1/20), and a stock with a P/E
+
+of 15 (15/1) would have an earnings yield of 6.7 percent
+
+(1/15). With 10-year Treasury bonds trading for about
+
+4.5 percent in mid-2007, those both look like reasonably
+
+attractive rates of return relative to bonds. Of course,
+
+you’re not guaranteed to receive the investment returns
+
+on those two stocks, whereas the T-bond is backed by
+
+Uncle Sam, a fairly trustworthy guy. However, you’re
+
+balancing out the additional risk with something positive:
+
+The earnings stream from a company will generally grow
+
+over time, whereas the bond payments are fixed in stone.
+
+Life is full of trade-offs.
+
+We can improve on an earnings yield with a neat little
+
+measure called the cash return, which is simply the annual
+
+cash yield you’d get if you bought a company, paid off all
+
+its debt, and kept the free cash flow. Going back to our
+
+apartment-building analogy from the preceding chapter,
+
+think of cash return as the income stream, as a percentage
+
+cc1133..iinndddd 118800 11//2288//0088 77::2277::3311 PPMM
+
+TOOLS FOR VALUATION [181]
+
+of the purchase price, that you might get from owning an
+
+apartment building outright after paying for maintenance
+
+and upkeep. Cash return tells us how much free cash
+
+flow a company is generating relative to the cost of buy-
+
+ing the whole company, including its debt burden.
+
+This measure improves on the earnings yield because it

@@ -1,0 +1,184 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Technology and Personalization
+SUMMARY: Retailers can deploy smart shelves that can understand shopper emotions and have natural language conversations to provide personalized product recommendations and information.
+KEYWORDS: smart shelves, natural language processing, personalization, retail technology, customer experience
+---
+
+deploy infrastructure that can assess and understand the current emotional state of a shopper.
+
+7.7 CONVERSATIONS WILL BECOME NATURAL
+
+Computers will soon be able to communicate with people in a way that is natural to us humans, rather
+
+than in a way that is suitable for computers. Computing is going to become much more natural.
+
+Computers will be able to see and understand the world. They will understand objects and people and
+
+the relationships between them. They will be able to hear and understand natural human language,
+
+sense emotional states, and understand and appreciate context. And since shelves will soon become
+
+computers, shelves will be capable of all these things too.
+
+Imagine a future interaction with a shopper, talking to a “natural” smart shelf:
+
+Jack: “Shelf, where can I find basmati rice?”
+
+Shelf: “Hi Jack, it’s on aisle 3, highlighted in yellow. You’ll also find Tikka Masala sauce on the
+
+shelf above, 20% off today.”
+
+Jack then walks to aisle 3 and sees the shelf area with basmati rice lit up in yellow. The shelf took a leap,
+
+based on Jack’s previous purchase history, and offered a personalized suggestion for a sell-up item, in
+
+this case Tikka Masala sauce.
+
+For the merchandising of some product categories, perhaps high-value or newly-launched products,
+
+retailers may choose to use a natural shelf with speech or display capabilities that could provide on-
+
+demand information on the products being displayed.
+
+A natural shelf could respond to queries like: “Show me how easy this is to install”, or “What does this
+
+look like in orange?” These types of conversations could help move shoppers a step closer towards
+
+purchase.
+
+63
+
+Natural shelves might also give the shopper an option to connect with a human who is able to answer
+
+queries on the product and aid the sale. This connection could use audio, video, or even use avatars.
+
+This latter technology might be of particular interest to retailers selling products for children, allowing
+
+the child to interact with their favorite cartoon character as they learn about a new book.
+
+Challenge: Retailers will need to understand the range of questions and concerns that typically stand
+
+between a shopper and purchase, and ensure these are fully comprehended in the shelf’s software
+
+algorithms.
+
+Challenge: Some retailers may choose to differentiate by creating compelling interactive experiences in
+
+their stores designed to engage the shopper and help them choose. Retailers will need to understand
+
+the rapid advances being made in natural computing interfaces (speech, gesture, context etc.) and build
+
+their deployment strategies accordingly. They should experiment early on to properly understand the
+
+ROI of deploying such technology and the advantage it can give them in the marketplace. Retailers could
+
+initially test deployments in high-touch product categories as a way to truly stress test the capabilities of
+
+the technology and understand areas for future innovation.
+
+7.8 GOING BEYOND CONVERSATIONS
+
+As well as facilitating the conversation between manufacturers and shoppers, some smart shelves will
+
+also be able to perform a range of other functions including:
+
+ Loss prevention – Cameras and other sensors in the shelf could offer closer monitoring of
+
+larcenous shoppers.
+
+ Sample management – Smart shelves could include mechanisms to offer and dispense samples
+
+to targeted shoppers.
+
+ Asset management and Inventory management – Sensors in the shelf could constantly report
+
+inventory levels for products they are showcasing, and also potentially for products across the
+
+aisle using machine vision technology.
+
+Once the base platform of the intelligent shelf has been established, and a set of standards emerge,
+
+developers will continue to dream up a set of exciting new capabilities for retailers that will help
+
+improve the shopper experience, create new value for manufacturers, enable the provision of new
+
+revenue-generating services, and that improve the competitiveness and profitability of the store.
+
+Challenge: Retailers should find ways to engage third party developer communities and invite them to
+
+imagine and build new applications for their smart shelving platforms. This might include the hosting of
+
+“Hack-a-thon” events designed to brainstorm and quickly prototype new uses that can then be quickly
+
+tested and if successful moved into production.
+
+64
+
+7.9 A TIERED HIERARCHY OF SHELVES
+
+Perhaps one of the more interesting use cases for deploying smart shelves is one that connects together
+
+many shelves in a tiered network. This is a more distant future scenario but still worth discussing in the
+
+context of this futurecasting report.
+
+A shelf network would include shelves:
+
+ In the home, both in the fridge and in the pantry
+
+ In the local neighborhood convenience store
+
+ In big box stores
+
+ In distribution centers and warehouses (these could be distribution centers that feed physical
+
+stores, or pure play online stores)
+
+By fully instrumenting shelves, right down into the home, a new generation of algorithms could be
+
+created that would anticipate demand and optimize the position of products within the supply chain.
+
+This would increase availability, reduce spoilage, and limit inventory mark downs.
+
+It would then be possible to anticipate local community demand not just by looking to historical
+
+consumption patterns but by understanding the real time in-home consumption of local residents.
+
+Further, if residents opted in to a secure, perhaps anonymized service to share their calendars, this
+
+aggregated demand forecast could also take into account the travel schedules of shoppers. High security
+
+and the guarding of privacy would be essential in this scenario.
+
+A set of networked, instrumented shelves
+
+might also enable a new set of neighborhood
+
+focused sharing services, embracing the
+
+sharing economy at the local community level.
+
+The “I need to borrow a cup of sugar” model
+
+of old could be facilitated as an opt-in
+
+neighborhood service for community-
+
+oriented neighbors that chose to participate.
+
+Need an onion? The system could let you
+
+know that neighbor Alice has seven and
+
+probably won’t eat them all, facilitate a
+
+request, and even handle cross-billing so that
+
+Alice got paid for her onion.
+
+A smart, connected recipe system connected
+
+into this tiered shelving system could suggest
+
+menus optimized around the ingredients

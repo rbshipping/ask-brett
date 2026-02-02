@@ -1,0 +1,162 @@
+SOURCE: HBS_The Whys and Hows of Feedback.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Feedback Delivery
+SUMMARY: The text discusses how feedback delivery can be shaped by cultural differences and the performance of the employee, with recommendations on calibrating language and structuring feedback sessions.
+KEYWORDS: feedback delivery, cultural differences, performance reviews, sandwich technique
+---
+
+upgraders, words preceding or following negative feedback that make it feel stronger,
+
+such as absolutely, totally, or strongly: “This is absolutely inappropriate,” or “This is
+
+totally unprofessional.” By contrast, more indirect cultures use more downgraders, words
+
+that soften the criticism, such as kind of, sort of, a little, a bit, maybe, and slightly. Another
+
+type of downgrader is a deliberate understatement, such as “We are not quite there yet”
+
+when you really mean “This is nowhere close to complete.”35
+
+Paying attention to linguistic cues can help managers calibrate their language to ensure that their
+
+feedback is heard as intended, and that they themselves hear the intended messages in the feedback
+
+they receive.
+
+Feedback: How to Run a Session
+
+A common practice in feedback sessions, especially formal performance reviews, is the “sandwich
+
+technique” of beginning and ending the session with praise, and confining the negative comments to
+
+the middle. For example, Jone L. Pearce recommends that managers “Try to begin and end with areas
+
+of success” in a formal performance evaluation.36 The exact recipe of the “sandwich,” however, varies
+
+33 James R. Bailey, Chao C. Chen, and Sheng-Gong Dou, “Conceptions of Self and Performance-Related Feedback in the U.S.,
+
+Japan and China,” Journal of International Business Studies 28, no. 3 (1997): 605-625.
+
+34 Mary F. Sully De Luque and Steven M. Sommer, “The Impact of Culture on Feedback-Seeking Behaviors: An Integrated Model
+
+and Propositions,” Academy Of Management Review 25, no. 4 (2000): 829-849.
+
+35 Erin Meyer, “How to Say ‘This Is Crap’ in Different Cultures,” Harvard Business Review blog, https://hbr.org/2014/02/how-
+
+to-say-this-is-crap-in-different-cultures/, February 25, 2014, accessed May 22, 2015.
+
+36 Jone L. Pearce, Organizational Behavior: Real Research for Real Managers, p. 103.
+
+10
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+The Whys and Hows of Feedback 416-013
+
+depending on the quality of the employee. There is no point in nitpicking the mistakes of an excellent
+
+performer, or of trying to find some upside to a record of underperformance.
+
+Feedback sessions with poor performers need to be handled differently from those with excellent-
+
+to-acceptable performers. Grote created a matrix of performance based on performance results and
+
+behaviors (“behaviors” meaning general collegiality, ethics, cultural fit, and other intangibles that may
+
+not affect the quality of the work but may have great impact on the quality of the workplace) to
+
+categorize the five types of employees:
+
+Poor Results Average Great Results
+
+Great Behavior Lovable Loser Star
+
+Average Journeyman
+
+Poor Behavior Failure Prima Donnas
+
+Source: Dick Grote, How to Be Good at Performance Appraisals (Boston: Harvard Business Review Press, 2011).
+
+Feedback for stars and journeymen—the solid B-level performers who keep an organization
+
+running—should focus primarily on motivating and energizing the employee. High-performing
+
+employees are usually self-motivated and willing to bring up their own shortcomings in a performance
+
+review, assuming they know what those shortcomings are. This is an important caveat. Managers may tend to
+
+avoid giving negative feedback to generally good employees whom they like, overlooking areas for
+
+improvement or possible misalignment with the organization. Such managers assume that because of
+
+their collegial relationships, the liked employees will seek out feedback, and more importantly, know
+
+what feedback they need. This can be a problem when organizational goals change or an employee is in
+
+difficult circumstances.37 A manager should not feel the need to come up with picayune shortcomings or
+
+mistakes in order to “balance” a good worker’s performance review, but should also keep a keen eye out
+
+for errors or lapses that might signify a lack of alignment or capacity.
+
+Failures, lovable losers, and prima donnas, however, need a sharp wake-up call. The balance to be
+
+struck is to make a clear case for “the need for an immediate and total turnaround if the person is to
+
+remain employed,”38 while not evoking excessive defensiveness. Avoid looking for a bright side where
+
+none exists, or mentioning the employee’s strengths, as some positive comments can be latched on to
+
+by an underperformer. At the same time, focus on specific actions rather than personal qualities. Pearce
+
+advises managers confronting underperforming employees to “describe the effects of the action. For
+
+example, ‘When you do [describe the action] it leads to [describe the negative consequences for the
+
+organization].’ Practice this; it works.”39 The main focus of the feedback session is to achieve agreement
+
+between the manager and employee on the existence of the action and consequence, and to begin
+
+problem solving: “Performance feedback works best when it is a conversation about causes—a
+
+conversation about how to fix the problems.”40
+
+37 Susan M. Adams, “Positive Affect and Feedback-Giving Behavior,” Journal of Managerial Psychology 20, no. 1 (2005): 24-42.
+
+38 Dick Grote, How to Be Good at Performance Appraisals, p. 159.
+
+39 Jone L. Pearce, Organizational Behavior: Real Research for Real Managers, p. 93.
+
+40 Jone L. Pearce, Organizational Behavior: Real Research for Real Managers, p. 92.
+
+11
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+The remainder of this section will provide a basic outline for a formal or semi-formal feedback
+
+session, outlining what to do and things to keep in mind before, during, and after the session.
+
+Before the session
+
+Get logistics, paperwork, and data in order
+
+Giver Recipient
+
+Allow 45–60 minutes for a feedback session. Fill out any required paperwork. Create a list of
+
+Avoid having anything inflexible scheduled your main accomplishments during the most
+
+immediately after a feedback session, in case recent period (whether this is asked for or not).
+
+things run long. List two or three areas for improvement, as well.
+
+Do not attempt to do a performance appraisal In addition to discrete accomplishments, spend
+
+over the phone or through email. It is important some time reflecting on your overall

@@ -1,0 +1,36 @@
+SOURCE: kotter_in_johnkotter.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Leadership Biography
+SUMMARY: This LinkedIn profile of John Kotter, a renowned expert on leadership and change management, provides insights into his background and expertise.
+KEYWORDS: John Kotter, Leadership, Change Management, Biography, LinkedIn Profile
+---
+
+[Document: kotter_in_johnkotter.txt]
+
+TITLE: John Kotter LinkedIn Profile
+
+SOURCE: https://www.linkedin.com/in/johnkotter/
+
+============================================================
+
+LinkedIn profiles require authentication to access.
+
+To add this content:
+
+1. Log into LinkedIn
+
+2. Visit: https://www.linkedin.com/in/johnkotter/
+
+3. Copy relevant sections (About, Experience, Articles, etc.)
+
+4. Replace this placeholder with the copied content
+
+Key information to capture:
+
+- Professional summary/about section
+
+- Recent posts about change management
+
+- Published articles
+
+- Key career highlights

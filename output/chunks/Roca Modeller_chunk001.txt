@@ -1,0 +1,192 @@
+SOURCE: Roca Modeller.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Store Operations
+SUMMARY: This text covers various aspects of retail store management, including sales, traffic, pricing, purchasing, inventory, and team management.
+KEYWORDS: Retail Operations, Store Management, Merchandising, Inventory Control, Employee Management
+---
+
+STORE MANAGER
+
+MERCH COORDINATOR
+
+TEAM MEMBER
+
+SALES & COGS What How What How What How
+
+STORE r Marketing & Community Initiatives Community & DIY Engagement Clearly Stated Strategy Merchandise Best Practise Sell & Crass Sell Greet with Friendly Smile
+
+TRAFFIC 1 Retail vs, Trade Drive Store Traffic Flawless Operational Execution Catalogue Tie Up Floor Side Stacks / Clip Strips Average Sale Value Acknowlege Customers
+
+SALES MIX { Merchandising & Space Utilisation Strategy (Price, Range & Service) Maintain Consistency No Stock Outs Power Ends Housekeeping & Price Integrity Helpful Accurate Advise
+
+( Price Point Merchandising & Current Pricing Execution Performance Oriented Culture Customer Service CAT Audits Merchandising and Ticketing No Stock Outs
+
+PRICING Price Value Perceptions - Competitior Shopping Culture Fast, Flat & Flexible Structure Speciai Orders OS Reports - Min / Max's Control Shrink ‘Thank the Customer
+
+( Stock intensity - Width and Depth of Range Structure Work the Value Chain Shrinkage Ticketing Increase Gross Profit Merchandising Management
+
+SALESIZE < Price Point Merchandising & Current Pricing Innovation Price Integrity Range reviews Merchandise Training
+
+Category Management & Managing Ends Purchase Ordering Store Use guides
+
+Suppliers - On Range / Off Range Margin Management Price Override
+
+PURCHASING 4
+
+Inventory Management - Storage & Ordering PLU Audit Update of Labels
+
+‘Loss Prevention - Area Strategies Preferred Suppliers
+
+SHRINKAGE { Damage - Write offs & Store Use Refund Policy
+
+Stocktake - Frequency & Accuracy
+
+SELLING EXPENSES
+
+Rostering (Mix & Hours) Drive Performance Inspire Action Rostering TMS / Bank of Hours Roster Compliance & Sign On TMS Roster
+
+Managers Build Trust Coach Leadership Group BSafe Management Housekeeping & in Store SIT Safety - Policies & Procedures Safety
+
+TEAM
+
+MEMBERS
+
+Safety - Workers Compensation Develop Team Members Direct Energy & Focus Hazardous Goods Manual Handling Safety - Nobody Gets Kurt Meetings
+
+Training / Skills - Service levels High Performance Culture Passionate, Motivated, Involved Development Injury Register Service Intensity Empowerment, V&V
+
+{Preferred Suppilers Talent Management Empowered Reward & Recognition Leadership Model Delivery Mainfest Policies & Procedures Manual
+
+nee ~ ‘Transport Charge & Recovery Compliance Communicate ‘Rules of the Game’ — Performance Management Training / Coaching Processing - Sales / Goods Inward
+
+Admininistration Audit & Compliance Enforce Compliance - “the 1%ers" Appraisals / Feedback
+
+CONTROLLABLE ASSETS:
+
+Category Management Width & Depth of Range Monitor Stock Levels Width & Depth of Range Min & Max Management Maintain Width & Depth of Range Min & Max Management
+
+Top Stock Management Good Stock Turns Stock Turn Analysis Stock movement SKU Maintenance Stock movement SKU Maintenance
+
+TNVENTORY Deleted Stock Management Forecast Seasona! Requirements Develop Stock Strategies ‘Supplier / Vendor Management Stock Turn & Stock Levels Supplier / Vendor Management Stock Tur & Stock Levels
+
+In Stock Maintenance ‘Local Trading Strategy Analysis Fixed Assets Deleted Stock / Top Stock Deleted Stock / Top Stock
+
+40 Top Sellers 40 Top Sellers
+
+ASSETS Write Off off Fixed Assets
+
+FIXED { Review of Fixed Asset Register
+
+Asset management
+
+ROCA MODEL
+
+LOCATION CODE 4025 Monthly Proposed Current —-% Change
+
+3un-07 Dec-07 TPR 47.30 47.30
+
+GMROT 2.43 2.45 1.85 = ¥i2 Total Sales # of Transactions - 804,055 804,055
+
+GMROL 127,353 «126,419 «134,473 38,032,683 30,032,683
+
+GMROF 4138 1,425 - Riz Hirst Margin =
+
+tavinbinee F4%
+
+ROCA 111.83% 107.09% 50.00% 13,260,822 | (0,00)% 96.29
+
+2 RL
+
+{)
+
+96.29
+
+STOCK TURN 4.99 5.06 - # of Transactions
+
+CREDIT SALES
+
+27,767
+
+2,673,576
+
+22,767 -
+
+2,673,576
+
+6,698,171 > COST OF GOODS SOLD 27,445,437 27,445,437
+
+Cash Gross Profit 35.13%
+
+31.25%
+
+175%
+
+35.13%
+
+RL Co:
+
+5,087,613 - Credit Gross Profit 31.25%
+
+175%
+
+2. EBIT.
+
+ER: is
+
+4,610,558 - 105 205
+
+48,502
+
+48,502
+
+5,418,674 2,422,851 2,422,851
+
+151,654
+
+151,654
+
+Workers Compensation 402,091
+
+60,289
+
+64,403
+
+402,091
+
+60,289
+
+64,403
+
+285,562
+
+56,961
+
+Other Selling Exp (Variable) - (454,264) (154,264) -
+
+107.09%
+
+Transport Out
+
+285,562
+
+Repairs and Maintenance 56,961
+
+Peet) pee
+
+Other Selling Exp (Fixed) 1,840,565 3,840,565 .
+
+1,326,149
+
+1,326,349
+
+5,418,674 5,418,674
+
+BENCHMARK STORES GMROI GMROL GMROF ROCA STOCK TURN $,187,475 5,157,475
+
+4025 2.45 126,419 1,125 107.09%% 5.06 261,199 261,199
+
+4040 2n 123,694 953 61.31% 4.45 4.82% 4.82%
+
+4056 2.40 129,121 982 84.12% 4.37
+
+709,712 709,742

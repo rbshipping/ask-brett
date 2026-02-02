@@ -1,0 +1,200 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: The text analyzes the potential for Xerox to disrupt Hewlett-Packard's printer business through a low-end or new-market disruption strategy.
+KEYWORDS: disruptive innovation, low-end disruption, new-market disruption, printer industry, Xerox, Hewlett-Packard
+---
+
+can earn attractive
+
+returns at the
+
+discount prices
+
+required to win
+
+business at the low
+
+end of the market.
+
+New Market
+
+Disruptions
+
+Results in lower
+
+performance in
+
+“traditional”
+
+attributes, but
+
+improved
+
+performance in new
+
+attributes — typically
+
+simplicity and
+
+convenience,
+
+Business model must
+
+make money at
+
+lower price per unit
+
+sold, and at unit
+
+production volumes
+
+that initially will be
+
+small emerging
+
+market. Gross
+
+margin dollars per
+
+unit sold will be
+
+significantly lower.
+
+Could Xerox Disrupt Hewlett-Packard?
+
+We don’t actually know if Xerox has considered the possibility of creating a new
+
+business of the sort we will examine here, and we use the companies’ names only to make the
+
+example more vivid. We’ve based this scenario solely on information from public sources.
+
+Xerox reportedly has developed outstanding ink-jet printing technology. What can it do with it?
+
+It could attempt to leapfrog Hewlett-Packard by making the best ink-jet printer on the market.
+
+Even if it could make a better printer, however, Xerox would be fighting a battle of sustaining
+
+technology against a company with superior resources and more at stake. HP would win that
+
+fight. But could Xerox craft a disruptive strategy for this technology? We’ll test the conditions
+
+for a low-end strategy first.
+
+To determine whether this strategy is viable, Xerox’s managers should test whether
+
+customers in the lowest market tiers might be willing to buy a “good enough” printer that is
+
+cheaper than prevailing products.”! At the highest tier of the market, customers seem willing to
+
+pay significantly more for a faster printer that produces sharper images. However, consumers in
+
+the less-demanding tiers are becoming increasingly indifferent to improvements. It is likely they
+
+would be interested in lower-cost alternatives. So the first question gets an affirmative answer.
+
+The next question is whether Xerox could define a business model that could generate
+
+attractive returns at the discounted prices required to win business at the low end. The
+
+possibilities here don’t look good. HP and other printer companies already outsource the
+
+fabrication and assembly of components to the lowest-cost sources in the world. HP makes its
+
+money selling ink cartridges—whose fabrication also is outsourced to low-cost suppliers. Xerox
+
+could enter the market by selling ink cartridges at lower prices, but unless it could define an
+
+overhead cost structure and business processes that would allow it to turn assets faster, Xerox
+
+could not sustain a strategy of low-end disruption.”
+
+This means we’ll need to evaluate the potential for a new-market disruption—competing
+
+against non-consumption. Is there a large, untapped population of computer owners who don’t
+
+have the money or skill to buy and use a printer? Probably not. Hewlett-Packard already
+
+competed successfully against non-consumption when it launched its easy-to-use, inexpensive
+
+ink-jet printers.
+
+What about enticing existing printer owners to buy more printers, by enabling
+
+consumption in a new, more convenient context? Now, this might be achievable. Documents
+
+created on notebook computers are not easy to print. Notebook users have to find a stationary
+
+printer and connect to it either over a network or a printer cable, or they must transfer the file via
+
+removable media to a computer that is connected to a printer. If Xerox incorporated a
+
+lightweight, inexpensive printer into the base or spine of a notebook computer so that people on
+
+the go could get hard copies when and where they needed them, the company could probably
+
+win customers even if the printer wasn’t as good as a stationary ink-jet printer. Only Xerox’s
+
+engineers could determine whether the idea is technologically feasible. But as a strategy, this
+
+would pass the litmus tests.
+
+If Xerox attempted this, we would expect HP to ignore this new-market disruption at the
+
+outset because the market would be much smaller than the stationary printer market. HP’s printer
+
+business is huge, and the company needs large sources of new revenue to sustain its growth. To
+
+1-16
+
+trap Hewlett-Packard in an innovator’s dilemma, Xerox should develop a business model that’s
+
+attractive to Xerox but unattractive to the managers of HP and other leading established printer
+
+companies. This might entail pricing ink cartridges for embedded notebook printers low enough
+
+that the executives of HP’s ink jet printer business would find the market unattractive relative to
+
+investments they might make to move up-market in search of the higher profits they could find
+
+by competing against higher-cost stationary laser printers.
+
+Conditions for Growth in Air Conditioners
+
+The window-mounted air conditioner market is widely known to be mature, dominated
+
+by giants such as Carrier and Whirlpool. Could a company like General Electric wallop them?
+
+We would predict GE’s defeat if it tried to enter this market with a quieter product that offered
+
+more features and better energy efficiency.”? Is a low-end disruption viable? Our sense is that
+
+there are overserved customers at the low end of the existing market. They signal their
+
+overservedness by opting for the least-expensive models they can find, unwilling to pay premium
+
+prices for the alternative products that are available to them. GE might expand its already
+
+substantial manufacturing operations in China, making air conditioners for export to developed
+
+economies. This might bring modest but temporary success, because after the established
+
+companies respond by setting up their own manufacturing operations in China, GE would find
+
+itself locked in a battle with competitors whose costs are comparable and whose distribution and
+
+service infrastructure are strong, and where the targeted customers already have manifested an
+
+unwillingness to pay premium prices for better products. Employing low-cost labor constitutes a
+
+low-cost business model only until competitors avail themselves of the same option.
+
+How about a new-market disruption, however? There are hundreds of millions of non-
+
+consumers of residential air conditioning in China, who have been blocked from that market
+
+because the power-hungry, expensive machines that historically have been available don’t fit in
+
+the average family’s pocketbook or apartment. If GE could design a $49.95 product that would
+
+easily slip into the window of a cramped Shanghai apartment and reduce the temperature and

@@ -1,0 +1,160 @@
+SOURCE: Leadership Contact Sport.pdf
+SUBFOLDER: Additional\HFT\2021
+TOPIC: Leadership Development Programs
+SUMMARY: This text analyzes various companies' leadership development programs, including details on program size, international representation, and feedback methods.
+KEYWORDS: leadership development, 360-degree feedback, high-potential leaders, coaching, training
+---
+
+[Document: Leadership Contact Sport.pdf]
+
+focused on the development of high-potential leaders,
+
+and between 73 and 354 participants were involved in
+
+their programs. The three other companies included
+
+almost all managers (above midlevel), and involved
+
+between 1,528 and 6,748 managers. The degree of inter-
+
+national representation varied among organizations. At
+
+two companies, almost all of the participants were
+
+American. Non-U.S. executives made up almost half of
+
+the participants in one company’s program. The other
+
+five had varying levels of international participation.
+
+Some of the companies used traditional classroom-
+
+based training in their development effort. In each of
+
+these companies, participants would attend an offsite
+
+program and receive instruction on what the desired
+
+characteristics were for leaders in their organizations, Each participant received mini-survey summary
+
+why these characteristics were important, and how feedback from three to 16 co-workers. Colleagues were
+
+participants might better align their own leadership asked to rate the participants’ increased effectiveness in
+
+behavior with the desired model. Some companies, by the specific selected behaviors as well as participants’
+
+contrast, used continuing coaching, a methodology that overall increase (or decrease) in leadership effectiveness.
+
+did not necessarily involve offsite training, but did rely Co-workers were also asked to measure the degree of
+
+on regular interaction with a personal coach. Some com- follow-up they had with the participant. In total, we col-
+
+panies used both offsite training and coaching. lected more than 86,000 mini-survey responses for the
+
+Along with differences, there were commonalities 11,480 managers who participated in leadership
+
+among the programs. Each company had spent exten- development activities. This huge database gave us the
+
+sive time reviewing the challenges it believed its leaders opportunity to explore the points of commonality and
+
+would uniquely face as its business evolved. Each had distinction among these eight very different leadership
+
+developed a profile of desired leadership behaviors that development efforts.
+
+had been approved by upper management. After ensur- Three of the organizations permitted their names to
+
+ing that these desired leadership behaviors were aligned be used in articles or conference presentations, enabling
+
+with the company vision and values, each company us to reference them in this report; the rest have request-
+
+developed a 360-degree feedback process to help leaders ed anonymity, although we are able to describe their sec-
+
+73
+
+understand the extent to which their own behavior (as tor and activities. Two of the organizations also have
+
+perceived by co-workers) matched the desired behavior allowed their results to be published elsewhere, without
+
+for leaders in the corporation. All eight placed a set of disclosure of the organization’s name. The companies
+
+expectations upon participants. The developing leaders whose programs we studied were:
+
+were expected to: • An aerospace/defense contractor: 1,528 managers
+
+• Review their 360-degree feedback with an inter- (ranging from midlevel to the CEO and his team)
+
+nal or external consultant. received training for two and a half days. Each person
+
+• Identify one to three areas for improvement. reviewed his or her 360-degree feedback in person with
+
+• Discuss their areas for improvement with key an outside consultant. All received at least three
+
+co-workers. reminder notes to help ensure that they would follow up
+
+• Ask colleagues for suggestions on how to increase with their co-workers.
+
+effectiveness in selected areas for change. • A financial-services organization: At GE Capital,
+
+• Follow up with co-workers to get ideas for 178 high-potential managers received training that last-
+
+improvement. ed five days. Each leader was assigned a personal human
+
+• Have co-worker respondents complete a confi- resources coach from inside the company. Each coach
+
+dential custom-designed “mini-survey” three to 15 had one-on-one sessions with his or her client on an
+
+months after the start of their programs. ongoing basis (either in person or by phone).
+
+content
+
+management
+
+• An electronics manufacturer: 258 upper-level co-workers in the mini-surveys. The first five firms —
+
+managers received in-person coaching from an external the aerospace/defense contractor, GE Capital, the elec-
+
+coach. They did not attend an offsite training program. tronics manufacturer, the diversified services company,
+
+They were then each assigned an internal coach who had and the media company — used a seven-point scale,
+
+been trained in effective coaching skills. This coach fol- from –3 to +3, to measure perceived change in leader-
+
+lowed up with the managers every three to four months. ship effectiveness, and a five-point scale to plot the
+
+• A diversified services company: 6,748 managers amount of follow-up, ranging from a low of “no follow-
+
+(ranging from midlevel to the CEO and his team) up” to a high of “consistent or periodic follow-up.”
+
+received one-on-one feedback from an external coach They then compared the two sets of measurements by
+
+during two training programs, each two and a half days plotting the effectiveness scores and the follow-up tallies
+
+long, which were conducted 15 months apart. Although on charts.
+
+there was no formal follow-up provided by the coach, The remaining three firms used slightly different
+
+participants knew they were going to be measured on measurement criteria. The telecommunications compa-
+
+their follow-up efforts. ny used a “percentage improvement” scale to measure
+
+• A media company: 354 managers (including the perceived increases in leadership effectiveness, as judged
+
+CEO and his team) received one-on-one coaching and by co-workers. It then compared “percentage improve-
+
+feedback during a one-day program. An external coach ment” on leadership effectiveness with each level of
+
+provided follow-up coaching every three to four follow-up. Johnson & Johnson and Agilent measured
+
+months. leadership improvement using the same seven-point
+
+• A telecommunications company: 281 managers scale employed by the first five companies, but they did
+
+(including the CEO and his team) received training not categorize the degree of follow-up beyond the sim-
+
+for one day. Each leader was given an external coach, ple “followed up” vs. “did not follow up.”
+
+who had continuing one-on-one sessions with his or As noted earlier, follow-uphere refers to efforts that
+
+her client. leaders make to solicit continuing and updated ideas for
+
+• A pharmaceutical/health-care organization: John- improvement from their co-workers. In the two compa-

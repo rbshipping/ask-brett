@@ -1,0 +1,222 @@
+SOURCE: Total Retail 2015 PwC report.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Industry Disruption
+SUMMARY: The report examines four key disruptive forces in the retail industry, including the evolving role of physical stores, the impact of mobile technology, the proliferation of social networks, and demographic shifts.
+KEYWORDS: retail disruption, physical stores, mobile technology, social networks, demographic shifts
+---
+
+www.pwc.com/totalretail
+
+#TotalRetail
+
+Total Retail 2015:
+
+Retailers
+
+and the Age
+
+of Disruption
+
+PwC’s Annual
+
+Global Total Retail
+
+Consumer Survey
+
+February 2015
+
+As online shopping continues
+
+to grow at the expense of store
+
+visits, the premium in the future
+
+will be on creating unique,
+
+brand-defining experiences that
+
+keep customers coming back—
+
+whatever the channel.
+
+Contents
+
+Executive Summary 1
+
+Disruption 1: The changing role of the store 5
+
+Disruption 2: Mobile and related technologies 11
+
+Disruption 3: The proliferation of social networks 19
+
+Disruption 4: Demographic shifts 25
+
+Conclusion 27
+
+Endnotes 28
+
+Survey Methodology 30
+
+More Information 31
+
+iii
+
+iv
+
+Executive summary
+
+Retailers and the Age
+
+of Disruption
+
+In last year’s Total Retail report, I referred Four disruptive forces As my PwC colleague and the leader of
+
+to the high bar that participants in PwC’s This year’s report expands on this total our U.S. Retail & Consumer Practice,
+
+global online shopper survey had set for retail discussion and delves into four Steve Barr, puts it: “From in-store design
+
+retailers worldwide. In the 12 months retail disruptors. Our first disruptor, the studios and personal shopping assistants
+
+since, that bar has been raised higher still– evolution of the store, can be thought of to coffee and tea ateliers, retailers are
+
+but customer expectations are really just more as a business model evolution. Our offering a comprehensive experience,
+
+part of the story for retailers in 2015. second and third disruptors—mobile evolving into something sleeker, more
+
+technology and social networks—are customized and increasingly attuned to
+
+In fact, the environment for retailers technological. A fourth—demographic shoppers’ expectations of what the in-store
+
+has never been more complex. In this shifts—is more socio-economic. experience should be.”
+
+year’s report, we have reinforced our
+
+consumer research with interviews of Our first disruptor is centered on an It is still very early days for the
+
+retailers around the world. Our analysis, institution as old as modern shopping transformative effects that both mobile
+
+both of our survey data and interviews, itself: the store. It’s certainly true that the and social networks will have on retail.
+
+keeps bringing us back to four waves of physical store remains the retail touch This year’s Thanksgiving shopping
+
+disruption facing every retailer, regardless point with the highest frequency. More weekend was profoundly altered by mobile
+
+of where they operate: the evolving role than one in three (36%) of our global phones. The Financial Times reported
+
+of the store, the proliferation of social sample goes to a physical store at least in December that mobile sales on Cyber
+
+networks, mobile phone technology, and weekly. That is a significant difference Monday following Thanksgiving 2014
+
+global demographic shifts. compared to how often they shop weekly “increased by a whopping 29.3 percent,
+
+online via PC (20%), online via tablet to account for one in five transactions”
+
+An expanded and deepened survey (10%), and online via mobile phone (11%). online. A few days earlier, the New York
+
+Our global consumer survey now covers Times, citing IBM data, had also reported
+
+more than 19,000 respondents in But as online shopping continues to grow significant spikes in purchases by mobile
+
+19 territories on six continents. The at the expense of store visits, the premium phone on Thanksgiving Day and Black
+
+more we expand and deepen this in the future will be on creating unique, Friday: “Sales from mobile devices jumped
+
+annual assessment, the more effective it brand-defining (be it offering sheer over 25 percent on both days…. People
+
+becomes in analyzing and evaluating the convenience or an offer that excites and logging onto shopping sites from their
+
+international retail landscape. engages) that keep customers coming back. smartphones or tablets accounted for over
+
+half of all online traffic on Thursday, and
+
+Some of the results from this year’s survey A case in point is Turkey’s Migros, a leading almost half of traffic on Friday.”1
+
+echo a fundamental principle from last supermarket chain. The company’s CEO,
+
+year: namely, that achieving “total retail” O. Ozgur Tort, explained to PwC in an
+
+demands thinking beyond channels. The interview how Migros’s inventive channel
+
+more shoppers we canvass in country after approach uses kiosks to sell online to
+
+country—and the more thoroughly we customers in-store. According to Tort,
+
+poll them about their consumer habits, “The aim is to push e-commerce sales to
+
+preferences, and expectations for a better customers who are already physically
+
+shopping experience—the more obvious it shopping in the store, by making them
+
+is that consumers are developing their own offers for products that are not in the
+
+approach to researching and purchasing, physical inventory of the store.”
+
+both online and in-store. They want
+
+their shopping needs met in a way that
+
+minimizes uncertainty and inflexibility
+
+and maximizes efficiency, convenience,
+
+and pleasure.
+
+1
+
+Denmark
+
+U.K. Russia
+
+Germany
+
+Canada
+
+France
+
+Turkey
+
+Italy Switzerland
+
+U.S.
+
+China/HK
+
+Belgium
+
+Japan
+
+Middle East
+
+India
+
+Brazil
+
+6 continents,
+
+Chile
+
+19 territories,
+
+South Africa Australia
+
+19,000 online
+
+shoppers surveyed
+
+A similar mobile phenomenon was evident In other words, the mobile phone is rapidly Our fourth and final disruptor is grounded
+
+in Single’s Day in China, which is the becoming a crucial shopping agent as in demographics. In this year’s survey data,
+
+biggest one-day shopping event on the shoppers demand more personalization. we see very different consumer behaviors
+
+planet. The volume of Alibaba’s sales, for New York-based social media company when we compare the behaviors of “digital
+
+example, made via mobile on Single’s Day Stylinity is focused on smart phone natives,” the 18-24 age cohort that is the
+
+in 2014 totaled 43% of the company’s $9.3 technology that makes it easy for consumers first group of adults to have grown up with
+
+billion in sales.2 to tag apparel in their “selfies,” and then the Internet, with the shopping behaviors
+
+share those photos with friends via social of the rest of our sample. When we looked
+
+While those increases are impressive media. “Everyone knows that consumers at their mobile phone shopping frequency

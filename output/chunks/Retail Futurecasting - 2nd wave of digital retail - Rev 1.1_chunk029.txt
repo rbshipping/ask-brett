@@ -1,0 +1,172 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Technology and Personalization
+SUMMARY: The future of retail will be defined by personalized shopping experiences driven by deep customer data analysis and balanced investment in both backend operations and in-store technology.
+KEYWORDS: personalization, customer data, omnichannel retail, digital transformation, store experience
+---
+
+variety of different features and capabilities so it can handle all the different tasks and usages retailers
+
+throw its way.
+
+A decade from now, the winners in retail will be those that invest in building personalized shopping
+
+experiences based on a deep understanding of each shopper as an individual. This will require the
+
+gathering, secure storage, and analysis of vast troves of personal data. We will also see a shift in the
+
+balance of IT spend from a deployment largely focused on the back-end bones of retail, towards a more
+
+balanced approach that spans both back-end operations, and also using technology to create a range of
+
+exciting, personalized in-store experiences for shoppers at the face of retail.
+
+Welcome to the Second era of Digital Retail where shoppers will feel the power of digital technology as
+
+a key ingredient in every form of shopping that they enjoy, whether it be online or offline, pick-up or
+
+delivery, mission or experience shopping.
+
+8.1 NEXT STEPS FOR SAVVY RETAILERS
+
+So where do retailers go from here? The possibilities afforded by the Second era of Digital Retail can be
+
+overwhelming.
+
+Traditional retailers will need to bring the advantages of online into their physical stores: breadth of
+
+offering, high availability, high efficiency, and low friction. And omni-channel retailers will need to bring
+
+the best of traditional shopping to their online offering: immediacy, size and fit confidence, experiential
+
+elements, and touch and feel.
+
+Here are is a summary of steps that retailers should consider taking to get started in this exciting new
+
+landscape:
+
+General
+
+ Consider the face, the bones, and the brains of retail, and build a vision for the store ten years
+
+from now. Use science fiction prototyping if you would like. But have a clear vision for what you
+
+want to build, and importantly also what you don’t want to build. Strategy is as much about
+
+what you are not going to do as what you are going to do. Focus. And aim high.
+
+ Partner with both your IT suppliers and your experience designers to brainstorm potential
+
+opportunities afforded by data analytics, smart infrastructure, indoor location technology, social
+
+networking, and natural computing. Select one or two projects you want to focus on and create
+
+a viable plan to build a proof of concept that you can test. Experiment and learn. Quickly.
+
+68
+
+ Review hiring, staff retention, and training policies and procedures in anticipation of needing to
+
+attract and retain higher quality talent capable of delivering different types of value to
+
+customers. Value that transcends that which will eventually be delivered by technology.
+
+ Invest in the quality of your staff so your labor force can become more focused on delivering
+
+highly differentiated customer service.
+
+ Understand the right mix of human and digital investment needed at each customer touch point
+
+to ensure you are able to meet or exceed evolving customer expectations. Examine existing
+
+processes and determine where humans add true value and where automation can remove
+
+manual, tedious, or low value activities, freeing in-store labor to do what they do best. Resist
+
+the temptation to use technology purely to cut labor costs. Unless you particularly enjoy a race
+
+to the bottom where your business is purely differentiated on price. Remember, most humans
+
+come to stores to interact with other humans. Technology is there to augment them, not always
+
+just replace them.
+
+ Start the tough conversations with investors on the need to extend investment horizons, and
+
+explain the long-term return they can expect as a result. Retailers themselves will need to
+
+lengthen investment horizons and take a 5-10 year view of the future.
+
+ Optimize your speed, differentiation and competitive advantage by carefully balancing your
+
+insourcing and outsourcing strategy for innovation.
+
+ Take risks and begin to deploy new technology in stores before industry standards have fully
+
+solidified in order to gain first-mover advantage.
+
+Creating new value and delighting shoppers
+
+ Consider how to use technology to improve the face of retail, boosting your in-store experience
+
+to ignite sales with shoppers.
+
+ Fit in with the new rituals and routines of the changing customer and understand the difference
+
+between ‘fast’ and ‘slow’ shopping missions. Retailers will need to figure out how to best meet
+
+customers’ expectations for each of these missions. They should optimize operations to delight
+
+experience shoppers with a set of high-touch, high-tech, fun experiences built around the
+
+buying process, or delight mission shoppers with stores built for shopper efficiency, zero friction,
+
+and to get them in and out of the store as quickly as possible.
+
+ Integrate social networking throughout the entire length of the shopper journey from initial
+
+discovery to purchase and beyond.
+
+ Consider building a membership ecosystem around your traditional sales model that delivers
+
+added value to shoppers (beyond simple discounts) and that retains members year after year.
+
+ Begin experimentation with wearable technology and devise strategies to complement the
+
+capabilities of your existing human sales teams with real-time, data-driven insights that help
+
+them deliver better customer service. Explore the benefits of giving wearables to regular
+
+shoppers and understand what value exchange would be required to encourage them to wear
+
+these items while shopping.
+
+ Invest in technology that reduces friction in the product selection and purchase process.
+
+Experiment with RFID and visual recognition technology to reduce checkout friction to zero,
+
+while minimizing theft.
+
+69
+
+ Explore, develop, and deploy technology that makes shopping more social, helps shoppers
+
+choose, helps them make memories, and that deepens emotional relationships with shoppers
+
+by increasing brand and product interaction.
+
+ Involve customers in authentic, transparent, two-way conversations about operations, suppliers,
+
+the future direction of the business, and the development of products to boost emotional
+
+connections between brands and shoppers.
+
+ Differentiate by wrapping origin stories around products and brands that tap into shopper’s
+
+desire to understand the provenance of products.
+
+ Provide free, easy-to-access, in-store Wi-Fi connectivity to shoppers. The upside is worth any
+
+downside.
+
+Customization and personalization

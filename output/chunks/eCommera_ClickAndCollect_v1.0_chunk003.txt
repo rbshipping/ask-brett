@@ -1,0 +1,206 @@
+SOURCE: eCommera_ClickAndCollect_v1.0.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Omni-channel Retail Strategy
+SUMMARY: The text discusses the challenges of implementing an effective click-and-collect system, including the need to integrate systems, measure the right KPIs, and focus on the customer experience.
+KEYWORDS: click-and-collect, omni-channel, KPIs, customer experience
+---
+
+history information. using an order management system or a middleware layer.
+
+l You won’t be able to keep pace
+
+with the changing expectations of l A customer inquires in store as to the l How much time are you spending as a trading team focused on technology?
+
+consumers: Retail is changing fast status of an online order and the shop Ideally, as a retailer you want to focus your time and effort on retail, rather than
+
+with new innovations emerging on a assistant is unable to provide any worrying about technology. If you’re not already doing this, you may want to
+
+near-daily basis. With a system that is information. consider SaaS-based technologies like Demandware or a managed service.
+
+not purpose-built for this environment,
+
+l Are you getting a good return on investment in your current technologies?
+
+you will struggle to adapt and add l A customer fails to receive notification
+
+If you don’t know the answer, try to find out. You may be surprised to learn that
+
+new features/services and are at that their click and collect order is ready
+
+the actual cost and time of changing a system is less than the cost of running
+
+risk of playing an expensive game because the systems are disconnected.
+
+inefficient and outdated systems.
+
+of constant catch up.
+
+wwwwww..eeccoommmmeerraa..ccoomm MMaakkiinngg mmoonneeyy aatt oommnnii--cchhaannnneell:: HHooww NNOOTT ttoo ddoo cclliicckk aanndd ccoolllleecctt || 1100
+
+How NOT to do click and collect
+
+KPIs
+
+Don’t measure the wrong things
+
+Why not? What should you do?
+
+l You’ll risk declaring the success of a Try and tie the KPIs back to those which you can
+
+programme that is losing you customers directly influence, and which tie back to three
+
+and money: Avoid focusing solely on outputs, core KPIs:
+
+for example, the number of click and collect 1. R etained revenue: From a customer’s first
+
+orders in a store, or the percentage of sales purchase, how much is retained over time
+
+which are click and collect. Ultimately, (repeat spend)
+
+benchmarks and targets are valuable, but vary
+
+2. O perational satisfaction from shipment and
+
+significantly for legitimate reasons, and an
+
+delivery on customer promise
+
+absolute focus on a target revenue number
+
+3. S ale at full price through gross margin return
+
+will miss the concept of optimisation.
+
+on capital
+
+Therefore, think about:
+
+1. P ick up rate of click and collect orders
+
+2. Percentage of click and collect orders which are
+
+ready to be shipped on time to meet promise
+
+3. T he average delivery time for a click and collect
+
+order to when the customer is notified it is ready
+
+for collection
+
+4. P ercentage of click and collect orders which
+
+drive an additional sale in-store
+
+5. P ercentage of click and collect orders
+
+rejected by store
+
+wwwwww..eeccoommmmeerraa..ccoomm MMaakkiinngg mmoonneeyy aatt oommnnii--cchhaannnneell:: HHooww NNOOTT ttoo ddoo cclliicckk aanndd ccoolllleecctt || 1111
+
+The diagram below illustrates the customer experience when click and collect is not
+
+Not convinced? well implemented. And in this case, everything that could go wrong, does.
+
+2
+
+3
+
+1
+
+5 days later, Sally hasn’t heard
+
+anything about her order. The call Sally contacts the store, but no 4 Sally goes into the store,
+
+centre is unable to tell her where one answers the phone now rather irate, in hopes
+
+it is they do have the item
+
+Shopping online, Sally decides to l Programme issue. With a high
+
+use click and collect – but she l Technology issue: With volume of click and collect Sally arrives at the store; she
+
+finds the service takes 3-5 days. disconnected systems, the call orders during peak store times, doesn’t know who to ask
+
+Disappointed, Sally places an centre is unable to identify the staff are too busy to answer about her order
+
+order anyway precise location of the order the phone l Programme issue:
+
+l S tock issue: With a single view l Training issue: The manual Inadequate signage for
+
+process for order collection click and collect
+
+of stock, Sally would know
+
+notification has broken down
+
+which stores had stock
+
+due to inadequate training
+
+5
+
+The manager insists that Sally
+
+should have the order number
+
+Sally gets into a long queue and is
+
+Eventually, Sally is asked for l I ncentive issue: The manager
+
+further annoyed at having to wait
+
+her order number, but she is not incentivised to help
+
+forgot it. The shop assistant l Programme issue: There are an Sally because click and collect
+
+6
+
+doesn’t know how to find inadequate number of staff to deal orders are not attributed to
+
+the order with the increased store footfall the store, but to the online
+
+l Training issue: Staff are not channel
+
+properly trained to find click
+
+and collect orders
+
+7
+
+wwwwww..eeccoommmmeerraa..ccoomm MMaakkiinngg mmoonneeyy aatt oommnnii--cchhaannnneell:: HHooww NNOOTT ttoo ddoo cclliicckk aanndd ccoolllleecctt || 1122
+
+10
+
+Sally gets the item home but doesn’t A few days later the item is sent
+
+like it. She goes back to the store and back to the warehouse and
+
+Finally receiving her package, Sally leaves waits in the queue (again) taken back into stock. Another
+
+the store After waiting for another 10 minutes online customer is unable to
+
+l Technology issue: the opportunity to in the queue Sally ’returns’ the item buy that product as the website
+
+upsell Sally when she came to collect and is given a slip promising her a showed no stock – despite the
+
+her order has been missed. If the store refund in 14 days item being available.
+
+had purchase history on Sally, they 9 l Technology issue: The store is l Technology issue: With a
+
+could have had complementary items unable to immediately refund the single view of stock, the item
+
+ready to show her. online order as the online/in-store could have be resold in-store
+
+systems are not connected or made available through the
+
+online channel. In this case
+
+the result was a lost sale and
+
+a disappointed customer.
+
+The shop assistant struggles to find the
+
+11
+
+parcel in the small store room, which is

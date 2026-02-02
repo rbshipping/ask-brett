@@ -1,0 +1,160 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Customer Relationships
+SUMMARY: Retailers aim to deepen relationships with shoppers by understanding their individual needs and preferences to provide personalized experiences.
+KEYWORDS: customer relationship, personalization, shopper genome, customization, retail experience
+---
+
+Retailers would like to deepen and strengthen the relationship they have with each shopper. A deeper
+
+relationship leads to increased brand affinity: more store visits, more transactions, and increased total
+
+consumption. To achieve this, retailers must reveal and understand the shopper genome. They must
+
+gain a deeper understanding of the expectations of each shopper and then build mechanisms that
+
+enable them to communicate and interact with the shopper in a highly personalized manner. A manner
+
+that is consistent with the brand position and brand promise of the retailer and that builds intimacy,
+
+trust, and affinity. Understanding the shopper genome will be achieved through the collection and
+
+analysis of data to build an intimate profile of each shopper—needs, wants, desires, aspirations,
+
+preferences, communications style, habits, behaviors, and so forth.
+
+Shoppers would like to be treated as a customer of one, with their retail experience uniquely tailored to
+
+their exact individual tastes and desires.
+
+Shoppers are interested in products, services and experiences that have either been customized,
+
+personalized, or perhaps both. The difference between these two notions is largely about who controls
+
+the individualization choices.
+
+6.4.1 Customized vs Personalized
+
+A customized product, service, or experience is one that has been designed, modified or somehow
+
+finished to conform to the specific choices, or specifications of the shopper. The parameters of the
+
+finished product have been explicitly shaped by the shopper through some sort of interaction where
+
+they are in control. They select from a set of parameters that are offered to them or can choose to
+
+include some level of personal element as part of the customization process, for example a personal
+
+image. Customization may make a product, service, or experience feel more personal, but that does not
+
+make it personalized per se. Examples of customized products include: NikeID* customized shoes, Red
+
+46
+
+Envelope* customized gifts, and the cars offered from most automobile manufacturers. These allow
+
+customers to select engine size, colors, and many other options.
+
+A personalized product, service, or experience is one that has been built based on the observed
+
+behaviors or preferences of a shopper. Personalization requires a retailer or manufacturer to get to
+
+‘know’ their customers in a very intimate way if they are to deliver personalized products or shopping
+
+experiences that delight. Decisions about the way a product is personalized are made by the retailer and
+
+manufacturer, perhaps in partnership with the shopper, but not under shopper control. Amazon*’s
+
+“Recommendations for you” are personalized based on observed behavior on their site. Netflix*
+
+includes “Suggestions for you” based on viewing behavior. And the clothes shipped by Nordstrom’s*
+
+Trunk Club* are chosen by a human that gets to know your personal style and makes personalized
+
+selections based on what they think you might like.
+
+While the distinction between customized and personalized is not a simple one for many people to
+
+grasp it is an important one to understand. A digital sign that displays images based on the apparent age
+
+and gender of a shopper is supplying personalized content while an interactive sign that shows a
+
+shopper the location of a store on a map based on some kind of input from the shopper would be
+
+customization.
+
+Challenge: Retailers will need to think carefully about the right places to apply customization and
+
+personalization capabilities to the products or services they sell and the associated shopping
+
+experiences they wrap around the shopper journey.
+
+6.4.2 Customized products and personalized experiences
+
+According to The Cassandra Report, 80% of Millennials would prefer to have a customized product.
+
+As local just-in-time manufacturing technology (including 3D printing, see section 6.2) evolves and
+
+enables the speedy production of customized goods at point of sale, shoppers will grow more
+
+accustomed to buying customized products, potentially fuelling increased desire for further
+
+customization. This positive feedback loop may lead to customization swiftly moving from a
+
+differentiator, and more of a novelty, to becoming a standard expectation for shoppers. “I’m not buying
+
+from <Brand X> any more. They won’t let me customize a single thing!”
+
+At the service level, customization might be as simple as being able to specify exactly when your
+
+products will be delivered (so you can be home to receive them), or it may be much more complex.
+
+Customization and personalization will affect different sectors in different ways, to different extents,
+
+and on different timescales. But one thing is for sure: Shoppers are going to desire more and more
+
+product customization and expect personalized shopping experiences.
+
+Challenge: Retailers will need to begin experimenting with customization as soon as possible, and figure
+
+out how they can upsell shoppers to customized solutions.
+
+47
+
+Challenge: Brands should be prepared to have a two-way conversation with shoppers to understand
+
+exactly what they want. (And then deliver it to them.) These conversations will need to be facilitated via
+
+easy-to-use interfaces designed to make customization a delight. Colorful touch displays can guide
+
+shoppers thought the customization process and help them design products from modular components.
+
+Technologies including gesture control, augmented reality, and virtual reality may be used to enhance
+
+the customization experience.
+
+Challenge: Retailers will need to find the right balance between meeting a shopper’s desire for
+
+customization and overwhelming them with “choice anxiety”. Smart retailers will hide many
+
+customization options behind a set of simpler choices that mask the truly overwhelming number of
+
+choices or permutations available. For example, Starbucks* doesn’t assault customers with a huge
+
+customization menu yet manages to deliver tens of thousands of options in the way they prepare their
+
+beverages.
+
+6.5 THE RISE OF THE SHARING ECONOMY
+
+Prefaced by massive advances in efficiency in both production and distribution, we are now seeing
+
+technology and new business practice being applied to consumption. The result of this innovation is that
+
+consumption itself is becoming more efficient. This could obviously have profound implications for
+
+retailers and manufacturers.
+
+The sharing economy is creating extraordinary new value at lightning speed, and disrupting whole
+
+industries segments in the process. Consider Uber*, Lyft*, Car2Go*, Sidecar* and RelayRides* versus the

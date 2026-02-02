@@ -1,0 +1,144 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Organizational Learning and Adaptation
+SUMMARY: The text discusses how an OPFOR (opposing forces) team in the military effectively learns and adapts through a rigorous after-action review (AAR) process.
+KEYWORDS: organizational learning, adaptation, after-action review, OPFOR, military
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+side with the 11th ACR for ten years has regimen it learned from the 11th ACR. It when OPFOR acts, it will be executing a plan
+
+assumed the OPFOR mantle. This new is difficult to imagine a more dramatic but also observing and testing that plan. The
+
+OPFOR faces even greater challenges change than the wholesale replacement early meetings and rehearsals produce a test-
+
+than the regular brigade did. It is of one team by another. That the new able hypothesis: “In this situation, given this
+
+smaller. It comprises not professional OPFOR has met this challenge is power- mission, if we take this action, we will accom-
+
+soldiers but weekend warriors from such ful evidence of the AAR’s efficacy to help plish that outcome.” OPFOR is thus able to se-
+
+companies as UPS and Nextel. And it re- an organization learn and adapt quickly. lect the crucial lessons it wants to learn from
+
+harvard business review • july–august 2005 page 4
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It
+
+each action and focus soldiers’ attention on our actual results? What caused our results?
+
+them in advance. And what will we sustain or improve? For ex-
+
+Such before-action planning helps establish ample:
+
+the agenda for after-action meetings. Con- Sustain: “Continual radio commo checks en-
+
+versely, the rigor of the AAR meetings im- sured we could talk with everyone. That be-
+
+proves the care and precision that go into the came important when BLUFOR took a different
+
+before-action planning. As one OPFOR leader route and we needed to reposition many of
+
+explained to us: “We live in an environment our forces.”
+
+where we know we will have an AAR, and we Sustain: “We chose good battle positions.
+
+will have to say out loud what worked and That made it easier to identify friends and foes
+
+what didn’t. That leads to asking tough ques- in infantry.”
+
+tions during the planning phase or rehearsals Improve: “When fighting infantry units, we
+
+so that you know you have it as right as you need to keep better track of the situation so we
+
+can get it. No subordinate will let the boss waf- can attack the infantry before they dismount.”
+
+fle on something for long before challenging Improve: “How we track infantry. We look for
+
+him to say it clearly because it will only come trucks, but we need to look for dismounted sol-
+
+out later in the AAR. As a consequence, AAR diers and understand how they’ll try to deceive
+
+meetings create a very honest and critical envi- us.”
+
+ronment well before they begin.” One objective of the AAR, of course, is to de-
+
+The reference to AAR meetings—plural—is termine what worked and what didn’t, to help
+
+important. While a corporate team might con- OPFOR refine its ability to predict what will
+
+duct one AAR meeting at the end of a six- work and what won’t in the future. How well
+
+month project, OPFOR holds dozens of AARs did the unit assess its challenges? Were there
+
+OPFOR treats every at different levels in a single week. Each unit difficulties it hadn’t foreseen? Problems that
+
+holds an AAR meeting immediately after each never materialized? Yes, it is important to cor-
+
+action as an opportunity
+
+significant phase of an action. If time is short, rect things; but it is more important to correct
+
+for learning—about such meetings may be no more than ten- thinking. (OPFOR has determined that flawed
+
+minute huddles around the hood of a Humvee. assumptions are the most common cause of
+
+what to do but also, more It is common for OPFOR’s AARs to be facili- flawed execution.) Technical corrections affect
+
+tated by the unit leader’s executive officer. Vir- only the problem that is fixed. A thought-pro-
+
+important, about how to
+
+tually all formal AAR meetings begin with a re- cess correction—that is to say, learning—af-
+
+think. iteration of the house rules, even if everyone fects the unit’s ability to plan, adapt, and suc-
+
+present has already heard them a hundred ceed in future battles.
+
+times: Participate. No thin skins. Leave your
+
+stripes at the door. Take notes. Focus on our is- More than a Report
+
+sues, not the issues of those above us. (The par- At most civilian organizations we studied,
+
+ticipants’ commanders hold their own AARs to teams view the AAR chiefly as a tool for cap-
+
+address issues at their level.) Absolute candor is turing lessons and disseminating them to
+
+critical. To promote a sense of safety, senior other teams. Companies that treat AARs this
+
+leaders stay focused on improving perfor- way sometimes even translate the acronym as
+
+mance, not on placing blame, and are the first after-action report instead of after-action re-
+
+to acknowledge their own mistakes. view, suggesting that the objective is to create
+
+The AAR leader next launches into a com- a document intended for other audiences.
+
+parison of intended and actual results. She re- Lacking a personal stake, team members may
+
+peats the mission, intent, and expected end participate only because they’ve been told to
+
+state; she then describes the actual end state, or out of loyalty to the company. Members
+
+along with a brief review of events and any don’t expect to learn something useful them-
+
+metrics relevant to the objective. For example, selves, so usually they don’t.
+
+if the unit had anticipated that equipment OPFOR’s AARs, by contrast, focus on im-
+
+maintenance or logistics would be a challenge, proving a unit’s own learning and, as a result,
+
+what resources (mines, wire, ammo, vehicles) its own performance. A unit may generate a
+
+were functioning and available? lesson during the AAR process, but by OP-
+
+The AAR meeting addresses four questions: FOR’s definition, it won’t have learned that les-
+
+What were our intended results? What were son until its members have changed their be-
+
+harvard business review • july–august 2005 page 5

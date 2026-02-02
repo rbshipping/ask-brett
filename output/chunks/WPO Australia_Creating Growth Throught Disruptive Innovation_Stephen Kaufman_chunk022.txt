@@ -1,0 +1,158 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Model Innovation
+SUMMARY: The text discusses different types of business model innovations, including decentralization, new-market disruptions, and low-end disruptions.
+KEYWORDS: business model innovation, decentralization, new-market disruption, low-end disruption
+---
+
+locations, enabling them to “serve” it at lower prices to a larger population of smaller companies, in distributed locations—
+
+companies and locations that previously could not afford licenses to Oracle software. In on-line higher education, as another
+
+example, lectures are delivered from a central location to students at the outer-most circle, instead of requiring the students to
+
+come to universities in the inner circles. In retailing, the advent of the department store brought people to the merchandise,
+
+housed in a major downtown location. On-line retailing brings the merchandise to the people. At the next level in the value-
+
+adding chain, however, Internet retailers typically fulfill orders from a central location. This phenomenon invites investigation
+
+by a doctoral student.
+
+6
+
+Module Note-—-What Are Business Models, and How Are They Built? 610-019
+
+this leads to higher rather than lower prices. The type of competition that leads to lower prices is
+
+disruption that enables decentralization.
+
+There typically are two types of opportunities for business model innovation. The first is when
+
+there is another, broader circle beyond the one being served at presenta population of people who
+
+are trying to do a particular job, but have to put up with inconvenient, cobbled-together solutions
+
+because nobody has created a product that is simple, affordable and convenient enough. These are
+
+called new-market disruptions. There are also opportunities for low-end disruption—fundamentally
+
+lower-cost business models within a given ring if the competitors within that ring, in the pursuit of
+
+higher margins, have overshot what customers can use.
+
+When a New Business Model Is Not Needed
+
+Disruptiveness can only be expressed relative to your own business model or to that of a
+
+competitor. This means that an innovation can be disruptive relative to competitors but not disruptive
+
+relative to your own business model—and vice versa. For example, within the past decade Procter &
+
+Gamble has launched a series of innovations that were consistent with its own business model but
+
+disruptive to others. These included its Crest White Strips, which enabled consumers to whiten their
+
+own teeth instead of requiring the service of a dental professional. And it has launched Dryel and
+
+Swash-branded products that enable consumers to perform dry cleaning at home. These disruptive
+
+products did not require a business model innovation at P&G, because the development, marketing
+
+and sales processes and the profit formulae were compatible with the company’s established
+
+businesses. If P&G were to formulate a low-cost response to the disruption of its products by store
+
+brands, on the other hand, it would require a new business model.
+
+Types of Business Models
+
+There are, generically, three types of business models: solution shops, value-adding process
+
+businesses, and facilitated network businesses. Business model innovation can occur within each of
+
+these types, but the most profound transformation of industries occurs when a business model
+
+innovator substitutes one type for another in an industry.
+
+Solution Shops
+
+Solution shops are institutions whose resources and processes are structured to diagnose and
+
+recommend solutions for complicated problems. Consulting firms, advertising agencies, research and
+
+development organizations certain law firms and certain highly custom manufacturing firms are
+
+value shops. The diagnostic activities in general hospitals and some of the work done in specialist
+
+physicians’ practices are solution shop activities, in which experts draw upon their deepest
+
+experience and intuition to diagnose the causes of patients’ symptoms and then to recommend
+
+solutions. The work solution shops do for each customer tends to be unique. Because diagnosing the
+
+cause of complex problems and devising workable solutions has such high subsequent leverage,
+
+customers typically are quite willing to pay very high prices for the services of solution shops.
+
+Solution shops typically get paid through a fee-for-service revenue model. Occasionally a
+
+consulting firm might agree to take some of its compensation based upon the ultimate outcomes from
+
+its recommendations, but this rarely works because the outcomes depend upon so many other factors
+
+than the quality of their diagnoses and recommendations.
+
+610-019 Module Note—What Are Business Models, and How Are They Built?
+
+Value-Adding Process Businesses
+
+Value-adding process business models typically bring things in that are incomplete or broken,
+
+add value to them, and then ship them out, repaired or more complete. Retailing, restaurants,
+
+automobile manufacturing, petroleum refining, and the work of many educational institutions are
+
+examples of value-adding process businesses. Many medical procedures that are performed after a
+
+definitive diagnosis has been made—ranging from a nurse who uses a rules-based test to verify that a
+
+patient has strep throat and then writes a prescription to cure it, to procedures to repair hernias and
+
+angioplastically insert stents into occluded coronary arteries—are value-adding process activities.
+
+Value-adding process businesses typically have a fee-for-outcome revenue model. Because the
+
+ability to deliver the result is resident in equipment and practiced processes, prices can be quoted in
+
+advance; and outcomes guaranteed.t Most concepts of strategy were derived from the study of value
+
+chain businesses.5
+
+Facilitated Networks
+
+Facilitated network businesses are institutions in which the same people buy and sell, and deliver
+
+and receive things from each other. Mutual insurance companies are facilitated network businesses:
+
+Customers put premiums into a pool, and take their claims out of it. Telecommunications companies
+
+facilitate networks in which customers send and receive calls and data amongst each other.
+
+Facilitated networks can often be effective business models for the care of chronic illnesses.
+
+Organizations like D-Life, which facilitates networking amongst patients with diabetes (and their
+
+families), enable patients to teach each other how to live with their diseases. The companies that
+
+make money in these industries are those that facilitate the effective operation of the network.
+
+Disruption Within and Across Business Model Types
+
+As a general rule, when an enabling technology makes it so much more affordable and simple for
+
+anew population of people to own and use a product, the disruption occurs within a type of business
+
+model. The Boston Consulting Group, for example, disrupted McKinsey within the solution shop
+
+class of business models.® Within the class of value-adding process business models Toyota has

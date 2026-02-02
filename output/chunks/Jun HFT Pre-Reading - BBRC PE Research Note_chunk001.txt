@@ -1,0 +1,220 @@
+SOURCE: Jun HFT Pre-Reading - BBRC PE Research Note.pdf
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Retail Trends and Live Commerce
+SUMMARY: The COVID-19 pandemic has accelerated the shift to digital retail, leading to the rise of live commerce through livestreaming, shoppable video, and virtual sales consultations.
+KEYWORDS: live commerce, digital retail, consumer behavior, omnichannel retail, COVID-19 impact
+---
+
+[Document: Jun HFT Pre-Reading - BBRC PE Research Note.pdf]
+
+BeBe rC
+
+PRIVATE EQUITY
+
+‘Live commerce’ has arrived
+
+Lucy Bradshaw and Joseph Kim, May 2020
+
+The ‘Great Lockdown’ of 2020 resulting from the Covid-19 pandemic has shone a bright light on
+
+retail consumer behaviour trends, with the most obvious change being the seismic shift from
+
+physical to digital retailing. As consumers isolate at home during the lockdown period, live
+
+commerce has suddenly captured wider scale adoption through livestreaming, shoppable video and
+
+virtual sales consultations. We have explored live commerce’s growing capability and penetration in
+
+China and have observed recent technology advancements, which collectively lay the platform for
+
+imminent wider-scale adoption. Innovative retailers are learning quickly and early evidence indicates
+
+explosive growth in average transaction values and conversion rates, suggesting these sales methods
+
+have the potential to reshape the way retailers acquire, convert and retain customers well beyond
+
+the pandemic as part of their overall customer offer.
+
+Digital 3.0 in the context of retail’s evolution
+
+The retail industry has experienced a series of disruptions over the last two centuries, culminating in
+
+the internet's arrival in the mid-1990s. The table below tracks the evolution of online retail up until
+
+the phase we call ‘Digital 3.0’:
+
+Post-internet
+
+Digital 2.0 Digital 2.5
+
+2005-2010 2010-2020
+
+(| el
+
+imton Online multi-category Digitally native
+
+department stores + D2C retailers led by
+
+D2C specialist retailers digital natives
+
+Omnichannel (digital +
+
+P Digital Omnichannel digital + live commerce)
+
+Merete peste Physical (digital + physical) Tech-enhanced
+
+physical store
+
+Faster internet / 5G
+
+Smartphone Social media 2.0
+
+Enabling Internet Social media 1.0 (advertising) (product + experience)
+
+technology Home computer E-commerce platforms Video + Augmented /
+
+(Shopify, Magento) Virtual Reality
+
+D2C category specialists Us
+
+amazon WARBY PARKER | Glossier.
+
+Mules BONOBOS Zappos") Casper allbinds ,
+
+Examples Multi-category : ‘
+
+Australia
+
+ebay kogan| showpe. ide.
+
+THE ICONIC
+
+This paper focuses on live commerce, which forms a key component of Digital 3.0. For a longer
+
+discussion of retail history which puts this innovation into context, see Appendix 3.
+
+State of play pre-Covid-19
+
+When Covid-19 arrived, online retail was at a vulnerable stage in its evolution.
+
+e Crowded marketplace: the online retail market had become increasingly crowded. Plug-
+
+and-play e-commerce platforms and sophisticated digital marketing tools made barriers to
+
+entry lower than ever, giving rise to new online players in almost every consumer category.
+
+e Venture capital: a large number of digitally native, direct-to-consumer brands raised VC
+
+money at ‘tech’ valuations with enormous ambitions, despite often generating minimal or
+
+negative profits. Indeed, some of these retailers failed before Covid-19 (like Softbank-backed
+
+Brandless). The primary feature of these failed brands was their inability to lower customer
+
+acquisition costs and achieve customer loyalty as they scaled. Backed by tech investors
+
+seeking rapid growth, some have suffered an identity crisis. By over-emphasising technology
+
+and brand, they failed to achieve a product-market fit that was able to produce profitable
+
+margins.
+
+e Higher marketing and customer acquisition costs: this heightened competition drove up
+
+digital marketing costs (ad spend by direct-to-consumer brands grew 50% in 2019) and
+
+reduced customer retention for incumbents.
+
+¢ Digital natives going into “traditional” channels: in order to survive in a challenging
+
+market, digitally native, direct-to-consumer brands started moving into physical stores and
+
+wholesale channels to broaden their revenue base and reduce customer acquisition costs.
+
+Online to offline: which D2C brands have changed their online-only strategy?
+
+Opened physical Started selling through Use TV, print and
+
+stores wholesale channels out-of-home advertising
+
+EVERLANE Casper Outdoor Casper ”) PELOTON Casper
+
+Outdoor LIVELY
+
+Andie
+
+Glossier. HARRY’S Quip & DOLLAR SHAVE CLUB
+
+O sores albirals | smile BARK-BOX | smile grinovove
+
+recy NAADAM reer” Modibodi®
+
+brooklinen warsy PARKER
+
+Post Covid-19: the rise of live commerce
+
+Against this backdrop, Covid-19 has created an interesting set of circumstances for online retailers.
+
+Brands forced to close stores now need to find other ways to provide ‘in-store’ experiences and keep
+
+their customers engaged — but this must be done cheaply, in order to preserve cash. Customers are
+
+turning to online shopping as entertainment during lockdowns, although the economic
+
+consequences of the pandemic have made some shoppers more price sensitive, requiring brands to
+
+Digital 3.0 | 2
+
+sell harder through discounting or better communications. Meanwhile, digital marketing costs have
+
+fallen, making it cheaper to communicate with and acquire customers online.
+
+Retailers have turned to a range of virtual selling strategies to address these circumstances. Tactics
+
+like livestreamed product demonstrations, online sales consultations and virtual showrooms have
+
+offered low-cost methods of building a direct communication line with customers, mimicking in-
+
+store shopping experiences and marketing products more effectively during the pandemic. Views of
+
+Instagram livestreams were up 70% year-on-year in April 2020 and virtual consultation software
+
+providers like Hero and Joor are experiencing significant growth in users.
+
+Despite their relative novelty, these virtual sales tactics aren't new. They've been popular for several
+
+years in China, where they appear in three main formats:
+
+e Livestream e-commerce: influencer or brand-led livestreamed events used to demonstrate
+
+and sell products. Free giveaways, games and exclusive promotions are often used to create
+
+a sense of urgency among viewers.
+
+e ‘See Now, Buy Now’ shows: fashion shows and product launches with e-commerce
+
+integration, allowing viewers to shop directly from the catwalk.
+
+e Video concierge: 1:1 virtual shopping experiences with sales assistants who demonstrate
+
+and try on products for customers.
+
+Live commerce — a new sales channel?
+
+Live commerce sales strategies sit in between physical retail and e-commerce. Like physical retail,
+
+they rely on sales assistants to provide an interactive experience, and livestreamed events and virtual
+
+shopping consultations often take place in stores. However, like e-commerce, the shopping process
+
+and sales transaction occur online. Live commerce may effectively become a third channel for retail
+
+sales — it occurs neither entirely online nor offline, but combines elements of both to offer an
+
+alternative path to purchase.
+
+In order to understand why live commerce is so powerful and how this evolution might unfold and
+
+be executed, we've extracted lessons from different ends of the retail spectrum: Chinese
+
+livestreaming and TV home shopping.

@@ -1,0 +1,264 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Logistics and Supply Chain Management
+SUMMARY: The text discusses how companies like Expeditors International and C.H. Robinson have built strong competitive advantages through the network effect by connecting shippers and cargo carriers.
+KEYWORDS: network effect, logistics, supply chain, cargo transportation, competitive advantage
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+percent growth rates over more than a decade should pique
+
+your interest. How did firms like Expeditors International
+
+and C. H. Robinson compile such impressive track records?
+
+By building moats based on the network effect.
+
+Both of these companies essentially connect shippers
+
+with cargo carriers—think of them as brokers for cargo
+
+space. C. H. Robinson operates in the U.S. trucking
+
+industry, matching companies with cargo to ship with
+
+trucking operators that want to keep their trailers as full
+
+cc0055..iinndddd 7711 11//2266//0088 33::0088::2233 AAMM
+
+[72] THE LITTLE BOOK THAT BUILDS WEALTH
+
+as possible. The more shippers with which C. H. Robinson
+
+has relationships, the more attractive the company becomes
+
+to cargo-hungry truckers, and vice versa. This is a text-
+
+book example of the network effect, and it’s also a very
+
+strong competitive advantage.
+
+Expeditors International is a little bit different. The
+
+company operates internationally, and is more than just a
+
+matchmaker; essentially, the company’s clients ask it to
+
+move goods across borders within a defined time frame,
+
+and Expeditors takes care of the details. Expeditors buys
+
+cargo space on planes and ships on behalf of its clients, fills
+
+that space with clients’ cargo, and also takes care of what-
+
+ever other complications—customs, tariffs, warehousing—
+
+might arise between the point of origin and the point of
+
+departure.
+
+Expeditors International’s moat lies in its extensive
+
+branch network, which enables it to serve customers more
+
+effectively, because no matter where they need to ship
+
+stuff, odds are good that Expeditors has a branch at both
+
+the sending end and the receiving end. One way to verify
+
+this is to do a bit of financial sleuthing. If a larger net-
+
+work really does mean that Expeditors can push more
+
+cargo through each branch, then the company’s operat-
+
+ing income per branch should increase, as new branches
+
+add cargo flow to existing ones. It turns out that this is
+
+exactly what has happened. (See Exhibit 5 .4 .)
+
+cc0055..iinndddd 7722 11//2266//0088 33::0088::2244 AAMM
+
+THE NETWORK EFFECT [73]
+
+EXHIBIT 5.4 Expeditors International’s Operating Income per
+
+Branch ($ Thousands)
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006
+
+Wrapping up, let’s come full circle and look at a com-
+
+pany that is a lot like that social butterfly I profiled at the
+
+very beginning of the chapter. The Corporate Executive
+
+Board publishes best-practices research for large corpo-
+
+rations, essentially helping executives figure out how to
+
+solve some of the problems they encounter by sharing the
+
+experiences of other companies that have faced similar
+
+issues. You can see the network effect already—the more
+
+companies that are in the Corporate Executive Board’s
+
+network, the more likely it is to have relevant information
+
+for its members. It also helps members by connecting
+
+them together for one-off problems.
+
+The beauty of this business is that the published research
+
+is actually less valuable than the network at the end of the day.
+
+cc0055..iinndddd 7733 11//2266//0088 33::0088::2244 AAMM
+
+[74] THE LITTLE BOOK THAT BUILDS WEALTH
+
+After all, if you’re a time-challenged high-level executive at a
+
+large company, which network are you going to join? The one
+
+to which all the other time-challenged senior managers from
+
+large companies already belong, of course, because they’re
+
+the people you’re competing with, and you probably want to
+
+stay abreast of what they’re thinking. Any potential competi-
+
+tor to Corporate Executive Board would need to replicate this
+
+network to successfully compete with the firm, which seems
+
+unlikely as long as its network keeps growing.
+
+As you can see, the network effect is a pretty power-
+
+ful competitive advantage. It is not insurmountable, but
+
+it’s a tough one for a competitor to crack in most circum-
+
+stances. This is one moat that is not easy to find, but it’s
+
+worth a lot of investigation when you do find it.
+
+The Bottom Line
+
+1. A company benefits from the network effect when
+
+the value of its product or service increases with the
+
+number of users. Credit cards, online auctions, and
+
+some financial exchanges are good examples.
+
+2. The network effect is an extremely powerful type
+
+of competitive advantage, and it is most often
+
+found in businesses based on sharing informa-
+
+tion or connecting users together. You don’t see it
+
+much in businesses that deal in physical goods.
+
+cc0055..iinndddd 7744 11//2266//0088 33::0088::2244 AAMM
+
+C h a pt er Si
+
+x
+
+Cost Advantages
+
+(cid:1)
+
+Get Smart, Get Close, or
+
+Be Unique.
+
+S
+
+, of competitive advantage
+
+O FAR ALL OF THE SOURCES
+
+that we’ve discussed have focused on price, or how much
+
+value a company can extract from its customers. Intangi-
+
+ble assets, switching costs, and the network effect all a llow
+
+a company to charge more for a product or service than it
+
+would be able to without those advantages. The converse
+
+of price, of course, is cost, and companies can also dig
+
+moats around their businesses by having sustainable lower
+
+costs than the competition.
+
+cc0066..iinndddd 7755 11//2266//0088 33::0088::5533 AAMM
+
+[76] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Cost advantages can sometimes be durable, but they
+
+can also disappear very quickly, so as an investor you need
+
+to be able to determine whether a company’s cost advantage
+
+is replicable by a competitor. Lots of companies over the
+
+past few years have puffed their chests out about how they
+
+lowered costs by moving a call center or manufacturing
+
+facility to some low-cost region of the world—China, India,
+
+the Philippines, you name it. They act as if management’s
+
+collective IQ doubled the day some middle manager sug-
+
+gested that the company source low-end parts from a fac-
+
+tory with 80 percent lower labor costs.
+
+This is not genius, nor is it a sustainable competitive
+
+advantage, because those same low-cost resources are
+
+very likely available to any company that wants them. If
+
+one auto-parts supplier starts sourcing low-value-added
+
+components from China, how long will it take its competi-
+
+tors to make the same phone calls and set up similar sup-

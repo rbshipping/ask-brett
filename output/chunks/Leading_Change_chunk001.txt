@@ -1,0 +1,246 @@
+SOURCE: Leading_Change.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Business Transformation Management
+SUMMARY: This article discusses the key steps and common pitfalls in leading successful business transformations.
+KEYWORDS: change management, organizational change, transformation strategy, leadership, business process improvement
+---
+
+[Document: Leading_Change.txt]
+
+SOURCE: https://irp-cdn.multiscreensite.com/6e5efd05/files/uploaded/Leading%20Change.pdf
+
+FILE: Leading Change.pdf
+
+============================================================
+
+--- Page 1 ---
+
+www.hbrreprints.org
+
+BEST OF HBR
+
+Leaders who successfully Leading Change
+
+transform businesses do eight
+
+things right (and they do them
+
+Why Transformation Efforts Fail
+
+in the right order).
+
+by John P. Kotter
+
+•
+
+Included with this full-text Harvard Business Review article:
+
+1 Article Summary
+
+The Idea in Brief—the core idea
+
+The Idea in Practice—putting the idea to work
+
+2 Leading Change: Why Transformation Efforts Fail
+
+10 Further Reading
+
+A list of related materials, with annotations to guide further
+
+exploration of the article’s ideas and applications
+
+Reprint R0701J
+
+--- Page 2 ---
+
+BEST OF HBR
+
+Leading Change
+
+Why Transformation Efforts Fail
+
+The Idea in Brief The Idea in Practice
+
+Most major change initiatives—whether in- To give your transformation effort the best chance of succeeding, take the right actions at each
+
+tended to boost quality, improve culture, or stage—and avoid common pitfalls.
+
+reverse a corporate death spiral—generate
+
+Stage Actions Needed Pitfalls
+
+only lukewarm results. Many fail miserably.
+
+Establish a • Examine market and competitive reali- • Underestimating the difficulty of driving
+
+Why? Kotter maintains that too many
+
+sense of ties for potential crises and untapped people from their comfort zones
+
+managers don’t realize transformation is a urgency opportunities. • Becoming paralyzed by risks
+
+process, not an event. It advances through
+
+• Convince at least 75% of your man-
+
+stages that build on each other. And it agers that the status quo is more dan-
+
+takes years. Pressured to accelerate the gerous than the unknown.
+
+process, managers skip stages. But short-
+
+Form a pow- • Assemble a group with shared commit- • No prior experience in teamwork at the
+
+cuts never work.
+
+erful guiding ment and enough power to lead the top
+
+Equally troubling, even highly capable coalition change effort. • Relegating team leadership to an HR,
+
+managers make critical mistakes—such as • Encourage them to work as a team quality, or strategic-planning executive
+
+outside the normal hierarchy. rather than a senior line manager
+
+declaring victory too soon. Result? Loss of
+
+momentum, reversal of hard-won gains,
+
+Create a • Create a vision to direct the change effort. • Presenting a vision that’s too complicat-
+
+and devastation of the entire transforma-
+
+vision • Develop strategies for realizing that vision. ed or vague to be communicated in five
+
+tion effort. minutes
+
+By understanding the stages of change— Communicate • Use every vehicle possible to commu- • Undercommunicating the vision
+
+and the pitfalls unique to each stage—you the vision nicate the new vision and strategies for • Behaving in ways antithetical to the
+
+boost your chances of a successful transfor- achieving it. vision
+
+• Teach new behaviors by the example of
+
+mation. The payoff? Your organization flexes
+
+the guiding coalition.
+
+with tectonic shifts in competitors, markets,
+
+and technologies—leaving rivals far behind. Empower • Remove or alter systems or structures • Failing to remove powerful individuals
+
+others to act undermining the vision. who resist the change effort
+
+on the vision • Encourage risk taking and nontradition-
+
+al ideas, activities, and actions.
+
+Plan for and • Define and engineer visible perform- • Leaving short-term successes up to
+
+create short- ance improvements. chance
+
+term wins • Recognize and reward employees con- • Failing to score successes early enough
+
+tributing to those improvements. (12-24 months into the change effort)
+
+Consolidate • Use increased credibility from early • Declaring victory too soon—with the
+
+improve- wins to change systems, structures, and first performance improvement
+
+ments and policies undermining the vision. • Allowing resistors to convince “troops”
+
+produce • Hire, promote, and develop employees that the war has been won
+
+more change who can implement the vision.
+
+• Reinvigorate the change process with
+
+new projects and change agents.
+
+Institutionalize • Articulate connections between new • Not creating new social norms and
+
+new behaviors and corporate success. shared values consistent with changes
+
+approaches • Create leadership development and • Promoting people into leadership posi-
+
+succession plans consistent with the tions who don’t personify the new
+
+new approach. approach
+
+page 1
+
+.DEVRESER
+
+STHGIR
+
+LLA
+
+.NOITAROPROC
+
+GNIHSILBUP
+
+LOOHCS
+
+SSENISUB
+
+DRAVRAH
+
+6002
+
+©
+
+THGIRYPOC
+
+--- Page 3 ---
+
+Leaders who successfully transform businesses do eight things right
+
+(and they do them in the right order).
+
+BEST OF HBR
+
+Leading Change
+
+Why Transformation Efforts Fail
+
+by John P. Kotter
+
+Editor’s Note: Guiding change may be the ulti- Over the past decade, I have watched more
+
+mate test of a leader—no business survives over than 100 companies try to remake themselves
+
+the long term if it can’t reinvent itself. But, into significantly better competitors. They
+
+human nature being what it is, fundamental have included large organizations (Ford) and
+
+change is often resisted mightily by the people it small ones (Landmark Communications),
+
+most affects: those in the trenches of the busi- companies based in the United States (Gen-
+
+ness. Thus, leading change is both absolutely es- eral Motors) and elsewhere (British Airways),
+
+sential and incredibly difficult. corporations that were on their knees (Eastern
+
+Perhaps nobody understands the anatomy Airlines), and companies that were earning
+
+of organizational change better than retired good money (Bristol-Myers Squibb). These ef-
+
+Harvard Business School professor John P. forts have gone under many banners: total
+
+Kotter. This article, originally published in the quality management, reengineering, rightsiz-
+
+spring of 1995, previewed Kotter’s 1996 book ing, restructuring, cultural change, and turn-
+
+Leading Change. It outlines eight critical suc- around. But, in almost every case, the basic
+
+cess factors—from establishing a sense of ex- goal has been the same: to make fundamental
+
+traordinary urgency, to creating short-term changes in how business is conducted in order
+
+wins, to changing the culture (“the way we do to help cope with a new, more challenging
+
+things around here”). It will feel familiar when market environment.
+
+you read it, in part because Kotter’s vocabulary A few of these corporate change efforts have
+
+has entered the lexicon and in part because it been very successful. A few have been utter

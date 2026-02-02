@@ -1,0 +1,176 @@
+SOURCE: Master the One-on-One Meeting.pdf
+SUBFOLDER: Additional\HFT\2018
+TOPIC: Performance Management
+SUMMARY: This text outlines how to effectively prepare for and conduct one-on-one meetings with employees, including setting an agenda, providing feedback, and following up.
+KEYWORDS: one-on-one meetings, performance feedback, employee communication, remote work, meeting agenda
+---
+
+[Document: Master the One-on-One Meeting.pdf]
+
+something before the meeting. For example:
+
+Jessica, for our 1:1 tomorrow, I’d like to cover the following:
+
+Review a potential change to the product roadmap for next quarter
+
+and how that might impact your team. Please bring the latest
+
+roadmap with you.
+
+Walk through the training presentation deck you are preparing for your
+
+new hires. Please send me your latest version tonight if you can?
+
+Get feedback on whether the budget changes I made for you were
+
+helpful. Let me know if there are new numbers I should look at before
+
+we meet.
+
+Hear about your vacation! Your pics looked awesome.
+
+Let me know what else you’d like to cover. Looking forward to
+
+catching up!
+
+The 1:1 meeting
+
+With an agenda set and materials pre-reviewed/in-hand, you are ready for a
+
+productive session.
+
+Walk through the agenda. Ask if there’s anything else to add before you
+
+dig in. Always leave a door open—sometimes an employee is holding
+
+back on something.
+
+If there are hard things to discuss (maybe some tough performance
+
+feedback), try to bookend it with two positive topics. That way, the close
+
+of the meeting doesn’t leave your employee feeling down. You’ve given
+
+them good feedback and some things to work on.
+
+Do not monopolize the conversation. This is for you each to get time to
+
+talk. Pause often and make sure there is opportunity for discussion and
+
+questions.
+
+Always end the meeting asking them how things are going overall and if
+
+there is anything else you can do to make them successful. Sounds
+
+awkward, but that’s your job! If your employees are a success, you are
+
+success.
+
+After the meeting
+
+It is important to always follow up any 1:1 (or scheduled meeting, for that
+
+matter) with notes on what was discussed, decisions made and, if relevant,
+
+any constructive feedback that will be measured going forward. Keep it
+
+short and sweet:
+
+Jessica, good meeting today! From what we discussed:
+
+Sounds like the roadmap change won’t slip the schedule much.
+
+Please share the new schedule on slack so the team can digest it
+
+before our Product group meeting.
+
+Love the training deck! Let me know if you want to practice with me
+
+before you present next week. You’re going to crush it.
+
+Sounds like those budget tweaks aren’t cutting it for your team’s
+
+needs. I’ll try to adjust next quarter, but right now you are going to
+
+have to work with what you have. Manage your spend carefully.
+
+Thanks for letting me know you’re working on a personnel issue on
+
+your team. Let me know if I can help. Otherwise, keep me posted on
+
+how it plays out.
+
+A recap ensures that you’re both on the same page and it serves as an audit
+
+trail if/when anything goes off the rails. Do this with ALL your employees.
+
+Otherwise, some may wonder why they’re getting follow up emails and
+
+others are not. Consistency in leadership is critical!
+
+Remote employees and non-Directs
+
+1:1s with remote employees can be tricky. I recommend using video
+
+whenever possible and, if possible, 1-2 in-person 1:1s a year to maintain
+
+the personal connection. All other suggestions above apply for the
+
+remote employee.
+
+It is perfectly OK to have 1:1s with junior people who do not work
+
+directly for you. Just remember, you are NOT their manager. Be clear
+
+about why you are requesting the meeting.
+
+Perhaps you are the CEO and want to have a 1:1 with a lead engineer to
+
+get a better understanding of a product challenge:
+
+Make sure the engineer’s manager knows why you want to have the
+
+meeting.
+
+Make sure the engineer understands you would like to get the detail
+
+directly vs. through other people. You are not going around their boss
+
+who knows you are requesting this meeting.
+
+Be very careful about feedback. Always end such meetings with next
+
+steps being how you’ll follow up with the employee’s manager if there
+
+are any action items. Never undermine someone’s manager by giving
+
+specific direction without consulting with their manager. Especially if
+
+you are the CEO/CTO or other senior position. Often, the most simple
+
+“that sounds cool” can be heard as “do it!” from someone more
+
+senior than your boss.
+
+Invest in your team
+
+One-on-ones can make all the difference in how you lead. Your time
+
+invested in doing them right will pay off not only with each individual, but
+
+with how your organization functions as a team.
+
+Have other tips on running successful 1:1s or good lessons learned from
+
+not having them? Please share in the comments.
+
+Reprinted with permission from the author's blog post, Mastering the 1:1.
+
+Related Reading:
+
+Cultural Disharmony Undermines Workplace Creativity
+
+What's a Boss Worth?
+
+Introverts: The Best Leaders for Proactive Employees

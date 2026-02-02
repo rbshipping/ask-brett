@@ -1,0 +1,172 @@
+SOURCE: Five Ways to Learn Nothing from Your Customers Feedback.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific\2016.03 HFT - Customer Complaints
+TOPIC: Customer Feedback Management
+SUMMARY: The article discusses five common mistakes companies make in collecting and using customer feedback that prevent them from learning and improving.
+KEYWORDS: customer feedback, feedback systems, learning from customers, feedback analysis, customer experience
+---
+
+CUSTOMERS
+
+Five Ways to Learn Nothing
+
+from Your Customers’
+
+Feedback
+
+by Rob Markey
+
+DECEMBER 09, 2013
+
+I have studied a lot of customer feedback systems in the 25 years I’ve spent working with
+
+companies on customer strategy. Many of them leave me sad and befuddled. So many
+
+companies make the same mistakes over and over.
+
+The leaders of these companies seem to want to hear from their customers — that’s why
+
+they spend so much money on elaborate “voice of the customer” and other feedback
+
+systems. But the approach many of these companies take to implementing such systems
+
+seems almost as if it were designed to ensure nobody in the organization will actually learn
+
+anything from what they hear. And if employees don’t learn anything, how can they take
+
+action to make things better?
+
+If I were writing a “how-not-to” manual for customer feedback — a manual that would
+
+guarantee your feedback system taught your employees nothing about how to delight
+
+customers and earn their loyalty — here are the five rules it might include:
+
+1. Aggregate the feedback into scores, percentages, and averages — and stop there. This
+
+common mistake completely obscures any individual customer’s voice and prevents
+
+employees from linking the feedback to a particular event, behavior, or action they can
+
+remember. Yet there’s something irresistibly seductive about numbers that seem so
+
+rigorously mathematical. “Congratulations! Customer satisfaction increased 0.431% this
+
+quarter! Great job!” Of course, most companies try to figure out what drove the
+
+improvements by breaking down each summary score into dozens of “drivers,” but the
+
+typical result is that employees get lost in a sea of analysis and numbers. In fact, this
+
+becomes much worse when scores decline. That’s when the analysis really gets
+
+overwhelming.
+
+2. Hold the feedback. Many companies distribute summaries of what they hear from
+
+customers six, eight, or even 12 weeks later. This is a byproduct of the first rule because
+
+turning customer feedback into statistics usually requires aggregating it for several weeks
+
+in order to collect enough observations. All that analysis and reporting takes time to
+
+assemble, too. How well do you remember each of the many conversations and
+
+interactions you had six weeks ago? Chances are your employees don’t either — which
+
+makes it awfully tough for them to remember what they did that might have contributed to
+
+variations in their customers’ feedback.
+
+3. Eliminate the human voice. How often have you taken a company’s survey because you
+
+wanted to register your annoyance (or delight) with the company’s actions, only to
+
+discover that none of the questions seemed like they really addressed the issue on your
+
+mind? Too many companies ask customers to rate their performance on a predetermined
+
+list of factors — typically offering many prompts covering every conceivable element of the
+
+company’s product or service. Multiple-choice questions are convenient for your company
+
+to process and analyze, but they impose a burden on your customers. More importantly,
+
+they don’t give customers a chance to share their feedback in their own words. Do you
+
+know better than your customers exactly what issues they face and how they should
+
+describe them?
+
+4. Ensure that there’s a lot at stake. If you want your employees to focus maniacally on
+
+customers, what better way than to put money at stake, right? But tying people’s
+
+compensation and promotion prospects to changes in your customer-satisfaction metric
+
+doesn’t focus them on customers; it focuses them on a number. And, as I’ve discussed
+
+before, that can lead to a lot of behaviors that might be maniacal but are not customer-
+
+focused. More often than not it leads to begging customers for higher scores or
+
+discouraging angry customers from providing feedback. It’s also likely to prompt debate
+
+about the basis for the score every time employees or departments are off-track for
+
+meeting their goals.
+
+5. Never close the loop with customers. Historically, the vast majority of customer
+
+feedback was anonymous. It was collected in a “market research mode,” which meant no
+
+one could follow up with individual customers to address their issues directly. The flawed
+
+logic behind this was built on a belief that customers would not share honest feedback
+
+unless their identity was kept secret. That might be true in some circumstances, but in my
+
+experience, it’s rare. Anonymity in customer feedback is, frankly, overrated. People want
+
+to be heard. They want their feedback to be acknowledged. They want to know that the
+
+time they invested sharing feedback meant something and was acted on. Closing the loop
+
+is essential to building lasting customer relationships, and it is an invaluable opportunity to
+
+dig more deeply into the details of what delighted or enraged them. It offers an
+
+opportunity to begin digging into the root causes of customer satisfaction or dissatisfaction
+
+to uncover policy problems, issues with product design, or other pesky issues that require
+
+cross-functional collaboration.
+
+Of course, no company intentionally follows this “how-not-to” rulebook. And yet, like me,
+
+I bet you have seen at least one company that follows all five of these rules, and maybe
+
+more.
+
+The truth is, creating an organization that really listens to its customers — what many call a
+
+customer-centric culture — is difficult. That’s why so many companies have moved from
+
+traditional customer satisfaction approaches rooted in a “market research mode” to
+
+customer feedback systems deeply integrated into daily operations. Real-time feedback
+
+from “voice of the customer,” the Net Promoter SystemSM, or other feedback mechanisms
+
+can deliver customer responses directly to the employees who need to hear them, soon
+
+after they took the actions that generated them. This sort of closed-loop feedback makes it
+
+easier to learn from experience. I dare say that a good deal of what accounts for the
+
+popularity of these approaches is the frustration many leaders feel about how little their
+
+employees have been learning from customers.
+
+If you want employees to learn from customers, don’t follow the traditional approach to
+
+customer satisfaction measurement. Make feedback a part of your daily operations. Deliver

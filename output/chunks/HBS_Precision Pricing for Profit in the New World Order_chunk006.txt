@@ -1,0 +1,156 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Performance-Based Pricing
+SUMMARY: Performance-based pricing offers advantages of alignment, insurance, and improved communication between buyers and sellers.
+KEYWORDS: performance-based pricing, buyer-seller alignment, risk mitigation, communication effectiveness
+---
+
+share in the cost and design improvements it was able to create.
+
+Advantages
+
+One advantage of performance-based pricing is the often-mentioned alignment that can be
+
+achieved between the buyer’s goals and the seller’s goals. But, that is only part of the story. There
+
+are two other major advantages. Performance-based pricing is insurance. It insures that the seller
+
+does not undercharge the buyer. When the final performance of the service or product is in doubt, the
+
+performance-based arrangement guarantees that as the seller provides more, it is paid more.
+
+Significantly, the buyer also receives insurance that it will not overpay at both the institutional and the
+
+individual level. No person or organization wants to pay more for a product or service than it is
+
+worth. Again, when performance delivery is in doubt, performance-based pricing enables the buyer
+
+to pay only for the amount of performance that is actually delivered on a measurable basis. Most
+
+important, the individuals responsible for the actual purchase decision do not want to absorb the
+
+career risk of overpaying. In our personal lives, if we overpay for a product, we suffer some marginal
+
+consequence. In business, it can literally end the job security of a procurement executive. For its
+
+insurance role, performance-based pricing creates a greater sense of “fairness” for both buyer and
+
+seller.
+
+The third benefit may be even more important than the first two. We often see performance-
+
+based pricing in highly uncertain situations, and where both buyer and seller must make complex
+
+tradeoffs among conflicting objectives. Simple contractual arrangements do not force the buyer and
+
+2 My friend Adrian Slywotzky of Mercer Management co-authored the original version of this section.
+
+3 The example is described in detail in “ABB and Ford: Creating Value Through Cooperation” by Sherwood C.
+
+Frey and Michel M. Schlosser, Sloan Management Review, Fall, 1993, pages 65 to 72.
+
+9-999-003 Precision Pricing for Profit in the New World Order
+
+seller to communicate in-depth to one another. Performance-based pricing arrangements are
+
+generally very intricate. The parties are forced to deal with one another’s limitations, objectives, and
+
+trade-offs. The very process of discussing, in precise detail and with great discipline, these issues
+
+develops “wide-band width” communication between buyer and seller. Each has the opportunity to
+
+precisely present its objectives, and to explain its own issues.
+
+This process of open communication encourages a great degree of buyer/seller cooperation
+
+and coordination, and literally a much broader agreement. More issues are raised and factored into
+
+the high sensitivity problem-solving process. When the two parties involved are buying and selling
+
+committees representing different organizational jurisdictions within their organizations, and perhaps
+
+different levels of management, the necessity for precision and discipline in communication helps the
+
+process within buyer and seller groups as well as between them. It, in fact, leads to better agreements
+
+that provide more value to the buyer and lower cost to the seller as shown in Exhibit 8. Customers
+
+only get what they value and suppliers can reduce costs by removing non-value-added service and
+
+product components.
+
+Applications and Limitations
+
+Performance-based pricing is growing because its economic logic is so powerful, it provides
+
+new opportunities for buyer/seller communication and has been proven in practice. After successful
+
+deployment by credible players (e.g., EDS in systems integration and outsourcing, services such as
+
+waste cleanup and welfare recipient job placement for government agencies, and many advertisers
+
+and advertising agencies), it is clear that the approach is implementable. Even Proctor and Gamble,
+
+the last major consumer packaged goods advertiser to stay with a 15% fee, is moving in this new
+
+direction. It is sometimes a pragmatic pathway to managing risk, uncertainty, and performance for
+
+the long-term benefit of both parties.
+
+Advertising has been a fertile field for performance-based pricing. The September 14, 1998
+
+issue of Advertising Age reports that the percentage of marketers who compensate agencies on
+
+billings (media purchases) dropped from 71% in 1983 to 35% in 1997. The average profit margins of
+
+large agencies furthermore, according to a study by Morgan Anderson Consulting, went from 13% to
+
+about 19%. This demonstrates how profitable performance-based pricing can be. The trend toward
+
+broader agency involvement beyond traditional advertising has made it both possible and appropriate
+
+for the move to a new pricing approach—one that provides the agency with more opportunity in
+
+return for greater risk and broader, more integrated responsibility.
+
+But, performance-based pricing is not for all pricing situations. In fact, it is appropriate in
+
+only a limited number of situations, albeit some very important ones. But, some limited variants can
+
+also be useful. “Point” guarantees such as penalty clauses which involve a discount when delivery is
+
+late are a simple form of performance-based pricing. These are typical in major construction projects.
+
+Performance-based pricing is complicated. As with usage-based pricing and point
+
+guarantees, the actual amount to be paid can not be determined until after delivery, and often even
+
+after usage, of the product or service. Thus, for example, time of day pricing (e.g. restaurant “early
+
+bird” specials or cheaper cinema matinee pricing) does not fit into the performance-based pricing
+
+model. Neither does stratified service pricing such as first class and economy in air travel. This is
+
+similar to product line pricing, and can be considered service line pricing.
+
+Performance-based pricing differs from usage based pricing in that it charges for the quality
+
+of performance as well as the quantity of usage. If the telephone company charged a performance
+
+premium for better sound quality or faster connections as measured in use, these would become
+
+performance-based prices. Both performance-based and usage-based pricing, however, set price after
+
+10
+
+Precision Pricing for Profit in the New World Order 9-999-003
+
+service/product delivery when the customer value is clear. These are both wonderful examples of
+
+using the pricing approach to clarify customer value and expand the ZOPA between customer value
+
+and cost.
+
+Finally, it is useful to consider the risk embodied in various pricing approaches. Pricing that
+
+is openly based on costs plus a predetermined profit margin, and is often referred to as “time and

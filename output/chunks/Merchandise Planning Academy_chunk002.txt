@@ -1,0 +1,297 @@
+SOURCE: Merchandise Planning Academy.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Inventory Management
+SUMMARY: The document discusses the importance of effective merchandise planning, open-to-buy management, and data integrity for successful retail operations.
+KEYWORDS: inventory management, open-to-buy, data integrity, markdown, retail planning
+---
+
+[Document: Merchandise Planning Academy.pptx]
+[Presentation Topic: Merchandise Planning]
+
+Less is more
+
+We work our store space hard
+
+High stock intensity (width and depth)
+
+‘Less is more’
+
+How do these work together?
+
+47
+
+[Slide 49]
+
+Why we mostly have too much stock and rarely, too little
+
+Afraid to give something up
+
+Hang on to the last
+
+If we put in more options, we sell more
+
+Never range or range extend to fill space or fixtures
+
+[Slide 50]
+
+Our Methodology
+
+Pull system versus push system
+
+Pull gives the best results for us with few exceptions
+
+[Slide 51]
+
+Margin Management
+
+It’s not the first margin that matters, it’s the final margin
+
+There is no secret formula on margin policy
+
+50
+
+[Slide 52]
+
+Open to Buy
+
+51
+
+Why we have Open to Buy:
+
+It tells us exactly how much we are allowed to spend on product each month
+
+Is the key control to prevent us from being overstocked or understocked
+
+It’s a blunt instrument that forces communication between merchandise planners, buyers, finance and the CEO
+
+[Slide 53]
+
+Open To Buy
+
+What is your role (merch  planner) in open to buy?
+
+Forecasting customer demand
+
+Forecasting replenishment of basics (ongoing)
+
+Make sure there is a %$ for when we find a gold-vein or a ‘must have’
+
+Based on data, challenge the product team
+
+52
+
+[Slide 54]
+
+Open to Buy
+
+53
+
+Has failed on too many occasions
+
+Blunt instrument
+
+OTB is set around current trend % positive or negative  (not budget)
+
+CEO sign off/CFO audits
+
+1% over trend is acceptable
+
+GM forecast secondary to sales, GM mustn’t be driver in OTB, Sales is the primary metric
+
+Need to determine ideal stock holdings (build up and decreases) by month fluctuations prior and post Christmas etc
+
+Ongoing doesn’t have an OTB – it has a demand requirement (sales rate and lead time) – demand driven
+
+[Slide 55]
+
+What is Data Integrity?
+
+54
+
+Data integrity is about how accurately the physical product in our stores is reflected in our system
+
+Physical quantity of items versus system quantity
+
+Physical price of item versus system price
+
+Getting data integrity right is critical to sales
+
+Overstocks (mark downs)
+
+Missed sales
+
+Also important because future decisions/forecasts are based on historic sales data – if this data is wrong, we can end up making wrong decisions
+
+Fraud
+
+[Slide 56]
+
+What is Data Integrity?
+
+55
+
+Data Integrity is everything  - You have to be paranoid  - If you see a negative stock on hand, action MUST   be taken
+
+Tending the garden - keep cleaning it up
+
+We need to be part of the solution - issues are inevitable, it’s ongoing, correct it and stay positive
+
+Everything must go through the system - No paper - No workarounds
+
+Keep a tally/records
+
+Product hierarchy and descriptions need to be accurate
+
+Our data is to be perfect
+
+[Slide 57]
+
+Sale and Markdown
+
+[Slide 58]
+
+Sale and markdown
+
+Clearing our product and quantity mistakes
+
+It is never an exact science but we can always do better
+
+Your first markdown is the best markdown
+
+The numbers never lie
+
+- No emotion
+
+- A dog is a dog
+
+Weeks cover drives your markdown, nothing else
+
+- Margin does not
+
+- Hopes and wishes do not
+
+- Price pointing does not
+
+Once a week
+
+Use similar data from previous sales to determine what will happen – proactive learning not reactive – but don’t over think it!
+
+57
+
+[Slide 59]
+
+MARKDOWN
+
+Exercise
+
+[Slide 60]
+
+59
+
+[Slide 61]
+
+60
+
+Refer to hand-outs
+
+[Slide 62]
+
+61
+
+[Slide 63]
+
+62
+
+Refer to hand-outs
+
+[Slide 64]
+
+63
+
+[Slide 65]
+
+64
+
+Refer to hand-outs
+
+[Slide 66]
+
+65
+
+[Slide 67]
+
+66
+
+Refer to hand-outs
+
+[Slide 68]
+
+67
+
+[Slide 69]
+
+68
+
+Refer to hand-outs
+
+[Slide 70]
+
+Markdowns
+
+69
+
+Answers MD.xlsx
+
+[Slide 71]
+
+Sale and Markdown
+
+70
+
+When do you take second
+
+markdowns?
+
+[Slide 72]
+
+71
+
+[Slide 73]
+
+Rules, Tips and tricks
+
+IOP
+
+What is its purpose?
+
+72
+
+[Slide 74]
+
+Sale and Markdown
+
+One question related to current sale to create
+
+some ‘real life’ discussion
+
+?
+
+[Slide 75]
+
+New Science of Retailing
+
+74
+
+[Slide 76]
+
+The future
+
+Direct to store deliveries
+
+Online, it will change the way we view fringe
+
+[Slide 77]
+
+ONE QUESTION
+
+76

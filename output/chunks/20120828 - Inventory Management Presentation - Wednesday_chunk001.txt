@@ -1,0 +1,405 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: A two-day conference on improving inventory management practices to achieve superior customer service, better business, and better outcomes.
+KEYWORDS: inventory management, forecasting, supply chain, data-driven decision making, retail operations
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+[Slide 1]
+
+BBRC Inventory Management
+
+Wednesday 29th August 2012
+
+[Slide 2]
+
+Time
+
+Topic
+
+1
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 3]
+
+Welcome
+
+2
+
+Thank you for being here
+
+Thanks for the effort and commitment to doing the pre - reading
+
+[Slide 4]
+
+Why we are doing this two day conference
+
+3
+
+Page 61 covers it nicely
+
+Weak area for all of us – our past is generally awful
+
+Realisation that it was my issue
+
+We are not realising our potential in inventory management
+
+Opinion versus data – we get the fundamentals but it’s still very difficult
+
+We must improve, in some cases change our ways
+
+New skills required. Page 200 states it well
+
+Inventory management is for reaching and has broad implications.  It has not been our ‘finest hour’, we must be honest on where we are and where we must be.
+
+[Slide 5]
+
+History
+
+4
+
+Background of music – all stock returnable
+
+Very “gut” (opinion) based from the beginning
+
+The shift from wholesale brands with low margin and high product cost, to high margin and low product cost – caused a lack of respect for inventory and our balance sheets
+
+Quick to fault  IT systems and IT departments
+
+In many ways to successful for our own good – never short on cash
+
+[Slide 6]
+
+The New Science of Retailing
+
+5
+
+Understanding analytical capabilities – all the way to the “new normal”
+
+Gamma distribution
+
+Cumulative probability
+
+Opportunity cost
+
+Average and standard deviation
+
+The purpose of the pre- reading was to give a broad overview of how effective Inventory Management fits to achieve superior customer service, better business and better outcomes
+
+I hope it was helpful to you
+
+Now we have to deep dive…
+
+[Slide 7]
+
+Your response to the pre-read highlighted diversity of problems we need to tackle
+
+After reading the book – where are we furthest from where we need to be??
+
+“Generating meaningful, consistent forecasts” (Greg Milne)
+
+“Upfront planning and forecasting sophistication” (Tim Hickey)
+
+“Flexible supply chain and store level execution” (Gary Jenkins)
+
+“Managing / Measuring stock outs” (Naomi Billington / Cassandra Brokaw)
+
+“Disciplined markdowns and exit procedures” (Misty Sullivan)
+
+“Flexible Supply Chain, better forecasting” (Michelle Kluz)
+
+“Forecasting to improve accuracy” (Karen Crouch)
+
+“Store level execution offers most room for improvement” (Iain Sadler)
+
+“Assortment planning, I thought we were ok, but we have a 1 size fits all model” (Shane Fallscheer)
+
+6
+
+[Slide 8]
+
+Outcomes at the end of the two days
+
+7
+
+An appreciation of the importance and urgency to our success of being more focused in this important area
+
+Improve our skills and understanding to allow everybody to be able to do their roles successfully – understand our weaknesses
+
+Determine
+
+Guidelines for each brand
+
+Hard stop rules and disciplines
+
+Understanding  that “high tech” retailing is here to stay
+
+Understanding and awareness of “the price” and consequence of getting Inventory Management wrong
+
+Understanding “Opinion vs. data” – Science of retailing refers to it as ‘hunch-driven to data-driven’
+
+The aim is to make us all smarter, whilst not lowering our creativity and product focus > page 7 sums it up
+
+[Slide 9]
+
+What is out of scope for the 2 days
+
+8
+
+Product quality issues
+
+Product newness / freshness / innovation
+
+Logistics
+
+Current software
+
+Current clearance practices (although Carl & Tim will touch on new clearance opportunities)
+
+[Slide 10]
+
+Introducing Stephen Heath
+
+9
+
+One of Australia's more experienced senior retail execs
+
+Actually started his career in various IT roles and transitioned into sales roles with Sharp in early 90s
+
+His move into retail (and passion for inventory management) started in his 7 years as a franchisee for Harvey Norman
+
+Since then Stephen has been Group MD for Rebel Sport for 7 years
+
+And was also Group MD for ICSH (Godfreys and Hoover) for several years
+
+[Slide 11]
+
+Time
+
+Topic
+
+10
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 12]
+
+Inventory Management“It’s not Rocket Science, but……..”
+
+Stephen Heath
+
+[Slide 13]
+
+Stephen Who??
+
+I.T Background
+
+Mainframe Operations, Programming, Business Analysis & Systems Design, Business Solution Sales
+
+Consumer Brands Management
+
+Retail – 20 Years
+
+Company Stores
+
+Franchised Stores
+
+ASX Listed
+
+Private Equity
+
+Directorships
+
+Funtastic
+
+Rebel Sport
+
+Gizmo
+
+Australian Sporting Goods Association
+
+[Slide 14]
+
+Retail Brands
+
+[Slide 15]
+
+Consumer Brands
+
+[Slide 16]
+
+Fridges to Fishing Hooks
+
+Computers to Cameras
+
+Sports Bras to Software
+
+Watches to Weight Benches
+
+Toys to Tennis Racquets
+
+Printers to Protein Powder
+
+Footwear to Flat Screen TV’s
+
+Swimwear to Spare Parts
+
+Chemicals to Cricket Bats
+
+Diverse Categories
+
+[Slide 17]
+
+Brand Manager & Wholesale Distribution
+
+Relying on Retail Distribution Channel
+
+Retailer
+
+Relying on Brand Managers & Wholesale Distributors
+
+Vertical Retail
+
+Relying on contract manufacturing out of Asia
+
+Supply Chain Models
+
+[Slide 18]
+
+Observations
+
+The Bad
+
+The Good
+
+&
+
+[Slide 20]
+
+Some of the Ugly
+
+and my first
+
+“What the…”
+
+moment!!!
+
+Why is it a focus of mine?
+
+[Slide 21]
+
+“What the….”
+
+The Buyer said;
+
+The Rep replied;
+
+“I don’t have any OTB……”
+
+But you have have sold out our best selling lines
+
+[Slide 22]
+
+“What the….”
+
+The Forecast
+
+The Deal “of the century”
+
+The Aged Inventory
+
+The Meeting
+
+The Markdowns
+
+The Incentive
+
+[Slide 23]
+
+The Realisation
+
+Low Margin (sometimes no margin)
+
+Short Lifecycle
+
+High devaluation
+
+Theft
+
+Fast emerging categories and products
+
+Capital Intensive ($2M – Inventory Only)
+
+100% Vendor Supply
+
+Manual systems (P.O’s, POS, Stocktaking)
+
+High levels of Intuition and fast decisions required
+
+Turn it 10x or perish!!
+
+[Slide 24]
+
+Why is Inventory so important?
+
+It drives our sales & margin!!!!
+
+It affects our customers shopping experience!!
+
+It devalues; sometimes very fast!!
+
+It takes owners equity and or business lending to fund it!!
+
+&
+
+[Slide 25]
+
+We spend most our day on it!!
+
+Designing
+
+Forecasting
+
+Ordering
+
+Manufacturing
+
+Packaging
+
+Shipping
+
+Receiving
+
+Displaying
+
+Advertising
+
+Loss Prevention
+
+Training Staff
+
+Selling
+
+[Slide 26]
+
+Inventory Management. What do we mean?
+
+Maximising our sales & margin from the least amount of inventory possible!!!
+
+[Slide 27]
+
+The Easiest Way Fuel Sales
+
+[Slide 28]
+
+But
+
+We are introducing future downside risk through
+
+Decreased margins due to clearance
+
+Increased operational costs to process

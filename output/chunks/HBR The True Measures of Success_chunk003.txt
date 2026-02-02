@@ -1,0 +1,146 @@
+SOURCE: HBR The True Measures of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.11 HFT - Measurement
+TOPIC: Business Performance Metrics
+SUMMARY: Companies often rely on metrics that are neither persistent nor predictive, such as earnings per share (EPS) and sales growth, which may not accurately reflect value creation.
+KEYWORDS: performance metrics, value creation, earnings per share, sales growth
+---
+
+base) with an effect (scoring runs). It is also more persistent than batting average because it
+
+incorporates more factors—including the ability to get walked—that reflect skill. So we can
+
+conclude that a team’s on-base percentage is better for predicting the performance of a
+
+team’s offense.
+
+All this seems like common sense, right? Yet companies often rely on statistics that are
+
+neither very persistent nor predictive. Because these widely used metrics do not reveal
+
+cause and effect, they have little bearing on strategy or even on the broader goal of earning
+
+a sufficient return on investment.
+
+Consider this: Most corporations seek to maximize the value of their shares over the long
+
+term. Practically speaking, this means that every dollar a company invests should generate
+
+more than one dollar in value. What statistics, then, should executives use to guide them
+
+in this value creation? As we’ve noted, EPS is the most popular. A survey of executive
+
+compensation by Frederic W. Cook & Company found that it is the most popular measure
+
+of corporate performance, used by about half of all companies. Researchers at Stanford
+
+Graduate School of Business came to the same conclusion. And a survey of 400 financial
+
+executives by finance professors John Graham, Campbell Harvey, and Shiva Rajgopal
+
+found that nearly two-thirds of companies placed EPS first in a ranking of the most
+
+important performance measures reported to outsiders. Sales revenue and sales growth
+
+also rated highly for measuring performance and for communicating externally.
+
+But will EPS growth actually create value for shareholders? Not necessarily. Earnings
+
+growth and value creation can coincide, but it is also possible to increase EPS while
+
+destroying value. EPS growth is good for a company that earns high returns on invested
+
+capital, neutral for a company with returns equal to the cost of capital, and bad for
+
+companies with returns below the cost of capital. Despite this, many companies slavishly
+
+seek to deliver EPS growth, even at the expense of value creation. The survey by Graham
+
+and his colleagues found that the majority of companies were willing to sacrifice long-term
+
+economic value in order to deliver short-term earnings. Theory and empirical research tell
+
+us that the causal relationship between EPS growth and value creation is tenuous at best.
+
+Similar research reveals that sales growth also has a shaky connection to shareholder value.
+
+(For a detailed examination of the relationship between earnings growth, sales growth, and
+
+value, see the exhibit “The Problem with Popular Measures.”)
+
+The Problem with Popular Measures
+
+The most useful statistics are persistent (they show that the outcome of an action at one time will be
+
+similar to the outcome of the same action at another time) and predictive (they link cause and effect,
+
+predicting the outcome being measured). Statisticians assess a measure’s persistence and its
+
+predictive value by examining the coefficient of correlation: the degree of the linear relationship
+
+between variables in a pair of distributions. Put simply, if there is a strong relationship between two
+
+sets of variables (say a group of companies’ sales growth in two different periods), plotting the points
+
+on a graph like the ones shown here produces a straight line. If there’s no relationship between the
+
+variables, the points will appear to be randomly scattered, in this case showing that sales growth in
+
+the first period does not predict sales growth in the second.
+
+In comparing the variable “sales growth” in two periods, the coefficient of correlation, r, falls in the
+
+range of 1.00 to –1.00. If each company’s sales growth is the same in both periods (a perfect positive
+
+correlation), r = 1.00—a straight line. (The values need not be equal to produce a perfect correlation;
+
+any straight line will do.) If sales growth in the two periods is unrelated (there is zero correlation), r =
+
+0—a random pattern. If increases in one period match decreases in the other (a perfect inverse
+
+correlation), r = –1.00—also a straight line. Even a quick glance can tell you whether there is a high
+
+correlation between the variables (the points are tightly clustered and linear) or a low correlation
+
+(they’re randomly scattered).
+
+The closer to 1.00 or –1.00 the coefficient of correlation is, the more persistent and predictive the
+
+statistic. The closer to zero, the less persistent and predictive the statistic.
+
+Let’s examine the persistence of two popular measures: EPS growth and sales growth.
+
+The figures above show the coefficient of correlation for EPS growth and sales growth for more than
+
+300 large nonfinancial companies in the United States. The compounded annual growth rates from
+
+2005 to 2007, on the horizontal axes, are compared with the rates from 2008 to 2010, on the vertical
+
+axes. If EPS and sales growth were highly persistent and, therefore, dependent on factors the company
+
+could control, the points would cluster tightly on a straight line. But in fact they’re widely scattered,
+
+revealing the important role of chance or luck. The correlation is negative and relatively weak (r = –
+
+0.13) for EPS growth but somewhat higher (r = 0.28) for sales growth. This is consistent with the results
+
+of large-scale studies.
+
+Next, we’ll look at the predictive value of EPS growth and sales growth by examining the
+
+correlation of each with shareholder returns.
+
+In the figures above, adjusted EPS growth and sales growth are on the horizontal axes. The vertical
+
+axes are the total return to shareholders for each company’s stock less the total return for the S&P
+
+500. Adjusted EPS growth shows a reasonably good correlation with increasing shareholder value (r =
+
+0.37), so it is somewhat predictive. The problem is that forecasting earnings is difficult because, as we
+
+saw in the previous analysis, EPS growth in one period tells you little about what will happen in
+
+another. Earnings data may be moderately predictive of shareholder returns, but they are not
+
+persistent.
+
+Using sales growth as a gauge of value creation falls short for a different reason. While sales growth is

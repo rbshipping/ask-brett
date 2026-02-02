@@ -1,0 +1,150 @@
+SOURCE: Zameer Kassam Fine Jewelry.pdf
+SUBFOLDER: Additional\HFT\2021\Customer Academy_Len 2021\Part 1 Series_26 Jan 2021\Pre-reading
+TOPIC: Luxury Retail Engagement
+SUMMARY: This case examines how Zameer Kassam Fine Jewelry adapted its high-touch, in-person jewelry design and sales process to a virtual model during the COVID-19 pandemic.
+KEYWORDS: luxury retail, customer engagement, virtual sales, jewelry design, COVID-19 adaptation
+---
+
+[Document: Zameer Kassam Fine Jewelry.pdf]
+
+HARVARD|] BUSINESS |]SCHOOL
+
+9-621-043
+
+REV: OCTOBER 16, 2020
+
+RYAN W. BUELL
+
+AMY KLOPFENSTEIN
+
+Zameer Kassam Fine Jewelry: Engaging Clients
+
+Introduction
+
+Zameer Kassam (MBA 2007), Founder and CEO of Zameer Kassam Fine Jewelry, sat in the living
+
+room of his Manhattan apartment, pouring over one of the earliest sketchbooks from his business. On
+
+the pages, penciled in slanting cursive, were his handwritten notes of love stories gathered from clients,
+
+alongside sketches of some of the one-of-a-kind engagement rings he and his team had designed to
+
+commemorate their relationships. Although Kassam and his colleagues designed a wide-variety of
+
+custom jewelry pieces, two-thirds of their projects were engagement rings.
+
+Kassam’s eyes fell upon a framed portrait from his 40th birthday (Exhibit 1). The image captured
+
+hundreds of friends and former clients from all around the world, who had travelled to Dubrovnik,
+
+Croatia to celebrate with him. But this year, no such gathering could occur. It was August 2020, and
+
+the world was ensnared by the COVID-19 pandemic. Just a few days after his 41st birthday, and eight
+
+years since the founding of his company, Kassam found himself at a crossroads.
+
+Obliged by social-distancing guidelines, Kassam and his team had been forced to take many facets
+
+of his high-touch, historically face-to-face business online. Interviews to discover the details of a
+
+couple's love story, which were typically conducted in person, perhaps over a glass of scotch at the
+
+Park Hyatt, were now being done by phone or on Zoom. Storytelling sessions, during which Kassam
+
+and his team would reveal their sketches of ring designs that were inspired by the couple’s relationship,
+
+and present carefully-selected diamond options, were now being completed over e-mail. Elaborately
+
+choreographed in-person unveilings of finished rings had given way to FedEx deliveries. Private
+
+celebrations with the newly-engaged couple and the entire client-facing team in Kassam’s Manhattan
+
+studio had been moved online, if they occurred at all.
+
+Since the majority of his clients lived outside New York City, Kassam and his team were accustomed
+
+to engaging customers from afar, but until now, it had been atypical for the entire process to be
+
+conducted virtually. Clients were often eager to travel to Manhattan at least once to meet him and his
+
+team, or they were delighted by his, and his storytellers’, willingness to travel to meet them. Face-to-
+
+face service was impossible under the current restrictions, and yet, clients were still overjoyed by their
+
+rings and business remained strong. “Perhaps,” he reflected, “our process has been too rigid in the
+
+past?” Relaxing some parts of the process could drive efficiencies that could help further scale the
+
+Professor Ryan W. Buell and Case Researcher Amy Klopfenstein (Case Research & Writing Group) prepared this case. It was reviewed and
+
+approved before publication by a company designate. Funding for the development of this case was provided by Harvard Business School and
+
+not by the company. HBS cases are developed solely as the basis for class discussion. Cases are not intended to serve as endorsements, sources of
+
+primary data, or illustrations of effective or ineffective management.
+
+Copyright © 2020 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685,
+
+write Harvard Business School Publishing, Boston, MA 02163, or go to www. hbsp.harvard.edu. This publication may not be digitized, photocopied,
+
+or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+This document is authorized for use only in Professor Buell's the Managing Service Operations, Fall 2020 at Harvard Business School from Sep 2020 to Nov 2021.
+
+621-043 Zameer Kassam Fine Jewelry: Engaging Clients
+
+business, and embracing more technology might help him and his team reach more clients and engage
+
+them in new, and potentially better, ways. Kassam mulled the possibilities as he turned the page.
+
+The Fine Jewelry Industry
+
+In 2019, roughly 20,000 retail jewelers operated in the United States.1 However, the market was
+
+fragmented, with the top 50 businesses contributing 40% of industry-wide sales.? The largest U.S. retail
+
+jewelry merchant was Signet Jewelers, which operated outlets such as Kay, Zales, and Jared and owned
+
+roughly 7% of the U.S. market share. Other major players included Helzberg Diamonds, which
+
+operate a chain of more than 200 mall-based shops, and luxury retailer Tiffany & Co (Tiffany’s).4
+
+Additional vendors included department stores such as Macy’s and Nordstrom, warehouse stores such
+
+as Walmart and Costco, e-commerce platforms, and television shopping networks.5
+
+The global diamond jewelry market was valued at $76 billion in 2018 (Exhibit 3), with roughly half
+
+of the global demand for polished diamonds residing in the United States (Exhibit 4). A substantial
+
+portion of diamond sales stemmed from bridal jewelry, such as engagement rings, which comprised
+
+30% to 50% of revenue for some jewelry stores.6 Diamond engagement ring prices ranged from less
+
+than $500 at mass market retailers such as Zales, to more than $100,000 at high-end jewelers such as
+
+Tiffany's. (See Exhibit 5 for a list of prices at high-end jewelers.)” Research suggested that engagement
+
+ring prices had almost tripled since the 1930s, with the average American paying between $5,000 and
+
+$7,500 for an engagement ring in 2019.8 However, these prices may have been inflated by a small group
+
+of high spenders, as a 2019 survey suggested that the majority of shoppers paid less than $3,000 for an
+
+engagement ring (Exhibit 6).?
+
+Although most stores had an online presence, a 2018 survey revealed that 70% of consumers bought
+
+engagement rings in brick-and-mortar stores.'? The appeal of in-store jewelry purchases included
+
+access to services such as ring cleanings, guidance from store employees, and concerns that online
+
+jewelry would look different in person."' High end jewelers offered additional services such as
+
+beverages, private showrooms, and a personal consultation from a member of the sales staff.!2 Further,
+
+approximately 33% of couples shopped for an engagement ring together; therefore, shopping in-store
+
+gave brides and grooms-to-be the opportunity to try on rings prior to purchase.!3 Personalization was
+
+also common among U.S. shoppers; in 2019, almost 50% of surveyed consumers reported purchasing

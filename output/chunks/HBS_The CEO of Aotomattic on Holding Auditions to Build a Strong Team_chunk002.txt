@@ -1,0 +1,254 @@
+SOURCE: HBS_The CEO of Aotomattic on Holding Auditions to Build a Strong Team.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Hiring and Recruitment Practices
+SUMMARY: The text discusses Automattic's approach to hiring, including paid tryouts and assessing candidates' skills and cultural fit through hands-on exercises.
+KEYWORDS: Hiring practices, Tryouts, Candidate assessment, Remote work, Cultural fit
+---
+
+Paying them for their efforts is important; this isn’t about getting work done free. Originally
+
+we tried to set hourly pay rates based on what they might earn if they were hired, but that
+
+became too complicated. We were almost negotiating what we would pay someone who
+
+hadn’t yet received an offer, which didn’t make any sense. To keep it simple, we decided to
+
+pay a standard $25 an hour, whether the candidate was hoping to be an engineer or the
+
+chief financial officer.
+
+If you’re applying to work in customer support, you’ll be talking directly to customers. If
+
+you’re an engineer, you'll be writing real code. If you’re a designer, you’ll design. In some
+
+cases the nature of the job means that we have to get creative. If you’re looking for a role in
+
+business development, we can’t send you out to negotiate deals with potential partners, so
+
+we come up with something as closely related as possible to the actual work. A business-
+
+side hire might prepare presentations, or do an analysis of a business problem, or run
+
+numbers on a potential project. Tryouts may not offer 100% overlap with the job in
+
+question, but they give us a better window on someone’s skills and cultural fit than a lunch
+
+meeting would. We’re especially interested in how well candidates self-motivate, how well
+
+they communicate in writing (because most of us work remotely, we rely heavily on instant
+
+messaging), and how they deal with mistakes. We don’t expect perfection—we care more
+
+about how quickly they identify an error, how they communicate about it, and what they
+
+learn from it.
+
+One Manager's Bperence The Final Interview (via Text)
+
+When Matt Mullenweg asked Scott Berkun, a
+
+veteran Microsoft executive and
+
+management author, to become a “team
+
+leader” at Automattic, he said yes—on one
+
+condition: He wanted to write a book about
+
+working in its unique corporate culture.
+
+Berkun, the author of The Year Without
+
+Pants: WordPress.com and the Future of
+
+Work, talked with HBR about the experience.
+
+What did you think of the job tryout
+
+process?
+
+I’m a huge fan, because it makes sense.
+
+Somehow hiring managers have come to
+
+believe that having people talk about work in
+
+a job interview is a reliable indicator of their
+
+ability to do work. It’s not. If you want a cake
+
+for your wedding, you’re going to ask the
+
+baker for a sample. You don’t ask him to talk
+
+about his cake. Tryouts are far better
+
+predictors of who can do the job and bea
+
+good fit.
+
+| Did the tryouts give you, as a manager,
+
+more confidence in making hiring
+
+: decisions?
+
+To some extent, yes. | like to talk about
+
+| hiring decisions with my team. At
+
+Automattic, instead of talking about how a
+
+candidate replied to interview questions, we
+
+could give firsthand reports of how he
+
+responded to a particular problem.
+
+Firsthand data gave us more confidence.
+
+Should other companies use tryouts?
+
+Many already do, albeit under different
+
+: names. An internship is very similar—it’s
+
+limited-term employment that you hope will
+
+lead to a long-term job. Apprenticeships
+
+have existed in artistic endeavors since the
+
+: Renaissance.
+
+Only very rarely do people object to a tryout
+
+or say that they’re too busy to undertake one.
+
+The tryout may feel like an extraordinary
+
+obligation, but that makes it a filter: We want
+
+people who are willing to do what’s
+
+necessary to succeed and who are passionate
+
+enough about Automattic to make the
+
+process a priority. Tryouts aren’t like a bake-
+
+off; if we audition 10 people and they’re all
+
+strong, we may hire all of them. Applicants
+
+are competing against our standards of
+
+quality, not against one another.
+
+During a tryout, we try to provide a lot of
+
+feedback. If we conclude that an applicant
+
+isn’t going to succeed, we call an end to the
+
+process as quickly as possible, out of respect
+
+for everyone’s time. Sometimes a candidate
+
+decides to end the trial.
+
+We also prioritize coordinating the system.
+
+It’s a huge investment of time, and we’ve
+
+found that any single Automattic employee
+
+can oversee only two or three auditions at
+
+once. We now have four engineers who
+
+perform that service for their department. In
+
+our culture, overseeing a tryout takes higher
+
+priority than doing your regular job; it’s
+
+perfectly acceptable for people to
+
+temporarily step back from their usual work
+
+for that reason.
+
+What in the culture was difficult to
+
+adapt to?
+
+| adjusted well to working remotely.
+
+Communicating digitally was easy: Even if
+
+you work in the same building, most of your
+
+dealings with colleagues are done via
+
+computer anyway. In general | really liked
+
+working at Automattic. My frustrations had
+
+to do with the level of ambition. The culture
+
+of the company is to collaborate and to
+
+make a lot of incremental changes. People
+
+had so much freedom to take risks, and | was
+
+disappointed by how few employees took
+
+advantage of that to make really big bets.
+
+What should other companies learn
+
+from Automattic?
+
+They could learn from its commitment to
+
+innovation. Executives like to talk about
+
+being innovative, but most people are really
+
+conservative. Matt Mullenweg is willing to
+
+try stuff out. He’s happy to see stuff not work
+
+: —he’ll say, “Now we know a little more
+
+about how this problem can be solved.” If
+
+other companies adopted a model in which
+
+the CEO was the chief experimenter, they’d
+
+| be more successful.
+
+When the process is over, all the people
+
+involved have a great sense of whether they
+
+want to work together going forward. At that
+
+point the final step is an interview with me.
+
+(Even as our company has grown, I continue
+
+to spend at least a third of my time on hiring.)
+
+I’ve changed my interview style dramatically
+
+over the years, to stay in the spirit of the
+
+tryout process. I conduct interviews via text-
+
+only Skype chats or instant messaging. I don’t
+
+know the gender or ethnicity of anyone I

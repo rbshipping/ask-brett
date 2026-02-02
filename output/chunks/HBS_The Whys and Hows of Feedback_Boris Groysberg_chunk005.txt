@@ -1,0 +1,156 @@
+SOURCE: HBS_The Whys and Hows of Feedback_Boris Groysberg.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Performance Management
+SUMMARY: Effective feedback requires a comprehensive performance management system with clear standards, timing, and infrastructure to create trust and accountability.
+KEYWORDS: feedback, performance management, organizational culture
+---
+
+boundaries can also foil attempts to give, or solicit, useful feedback.
+
+Feedback also needs to be embedded in an entire context of performance management. This involves
+
+goal setting at all levels of the organization, from the company as a whole to the individual and a
+
+compensation and rewards system that is tied directly in to the desired competencies and behaviors.
+
+Companies should have an infrastructure that supports feedback and performance management,
+
+rather than leaving individual managers to figure it out on their own. There should be an agreed-
+
+upon set of standards with consistency across offices and departments. A common feedback-related
+
+problem is for organizational units or subcultures to develop very different performance standards
+
+and practices around feedback. Organizations must maintain a balancing act between letting
+
+individual units’ and managers’ feedback processes reflect actual differences in the work or
+
+background of employees, and keeping a consistent set of practices and values organization-wide.
+
+Having a clear feedback infrastructure not only prevents managers and feedback-seeking
+
+employees from having to reinvent the wheel, but creates consistency, transparency, and trust in the
+
+process, which is a key determinant of how people respond to feedback. Employees who trust the
+
+feedback metrics and process of their companies are more likely to take action on that feedback, such
+
+as by engaging in developmental activities.”
+
+The timing of feedback can also affect its quality and should be considered as part of the
+
+infrastructure. If employees are feeling a great deal of organizational cynicism, for whatever reason, it
+
+may be wise to postpone feedback efforts until such a time as people have faith that improvement
+
+will be rewarded (or even noticed).?! Beyond this, feedback mechanisms need to be timed to
+
+performance events.
+
+Reviewing a task long after the task has been completed allows memory failures and biases to
+
+creep in, and also fails to give people the opportunity to improve in a timely fashion. Informal, in-the-
+
+moment feedback may be best for this purpose, although formal feedback events should, as much as
+
+possible, be tied to a meaningful schedule instead of being scheduled whenever is convenient. After-
+
+19 Marilyn V. Whitman, Jonathon R.B. Halbesleben, and Oscar Holmes IV, “Abusive Supervision and Feedback Avoidance:
+
+The Mediating Role of Emotional Exhaustion,” journal of Organizational Behavior 35 (2012) 38-53.
+
+20 Marjolein Feys, Frederick Anseel, and Bart Wille, “Improving Feedback Reports: The Role of Procedural Information and
+
+Information Specificity,” Academy of Management Learning & Education 10 (2011): 661-681,
+
+21 Leanne E, Atwater, David A. Waldman, and Joan F, Brett, “Understanding and Optimizing Multisource Feedback,” Hunan
+
+Resource Management 41 (2002): 193-208.
+
+This document fs authorized for use only by Ryan Benner (ryan@bbreworld.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or
+
+800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+event reviews, such as those practiced by the military, can also be a good feedback practice,
+
+particularly in a project-driven environment. When corporate policy dictates annual performance
+
+reviews, bosses should engage in informal coaching and feedback on a regular basis. In his book How
+
+to Be Good at Performance Appraisals, Dick Grote notes that “Frequent coaching during the year is vital.
+
+It lowers the fear factor people may experience during the annual appraisal discussion if that’s the
+
+only time the boss talks about performance.”?
+
+Organizational attitudes to feedback, as exemplified in leadership and practices, are also
+
+important, Feedback should be seen as meaningful, acceptable, and useful. Cultures in which this is
+
+the case tend to have employees who are motivated, committed, and satisfied with their work.4 One
+
+way to create such attitudes is for leaders to model feedback-seeking behavior. “One must ask for
+
+feedback in order to demonstrate the expectations regarding the frequency of feedback, what
+
+constitutes suitable reactions, and when to respond or take action.”24
+
+These kinds of feedback-friendly practices and attitudes are usually seen as part of an
+
+organization-wide orientation to learning. As identified by David A. Garvin, Amy C. Edmondson,
+
+and Francesca Gino, learning organizations have “(1) a supportive learning environment, (2) concrete
+
+learning processes and practices, and (3) leadership behavior that reinforces learning.” Aspects of
+
+the learning culture include psychological safety, appreciation of differences, openness to new ideas,
+
+and time for reflection, Psychological safety, a critical component of feedback situations, refers to the
+
+sense that it is acceptable to take risks, admit mistakes, or try new things that may or may not work.
+
+This kind of talk sounds most culturally compatible with a “fail big!” innovative IT startup, but much
+
+of the work by Edmondson and her colleagues has been in far more conservative and very high-
+
+stakes environments —such as children’s hospitals, In one such case, developing a new “blame free”
+
+way to analyze mistakes and accidents led to “measurable reductions in preventable deaths and
+
+illnesses at the institution.”?6
+
+In practice, an organization with a learning orientation and a good performance-management
+
+system, including frequent feedback, sets itself up for a virtuous cycle of communication, alignment,
+
+and improvement.
+
+National Culture
+
+There is a vast body of literature on cultural differences, particularly around communication,
+
+cooperation, and competition, Cultures vary across a number of relevant dimensions — assertiveness,
+
+power distance, individualism/collectivism, that will affect feedback.?” In particular, a divide has
+
+been noted between Asian and Western cultures. Asians may be less prone to the self-serving
+
+22 Dick Grote, How to Be Good at Performance Appraisals (Boston: Harvard Business Review Press, 2011), p. 72.
+
+3 Amanda Baker, Dominique Perrault, Alain Reid, and Celine M. Blanchard, “Feedback and Organizations: Feedback Is Good,
+
+Feedback-Friendly Culture Is Better.” Canadian Psychology 54 (2013): 260-268.
+
+24 P. 264 of Baker et al.
+
+33 P. 110 of David A. Garvin, Amy C. Edmondson, and Francesca Gino, “Is Yours a Learning Organization?” Harvard Business
+
+Review (2008): 109-116.
+
+26 P. 111 of David A. Garvin, Amy C. Edmondson, and Francesca Gino, “Is Yours a Learning Organization?” Harvard Business
+
+Review (2008): 109-116.
+
+27 Regina Eckert, Bjorn Z. Ekelund, William A. Gentry, and Jeremy F, Dawson, “I Don’t See Me Like You See Me, But Is That a

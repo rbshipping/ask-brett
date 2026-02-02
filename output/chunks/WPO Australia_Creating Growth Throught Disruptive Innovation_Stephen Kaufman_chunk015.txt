@@ -1,0 +1,192 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation in Business
+SUMMARY: The text discusses various examples of disruptive innovations that have disrupted existing markets and industries.
+KEYWORDS: disruptive innovation, market disruption, new technologies, business strategy, industry transformation
+---
+
+started as a bare-bones discount broker but had moved up towards the mainstream market by the mid-1990s,
+
+Internet-based trading was disruptive enough that the company had to set up a separate division.
+
+On-line travel
+
+agencies
+
+Enabled by electronic ticketing, on-line travel agencies such as Expedia and Travelocity have so badly
+
+disrupted full-service, bricks-and-mortar agencies such as American Express that many airlines have
+
+dramatically cut the substantial commissions that historically they had paid to travel agencies.
+
+Oracle
+
+Oracle’s relational database software was disruptive relative to that of the prior leaders, Cullinet and IBM,
+
+whose hierarchical or transactional database software ran on mainframe computers and was used to generate
+
+standard financial reports. Relational databases ran on minicomputers (and then microprocessor-based
+
+computers). Users without deep programming expertise could readily create their own custom reports and
+
+analyses using Oracle’s modular, relational architecture.
+
+1-22
+
+Palm Pilot, RIM
+
+Hand-held devices are new-market disruptions relative to notebook computers.
+
+glucose meters
+
+BlackBerry
+
+Plastics Plastics as a category have disrupted steel and wood, in that the “quality” of plastic parts often was inferior to
+
+those of wood and steel, along the metrics by which performance was measured in traditional applications.
+
+But their low cost and ease of shaping created many new applications, and plastics have pulled many
+
+applications out of the original metal and wood value networks into the plastic network. The disruption is
+
+particularly obvious if you look at where plastics were used in automobiles 30 years ago, versus today.
+
+Portable Disrupted makers of large blood glucose testing machines in hospital laboratories, enabling patients with
+
+diabetes blood diabetes to monitor their own glucose levels.
+
+Salesforce.com
+
+This company, with its inexpensive, simple Internet-based system, is disrupting the leading providers of
+
+customer relationship management software like Siebel Systems,
+
+Seiko watches
+
+Remember when Seiko watches were those cheap, throw-away black plastic watches? They, Citizen and
+
+Texas Instruments (which subsequently exited) disrupted the American and European watch industries.
+
+Sonosite
+
+This firm makes a hand-held ultrasound device that enables healthcare professionals who historically needed
+
+the assistance of highly trained technicians with expensive equipment, now to look inside the bodies of
+
+patients in their care, and thereby to provide more accurate and timely diagnoses. The company floundered
+
+for a time attempting to implement its product as a sustaining innovation, But as of the time this book was
+
+being written, it seemed to have caught its disruptive stride in an impressive way.
+
+Sony
+
+Sony pioneered the use of transistors in consumer electronics. Its portable radios and portable televisions
+
+disrupted firms like RCA that made large TVs and radios using vacuum tube technology. During the 1960s
+
+and 1970s, Sony launched a series of new-market disruptions, with products like video tape players, hand-
+
+held consumer video recorders, cassette tape players, the Walkman, and the 35-inch floppy disk drive.
+
+Southwest
+
+Airlines
+
+SQL database
+
+software
+
+Staples
+
+Steel minimills
+
+Sun
+
+Microsystems
+
+Toyota
+
+being disrupted by CISC microprocessor-based computer makers such as Compaq and Dell.
+
+It was a hybrid disruptor because its original strategy was to compete against driving and busses, and to fly in
+
+and out of non-mainstream airports. In addition, because its prices were so low it also took business from
+
+established airlines, Just as Wal-Mart enjoys profit protection from being in small towns whose market can
+
+only support one discount store, many of Southwest’s routes offer the same protection,
+
+Microsoft's SQL database software product is disrupting Oracle, which has moved up-market into expensive,
+
+integrated enterprise systems,
+
+With its direct competitors Office Max and Office Depot, Staples disrupted small stationery stores as well as
+
+business-to-business office supplies distributors.
+
+Have been disrupting integrated mills around the world since the mid-1960s, as recounted in the text.
+
+Sun, Apollo (HP) and Silicon Graphics, which built their systems around RISC microprocessors, took root in
+
+essentially the same value network as minicomputers, and disrupted them, These firms, in turn, are now
+
+Entered the US market with cheap sub-compact cars like the Corona. These were so inexpensive that people
+
+who historically couldn’t afford a new car now could buy one; or families could acquire a second car.
+
+Toyota now makes Lexuses, you may have noticed. Nissan has migrated from its Datsun to Infiniti; and
+
+Honda has progressed from its miniature CVCC to Accura.
+
+Toys-R-Us
+
+Disrupted the toy departments of full-service and discount department stores, which has sent them up-market
+
+into higher-margin clothing.
+
+Ultrasound
+
+Ultrasound technology is disruptive, relative to X-Ray imaging. Hewlett Packard, Accuson, and ATL created
+
+a multi-billion-dollar industry by imaging soft tissues, which traditional X-ray technology could not capture.
+
+The leading X-Ray equipment makers, including General Electric, Siemens and Philips, became leaders in
+
+the two major radical sustaining technology revolutions in imaging: CT scanning and magnetic resonance
+
+imaging (MRI). Because ultrasound was a new market disruption, none of the X-ray companies participated
+
+in ultrasound until very recently, when they acquired major ultrasound equipment companies,
+
+University of
+
+A unit of Apollo, the University of Phoenix is disrupting four-year colleges and certain professional graduate
+
+Phoenix programs. It began by providing employee training courses for businesses, often de facto, but sometimes by
+
+formal contract. Its programs have expanded into a variety of open-enrollment, degree-granting programs.
+
+Today it is one of the largest educational institutions in the United States, and is one of the leading providers
+
+of on-line education,
+
+Unmanned These machines took root initially as drone targets to uncover hidden anti-aircraft emplacements. They then
+
+aircraft moved up-market into surveillance roles, and in the 2001-02 war in Afghanistan, moved for the first time into
+
+limited weapons-carrying roles.
+
+‘Vanguard Index mutual funds have been a low-end disruption relative to managed mutual funds. At the time of this
+
+writing, Vanguard’s assets had grown to rival closely those of the former undisputed mutual fund leader,
+
+Fidelity management.
+
+Veritas & Network-attached storage and IP storage area networks are disruptive approaches to enterprise data storage,
+
+Network relative to the centralized storage systems supplied by companies like EMC. Some of these distributed
+
+Appliance networked storage are so simple to augment that an office assistant can simply “snap” an additional storage
+
+1-23

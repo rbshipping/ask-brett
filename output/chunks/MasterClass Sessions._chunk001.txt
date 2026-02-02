@@ -1,0 +1,24 @@
+SOURCE: MasterClass Sessions..docx
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Professional Development Sessions
+SUMMARY: Participants can choose one session from each of the eight master classes offered.
+KEYWORDS: professional development, training sessions, educational program, course selection, learning opportunities
+---
+
+[Document: MasterClass Sessions..docx]
+
+Master Class 1 – Pick One Session Only
+
+Master Class 2 – Pick One Session Only
+
+Master Class 3 – Pick One Session Only
+
+Master Class 4 – Pick One Session Only
+
+Master Class 5 – Pick One Session Only
+
+Master Class 6 – Pick One Session Only
+
+Master Class 7 – Pick One Session Only
+
+Master Class 8 – Pick One Session Only

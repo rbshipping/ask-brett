@@ -1,0 +1,154 @@
+SOURCE: Whys & Hows of Feedback.pdf
+SUBFOLDER: Additional\HFT\2016
+TOPIC: Performance Management
+SUMMARY: This document discusses the importance of job performance feedback, the challenges in giving and receiving feedback, and provides guidance for both feedback givers and recipients.
+KEYWORDS: performance feedback, performance management, employee development
+---
+
+[Document: Whys & Hows of Feedback.pdf]
+
+9-416-013
+
+AUGUST 11, 2015
+
+BORIS GROYSBERG
+
+ROBIN ABRAHAMS
+
+The Whys and Hows of Feedback
+
+Does the phrase “performance review” give you the jitters? Do the jitters increase when you’re the
+
+one giving the review? Many managers and executives find it easier to give lip service to the
+
+importance of job-performance feedback than to actually critique, praise, or advise their direct reports.
+
+Feedback on job performance is essential to success at every level. However, getting and receiving
+
+valuable feedback—never an easy task—has been complicated by contemporary business trends. The
+
+churning, project-based 21st-century workplace has made it harder to form the kind of long-term,
+
+trusting relationships that make criticism easier to swallow. “Boundaryless careers”1 and the rapid
+
+pace of change in many industries can make it hard to set performance metrics. Globalization and
+
+diversity mean that workers may have cognitive biases or different communication styles that
+
+complicate efforts to give accurate feedback. A quick-changing, low-loyalty work environment makes
+
+valuable performance feedback both more necessary, and more difficult, to give and receive.
+
+This note will make the case for feedback as an ongoing practice, examine the factors that can make
+
+giving feedback difficult, and offer a guide for both givers and recipients of feedback.
+
+Feedback: Why It Matters
+
+Feedback is important. Humans are a profoundly social species with an innate need to understand
+
+our social environment, know what other people think of us, and compare our abilities with those of
+
+others. The desire for feedback is a basic part of human nature, in and out of the workplace.
+
+Within the workplace, feedback has an impact not only on employees’ task and job performance,
+
+but on their organizational commitment, understanding of their company’s goals and mission,
+
+workplace relationships, morale, motivation, trust, job satisfaction, and more. However—and
+
+empirical research backs up what many managers have suspected or feared—feedback can affect all
+
+of these things positively or negatively.
+
+1 Michael B. Arthur, ‘‘The Boundaryless Career: A New Perspective for Organizational Inquiry,’’ Journal of Organizational
+
+Behavior 15 (1994): 295-306; Douglas T. Hall, Careers in and out of Organizations (Thousand Oaks CA: Sage, 2002).
+
+Professor Boris Groysberg and Research Associate Robin Abrahams prepared this note as the basis for class discussion. This note is a part of the
+
+YPO/OPM research project and derives from a working paper, “The Whys and Hows of Feedback,” prepared by Professor Boris Groysberg and
+
+Robin Abrahams.
+
+Copyright © 2015 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685,
+
+write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized,
+
+photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+This document is authorized for use only by Ryan Benner (ryan@bbrcworld.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or
+
+800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+Feedback can improve performance—but it can also leave performance unchanged, or even make
+
+it worse.2 This can be the case whether the feedback is negative or positive, and regardless of how
+
+well it is delivered. As one article notes, “[I]ndividuals confronted with negative feedback indicating
+
+a discrepancy between their goals and performance may adjust their goals to be in line with their
+
+performance rather than attempting to bring their performance in line with their goals. Likewise,
+
+following positive feedback, some individuals may choose to increase their goal, whereas others may
+
+lower their sights and ‘coast.’”3
+
+Feedback not only has the potential to affect job performance for good or ill, but the quality of work
+
+relationships as well. Negative feedback can reduce commitment to the organization and inspire what
+
+some researchers call “CWB,” or counterproductive work behaviors. Bad feedback outcomes can lead
+
+employees to experience greater stress, feel threatened at work, and to see coworkers as competitors
+
+rather than colleagues. On the other hand, good reactions to feedback are related to employees’
+
+likelihood of pursuing further development activities. In short, offering feedback is rightly perceived as
+
+a somewhat risky activity, the end results of which are not entirely under the control of the feedback
+
+giver.
+
+Why Is Giving Good Feedback So Difficult?
+
+The most fundamental reason is that people get defensive. Feedback can be threatening to the
+
+ego—even positive feedback can create unpleasant levels of self-consciousness. This fact appears to
+
+be a cultural universal. The most important thing that both feedback givers and recipients can do,
+
+therefore, is to work to reduce this defensiveness and how to do so is the primary focus of this note.
+
+However, psychological discomfort will always be an inherent feature of the process.
+
+Another reason giving effective feedback is difficult is that there are many aspects to feedback.
+
+Researchers have studied different types of feedback, mechanisms for delivering feedback, various
+
+feedback-related differences in corporate and national cultures, and individual factors of the givers and
+
+receivers. All of these factors interrelate, which means that there is no one universal best way to give
+
+feedback, only an awareness of the dynamics that might come into play. It may be impossible for a
+
+feedback giver to get all the variables of a given feedback session “right.” However, because of the ego-
+
+threatening nature of criticism, people who are motivated to deflect or dismiss negative feedback will
+
+focus on whichever aspect is “wrong” to call the accuracy and fairness of the criticism into question.
+
+Finally, feedback itself is only the beginning. Even when people are able to lower their shields
+
+and hear feedback, there is no guarantee that they will act on it. An employee will not make efforts to
+
+use and improve from feedback unless they have been given clear direction on how to improve (“Do
+
+it better” is not enough!). Employees must also believe that they can improve, and that their efforts to
+
+do so will be meaningfully rewarded. If these things are not the case, improvement will not occur.
+
+Do We Have to Give Feedback If It’s So Risky?

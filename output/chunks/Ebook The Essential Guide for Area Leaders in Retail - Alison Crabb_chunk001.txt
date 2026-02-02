@@ -1,0 +1,386 @@
+SOURCE: Ebook The Essential Guide for Area Leaders in Retail - Alison Crabb.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Leadership
+SUMMARY: This text introduces the essential guide for area leaders in retail, written by Alison Crabb, a renowned and successful retail leader.
+KEYWORDS: retail, leadership, area manager, alison crabb, essential guide
+---
+
+ITALI
+
+V S
+
+I
+
+E
+
+N
+
+R G
+
+(cid:127)
+
+(cid:127)
+
+L
+
+R ET A I
+
+THE
+
+E
+
+ssential
+
+Guide
+
+FOR
+
+AREA LEADERS
+
+in Ret ail
+
+by Alison Crabb
+
+VITALI
+
+S
+
+I
+
+E N
+
+R G
+
+(cid:127)
+
+(cid:127)
+
+L
+
+RETA I
+
+THE
+
+E
+
+ssential
+
+Guide
+
+FOR
+
+AREA LEADERS
+
+in Retail
+
+by Alison Crabb
+
+LOGO
+
+SUBMARK
+
+VARIATION TYPOGRAPHY
+
+BODY TEXT
+
+AVENIR NEXT
+
+abcdefghijklmnopqrstuvwxyz
+
+1234567890
+
+HEADINGS
+
+Noto Serif
+
+abcdefghijklmnopqrstuvwxyz
+
+1234567890
+
+PALETTE
+
+#F0857F #C3D0D3 #879195 #696969
+
+Published by Alison Crabb Consulting
+
+PO Box 202
+
+Moonee Ponds VIC 3039
+
+Copyright © 2020 Alison Crabb
+
+First published 2020
+
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or
+
+transmitted in any form or by any means whatsoever without prior permission of the copyright
+
+owner. Apply in writing to the publisher.
+
+Edited by Scharlaine Cairns, Charlie C. Editorial Pty Ltd
+
+Cover and internal design: DiZign Pty Ltd
+
+Illustrations: DiZign Pty Ltd
+
+Typeset in Avenir Next and Noto Serif
+
+Printed in Australia
+
+ISBN: 978-0-6489090-0-2 (e-Book)
+
+ISBN: 978-0-6489090-1-9 (Paperback)
+
+A catalogue record for this
+
+book is available from the
+
+National Library of Australia
+
+Disclaimers:
+
+Some of the names and identifying details in this book have been changed to protect the privacy
+
+of individuals.
+
+The URLs appearing in this book were current at the time of publication. The author and publisher
+
+are unable to guarantee the ongoing currency of any URLs included in this book.
+
+Foreword
+
+In my very first week, as a brand new area leader for the Flight Centre
+
+Travel Group, I was sent to learn everything I needed to know from the
+
+‘best in the business’. She was rumoured to have the most amazing culture,
+
+the happiest people working for her – and outstanding results! Her name
+
+was Alison Crabb and I was lucky enough to spend a day on the road
+
+learning from her in that very first week in my new area leader role. That
+
+was the beginning of my many years of learning, development and self-
+
+growth, thanks to her.
+
+Alison, or ‘Ali’ as she is known to me and to many others, is certainly a
+
+unique human being. She has many times described herself as ‘an alien
+
+on this planet’ and, in the most sincere way, I have to agree with her. There
+
+are few people in this world who can find the perfect balance between
+
+achieving business results, maintaining connections and living true to their
+
+own beliefs.
+
+I was in Ali’s leadership team from the beginning of her time as a state
+
+leader and saw her grow from strength to strength in that role, as my
+
+leader. Never afraid of a challenge, she embraced her role with a unique
+
+and refreshing style. For Ali, leadership is a way of life and people are
+
+the cornerstone of everything she does. She is disciplined, effective and
+
+passionate about everything and this shows in her ongoing success. Even
+
+when recognised as the best, with exceptional results and wide ranging
+
+respect, she has always remained modest and understated. People follow
+
+Ali because of who she is and what she represents.
+
+This book is a taste of what has made Alison Crabb special to so many
+
+people. It provides the ideas and tools that area leaders need to simplify
+
+their roles and focus on what is truly important. The stories she tells are
+
+about real people overcoming real challenges and her concepts are built
+
+upon years of extensive on-the-ground experience. The suggestions
+
+and templates contained within these pages are the tried and practised
+
+methods employed by many successful area leaders whom she has led
+
+and these methods have been refined and improved over many years.
+
+They are combined here in an essential guide for all area leaders in retail.
+
+Read these pages with an open mind and a desire to improve. Don’t let
+
+your fear of change prevent you from implementing ideas that have been
+
+v
+
+Copyright © 2020 Alison Crabb
+
+Foreword
+
+proven to work. Take notes, think, write plans and, most importantly, act.
+
+The strategies in this book will not only deliver better results for your
+
+business they will also make you a better and more respected leader.
+
+Since that one day on the road, learning from her many years ago, I have
+
+been privileged to enjoy a powerful leadership journey and lifelong
+
+friendship with Ali, for which I am forever thankful.
+
+Anthony Cowles
+
+Former Area Leader Tasmania
+
+Flight Centre Travel Group
+
+vi
+
+Copyright © 2020 Alison Crabb
+
+Contents
+
+Foreword v
+
+Preface ix
+
+Acknowledgements x
+
+Introduction xii
+
+How to use this book xvii
+
+Chapter 1 The role of the area leader 1
+
+Area leadership: The most influential role in retail 6
+
+Area leadership: The most rewarding role in retail
+
+(when done well)! 7
+
+Chapter 2 The four categories of area leaders 11
+
+Expectations and support 12
+
+The area leader category checklist 19
+
+Chapter 3 The performance pyramid 25
+
+The environment 26
+
+The strategy 28
+
+Results 29
+
+Environment, strategy and results all working
+
+together 30
+
+The region health checklist 30
+
+Chapter 4 Building the environment 37
+
+Environment versus culture 40
+
+Building an environment of which everyone wants
+
+to be a part 41
+
+Chapter 5 Building strategies 49
+
+vii
+
+Copyright © 2020 Alison Crabb
+
+Contents
+
+Chapter 6
+
+•
+
+STR 1A TEGY
+
+•
+
+Prioritise and manage your time 55
+
+Traps for area leaders 56
+
+Scheduling your activities 61
+
+Chapter 7
+
+•
+
+STR 2A TEGY
+
+•
+
+Maximise your store visits 67
+
+Chapter 8
+
+•
+
+STR 3A TEGY
+
+•
+
+Deliver on your store visits 75
+
+Strategies for store visits 77
+
+Chapter 9
+
+•
+
+STR 4A TEGY
+
+•
+
+Engage your part-time workforce 97
+
+Understanding the make-up of your workforce 98
+
+Engaging your casual and part-time workforce 99
+
+Chapter 10
+
+•
+
+STR 5A TEGY
+
+•
+
+Have meetings that matter 103
+
+Communication 103
+
+Meetings that matter 106
+
+Chapter 11
+
+•
+
+STR 6A TEGY
+
+•
+
+Develop your business acumen 113
+
+Invest in all of your people 113
+
+Invest in your locations 114
+
+Value your shopfront 116
+
+Allow your store managers autonomy to make
+
+customer-focused decisions 117

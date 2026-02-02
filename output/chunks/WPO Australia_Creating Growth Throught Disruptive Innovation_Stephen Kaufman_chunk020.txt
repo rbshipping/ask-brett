@@ -1,0 +1,160 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Model Innovation
+SUMMARY: The text discusses how business model innovation is crucial for incumbent firms to adapt to disruptive innovations, which often involve technological simplification and new value networks.
+KEYWORDS: business model innovation, disruptive innovation, value proposition, profit formula, resources and processes
+---
+
+achieve, given the structure and magnitude of the fixed and variable costs inherent in its resources. It
+
+specifies how big the organization must become in order to break even, and the pattern of profit
+
+improvement, if any, that comes from increasing scale. And the profit formula defines how fast the
+
+organization must turn over its assets, in order to achieve adequate returns.
+
+In general, the value proposition defines value for the customer and the profit formula defines
+
+value for the company and its owners. The resources and processes describe how that value will be
+
+delivered to both the customer and the company.
+
+Module Note—What Are Business Models, and How Are They Built? 610-019
+
+The arrows that link the boxes in Figure A are bidirectional because the sequence in which the four
+
+boxes of the business model are assembled typically varies by circumstance. When the value
+
+proposition relates to product functionality and reliability, the sequence typically occurs clockwise
+
+from the value proposition. The profit formula is derived from the resources and processes that are
+
+required to deliver the functionality and reliability. When cost weighs heavily in the value proposition,
+
+however, then the pieces typically are put in place in a counter-clockwise direction, with prices and
+
+margins being set first. Processes and resources then need to be devised to fit within that constraint.
+
+Business Models and Disruptive Innovation
+
+Negligence or failure in business model innovation is the primary reason why the leading
+
+incumbent firms in most industries typically fail when confronted by disruptive attackers. As shown
+
+in Figure B below, there are three enabling elements to each disruption. The first is a technological
+
+innovation that transforms the fundamental technological problem in an industry from one that
+
+previously had been so complicated that only a few, highly expert people could design and provide
+
+the products or services, into something that is so simple that people with much less training can do
+
+it well. In computers, for example, the simplifying technology was the microprocessor. Whereas
+
+computer design previously had been an expensive, interdependent, intuitive and experimental
+
+process, the microprocessor so simplified the process that Steve Jobs and Steve Wozniak could piece
+
+together a computer in a garage, and Michael Dell could design and assemble them in his college
+
+dorm room. In the organic chemicals business the simplifying technology was an understanding of
+
+reaction mechanisms. In medicine the technology that enables disruption is the ability to diagnose
+
+diseases precisely by their cause, rather than by symptom; and so on.
+
+Figure B- The Role of Business Model Innovation in the Process of Disruption
+
+3. New Value Network
+
+* Customers
+
+* Distribution
+
+« Suppliers
+
+-
+
+Time
+
+2. Business Model
+
+Innovation
+
+Source: Casewriters.
+
+610-019 Module Note—What Are Business Models, and How Are They Built?
+
+The second enabler of disruption is a disruptive business model. The simplifying technology must
+
+be embedded in a disruptive business model, whose resources, processes and profit formula enable it
+
+to deliver the simple, affordable solution to the customer in a cost-effective way. In the history of
+
+computing, by illustration, Digital Equipment Corporation, the leading maker of minicomputers
+
+through the 1970s and 1980s, had a wide variety of microprocessors available to it—some of the best
+
+were even made in-house. But DEC’s business model could not profitably make and sell a computer
+
+for less than $50,000—so the company was disrupted and toppled by the desktop computer despite
+
+the fact that the enabling technology was readily available.
+
+[he third enabler of disruption is a new value network—an ecosystem within which the
+
+disruptive business model is embedded. Within a value network, suppliers and distributors and
+
+customers have similar value propositions and profit formulae, and they tend to develop products in
+
+a similar rhythm. If a firm tries to grow a disruptive business within the value network in the rear
+
+plane of Figure B, that value network will force the disruptive business model to conform to its
+
+development rhythms, profit formulae, and value proposition.
+
+Corporate Evolution and Business Model Innovation
+
+It is a well documented fact that never in the course of business history has a company that was
+
+the leader in the rear-most plane of competition (in terms of Figure B), become the leader in the new,
+
+disruptive plane of competition as well, unless it established a completely different business unit
+
+underneath the corporate umbrella. Why? The resources, processes and profit models required to
+
+succeed in the original plane of competition simply are different than those required to succeed in the
+
+new one. The old must coexist with the new, often for years, because disruption is a process, not an
+
+event.
+
+In biological evolution, individual organisms don’t evolve. But little by little, as mutant organisms
+
+gain market share, the population evolves—even though the individuals within it do not. In a similar
+
+way, individual business units, because they comprise a unique business model, rarely evolve. The
+
+interdependencies amongst the four building blocks of the business model mean that business units
+
+can do well what they were designed to do—but they rarely can evolve to do something that is
+
+fundamentally different. But a corporation can evolve, through business model innovation.
+
+To illustrate, let’s review IBM’s history. IBM was the only company that made mainframe
+
+computers that also became a leading maker of minicomputers. How did they do it? IBM made its
+
+mainframes in Poughkeepsie, NY. They were made by the hundreds per year; sold for more than $2
+
+million; and had to generate at least 60% gross margins to make money. IBM was the only mainframe
+
+maker that became a leader in the disruptive minicomputer. It did this by creating a different
+
+business unit in Rochester, MN. These minicomputers sold for $200,000; were made by the tens of
+
+thousands; and required 45% gross margins to cover the overheads inherent in that business. IBM
+
+was also the only maker of minicomputers that became a leader in personal computers. It did this by
+
+setting up yet again a different business unit, in Boca Raton, Florida. This one made computers by the

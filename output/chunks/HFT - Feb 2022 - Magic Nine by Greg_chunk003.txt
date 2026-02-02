@@ -1,0 +1,212 @@
+SOURCE: HFT - Feb 2022 - Magic Nine by Greg.pdf
+SUBFOLDER: Additional\HFT\2022
+TOPIC: Retail KPI Analysis
+SUMMARY: The document analyzes key retail performance metrics like gross margin per transaction, transactions per store, and lead add-on sales ratio, and discusses the mechanism and evolution of the 'Magic 9' reporting system.
+KEYWORDS: Retail KPIs, Transaction Metrics, Sales Productivity, Reporting System, Digital Transformation
+---
+
+[Document: HFT - Feb 2022 - Magic Nine by Greg.pdf]
+
+7. GM$ per Transaction TY/LY %
+
+• GM$ (All stores) / # transactions for All stores
+
+• Measures improvement in profit productivity per transaction compared to LY
+
+• SALE events show up here
+
+33
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+The Ratios
+
+8. # Transactions per Store TY/LY %
+
+• Growth % increase in total transaction count / # of trading stores compared to #
+
+transactions / store LY
+
+• Measures the Customer reaction to the business’s offer
+
+• During SALE this can increase dramatically but watch the GM driven KPIs
+
+• A steady, profitable increase in this ratio is the aim
+
+9. Lead Add-On Sales Ratio TY/LY %
+
+• Major or “lead” Add-On unit sales / number of transactions growth % of this compared to LY
+
+• Understand what Add-Ons really are. A direct measure of Team performance
+
+• Every brand should have one. This is a whole new “science” now
+
+“This is a very powerful KPI that can be used to measure the effectiveness of
+
+the ability of a Team Member to sell (i.e. making Customers successful), the
+
+level of “buy in” a store has to company initiatives as well as by definition,
+
+the ability of a Store Manager to drive motivate, train and manage a team.”
+
+34
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+Mechanism
+
+1. Every business to complete and forward Template very Monday
+
+• Information required is common to all retail businesses and easy to attain
+
+• Every retail management, payroll and finance system has this data
+
+• Automated Excel macros developed by most brands
+
+• Calculation methodology must be identified and kept consistent
+
+2. Report compiled, rankings calculated then circulated
+
+• All KPIs ranked using “best = low rank” method for Week, MTD, YTD and MAT
+
+• Overall rank (and “winner”) calculated using “golf score” method adding all rank scores
+
+3. Brands added and removed
+
+• New brands (e.g. Lovisa, Honey Birdette) added
+
+• As brands went public (e.g. Adairs, Lovisa, dusk) or sold (e.g. Sanity, BNT, Honey Birdette)
+
+they were removed
+
+• All BBRC brands had to be involved
+
+35
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+The Report
+
+(and how to use it)
+
+Subsequent
+
+Evolution
+
+In 2012 the
+
+“Magic 9 + 2”
+
+arrived
+
+Today
+
+“Magic 9 + Online”
+
+(Week 1 2020-21)
+
+38
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+“Magic 9 + Online”
+
+New Online Ratios
+
+• Consistent with “Digital First” Strategy
+
+1. Online GM$ Growth (TY/LY) %
+
+• Key result for ONL (excl bricks and mortar stores)
+
+• ONL GM$ (TY) / ONL GM$ (LY) = % change
+
+• Contrast with “Total (Top Line) GM$ Growth %”
+
+• Increasingly important as ONL more significant
+
+2. Growth in Online Conversion %
+
+• Change in website Conversion Rate (TY/LY) %
+
+• Measures website’s effectiveness in converting
+
+traffic to transactions
+
+• Primary results driving ratio
+
+Challenges & Opportunities
+
+Useless without all businesses participating
+
+Not effective without all ratios being submitted
+
+Easy to automate report via CSV file imports and Excel macros
+
+Management not watching these ratios are not monitoring performance
+
+Needs to be circulated early in the week
+
+No business currently has “Add-On”?
+
+Use as intended – a motivating, benchmarking tool and not a “drudge”
+
+CEOs and senior management must be 100% committed
+
+40
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+Use as Intra-Business Tool
+
+Use as an internal performance monitoring and motivating tool
+
+Lovisa
+
+• Between Countries / Markets
+
+• Between Districts or other significant segments where senior team has total
+
+business accountability
+
+Accent
+
+• Between brands: Platypus, TAF, Glue, Hype DC etc
+
+• Between States within brands
+
+Modify concept to suit internal use
+
+• Identify suitable, meaningful KPIs
+
+• Rank using “golf score” technique and circulate regularly with fun commentary
+
+41
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+42
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+Benchmarking
+
+Business Performance
+
+“Using analytical performance monitors to compare inter-business
+
+results and rank accordingly to motivate management”
+
+“…keeping the leaders focused because it is a performance
+
+competitive ranking”
+
+Brett Blundy
+
+“The Magic 9 + Online”
+
+Greg Milne
+
+43
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”

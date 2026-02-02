@@ -1,0 +1,178 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation Adoption
+SUMMARY: The text discusses how the Nash equilibrium in a value network can constrain the uptake of disruptive innovations, and why competing against nonconsumption is often easier than fighting against established incumbents.
+KEYWORDS: disruptive innovation, Nash equilibrium, value network, nonconsumption
+---
+
+pursuing. The same holds true for all other companies in the system. Hence, none of the
+
+companies is motivated to change course, and the entire system therefore is relatively
+
+inert to change. Insofar as the companies within a value network are in a Nash
+
+equilibrium, it creates a drag that constrains how fast customers can begin utilizing new
+
+innovations. This application of Nash equilibriums to the uptake of innovations was
+
+recently introduced in Bhaskar Chakravorti, The Slow Pace of Fast Change (Boston:
+
+Harvard Business School Press, 2003). Although Chakravorti did not make the linkage
+
+himself, his concept is a good way to visualize two things about the disruptive innovation
+
+model. It explains why the pace of technological progress outstrips the abilities of
+
+customers to utilize the progress. It also explains why competing against
+
+nonconsumption, creating a completely new value network, is often in the long run an
+
+easier way to attack an established market.
+
+Some people have concluded on occasion that when the incumbent leader doesn’t
+
+instantly get killed by a disruption, the forces of disruption somehow have ceased to
+
+operate, and that the attackers are being held at bay. (See, for example, Constantinos
+
+Charitou and Constantinos Markides, “Responses to Disruptive Strategic Innovation,”
+
+MIT Sloan Management Review, Winter 2003, 55.) These conclusions reflect a shallow
+
+understanding of the phenomenon, because disruption is a process and not an event. The
+
+forces are operating all of the time in every industry. In some industries it might take
+
+decades for the forces to work their way through an industry. In other instances it might
+
+take a few years. But the forces—which really are the pursuit of the profit that comes
+
+from competitive advantage—are always at work. Similarly, other writers on occasion
+
+have noticed that the leader in an industry actually did not get killed by a disruption, but
+
+skillfully caught the wave. They then conclude that the theory of disruption is false. This
+
+1-27
+
+16.
+
+17.
+
+20.
+
+is erroneous logic as well. When we see an airplane fly, it does not disprove the law of
+
+gravity. Gravity continues to exert force on the flying plane—it’s just that engineers
+
+figured out how to deal with the force. When we see a company succeed at disruption, it
+
+is because the management team figured out how to harness the forces to facilitate
+
+success.
+
+See Clayton M. Christensen and Richard S. Tedlow, “Pattems of Disruption in
+
+Retailing,” Harvard Business Review, January—February 2000, 42-45.
+
+Ultimately, Wal-Mart was able to create processes that turned assets faster than Kmart.
+
+This allowed it to earn higher returns at comparable gross profit margins, giving Wal-
+
+Mart a higher sustainable growth rate.
+
+The reason it is so much easier for firms in the position of the full-service department
+
+stores to flee from the disruption rather than stand to fight it is that in the near term,
+
+inventory and asset tums are hard to change. The full-service department stores offered to
+
+customers a much broader product selection (more SKUs per category), which inevitably
+
+depressed inventory turns. Discounters not only offered a narrower range of products that
+
+focused only on the fastest-turning items, but also their physical infrastructure typically
+
+put all merchandise on the sales floor. Department stores, in contrast, often had to
+
+maintain stockrooms to provide back-up for the limited quantities of any given item that
+
+could be placed on their SKU-laden shelves. Hence, when disruptive discounters invaded
+
+a tier of their merchandise mix from below, the department stores could not readily drop
+
+margins and accelerate turns. Moving up-market where margins still were adequate was
+
+always the more feasible and attractive alternative.
+
+Low-end disruptions are a direct example of what economist Joseph Schumpeter termed
+
+“creative destruction.” Low-end disruptions create a step-change cost reduction within an
+
+industry—but it is achieved by entrant firms destroying the incumbents. New-market
+
+disruption, in contrast, entails a period of substantial creative creation—new
+
+consumption—before the destruction of the old occurs
+
+For a deeper exploration of the macroeconomic impact of disruption, see Clayton M.
+
+Christensen, Stuart L. Hart, and Thomas Craig, “The Great Disruption,” Foreign Affairs
+
+80, no.2, March—April 2001, 80-95; and Stuart L. Hart and Clayton M. Christensen, “The
+
+Great Leap: Driving Innovation from the Base of the Pyramid,” MIT Sloan Management
+
+Review, Fall 2002, 51-56. The Foreign Affairs paper asserts that disruption was the
+
+fundamental engine of Japan’s economic miracle of the 1960s, 1970s, and 1980s. Like
+
+other companies, these disruptors—Sony, Toyota, Nippon Steel, Canon, Seiko, Honda,
+
+and others—have soared to the high end, now producing some of the world’s highest-
+
+quality products in their respective markets. Like the American and European companies
+
+that they disrupted, Japan’s giants are now stuck at the high end of their markets, where
+
+there is no growth. The reason America’s economy did not stagnate for an extended
+
+period after its leading companies got pinned to the high end was that people could leave
+
+those companies, pick up venture capital on the way down, and start new waves of
+
+disruptive growth. Japan’s economy, in contrast, lacks the labor market mobility and the
+
+venture capital infrastructure to enable this. Hence, Japan played the disruptive game
+
+once and profited handsomely. But it is stuck. There truly seem to be microeconomic
+
+roots to the country’s macroeconomic malaise. The S/oan paper builds upon the Foreign
+
+1-28
+
+21.
+
+22.
+
+23.
+
+Affairs piece, asserting that today’s developing nations are an ideal initial market for
+
+many disruptive innovations; and that disruption is a viable economic development
+
+policy.
+
+Our choice of wording in this paragraph is important. When customers cannot
+
+differentiate products from each other on any dimension that they can value, then price is
+
+often the customer’s basis of choice. We would not say, however, that when a consumer
+
+buys the lowest-priced alternative, the axis of competition is cost based. The right
+
+question to ask is whether customers will be willing to pay higher prices for further
+
+improvements in functionality, reliability, or convenience. As long as customers reward
+
+improvements with commensurately higher prices, we take it as evidence that the pace of

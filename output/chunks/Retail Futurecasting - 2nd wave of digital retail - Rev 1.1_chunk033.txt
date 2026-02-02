@@ -1,0 +1,134 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Personalized Digital Retail Experience
+SUMMARY: Describes a seamless digital shopping experience where a customer selects, customizes, and purchases clothing and luggage through voice commands, biometric payments, and smart home integration.
+KEYWORDS: digital retail, personalization, voice commands, biometric payments, smart home integration
+---
+
+loved so much. If only they weren’t going to put a such a big dent in her bank account.
+
+“What do you think, honey? I love it, but I’m not sure it’s worth it”. She then held up her arm to halt the
+
+recording and said, “Send to Eric”. Susie’s device negotiated with the Blűmstrom computer system to
+
+give it one time access to Eric’s email address using a tokenized privacy scheme and the message was
+
+sent as a 3D video.
+
+Eric received the video package from Blűmstrom on his device. He was able to see Susie’s video
+
+alongside details of each of the clothing items she was wearing. He replied that she looked great, but
+
+that given the expense it might be better to wait until the outfit was on sale. Susie was disappointed but
+
+agreed and went with a couple of other less expensive items instead.
+
+Knowing that Susie’s birthday was coming up next month, Eric decided to surprise her. He ordered the
+
+outfit, had it gift-wrapped and scheduled for delivery all with one simple voice command on his device,
+
+75
+
+“Buy it and ship it for Susie’s birthday”. His device understood what he wanted, who Susie was, when
+
+Susie’s birthday was, what items he was referring to, and placed the order. Blűmstrom handled the
+
+billing, wrapped the gift in paper that Susie would love (based on the color and taste profile they had
+
+compiled on her), and shipped it by drone two weeks later. It arrived on Susie’s birthday at a time it
+
+knew she’d be home. All ready for their trip to Barcelona!
+
+Back in the VIP fitting room, Susie eventually settled on the items she liked and paid for them with her
+
+FacePrint and a simple voice command “Buy. Confirm.”
+
+Now she needed a suitcase. She and her friends made their way to the travel department and enjoyed a
+
+fun fifteen minutes designing Susie’s new luggage. Using a gorgeous 3D display, touch, gesture and
+
+voice, Susie built her suitcase and personalized it to her specifications. A virtual shopping assistant
+
+guided her through the process and the suitcase took shape in 3D before them as she shaped it to her
+
+specifications. She selected a sturdy fabric-covered plastic construction, chose the size, selected a 4-
+
+wheel design, and added an extra interior pocket to hold another pair of shoes. She and her friends had
+
+fun choosing the exterior colors, and Susie even added a personal photo covering the lid of the case. It
+
+was one that Eric had taken in Italy last year and she loved it. There was no way she would grab the
+
+wrong suitcase on the carousel any more! The system reminded her that the carry-on bag she had
+
+designed was slightly too large for International travel and offered to slightly reconfigure the dimensions
+
+automatically if she wanted use it for global travel. “Yes please”, said Susie.
+
+When she was happy with her design, Susie paid with FacePrint and gave authorization for Blűmstrom to
+
+have temporary access to the trunk of her car.
+
+While Susie and her friends enjoyed another glass of wine together in the Blűmstrom Bistro & Café, her
+
+luggage was made to her specifications using a combination of 3D printing, robot construction, and
+
+human labor. The finished product was inspected for quality, packaged, and then loaded into the trunk
+
+of Susie’s car. Simply following directions in the display of his glasses, a Blűmstrom employee was
+
+guided to Susie’s car in the parking lot. As he approached, the one-time security access code she had
+
+granted to Blűmstrom opened the trunk (but not the doors to the car cabin) and he was able to securely
+
+place the new suitcase inside.
+
+Susie waved goodbye to her friends and hopped into her car. She still had one more shopping mission to
+
+complete before she could go home.
+
+“Take me to Electronics Warehouse”, she said.
+
+Her car calculated the route to the EW that was nearest to the route home and pulled gently out of the
+
+Blűmstrom’s parking lot. As she sped safely to EW, Susie’s thoughts turned to her grandmother.
+
+Grandma Kaye lived alone in a small, fishing village in Southern Ireland and Susie knew that she loved to
+
+be in the garden, though some of the heavier garden tasks were a bit much for her these days. A
+
+GardenBot would be a wonderful help and she’d been meaning to get one for her for some time.
+
+The screen in Susie’s car suddenly lit up. An incoming call. “Hello?” she said to trigger the auto-answer.
+
+A friend was in town and had some time to spare due to a delayed flight. “Can I come by for a visit
+
+later?” What a lovely surprise! Susie was thrilled to have a chance to spend some time with her old pal,
+
+Meg, even if it was going to be just an hour or so. She agreed to meet her in half an hour and closed the
+
+video call. Yikes, she didn’t have any food in!
+
+76
+
+Susie spoke to her device, “BuySmart, I need some cheese and crackers for two people”.
+
+“Certainly, Susie. What about some wine to go with it?”
+
+“Sure, what Pinot’s do you have?”
+
+“I can get you a Domaine Serene Evenstad Reserve for $15 discount.”
+
+“OK, let’s do it. Deliver in one hour. End.”
+
+The BuySmart service selected a nice slice of brie and a chunk of gouda, cheeses Susie bought regularly,
+
+and included a new blue cheese from Oregon that it calculated she also might like. It also selected
+
+crackers that would go with the cheese that were made by a brand Susie trusted. As a loyal customer, it
+
+also threw in some Quince paste as a nice surprise. It would help that Oregon blue go down nicely. The
+
+items were picked and packed and delivered to Susie’s home by drone in chilled, secure hutch that was
+
+left at her door.

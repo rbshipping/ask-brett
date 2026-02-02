@@ -1,0 +1,216 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Strategic Planning
+SUMMARY: The text emphasizes the importance of strategy as an ongoing process for companies to adapt and win in a competitive, fast-changing market.
+KEYWORDS: strategic planning, competitive advantage, business adaptation, risk management, strategic choices
+---
+
+and, ultimately, to win year after year. Ideally, companies should
+
+see strategy as a process rather than a result—adapting existing
+
+choices before business and financial results (which are always
+
+lagging indicators) start to turn down.
+
+All strategy entails risk. But operating in a slow-growing, fast-
+
+changing, intensely competitive world without a strategy to guide
+
+you is far riskier. Leaders lead, and a good place to start leading is
+
+in strategy development for your business. Use the strategic choice
+
+cascade, the strategy logic flow, and reverse engineering of strate-
+
+gic choices to craft a winning strategy and sustainable competitive
+
+advantage for your organization. Play to win.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Conclusion.indd 216 11/6/12 8:23 PM
+
+Acknowledgments
+
+W
+
+e are deeply indebted to many fine friends, colleagues, and
+
+mentors for their work, which was instrumental to this
+
+book.
+
+First and foremost is Jennifer Riel, who served us in numerous
+
+important capacities. She was our editor in chief, but in addition to
+
+that she managed our research and conducted the P&G executive
+
+interviews, many on her own. She also cowrote and rewrote many
+
+sections of the book. We couldn’t have produced this book with-
+
+out her brilliance, diligence, and colleagueship.
+
+This book wouldn’t have been nearly as rich without the
+
+perspectives of numerous P&G executives, including former
+
+Chairman and CEO John Pepper and current Chairman and CEO
+
+Bob McDonald. Other P&G executives, past and present, who con-
+
+tributed in this way are Chip Bergh, Gil Cloyd, Clayt Daley, Gina
+
+Drosos, Melanie Healey, Deb Henretta, Michael Kuremsky, Joan
+
+Lewis, Joe Listro, Jorge Mesquita, Jon Moeller, Filippo Passerini,
+
+Charlie Pierce, David Taylor, Jeff Weedman, and Craig Wynett.
+
+Also, George Roeth and Larry Peiros at Clorox were generous in
+
+providing interviews related to the Clorox/P&G joint venture on
+
+Glad products. Thank you to them and to the thousands of P&G
+
+employees whose work inspired the stories in this book.
+
+Fiona Houslip, Claudia Kotchka, Joe Rotman, Dave Samuel,
+
+and Tomer Strolight read the penultimate draft of the book, and
+
+all provided extremely valuable comments that changed the final
+
+manuscript for the better.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Acknowledgements.indd 217 11/6/12 8:15 PM
+
+218 Acknowledgments
+
+Darren Karn and Patrick Blair provided us with lots of great
+
+research support.
+
+The team at Harvard Business Review Press has been terrific as
+
+always. Our thanks to Erin Brown, Julie Devoll, Adi Ignatius, Jeff
+
+Kehoe, Allison Peter, and Erica Truxler. Superagent Tina Bennett
+
+(then of Janklow & Nesbit) did a wonderful job, as always, and
+
+we have been ably supported by Mark Fortier of Fortier Public
+
+Relations.
+
+We also owe a huge debt of gratitude to three intellectual giants
+
+who shaped our thinking on management and strategy. First is our
+
+dear departed friend Peter Drucker, who not only shaped manage-
+
+ment thinking over three-quarters of a century, but helped both
+
+of us personally and did so in the most generous and caring way.
+
+Second is our friend and colleague Michael Porter. Many of the
+
+approaches in this book build off his seminal work in strategy.
+
+P&G’s decision to engage with Michael on strategy in the mid-
+
+1980s was critical to both P&G’s strategic development and our
+
+personal journeys in understanding strategy. Third is the great
+
+organizational learning scholar Chris Argyris, who taught us the
+
+importance of balancing advocacy with inquiry in communication,
+
+a concept that shaped not only our personal practices but the evo-
+
+lution of strategy development at P&G.
+
+In addition, each of us would like to thank individuals within
+
+our personal circles.
+
+Roger
+
+My time at Monitor was seminal to the development of many of the
+
+ideas that contributed to this book. During my thirteen years there,
+
+Mark Fuller was my CEO, and he gave me great latitude and encour-
+
+agement to innovate. I wouldn’t have become the strategist I am
+
+today without his support and forbearance. Then there are two con-
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Acknowledgements.indd 218 11/6/12 8:15 PM
+
+Acknowledgments 219
+
+sultants, both of whom I hired as youngsters, who became wonder-
+
+ful colleagues and taught me a great deal. Sandra Pocharski worked
+
+with me on numerous projects and was a terrific thinking partner on
+
+the development of several of the most important tools in this book.
+
+Jonathan Goodman worked with me on more projects than I can
+
+count and helped me refine the consulting tools that are described in
+
+these pages. Happily, both have gone on to become among the finest
+
+senior strategy consultants in the world. They remain close friends
+
+with whom I am lucky enough to occasionally collaborate.
+
+At the Rotman School, I am supported by a dedicated team
+
+who make it possible for me to spend some of my time writing
+
+books like this one. In addition to the aforementioned Jennifer
+
+Riel, the core team includes Vice Deans Peter Pauly and Jim Fisher,
+
+Chief Operating Officer Mary-Ellen Yeomans, Chief of Staff
+
+Suzanne Spragge, and Executive Assistant Kathryn Davis. I am so
+
+lucky to have them as colleagues.
+
+A.G.
+
+Thirty-three years at P&G afforded me ample opportunity to learn
+
+about business strategy and practice business leadership and man-
+
+agement by doing. There, with clear accountability for strategy,
+
+operations, and results, I learned from my mistakes, lived with my
+
+failures, and appreciated on a daily basis my colleagues’ contribu-
+
+tions to whatever success we were able to achieve together.
+
+I cut my teeth on strategy in what was then called the U.S. Pack-
+
+aged Soap and Detergent Division at P&G, one of the company’s big-
+
+gest, oldest, and most profitable businesses. At one time or another in

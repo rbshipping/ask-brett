@@ -1,0 +1,350 @@
+SOURCE: HFT - Feb 2022.pdf
+SUBFOLDER: Additional\HFT\2022
+TOPIC: Business Strategy and Operations
+SUMMARY: The text discusses key topics in business management, including accountability, action planning, capital allocation, and financial metrics like return on equity.
+KEYWORDS: business strategy, operations management, capital allocation, financial metrics, return on equity
+---
+
+[Document: HFT - Feb 2022.pdf]
+
+success
+
+accountability and
+
+70
+
+BBRC WORLDWIDE
+
+Group Break-Out
+
+Spend the next 20 mins in your group discussing 1 key topic that
+
+needs an action plan within your business.
+
+Once decided, individually spend the remaining time writing down all
+
+the key aspects and owner of each step to get the plan implemented.
+
+71
+
+BBRC WORLDWIDE
+
+Summary
+
+Review your current process
+
+Implement or refresh Billy Bean action plans
+
+Reap the benefits
+
+72
+
+BBRC WORLDWIDE
+
+Return on Equity
+
+Brett
+
+Capital Allocation
+
+(Decisions, Patience and Compounding)
+
+“Most bosses rise to the top because they have excelled in an area such as marketing, production,
+
+engineering, administration or, sometimes, institutional politics. Once they become CEOs, they face
+
+new responsibilities. They now must make capital allocation decisions, a critical job that they may have
+
+never tackled and that is not easily mastered.” ~ Warren Buffet
+
+If you do not become good at this, you will end up relying on investment bankers and consultants (not
+
+desirable).
+
+Moats and duration – without these two you won’t have capital (and no capital allocation riddle to solve)
+
+Management team that never gets bored (biggest enemy of good returns is inability to sit quietly in a room)
+
+People crave excitement and instant gratification => good capital allocation often requires patience and
+
+compounding works slowly
+
+74
+
+BBRC WORLDWIDE
+
+Return on Equity: Strategic Profit Model*
+
+(DuPont Model)
+
+Margin
+
+Management
+
+Net Profit AT
+
+Net Sales
+
+Net Profit Margin or
+
+Return on Sales [ROS]
+
+is Net Profits or
+
+Earnings after taxes
+
+divided by Net Sales
+
+of a retailer.
+
+This ratio is the
+
+traditional measure of
+
+“bottom line” in any
+
+enterprise–i.e., what’s
+
+returned to the
+
+enterprise for
+
+reinvestment or
+
+distribution on every
+
+dollar of sale.
+
+* Abbreviated to “SPM”
+
+75
+
+BBRC WORLDWIDE
+
+Return on Equity: Strategic Profit Model*
+
+(DuPont Model)
+
+Margin Asset
+
+Management Management
+
+Net Profit AT Net Sales
+
+x
+
+Net Sales Total Assets
+
+Net Profit Margin or Asset Turnover [A/T]
+
+Return on Sales [ROS] is Net Sales divided
+
+is Net Profits or by the Total Assets
+
+Earnings after taxes employed in a
+
+divided by Net Sales business.
+
+of a retailer.
+
+This ratio is the This ratio measures
+
+traditional measure of how “productively”
+
+“bottom line” in any the investments in a
+
+enterprise–i.e., what’s business are used to
+
+returned to the generate sales.
+
+enterprise for
+
+reinvestment or
+
+distribution on every
+
+dollar of sale.
+
+* Abbreviated to “SPM”
+
+76
+
+BBRC WORLDWIDE
+
+Return on Equity: Strategic Profit Model*
+
+(DuPont Model)
+
+Margin Asset
+
+ROA
+
+Management Management
+
+Net Profit AT Net Sales Net Profit AT
+
+x
+
+=
+
+Net Sales Total Assets Total Assets
+
+Net Profit Margin or Asset Turnover [A/T] Return on Assets [ROA]
+
+Return on Sales [ROS] is Net Sales divided is Net Profits AT divided
+
+is Net Profits or by the Total Assets by the Total Assets
+
+Earnings after taxes employed in a employed in a business.
+
+divided by Net Sales business.
+
+of a retailer.
+
+This ratio is the single
+
+This ratio is the This ratio measures most important
+
+traditional measure of how “productively” measure of the “raw”
+
+“bottom line” in any the investments in a earning power or the
+
+enterprise–i.e., what’s business are used to profitability of all the
+
+returned to the generate sales. assets employed in an
+
+enterprise for enterprise.
+
+reinvestment or
+
+distribution on every
+
+dollar of sale.
+
+* Abbreviated to “SPM”
+
+77
+
+BBRC WORLDWIDE
+
+Return on Equity: Strategic Profit Model*
+
+(DuPont Model)
+
+Margin Asset Financial
+
+ROA
+
+Management Management Management
+
+Net Profit AT Net Sales Net Profit AT Total Assets
+
+x = x
+
+Net Sales Total Assets Total Assets Equity
+
+Net Profit Margin or Asset Turnover [A/T] Return on Assets [ROA] Financial Leverage
+
+Return on Sales [ROS] is Net Sales divided is Net Profits AT divided [F/L] is Total Assets
+
+is Net Profits or by the Total Assets by the Total Assets divided by the
+
+Earnings after taxes employed in a employed in a business. Owner’s Equity in a
+
+divided by Net Sales business. business.
+
+of a retailer.
+
+This ratio is the single
+
+This ratio is the This ratio measures most important
+
+traditional measure of how “productively” measure of the “raw” This ratio measures
+
+“bottom line” in any the investments in a earning power or the the extent to which the
+
+enterprise–i.e., what’s business are used to profitability of all the business is financed
+
+returned to the generate sales. assets employed in an by debt or
+
+enterprise for enterprise. shareholder’s equity.
+
+reinvestment or
+
+distribution on every
+
+dollar of sale.
+
+* Abbreviated to “SPM”
+
+78
+
+BBRC WORLDWIDE
+
+Return on Equity: Strategic Profit Model*
+
+(DuPont Model)
+
+Margin Asset ROA Financial ROE
+
+Management Management Management
+
+Net Profit AT Net Sales Net Profit AT Total Assets Net Profit AT
+
+x = x =
+
+Net Sales Total Assets Total Assets Equity Equity
+
+Net Profit Margin or Asset Turnover [A/T] Return on Assets [ROA] Financial Leverage Return on Equity [ROE]
+
+Return on Sales [ROS] is Net Sales divided is Net Profits AT divided [F/L] is Total Assets is Net Profits After Tax
+
+is Net Profits or by the Total Assets by the Total Assets divided by the divided by
+
+Earnings after taxes employed in a employed in a business. Owner’s Equity in a Shareholders Equity in
+
+divided by Net Sales business. business. a business.
+
+of a retailer.
+
+This ratio is the single
+
+This ratio is the This ratio measures most important
+
+traditional measure of how “productively” measure of the “raw” This ratio measures This ratio is perhaps
+
+“bottom line” in any the investments in a earning power or the the extent to which the the single most
+
+enterprise–i.e., what’s business are used to profitability of all the business is financed important measure of
+
+returned to the generate sales. assets employed in an by debt or “corporate success” -
+
+enterprise for enterprise. shareholder’s equity. used by all retail
+
+reinvestment or analysts.
+
+distribution on every
+
+dollar of sale.
+
+* Abbreviated to “SPM”
+
+79
+
+BBRC WORLDWIDE
+
+Strategic
+
+Profit
+
+Model
+
+80
+
+BBRC WORLDWIDE
+
+What’s “Strategic” About The Profit Model
+
+FOCUSES ATTENTION
+
+On The Primary Financial Objectives of an Enterprise

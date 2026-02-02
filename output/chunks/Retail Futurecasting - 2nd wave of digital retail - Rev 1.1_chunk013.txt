@@ -1,0 +1,160 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Data-Driven Retail Operations
+SUMMARY: Retailers are leveraging data and analytics to improve operational efficiency, create personalized customer experiences, and generate new revenue streams.
+KEYWORDS: data analytics, operational insights, personalized services, revenue generation, IoT
+---
+
+knowledge, insight and wisdom. This insight allows them sell targeted advertising and deliver
+
+personalized services and value that is based on a deep understanding of each individual.
+
+Retailers that invest in building out “data derricks” in their stores—sensors and other instruments that
+
+can gather valuable insight into operations and shoppers—will put themselves at a significant advantage
+
+versus the competition and potentially create new revenue streams by selling data and analytics
+
+services back to their suppliers.
+
+As the front-end face and back-end infrastructure bones of retail become infused with a myriad of
+
+sensors retail operations will generate vast amounts of data. This data will be collected everywhere from
+
+the warehouse loading dock, though the store shelf, to point of sale and beyond. Smart products will
+
+even report insight back to retailers on product usage, reliability, and more, long after the sales
+
+transaction has completed. This is the magic of the Internet of Things (IoT) as every object can
+
+potentially become smart, connected, and sensing. Truly, this could change everything in retail.
+
+33
+
+34
+
+The gathering and analysis of data will increase revenue and profitability for retailers in several
+
+important ways:
+
+1. Data will enable retailers to make improvements to operational efficiency based on
+
+unprecedented operational insight they have gained from data analytics. These might include
+
+using insights to optimize floor and merchandise layout, optimize labor investment and
+
+scheduling, and deliver time- and merchandise-right messaging by department.
+
+2. Data will enable retailers to create new value and deliver personalized value to customers;
+
+shopping experiences that save customers time, generate delight, and increase brand loyalty.
+
+3. Retailers will be able to monetize their data-gathering efforts and defray the costs of data
+
+deployments by selling data analytics services and insights back to manufacturers and other
+
+suppliers.
+
+Challenge: Retailers and manufacturers are going to be faced with managing a huge explosion in the
+
+amount of data they need to collect, store, manage, protect, and analyze. They will need to do this cost
+
+effectively, and in a way that extracts maximum value from the data; Value for them, for manufacturers,
+
+and for shoppers.
+
+While dealing with all this new complexity, retail enterprise structures will need to keep a close eye on
+
+security. Retailers continue to be large targets for cybercrime, and security will be an ongoing (and
+
+never-ending) war against ever-more sophisticated hackers and criminals. (See section 4.2.4).
+
+Challenge: Retailers will need to introduce data-driven analysis into their traditional “gut-driven”
+
+decision-making process. This combination of art and science melds creativity with a deep, data-based
+
+understanding of the shopper psyche so retailers can design and build new and innovative retail
+
+propositions that delight customers.
+
+Challenge: Retailers will need to understand how to use the insights they derive from data to create
+
+increased loyalty, brand connections, greater efficiency, and ultimately translate that into greater profit.
+
+To do this, they are likely to need some outside help.
+
+5.1 PARTNER WITH OR ACQUIRE DATA TALENT
+
+Moving data around costs money, and as smart infrastructure—including smart shelves, smart
+
+warehouses, and smart delivery networks—spews out vast amounts of data, decisions will need to be
+
+made on where and how that data is processed. Some data will be processed in the cloud, but much will
+
+be processed at the edge (in the store, or even at the shelf) using intelligent gateways that mitigate or
+
+reduce the need to send bits all the way to the cloud. Optimizing data gathering and the associated
+
+computing, storage, and network architectures needed to handle it will be critical to minimizing OpEx
+
+costs. Architecture will also be dictated by privacy needs and regulations that will vary from country to
+
+country.
+
+Challenge: In some cases, retailers will need to boost their own data acumen and may need to acquire
+
+data engineering and data analytics talent. In a game where the retailer that best understands and best
+
+serves their customers wins, it may be that the retailers with the best team of mathematicians and thus
+
+the best analysis are the ultimate winners.
+
+35
+
+Winners will also be the fastest to innovate and deploy new data-gathering technology in ways that
+
+improve the shopping experience by creating new value for shoppers.
+
+Challenge: Retailers will need to think carefully about the right balance of insourcing and outsourcing to
+
+optimize speed, differentiation and thus competitive advantage.
+
+Challenge: Retailers will need to build strategic partnerships with experts in data management, network
+
+and data architecture, security and encryption, privacy, analytics, data hosting, cloud, and storage.
+
+Whether through building partnerships and outsourcing data services, or through hiring and acquisition,
+
+retailers will need to invest in building a scalable data capability. This will enable retailers to
+
+differentiate by proving a better customer experience both online and offline.
+
+5.2 UNIFYING ONLINE AND OFFLINE DATA
+
+Understanding a shopper as a “customer of one” means building a picture of them that spans right
+
+across the omni-channel customer journey.
+
+Today online retailers gather data on customers in the form of clicks and hovers, through the purchases
+
+they make, and through the wish lists they compile. Once sensors are deployed in physical stores that
+
+can gather the equivalent data set for shoppers as they wander through the store, retailers will end up
+
+with two, discrete data sets. One for online customers, and one for in-store customers.
+
+The challenge is to harmonize these two data sets and meld them into one detailed picture of a
+
+shopper’s interests, habits, needs, preferences, and likely intentions. This is easy to say, but very difficult
+
+to do.
+
+A full picture of a shopper’s in-store activity can’t begin and end with their purchase history as it does
+
+today. Loyalty cards linked to online accounts help retailers add in-store purchases to a shopper’s online
+
+shopping history, creating a piece of the unified history. But retailers would love to know more. They
+
+would love to know when shoppers came through their store and bought nothing. They would love to
+
+know what shoppers looked at, considered, but didn’t place into their basket. They would love to know

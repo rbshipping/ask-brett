@@ -1,0 +1,248 @@
+SOURCE: Execution_The Missing Link in Retail Ops.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text discusses issues with inventory management in retail stores, including challenges with tracking inventory in storage areas and the impact of distribution center processes on inventory accuracy.
+KEYWORDS: inventory management, store design, distribution center processes
+---
+
+o
+
+inventory at the stores often do not maintain separate fields to identify storage
+
+area inventory. The fact that storage areas are often dispersed over multiple loca-
+
+tions and “SKUs not on floor” could be in any of these locations exacerbates the
+
+C
+
+problem. For example, at some stores, there are storage areas above the shelves,
+
+in the basement, at the back of stores, and near the loading dock, and merchan-
+
+dise in each of these areas are not tracked separately.
+
+Store design—especially the design, size, and number of backrooms and
+
+other storage areas—can also hamper execution. The importance of backroom
+
+size, for examtple, can be illustrated with an anecdote from Beta Corporation.
+
+While store performance was largely consistent from one year to the next, there
+
+o
+
+were some anomalies. One store, for example, saw substantial deterioration in
+
+performance from 1998 to 1999. The President of Stores at Beta was not sur-
+
+prised at all. He pointed out that, after repeated requests, he had allowed the
+
+N
+
+store to increase the capacity of its backroom at the end of 1998. Not surpris-
+
+ingly, as ardent proponents of JIT3would have predicted, the backroom had
+
+more inventory after the expansion than it had before and the store suffered
+
+from having a larger fraction of SKUs not available on the floor than it had in
+
+the past.
+
+o
+
+However, store processes only explain part of the problem. Gamma, for
+
+example, found that DC processes had much to do with inventory record inac-
+
+curacy. In early 1999, Gamma tried an experiment at one of its new stores.
+
+D
+
+The company planned to open a store on a particular date and the distribution
+
+department was asked to stock merchandise in preparation for this opening.
+
+Unknown to the distribution department, however, the company postponed the
+
+opening of the store and, instead, audited every item at the store before a single
+
+CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001 143
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 144
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+FIGURE 5. Average Store "Absolute Errors" Grouped by Distribution Center
+
+P
+
+8.00
+
+7.00
+
+r
+
+6.00
+
+o
+
+5.00
+
+4.00
+
+3.00
+
+y
+
+2.00
+
+p
+
+1.00
+
+0.00
+
+o
+
+Stores
+
+C
+
+customer had ever walked the store. Amazingly, system inventory levels were inac-
+
+curate for 29% of the items and the average absolute error was 25% of system
+
+inventory levels. Clearly store processes and customers could not be blamed for
+
+these errors.
+
+The importance of DC processes is also supported by Figure 5, which
+
+t
+
+shows the average error in inventory records at stores served by each of three
+
+different DoCs. Notice that stores served from DC 1 tend to have far smaller errors
+
+than those served from DCs 2 and 3. We suspect that differences in DC processes
+
+explain the differences observed, even though it is possible that the differences
+
+in Nperformance stemmed from regional differences in store management and
+
+labor (because each DC served stores in a certain geographic region). Gamma
+
+managers pointed out that, unlike the other two DCs, DC 1 had had stable man-
+
+agement since its inception. Over time, the management team at DC1 had estab-
+
+lished procedures for a number of activities. For example, procedures for quality
+
+control, receiving inventory returned from stores, and shelving of inventory
+
+o
+
+existed and were enforced.
+
+Interestingly, merchandise received at the stores directly from the vendor
+
+D tend to have much more accurate records than those shipped from even the best
+
+DC. Gamma managers believed that the superior performance obtained on ven-
+
+dor-direct items could be traced to two factors. First, store managers are more
+
+careful in checking shipments received directly from vendors for accuracy, partly
+
+to ensure that invoices are accurate. Expecting this, vendors probably are more
+
+144 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+)stinu(
+
+rorrE
+
+etulosbA
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 145
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+careful than DCs, who at times can be somewhat sloppy in verifying accuracy.
+
+P
+
+Furthermore, Gamma Corporation, in an attempt to save on operational com-
+
+plexity, had issued policies whereby stores could not get credit for mis-shipped
+
+items unless the quantity of mis-shipment exceeded a certain dollar amount.
+
+Such a limit did not apply to shipments received directly from v endors. This also
+
+contributed to the increased likelihood of store managers checking vendor ship-
+
+r
+
+ments. Second, vendor-direct shipments tend to be smaller overall and often
+
+contained fewer items. Consequently, they could be checked more easily.
+
+o
+
+Merchandising and Inventory Management
+
+Greater variety and more store inventory lead to greater inaccuracy in
+
+inventory records and more misplaced SKUs. Our data show conclusively (i.e.,
+
+with very high statistical significance) that inycreasing variety leads to more exe-
+
+cution problems. Increasing variety results in multiple items at a store that are
+
+very similar to each other. Similar SKUs result in process confusion at the DC
+
+p
+
+and the store. For example, it is easy for pickers at the DC to pick one SKU
+
+instead of the other by accident, especially if the SKUs, in addition to being simi-
+
+lar, are located next to each other. Similarly, as in the yogurt example provided
+
+o
+
+earlier, it is easier for salespeople at the store to scan one SKU multiple times if
+
+a consumer purchases multiple SKUs that are similar to each other.
+
+With misplaced SKUs, it is harder for employees to identify items that are
+
+C
+
+misplaced, or identify items that are in the backroom but should be on the sell-
+
+ing floor, when there are more SKUs in a store. In a bookstore, for instance,
+
+associates find it extremely hard to identify titles that are missing from the sales

@@ -1,0 +1,180 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: This text discusses how cost reduction rarely creates competitive advantage, and analyzes the airline industry's chronic unprofitability due to low-end disruptors.
+KEYWORDS: Disruptive Innovation, Competitive Advantage, Airline Industry, Low-end Disruptors
+---
+
+That cost reduction rarely creates competitive advantage is argued persuasively in
+
+Michael Porter, “What Is Strategy?” Harvard Business Review, November—December
+
+1996, 61~78.
+
+We recommend in particular Steven C. Wheelwright and Kim B. Clark, Revolutionizing
+
+New Product Development (New York: The Free Press, 1992); Stefan Thomke,
+
+Experimentation Matters: Unlocking the Potential of New Technologies for Innovation
+
+(Boston: Harvard Business School Press, 2003); Stefan Thomke and Eric von Hippel,
+
+Customers as Innovators: A New Way to Create Value“ Harvard Business Review, 80
+
+No. 4 (April 2002): 74-81; and Eric von Hippel, Zhe Sources of Innovation. (New York,
+
+Oxford University Press, 1988).
+
+This model explains quite clearly why the major airline companies in the United States
+
+are so chronically unprofitable. Southwest Airlines entered as a new-market disruptor,
+
+competing within Texas for customers who otherwise would not have flown at all, but
+
+1-25
+
+ll.
+
+would have used automobiles and buses. The airline has grown carefully into nonmajor
+
+airports, staying away from head-on competition against the majors. It is the low-end
+
+disruptors to this industry—airlines with names such as JetBlue, AirTran, People
+
+Express, Florida Air, Reno Air, Midway, Spirit, Presidential, and many others—that
+
+create the chronic unprofitability.
+
+When leaders in most other industries get attacked by low-end disruptors, they
+
+can run away up-market and remain profitable (and often improve profitability) for some
+
+time. The integrated steel companies fled up-market away from the minimills. The full-
+
+service department stores fled up-market into clothing, home furnishings, and cosmetics
+
+when the discount department stores attacked branded hard goods such as hardware,
+
+paint, toys, sporting goods, and kitchen utensils at the low-margin end of the merchandise
+
+mix. Today, the discount department stores such as Target and Wal-Mart are fleeing up-
+
+market into clothing, home furnishings, and cosmetics as hard goods discounters such as
+
+Circuit City, Toys ‘R Us, Staples, Home Depot, and Kitchens Etc. attack the low end; and
+
+so on,
+
+The problem in airlines is that the majors cannot flee up-market. Their high fixed-
+
+cost structure makes it impossible to abandon the low end. Hence, low-end disruptors
+
+easily enter and attack; once one of them gets big enough, however, the major airlines
+
+declare that enough is enough, and they turn around and fight. This is why no low-end
+
+disruptor to date has survived for longer than a few years. But because low-end
+
+disruption by new companies is so easy to start, the majors can never raise low-end
+
+pricing up to levels of attractive profitability.
+
+This history is recounted in a marvelous paper by Richard S. Rosenbloom, “From Gears
+
+to Chips: The Transformation of NCR and Harris in the Digital Era,” working paper,
+
+Harvard Business School Business History Seminar, Boston, 1988.
+
+We would be foolish to claim that it is impossible to create new-growth companies with a
+
+sustaining, leap-beyond-the-competition strategy. It is more accurate to say that the odds
+
+of success are very, very low. But some sustaining entrants have succeeded. For example,
+
+EMC Corporation took the high-end data storage business away from IBM in the 1990s
+
+with a different product architecture than IBM’s. But as best we can tell, EMC’s products
+
+were better than IBM’s in the very applications that IBM served. Hewlett-Packard’s laser
+
+jet printer business was a sustaining technology relative to the dot-matrix printer, a
+
+market dominated by Epson. Yet Epson missed it. The jet engine was a radical but
+
+sustaining innovation relative to the piston aircraft engine. Two of the piston engine
+
+manufacturers, Rolls-Royce and Pratt & Whitney, navigated the transition to jets
+
+successfully. Others, such as Ford, did not. General Electric was an entrant in the jet
+
+revolution, and became very successful. These are anomalies that the theory of disruption
+
+cannot explain. Although our bias is to assume that most managers most of the time are
+
+on top of their businesses and manage them in competent ways, it is also true that
+
+sometimes managers simply fall asleep at the switch.
+
+This partially explains, for example, why Dell Computer has been such a successful
+
+disruptor—because it has raced up-market in order to compete against higher-cost makers
+
+of workstations and servers such as Sun Microsystems. Gateway, in contrast, has not
+
+prospered to the same extent even though it had a similar initial business model, because
+
+1-26
+
+13.
+
+14.
+
+15.
+
+it has not moved up-market as aggressively and is stuck with undifferentiable costs
+
+selling undifferentiable computers. We believe that this insight represents a useful
+
+addendum to Professor Michael Porter’s initial notion that there are two viable types of
+
+strategy—differentiation and low cost (Michael Porter, Competitive Strategy. New York:
+
+The Free Press, 1980). The research of disruption adds a dynamic dimension to Porter’s
+
+work. Essentially, a low-cost strategy yields attractive profitability only until the higher-
+
+cost competitors have been driven from a tier in the market. Then, the low-cost
+
+competitor needs to move up so that it can compete once again against higher-cost
+
+opponents. Without the ability to move up, a low-cost strategy becomes an equal-cost
+
+strategy.
+
+See Clayton M. Christensen, The Innovator’s Dilemma (Boston: Harvard Business
+
+School Press, 1997), 130.
+
+The concept of value networks was introduced in Clayton M. Christensen, “Value
+
+Networks and the Impetus to Innovate,” chapter 2 in The Innovator’s Dilemma. Professor
+
+Richard §. Rosenbloom of the Harvard Business School originally identified the
+
+existence of value networks when he advised Christensen’s early research. In many ways,
+
+the situation in a value network corresponds to a “Nash equilibrium,” developed by
+
+Nobel Laureate John Nash (who became even more renowned through the movie A
+
+Beautiful Mind). In a Nash equilibrium, given Company A’s understanding of the
+
+optimal, self-interested (maximum-profit) strategy of each of the other companies in the
+
+system, Company A cannot see any better strategy for itself than the one it presently is
+
+pursuing. The same holds true for all other companies in the system. Hence, none of the
+
+companies is motivated to change course, and the entire system therefore is relatively
+
+inert to change. Insofar as the companies within a value network are in a Nash

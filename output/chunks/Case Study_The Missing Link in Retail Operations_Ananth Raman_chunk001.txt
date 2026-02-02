@@ -1,0 +1,320 @@
+SOURCE: Case Study_The Missing Link in Retail Operations_Ananth Raman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations and Inventory Management
+SUMMARY: The text discusses significant execution problems in retail operations, particularly inaccurate inventory records and misplaced stock-keeping units (SKUs) that reduce profits and hinder the effective use of information technology.
+KEYWORDS: retail operations, inventory accuracy, stock-keeping units, information technology, execution problems
+---
+
+gt
+
+CMR204
+
+04/01/01
+
+Execution:
+
+THE MISSING LINK
+
+IN RETAIL OPERATIONS
+
+Ananth Raman
+
+Nicole DeHoratius
+
+Zeynep Ton
+
+California Management Review Reprint Series
+
+©2001 by The Regents of the University of California
+
+CMR, Volume 43, Number 3, Spring 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+Execution:
+
+THE MISSING LINK IN
+
+RETAIL OPERATIONS
+
+Ananth Raman
+
+Nicole DeHoratius
+
+Zeynep Ton
+
+etailers have invested, and con invest, substantial amounts of
+
+money in information techitology By some estimates,! U.S. re-
+
+tailers now spend close to $3 billio “year on IT, mostly to track
+
+merchandise
+
+andoperali ns, automate transactions, and optimize
+
+inventory levels and
+
+ther supply chai decisions. However, operational exe-
+
+cution—a vital complement to pla ning and automation, and a key ingredient
+
+to exploiting these ITinyestmen fully——is woefully inadequate even at leading,
+
+financially successful reta Di wing on substantial interaction with multiple
+
+leading retailers (and extensive operational data from two leading retailers), we
+
+articular execution problems—inaccurate inventory records and
+
+eeping Units) in stores—are significant and expensive, and
+
+atrier to the effective use of IT in retail operations. At the
+
+died in-depth, these problems reduce profits by more than
+
+show that tw
+
+ntisplaced SKUs (Stod
+
+ith the same products, similar demand profile, identical monetary
+
+icentives, and the same corporate management and IT systems perform so dif-
+
+erently on these measures?
+
+onsider the following execution problems:
+
+» Inventory Record Inaccuracy—Contrary to popular belief, most retailers
+
+cannot, with any degree of precision, identify the number of units of a
+
+given item available at a store, At a leading retailer that we refer to as the
+
+The authors would like to thank managers from Beta and Gamma Corporation who were critical to
+
+this research. We regret that we cannot name them due to the need to protect the companies’ confi-
+
+dentiality,
+
+136 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+Thie tanumant io sutharizad far nee anhe hy IQHA STRONG tntil Ancil 2949 Canuinn ar nneting ic an infrinnamant
+
+Execution: The Missing Link in Retal Operations
+
+Gamma Corporation to preserve confidentiality, more than 65% of they” :
+
+inventory records were inaccurate at the store-SKU level (i.e., “system?
+
+inventory did not match “physical” inventory). Figure | shows’ :
+
+togram of absolute errors (i.e., the absolute difference between system
+
+and physical inventory levels for nearly 370,000 inventory ‘yécords).
+
+Moreover, the absolute difference between system and physical was on
+
+average 35% of target inventory level for each item. Gamma, we should
+
+emphasize, is a leading publicly traded retailer with hundreds of stores
+
+and billions of dollars in annual sales. The company scans all its sales elec-
+
+tronically and has modern distribution centers that us information tech-
+
+nology extensively. :
+
+Gamma is not an isolated case; this problem is common at other retailers
+
+as well. For example, a large, well-known apparel retailer found that
+
+“physical” inventory levels differed from “system” inventory by over 35%
+
+of the latter. The situation is even worse for:those items whose sales are
+
+not scanned clectr onically. At one supermarket chain, sales of “medium
+
+25% because other types
+
+pe tomatoes,” which
+
+typically c cost more ‘than a emedlan tomatoes,” were often sold as medium
+
+tomatoes when salespeople wer
+
+be found by consumers who Sa ached a sales associate for help, not
+
+{as typically assumed) becatise the items were out-of-stock but rather
+
+because they we ‘¢ misplaced in a backroom, in other storage areas, or in
+
+the wrong aisle o ‘ition. Beta, like Gamma, is a sophisticated retailer
+
+with hundreds of stores and billions of dollars in sales. Figure 2 depicts
+
+Inventory record inaccuracy and misplaced SKUs can substantially
+
+se retail profits due to lost sales and gross margins as well as additional
+
+labor and inventory carrying costs. By our estimates, derived in conjunction
+
+with managers from Gamma, the profit lost due to inventory record inaccuracy
+
+mounted to 10% of current profits (roughly the profit of 100 stores) at Gamma.
+
+imilarly, misplaced SKUs reduced profits by 25% at Beta (roughly the profit of
+
+50 stores). Our estimates do not include the long-term adverse impact such exe-
+
+cution problems could have on the firm’s brand image, a major concern for
+
+senior managers at both retailers. The importance of these themes has been
+
+CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 200! 137
+
+Thie dacumant ic outharicvad far nea anh: hu (OHM STRANI bentil Anril 2049 Canine ar anctina ie an infrinnarment
+
+Execution; The Missing Link in Retail Operations
+
+FIGURE 1. Histogram of the Absolute Value Difference Between System and Actual
+
+Inventory Measured in Units
+
+% of SKUs (n=369,592)
+
+0 ) 35%
+
+| oe) 22%
+
+2 10%
+
+3
+
+4
+
+c
+
+2
+
+ra 6
+
+Fr 7
+
+Y
+
+3 8
+
+3
+
+a 9
+
+<
+
+10
+
+11-50
+
+51-100 [7] 1%
+
+101-200
+
+201-400
+
+ocked out. Subsequently, a limited and careful audit on 42 items that
+
+t eight stores revealed that 34 of the 336 store-SKU combinations
+
+reported as “in stock” according to the company’s replenishment systems.
+
+The impact of inventory record inaccuracy and misplaced SKUs can be
+
+severe for retailers like Gamma and Beta that rely on computerized replenish-
+
+ment systems for managing store inventory. At these retailers, when an out-of-
+
+stock is reported as in stock, the item may never be reordered. What's worse,
+
+when demand forecasts for that item are updated by the automatic replenish-
+
+ment system, the new forecast may be so low (zero, in fact), that the retailer
+
+decides to drop what is actually a popular item. At Gamma, one item at a store
+
+138 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3_ SPRING 2001
+
+Thie dacnimant ic aidtharizad far veo anke he IAUM STDANG until Anril 2949 Canina ar nncting ic an infrinnamant
+
+Execution: The Missing Link in Retail Operations
+
+FIGURE 2. Histogram for the Fraction of SKUs That Are Not Available on the Sales Floor,
+
+From a Sample of 242 Stores
+
+Frequency
+
+0.2%
+
+0.6%
+
+1.0%
+
+1.4%
+
+1.8%
+
+2.2%
+
+2.6%
+
+3.0%
+
+3.4%
+
+3.8%
+
+4.2%
+
+4.6%
+
+5,0%
+
+5.4%
+
+5.8%
+
+6.2%
+
+6.6%
+
+7.0%
+
+74%
+
+78%
+
+8.2%
+
+8.6%
+
+9.0%
+
+9A%
+
+9.8%
+
+0.2%
+
+0.6%
+
+1.0%
+
+1.4%
+
+1.8%
+
+2.2%
+
+2.6%
+
+3.0%

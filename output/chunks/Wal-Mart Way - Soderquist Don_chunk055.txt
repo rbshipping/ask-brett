@@ -1,0 +1,192 @@
+SOURCE: Wal-Mart Way - Soderquist Don.pdf
+SUBFOLDER: Additional\HFT
+TOPIC: Retail Technology Adoption
+SUMMARY: Wal-Mart's early adoption of technology, driven by founder Sam Walton's vision and leadership, has been a key factor in the company's success.
+KEYWORDS: technology, innovation, retail, Sam Walton, Wal-Mart
+---
+
+[Document: Wal-Mart Way - Soderquist Don.pdf]
+
+investment has proven to be one of the more significant factors in our
+
+success.
+
+We don’t want to be famous for our technology.
+
+We want to be famous for what our technology allows us to do.
+
+—Linda Dillman, EVP & CIO, Wal-Mart Stores, Inc.
+
+Technology has been an enabler and facilitator of change throughout Wal-
+
+Mart. It has made it possible for us to dramatically change not only the way
+
+we do business, but also the way business is conducted in the entire industry.
+
+As a result of the support of senior leadership,Wal-Mart has consistently been
+
+on the leading edge of practical technological breakthroughs in equipment,
+
+software, and communications technology, a proactive approach that has kept
+
+us far ahead of all competitors in taking advantage of the opportunities that
+
+technology affords.
+
+Sam’s Early Fascination with Computers
+
+In his early days in the retail business, Sam was intrigued by the potential
+
+of computers and how he could use them to improve his business. The day I
+
+met him, he was visiting with Ben Franklin executives about the possibility
+
+of franchising discount stores in small rural communities. It was 1963, and he
+
+had already opened his first version of a discount store in Rogers, Arkansas.
+
+I was the data-processing manager (that’s what they called technology
+
+back then) at Ben Franklin Stores. He spent an entire afternoon with me
+
+asking probing, insightful, and far-reaching questions about what computers
+
+were capable of doing now and my opinion about how they could be used in
+
+the future to manage a business more effectively. He was incredibly
+
+inquisitive and took notes the entire time. After I got to know him, I realized
+
+that was just a part of who he was—that he never stopped learning and
+
+looking for ways to improve all areas of the business. Never.
+
+What has amazed me as I have looked back at that experience was that
+
+Sam seemed to have almost a sixth sense that technology would someday
+
+have a major impact on business. You have to remember that in 1963 no one
+
+could have conceived that computers would become so powerful and so cost-
+
+effective that they would be driving major business functions. Sam, a small-
+
+town business entrepreneur who began with the dream of owning his own
+
+store, was at the forefront of the practical application of this important
+
+business tool.
+
+I have noted numerous times in this book that Sam hired for attitude as
+
+much as he hired for ability. This included his filling of positions at executive
+
+levels, which, as I’ve mentioned, were almost always in-house promotions. In
+
+emphasizing Sam’s insistence on personal character and presentation among
+
+Wal-Mart associates, I don’t want to give the misleading impression that he
+
+was not highly driven by competence. He not only wanted things done right;
+
+he wanted things done best. I believe that is why he was so far ahead of the
+
+retail industry in looking for, testing, and adopting the use of cutting-edge
+
+technology.
+
+Progress is a tide. If we stand still we will surely be drowned. To stay on the crest, we have to keep
+
+moving.
+
+—Harold Mayfield
+
+Senior Leadership Involvement
+
+When I joined the Wal-Mart leadership team, we observed that in many
+
+companies, the senior leadership members were not involved in systems
+
+development—they just let the technicians decide what systems to develop
+
+and institute. Why? New technology, almost by definition, is not easy to
+
+understand. It is much easier for leaders to delegate the task of staying on top
+
+of technological developments to specialists than do the hard work of asking
+
+questions and participating in the steep learning curve. No wonder there was
+
+a concurrent natural tendency for technical people, who were highly
+
+compartmentalized in those days, to be captivated by the systems side of the
+
+business but not have an understanding of the real needs of the company.
+
+We always focused our technological efforts on the areas of the business
+
+where they could make the greatest impact. We focused, therefore, on the
+
+automation of store operations—anywhere we could improve service to our
+
+stores and therefore to our customers. It was the responsibility of the
+
+operating departments to determine what the systems priorities for their
+
+department were. I’m sure this was very frustrating to many seasoned
+
+department managers, who already knew how things were supposed to be
+
+done and knew how to make things happen. Why fix something that isn’t
+
+broken? Who knows if this computer stuff will work anyway? But
+
+determining systems priorities was in their job description, so they did it.
+
+Next, the operating departments partnered with the technology department
+
+to develop a basic design of a system and calculate the anticipated payback.
+
+Several times a year, senior leadership reviewed and approved these priorities
+
+and estimated paybacks.
+
+After the system was completed and implemented, the operating
+
+department compared the payback to the original estimate to insure that they
+
+were achieving the results anticipated and, if not, assess why. Based on that
+
+analysis, the department determined if any refinements were needed. As a
+
+matter of practice, we continuously made refinements to existing systems. As
+
+we developed new insights, we incorporated these ideas in order to improve
+
+the overall system.
+
+One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary
+
+man.
+
+—Elbert Hubbard
+
+Systems Associates as Business Leaders
+
+We believed it was important for the information-systems associates to be
+
+business leaders, not merely technicians. The executive responsible for
+
+technology was a member of the senior leadership team of the company—to
+
+my knowledge, we were the first major retailer to place someone at this level
+
+—who participated in all of our meetings and stayed involved in all major
+
+business initiatives. The involvement and input from our tech staff on the
+
+front lines was extremely valuable in the decision-making process in areas
+
+where systems support would be needed. We were so fortunate, over the
+
+years, to have leadership in technology that was not only highly competent in

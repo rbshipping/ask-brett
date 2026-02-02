@@ -1,0 +1,228 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Network Effect
+SUMMARY: The text discusses the powerful competitive advantage of network effects, using eBay as a case study to illustrate how network-based businesses can become dominant in their markets.
+KEYWORDS: network effect, competitive advantage, eBay, online auction market
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+good rule of thumb.
+
+By this point, I imagine that you have a good idea of
+
+why network effects are such a powerful competitive
+
+cc0055..iinndddd 6633 11//2266//0088 33::0088::2211 AAMM
+
+[64] THE LITTLE BOOK THAT BUILDS WEALTH
+
+advantage: A competing firm would need to replicate the
+
+network—or at least come close—before users would see
+
+more value in the new network and switch away from
+
+the existing one. Generally speaking, that’s a really tall
+
+order. It can happen under the right set of circumstances,
+
+as we’ll see when we discuss financial exchanges later in
+
+the chapter, but network-based businesses are usually
+
+pretty durable. To see why, let’s take a look at a business
+
+that is barely a decade old, but which is already the canon-
+
+ical example of the network effect: eBay.
+
+N etworks in Action
+
+Saying that eBay dominates the U.S. online auction mar-
+
+ket is like saying that Ansel Adams took some decent
+
+snapshots of America’s national parks. “Dominates” is
+
+putting it mildly. As of this writing, eBay had at least an
+
+85 percent share of Internet auction traffic in the United
+
+States, and because it is virtually certain that visitors to
+
+eBay spend more per transaction and are more likely
+
+to buy than are visitors to rival sites, eBay’s share of dol-
+
+lars spent in online auctions is likely much higher than
+
+85 percent. The reason why should be obvious after the
+
+foregoing discussion of the network effect: The buyers
+
+are on eBay because the sellers are there, and vice versa.
+
+Even if a competing site were to launch tomorrow
+
+with fees that were a fraction of eBay’s, it would be
+
+cc0055..iinndddd 6644 11//2266//0088 33::0088::2222 AAMM
+
+THE NETWORK EFFECT [65]
+
+unlikely to get much traffic—no buyers, no sellers, and so
+
+forth. And the intrepid first users wouldn’t have the ben-
+
+efit of eBay’s feedback ratings, telling them which other
+
+users they can trust to fulfill a transaction, nor could they
+
+be assured of getting the best price, given the paucity of
+
+other users. (I once asked a candidate applying for an
+
+analyst job at Morningstar what he would do if I played
+
+venture capitalist, gave him huge amounts of financial
+
+backing, and told him to go beat eBay at its own game in
+
+the United States. He thought for a minute and then
+
+replied, “I’d return the money.” Good answer.)
+
+However, eBay has not been at all successful in some
+
+markets, and we can learn a lot about the network effect by
+
+briefly examining why this has been the case. In Japan, eBay
+
+doesn’t even have a presence—Yahoo! Japan has the vast
+
+majority of the country’s online auction market. The reason
+
+here is even simpler than you might think: Yahoo! Japan
+
+offered auction services five months before eBay did, and so
+
+it was able to amass a large group of buyers and sellers
+
+quickly. Further, Yahoo! Japan had the foresight to advertise
+
+heavily and to not charge fees initially, both of which helped
+
+it to build critical mass faster. By the time eBay launched,
+
+Yahoo! Japan had already won—using the same network
+
+effect that let eBay dominate the U.S. market. EBay spent a
+
+few years trying to compete, but eventually realized that it
+
+was beaten, and pulled out of Japan completely.
+
+cc0055..iinndddd 6655 11//2266//0088 33::0088::2222 AAMM
+
+[66] THE LITTLE BOOK THAT BUILDS WEALTH
+
+If eBay’s experiences in the United States and in
+
+Japan are clear-cut examples of how an early lead can
+
+build on itself when network economics are in play, the
+
+company’s travails in China showed that being first is not
+
+always enough—even moats based on the network effect
+
+can be overcome under some circumstances. At one point a
+
+few years ago, eBay operated the largest online auction
+
+site in China, with about a 90 percent share of traffic.
+
+However, a home-grown competitor emerged, slashed its
+
+listing fees to zero, and introduced some features that
+
+were particularly attractive to the Chinese market. EBay
+
+lost market share very swiftly, and eventually retreated
+
+from the market.
+
+The lesson here is that in a fast-growing market with
+
+consumer preferences that are still being formed around
+
+a new type of service—online auctions, in this case—the
+
+network effect can be subject to successful attack. Of
+
+course, eBay’s slow response to competitive threats didn’t
+
+help matters, nor did the fact that its competitor in this
+
+case was a Chinese company, and thus gained some advan-
+
+tage from being a local hero of sorts.
+
+But enough about eBay—let’s look at some other
+
+examples of the network effect in action.
+
+It’s not much of a leap to go from eBay, which is really
+
+just an online exchange for all kinds of physical goods, to
+
+financial markets like the NASDAQ, the New York Stock
+
+cc0055..iinndddd 6666 11//2266//0088 33::0088::2222 AAMM
+
+THE NETWORK EFFECT [67]
+
+Exchange, and the Chicago Mercantile Exchange. F inancial
+
+exchanges benefit from the network effect much as eBay
+
+does, but with some crucial differences that help illuminate
+
+when network economics are at their strongest, and when
+
+they can break down.
+
+The mechanics of the network effect for a financial
+
+exchange are simple: As more buyers and sellers aggre-
+
+gate on an exchange, exchange participants are increas-
+
+ingly able to find the asset they want at the price they
+
+want. In financial parlance, more buyers and sellers lead
+
+to greater liquidity. This liquidity can be broad, meaning
+
+that participants transact in a wide range of assets, and it
+
+can be deep, meaning that participants can trade a large
+
+volume of assets without affecting the quoted price.
+
+Sounds like a great business, right? Let the network
+
+effect work its magic to build a nice pool of liquidity that’s
+
+both deep and broad, and watch the profits roll in. That’s
+
+actually not a bad description of futures exchanges like the
+
+Chicago Mercantile Exchange (the Merc) and the New York
+
+Mercantile Exchange (NYMEX), which are enormously
+
+profitable companies with wide moats due to their net-
+
+work-induced liquidity. Unfortunately, the story is a bit

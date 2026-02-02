@@ -1,0 +1,170 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Mobile Telephony Standards
+SUMMARY: The text discusses the development of mobile telephony standards in Europe and North America, highlighting the differences in adoption rates and factors contributing to them.
+KEYWORDS: mobile telephony, standards, Europe, North America, adoption rates
+---
+
+one of the key players in the development of i-mode at DoCoMo.
+
+Some readers who are familiar with the different experiences of the European and
+
+American mobile telephony industries may take issue with this paragraph. Very early on,
+
+4-16
+
+the Europeans coalesced around a pre-negotiated standard called GSM, which enabled
+
+mobile phone users to use their phones in any country. Mobile phone usage took off
+
+more rapidly and achieved higher penetration rates than in America, where several
+
+competing proprietary standards were battling it out. Many analysts have drawn the
+
+general conclusion from the Europeans’ strategy of coalescing around a negotiated
+
+standard that it is always advisable to avoid the wasteful duplication of competing
+
+standards. We believe that the benefits of a single standard have been largely
+
+exaggerated, and that other important differences between the US and Europe that
+
+contributed significantly to the differential adoption rates have not been given their due.
+
+First, the benefits of a single standard appear to have manifested themselves large in
+
+terms of supply-side rather than demand-side benefits. That is, by stipulating a single
+
+standard, European manufacturers of network equipment and handsets were able to
+
+achieve greater scale economies than companies manufacturing for the North American
+
+markets. This might well have manifested itself in the form of lower prices to
+
+consumers, however, the relevant comparison is not the cost of mobile telephony in the
+
+Europe versus North America; these services were not competing with each other. The
+
+relevant comparison is with wireline telephony in each respective market. And here it is
+
+worth noting that wireline local and long distance telephony services are much more
+
+expensive in Europe than in North America, and as a result, wireless telephony was a
+
+much more attractive substitute for wireline in Europe than in North America. The
+
+putative demand-side benefit of trans-national usage has not, to our knowledge, been
+
+demonstrated in the usage patterns of European consumers. Consequently, we’d be
+
+willing to suggest that a far more powerful cause of the relative success of mobile
+
+telephony in Europe was not that schoolgirls from Sweden could use their handset when
+
+on holiday in Spain, but rather the relative improvement in ease of use and cost provided
+
+by mobile telephony versus the wireline alternative.
+
+Second, and perhaps even more importantly, European regulation mandated that “calling
+
+party pays” with respect to mobile phone usage, whereas North American regulators
+
+mandated that “mobile party pays.” In other words, in Europe, if you call someone’s
+
+mobile phone number, you pay the cost of the call; to the recipient, it’s free. In North
+
+America, if someone calls you on your mobile, it’s on your dime. As a result, Europeans
+
+were far freer in giving out their mobile phone numbers, hence increasing the likelihood
+
+of usage. For more on this topic, see Strategis Group: Calling Party Pays Case Study
+
+Analysis; ITU-BDT Telecommunication Regulatory Database; and ITU website
+
+http://www. itu.int/ITU-D/ict/statistics.
+
+Teasing out the effects of each of these contributors (the GSM standard, lower relative
+
+price versus wireline, and calling party pays regulation), as well as others that might be
+
+adduced is not a trivial task. But we would suggest that the impact of the single standard
+
+is far less than typically implied, and certainly is not the principle factor in explaining
+
+higher mobile phone penetration rates in Europe versus North America.
+
+4-17
+
+Assessing Your Organization’s Capabilities:
+
+Resources, Processes & Priorities (Abridged)
+
+Clayton M. Christensen & Stephen P. Kaufinan
+
+Harvard Business School
+
+Many innovations fail not because of some fatal technological flaw or because the market isn’t
+
+ready. They fail because responsibility to build these businesses is,given to organizational units, that aren’t..
+
+capable: of.succeeding, Corporate executives often make this mistake because the very capabilities that
+
+propel an organization to succeed in sustaining circumstances will systematically bungle the best ideas for
+
+disruptive growth. An organization’s capabilities become its disabilities when disruption is afoot.' This
+
+note summarizes a model that can help executives understand precisely what a business unit is and is not
+
+capable of doing — and to diagnose precisely where those capabilities and disabilities reside within the
+
+organization.
+
+Resources, Processes, and Priorities
+
+What does this awfully elastic term capability really mean? We’ve found it helpful to unpack the
+
+concept of capabilities into three groups of factors that define what an organization can and cannot
+
+accomplish: its resources, its processes, and the priorities embedded in its business model — a construct
+
+we refer to as the RPP framework.” Although each of these terms requires careful definition and analysis,
+
+taken together we’ve found that they provide a powerful way to assess an organization’s capabilities and
+
+disabilities in ways that can make innovations of every sort much more likely to succeed.
+
+Resources
+
+Resources are the most tangible of the three sets of factors in the RPP framework. Resources
+
+include people, equipment, technology, product designs, brands, information, cash, and relationships with
+
+suppliers, distributors, and customers. Resources are ¢hings that can be hired and fired, bought and sold,
+
+depreciated or built. Most resources are visible and often are measurable, so managers can know what
+
+they have. Resources tend to be flexible as well: most can be transported across organizational
+
+boundaries. An engineer who is a valuable contributor in a large firm can quickly become a valuable
+
+contributor in a start-up. Technology developed for telecommunications can be valuable in health care.
+
+Cash is a very flexible resource; and so on.
+
+Processes
+
+Organizations create value as they transform inputs of resources into products and services of
+
+greater worth. The patterns of interaction, coordination, communication, and decision making through
+
+which they accomplish these transformations are processes.’ Processes include the ways that products are
+
+developed and made and the methods by which procurement, market research, budgeting, employee
+
+development, and resource allocation are accomplished.
+
+Processes differ not only in their purpose, but also in their visibility. Some processes are
+
+“formal,” in the sense that they are explicitly defined, documented and followed. Others are “informal,”
+
+habitual routines or ways of working that have evolved over time, which people adopt simply because

@@ -1,0 +1,160 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Trends and Challenges
+SUMMARY: This text examines the trends and challenges facing manufacturers, retailers, and shoppers in the retail industry, including shifts in consumer spending, online competition, and data security concerns.
+KEYWORDS: retail industry, consumer spending, online competition, data security
+---
+
+Retail sales represent about 18% of the US GDP, equivalent to $3 trillion in 2013, and rising to $4.1
+
+trillion by 2020. At the same time, consumer spending patterns are shifting and their dollars are now
+
+being attracted to other sectors—to healthcare, to services, and to other non-retail household spending.
+
+Globally, UNI estimates the retail sector employs around 142 million people across the 82 countries for
+
+which they have data. The top 250 retailers account for roughly 40% of global retail sales, but operate
+
+on low margins. Again according to UNI, the composite margin earned by those top 250 retailers in 2011
+
+was just 3.8%.
+
+In this section we will review the trends affecting each of the main constituents involved in retail—
+
+manufacturers, retailers, and shoppers—and also the challenges that these trends present to future
+
+retail growth.
+
+4.1 MANUFACTURERS/BRANDS – TRENDS AND CHALLENGES
+
+Manufacturers and brands are facing a range of ongoing challenges.
+
+ Manufacturers currently have very limited (or no) visibility of their products once they hit the
+
+retailer loading docks. They are asking for significantly more insight into what’s happening inside
+
+the retail store, want to get closer to the customer, and are seeking new ways to interact with
+
+customers in retail.
+
+ Some manufacturers are seeing continued downward price pressure due to increasingly
+
+commoditized, undifferentiated products.
+
+ Manufacturers face increasing competition from retailer own brands.
+
+4.2 RETAILERS - TRENDS AND CHALLENGES
+
+As they look to the future, retailers are facing an unprecedented number of major challenges. These
+
+challenges are:
+
+ The shift to online – Traditional retailers have to navigate an omni-channel world and compete
+
+head on with pure play online retailers. Cross-channel shopping behavior is now the norm in all
+
+segments. According to Forrester Research, roughly 51% of all purchases in the US will be
+
+influenced by the Internet. High speed delivery is set to increase the appeal of online retail over
+
+traditional retail by removing “immediacy” as an advantage for bricks and mortar retailers.
+
+ Footprint – Retailers are finding they need smaller retail spaces in different locations as
+
+urbanization hikes rents, shoppers demand more local shopping, and low-income shoppers
+
+move to the first-ring of suburbia where the first malls were built. This has been exacerbated as
+
+certain products have become commoditized and their sales have moved online, reducing the
+
+demand for large format stores (notably consumer electronics and department stores).
+
+ Polarization – As retailers specialize and focus to meet customer expectations they are
+
+polarizing along four important vectors: physical size, product type, shopping model, and price.
+
+19
+
+ Security and trust – As retailers gather and store more and more personal data on their
+
+customers they will need to guard security and honor privacy if they want to avoid breaching
+
+trust with shoppers.
+
+ Oversupply – Too many retailers with too many brands are leading to a highly competitive high
+
+street.
+
+ Inefficiency – In a highly competitive environment, retailer efficiency becomes more important
+
+than ever. Operations have not been optimized based on data. The shopping experience can feel
+
+very inefficient, and many stores host highly unproductive space showcasing rarely purchased
+
+items.
+
+Each of these six challenges is explored in more detail in the sections below.
+
+4.2.1 The shift to online
+
+Ninety percent of retail sales are still conducted inside the store. But the balance between online and in-
+
+store sales is shifting, and online browsing now has an enormous influence in the pre-purchase phase. In
+
+a US study, Accenture found that 88% of respondents researched products online before buying in the
+
+store, a phenomenon commonly known as “web-rooming”. This compares to just 73% of consumers
+
+who claim to practice “show-rooming”, the practice of browsing in-store before buying online.
+
+The shift towards online fulfillment will likely continue as routine purchases of commodity goods and
+
+consumables becomes automated and delivered to the home. In the US, brick and mortar retail sales
+
+were predicted to rise just 3.5% in 2H’14, whereas online sales were expected to jump 14% in the same
+
+timeframe. Deloitte states that just over 5% of total retail sales are now done via mobile devices, but
+
+they expect this to reach 17-21% by 2016.
+
+The exposure of traditional retail to cannibalization by online sales varies greatly by sector. For example,
+
+high-value, small, and light goods such as electronics will be affected in a different way than lower value,
+
+heavier items such as home improvement materials.
+
+Shopping models are emerging that span the online and physical realms. “Click and collect” is becoming
+
+popular in some geographies around the world such as Europe and Australia. This allows the shopper to
+
+order online, and then pick up their goods at a nearby location.
+
+According to WPP’s annual study of the top 100 most valuable brands, the most valuable retail brand in
+
+2014 is not any of the traditional retailer. It is online retailer, Amazon. Amazon has embraced digital
+
+technology to deliver efficient operations and provide shoppers with unparalleled choice. They are now
+
+imagining and developing a delivery network for the future that is designed to deliver goods in hours or
+
+perhaps even minutes.
+
+Challenge: The main challenge for traditional retailers is how to get the advantages of online (breadth of
+
+offerings, high availability, reviews, product details etc.) into their physical stores and at the same time
+
+get the best of physical into their online offering (immediacy, size & fit confidence, touch & feel etc.)
+
+20
+
+Challenge: Retailers face a significant challenge as they try to unify their in-store and online shopping
+
+experiences. Shoppers see no distinction between the two worlds and expect to be able to interact with
+
+retailers and brands across mobile, web, and physical channels as they meander through the shopper
+
+journey. Retailer online stores typically grew up separately from the core physical store business and
+
+sometimes offer a different range of products, different pricing, and don’t share inventory. This has led
+
+to shopper confusion and frustration. Retailers will need to unify all their systems so that customers feel

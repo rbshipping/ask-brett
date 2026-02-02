@@ -1,0 +1,302 @@
+SOURCE: HFT - Feb 2022 - Magic Nine by Greg.pdf
+SUBFOLDER: Additional\HFT\2022
+TOPIC: Retail Performance Metrics
+SUMMARY: The text discusses key performance indicators (KPIs) and metrics used to monitor and optimize the performance of physical and online retail stores.
+KEYWORDS: GMROI, GMROM, GMROL, conversion rate, cart abandonment, organic search, direct search, KPIs
+---
+
+[Document: HFT - Feb 2022 - Magic Nine by Greg.pdf]
+
+(Physical Stores)
+
+Your Primary “Basic T” Instruments
+
+GMROI………………... High as possible
+
+(subject to GMROM)
+
+GMROM………………. Maximise
+
+GMROL……………….. Optimise
+
+Secondary Instruments Directional Controls
+
+Stock Intensity GM%, Space Allocation
+
+Range Density SKU Count
+
+Service Intensity Store Positioning
+
+Closure Rate Rosters etc.
+
+Other Instruments & Controls
+
+WOS (Insight and SOH)
+
+“Freshness Ratio”
+
+(= Last 13 weeks purchases / Closing stock)
+
+Marketing & Promotion
+
+Fuel Mixture
+
+OTB (see later)
+
+24
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+SRM “Rules & Controls”
+
+(Online Stores)
+
+Your Primary “Basic T” Instruments
+
+GMROI………………... High as possible
+
+(subject to GMROM)
+
+Conversion Rate……. Maximise
+
+(monitor over time)
+
+GMROL……………….. Optimise
+
+Secondary Instruments Directional Controls
+
+Time on Site / Page / TTL UX (Site Design), Hosting Service
+
+Range Density SKU Count
+
+Cart Abandonment Rate Freight Policy, GM% etc.
+
+Organic & Direct Traffic SOE / SEM
+
+Other Instruments & Controls
+
+WOS (Insight and SOH)
+
+“Freshness Ratio”
+
+(= Last 13 weeks purchases / Closing stock)
+
+Marketing & Promotion
+
+Fuel Mixture
+
+OTB (see later)
+
+26
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+Online Pentagon Drivers (KPIs)
+
+GA DATA
+
+TY Last Week LY Variance Variance %
+
+Product revenue (excluding shipping) $555,395.98 $594,838.88 $189,817.03 $365,578.95 192.60%
+
+# of sessions 318,694 334,142 216,537 102,157 47.18%
+
+# of transactions 10,578 11,143 3,763 6,815 181.11%
+
+Average order value $59.02 $60.71 $56.78 $2.24 3.95%
+
+Conversion baseline 3.32% 3.33% 1.74% 1.58% 90.80%
+
+Cart abandonment rate 41.42% 41.67% 0.00% 41.42% 100.00%
+
+Organic search users 91,240 90,137 79,222 12,018 15.17%
+
+Organic search sessions 111,704 111,784 94,263 17,441 18.50%
+
+Direct search users 53,307 53,603 29,580 23,727 80.21%
+
+Direct search sessions 63,004 64,307 36,297 26,707 73.58%
+
+Number of pages visited 4.06 4.10 3.40 0.66 19.41%
+
+Cart to detail rate 14.96% 15.44% 0.00% 14.96% 100.00%
+
+Buy to detail rate 4.84% 4.89% 0.00% 4.84% 100.00%
+
+Time on page (seconds) 49 49 52 -3 -5.77%
+
+Time on site (seconds) 154 156 125 29 23.20%
+
+Bounce rate 14.38% 13.30% 52.24% -37.86% -72.47%
+
+Average page load speed (seconds) 2.43 1.89 2.00 0.43 21.50%
+
+28
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+The “Magic 9”
+
+29
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+Objectives
+
+1. Compare Weekly, MTD and YTD performance across all businesses
+
+2. Enable fair and meaningful comparisons regardless of market, life
+
+cycle stage, size, systems, business model
+
+3. Bring Group together through BBRC competitive spirit (cultural
+
+strength and characteristic trait of all CEOs and management
+
+teams)
+
+4. Continuous performance monitoring of key resources (SRM) and
+
+identification of trends
+
+5. Proven predictors of future profitability and brand performance
+
+9 key KPIs Identified
+
+30
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+Original “Magic 9” Template
+
+(Week 8, 2008)
+
+"Magic 9" Brand KPI Summary
+
+Brand:
+
+Week ending: BBRC Week #:
+
+KPI # KPI Week MTD YTD MAT
+
+1 Total (Top Line) GM$ Growth %
+
+2 Budget Sales %
+
+3 Comp Sales %
+
+4 GMROM on LY %
+
+5 Labour $/ Transaction on LY %
+
+6 GMROI on LY%
+
+7 GM$ per Transaction on LY %
+
+8 # Transactions / Store on LY %
+
+9 Lead Add-on Sales Ratio on LY %
+
+Formula Notes
+
+1 Top Lines sales are total sales growth % for the Brand i.e. ALL stores including closed and new stores
+
+2 Sales growrh % against Budget
+
+3 Comparative Sales growth % against like to like stores
+
+4 Gross Margin $ (ALL Stores) / Total Square Metres (ALL stores). For MAT use average for the last tweleve months
+
+5 Retail Labour $ / Transactions improvement on LY
+
+6 GM$ / Average Inventory (Cost) for same period LY. Improvement from year to year
+
+7 GM$ (ALL Stores) / # Transactions for ALL stores
+
+8 Growth % in # (Number of) transactions / number of trading stores TY compared to # Transactions / store LY
+
+9 The brand's major or "lead" Add-on unit sales / number of Transactions. Growth % of this compare to LY
+
+31
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+The Ratios
+
+1. Total Top Line GM$ Growth (TY/LY) %
+
+• Total GM$ for ALL stores (including ONL, new and any closures) compared to LY
+
+• Measures market penetration. GM$ means can compare low margin with high margin
+
+2. BIP Sales Growth (Act/PL) %
+
+• Business $ Sales compared to BIP
+
+• Measures performance against originally approved sales Plan
+
+3. Comp Sales Growth (TY/LY) %
+
+• Comparative store sales (TY/LY). Like for like sales
+
+• The most common ratio used by business analysts
+
+• Measures comparative sales growth %, eliminating the impact of new stores
+
+4. GMROM Growth (TY/LY) %
+
+• GM$ (All stores) / Total Sq Metres (All stores
+
+). Use average space for last 12 months for MAT calc
+
+• The most important SRM ratio to maximise
+
+• Measures change in space productivity
+
+32
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+The Ratios
+
+5. Retail Labour $ / # Transactions TY/LY %
+
+• Store (incl ONL) labour cost per transaction compared to LY
+
+• Measures labour productivity and is a reflection of the COS and GMROL ratios
+
+• Use Gross Cost if possible but if you choose to use Net then be consistent TY:LY
+
+• Note: This ratio is an inverse one i.e. a negative change is good
+
+6. GMROI TY/LY %
+
+• GM$ / Average Inventory (Cost) TY compared to same period LY
+
+• Measures improvement in inventory productivity from period to period
+
+• Beware that too high can be a negative indicator (as can too low)
+
+7. GM$ per Transaction TY/LY %
+
+• GM$ (All stores) / # transactions for All stores
+
+• Measures improvement in profit productivity per transaction compared to LY
+
+• SALE events show up here
+
+33
+
+BBRC WORLDWIDE | February 2022 -“The Magic 9”
+
+The Ratios
+
+8. # Transactions per Store TY/LY %
+
+• Growth % increase in total transaction count / # of trading stores compared to #
+
+transactions / store LY
+
+• Measures the Customer reaction to the business’s offer
+
+• During SALE this can increase dramatically but watch the GM driven KPIs

@@ -1,0 +1,158 @@
+SOURCE: HBS_Precision Pricing for Profit in the New World Order.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Pricing Strategy
+SUMMARY: The text discusses the challenges of operating in multiple business models and the strategic opportunities for profit-based pricing in the new era.
+KEYWORDS: pricing strategy, business models, profit-based pricing, customer value, cost structure
+---
+
+difficult for a competitor to even survive let alone catch up. The walls of what otherwise might be
+
+defensible niches are breached by the overwhelming growth in customer value and the almost
+
+negligible incremental cost. This process, of course, has made Bill Gates apparently the richest
+
+person in the world!
+
+VI. CROSSING THE QUADRANTS: THE CHALLENGE OF DIVERGENT
+
+BUSINESS MODELS
+
+(Exhibit 6), the chart of cost structure versus account base concentration, is powerful because
+
+it considers both a primary marketing dimension and a primary cost accounting dimension. It focuses
+
+attention on the appropriate goals and leverage points, and goes a long way toward the definition of a
+
+business model (ie., the collection of business decisions that defines the integrated way in which
+
+profits are generated in the company).
+
+But, what happens when a company must operate in more than one quadrant? Banks,
+
+utilities, and airlines, for example, have some commercial businesses where accounts are concentrated
+
+and some consumer businesses where the number of customers is large and their individual size
+
+small. That makes it difficult for top management to exercise the right judgment and skill to respond
+
+to disparate businesses and their needs. How does the consumer banker learn to deal with giant
+
+institutional customers, and how does the utility executive with industrial experience learn to deal
+
+with consumers, advertising, etc.?
+
+Perhaps even more challenging is the single company that has a high fixed cost business and
+
+a high variable cost business. Commercial software companies often exhibit the fixed cost-high
+
+return to scale profile described earlier. But, many also have consulting, systems integration, and
+
+customer training operations that have high variable costs embedded in expensive, hard-to-manage
+
+professional engineers. Most executives find it hard to manage such a disparate pair of businesses
+
+because their intuition needs to be “recalibrated” for each side of the operation.
+
+Pricing in the new era is even more difficult than before. Now, we look at solutions.
+
+VIL. STRATEGIC OPPORTUNITIES FOR PROFIT-BASED PRICING
+
+Price setting is a highly leveraged activity whose impact on profitability is profound. Thus it
+
+deserves care. And, in the new era, it requires care and work. Simple solutions implemented in a
+
+standardized rote manner and/or without care and thought lead to disasters — nothing less.
+
+There are three ways to deal conceptually with price setting. (Exhibit 1), our “total” income
+
+statement, makes them clear:
+
+1. Create more customer value at the top so that ZOPA expands. As a subset,
+
+clarify and emphasize the customer value so that it is better perceived by the
+
+customer.
+
+2. Lower cost at the bottom so that ZOPA expands.
+
+3. Move price within ZOPA so that your profit as a supplier is greater. Note that
+
+this is a zero-sum game in which your gain comes at the expense of the customer.
+
+Most pricing decisions are made this way. But, it is a very limited approach.
+
+Precision Pricing for Profit in the New World Order 9-999-003
+
+Value-Added and Transaction-Specific Pricing
+
+We begin with pricing approaches that either create more customer value or that clarify the
+
+value. We might term these approaches value-added pricing. Value-added pricing will work best
+
+when one thinks of transaction-specific pricing—each transaction should be priced individually in a
+
+scalpel-like approach. A meat-cleaver standard uncustomized approach is unlikely to work well.
+
+Economists call transaction-specific pricing “price discrimination” emphasizing that each
+
+customer pays a different price. Each customer and often each transaction represents a different
+
+customer value. This is the opposite of standard rote cost-plus pricing. There are limits to this
+
+approach, however. If customers purchase the same exact thing, and can learn what others have paid
+
+(through observations and/or discussion), it won’t work. Thus, it is more suited to individual
+
+purchases such as those in the commercial and industrial market places than to mass merchandising.
+
+But, many of its benefits can also be achieved by pricing categories of transactions differently from
+
+other categories. The more customization you can achieve, the better it will be. Airlines have
+
+pushed the limits on this approach with yield management to maximize the price of a seat: each
+
+passenger on a flight may pay a different price for essentially the same seat. Profit results have been
+
+excellent although customer skepticism has soared.
+
+While transaction-specific pricing works best in the commercial and industrial marketplaces,
+
+the ability to apply computers and sophisticated software to the calculation, optimization, and record-
+
+keeping tasks, combined with more non-store retailing such as on the Internet makes it applicable to
+
+some consumer marketplaces as well. Again, the airline example is a good one.
+
+Product or service line pricing is a step toward a form of “mass” transaction-specific pricing.
+
+By offering several items in a product/service line at different prices, the seller lets the buyer choose
+
+the most appropriate fit of customer value and price. The classic example is the General Motors
+
+product line developed in the 1920s going from Chevrolet at the low end, through three intermediate
+
+nameplates or individual brands, to Cadillac at the high end. Another rich example is Sears’
+
+traditional “good, better, best” offering. But while product/service line pricing is a step toward
+
+transaction-specific pricing, it is only a small step. In essence it enables some choice by the buyer,
+
+but little opportunity for true customization by the seller.
+
+Different Pricing Metrics
+
+A powerful approach to supplement transaction-specific pricing is pricing by something other
+
+than the traditional or obvious metric. Two classic examples will help here. When Xerox introduced
+
+the plain paper copier, it brought a wonderful technology to market, much better than its liquid
+
+toner/coated paper predecessor. Xerox could have sold the machine, or leased it on a time basis. But
+
+instead, in a brilliant move, it charged per copy by putting a counter, called a “lease meter,” on each
+
+machine. This enabled it to charge per copy thus “customizing” the price to each individual
+
+customer. The customer paid based on a measure of the individual customer value created by their
+
+machine. This also enabled Xerox to offer volume discounts to larger users.

@@ -1,0 +1,152 @@
+SOURCE: Leadership is a Conversation.pdf
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Employee Engagement and Communication
+SUMMARY: The text discusses Cisco's communication culture, emphasizing the role of inclusive leadership in empowering employees to actively participate in generating content and serving as brand ambassadors.
+KEYWORDS: internal communication, employee inclusion, brand ambassadorship, leadership communication, organizational storytelling
+---
+
+[Document: Leadership is a Conversation.pdf]
+
+story.” A less interactive form of communication to employees, inclusion focuses on the role that
+
+might have produced such information eventually— employees play in that process. It also extends the
+
+but far less efficiently. practice of interactivity by enabling employees to
+
+At the crux of Cisco’s communication culture is provide their own ideas—often on official company
+
+its CEO, John Chambers, who holds various forums channels—rather than simply parrying the ideas that
+
+to keep in touch with employees. About every other others present. It enables them to serve as frontline
+
+month, for instance, he leads a “birthday chat,” open content providers.
+
+to any Cisco employee whose birthday falls in the In the standard corporate communication model,
+
+relevant two-month period. Senior managers aren’t top executives and professional communicators
+
+invited, lest their presence keep attendees from monopolize the creation of content and keep a tight
+
+speaking openly. Chambers also records a video blog rein on what people write or say on official company
+
+about once a month—a brief, improvisational mes- channels. But when a spirit of inclusion takes hold,
+
+sage delivered by e-mail to all employees. The use of engaged employees can adopt important new roles,
+
+video allows him to speak to his people directly, in- creating content themselves and acting as brand am-
+
+formally, and without a script; it suggests immediacy bassadors, thought leaders, and storytellers.
+
+and builds trust. And despite the inherently one-way Brand ambassadors. When employees feel pas-
+
+nature of a video blog, Chambers and his team have sionate about their company’s products and services,
+
+made it interactive by inviting video messages as they become living representatives of the brand. This
+
+well as text comments from employees. can and does happen organically—lots of people love
+
+what they do for a living and will talk it up on their
+
+inclusion: expanding own time. But some companies actively promote
+
+employees’ roles that kind of behavior. Coca-Cola, for instance, has
+
+At its best, personal conversation is an equal- created a formal ambassadorship program, aimed
+
+opportunity endeavor. It enables participants to at encouraging employees to promote the Coke im-
+
+share ownership of the substance of their discussion. age and product line in speech and in practice. The
+
+As a consequence, they can put their own ideas—and, Coke intranet provides resources such as a tool that
+
+indeed, their hearts and souls—into the conversa- connects employees to company-sponsored volun-
+
+tional arena. Organizational conversation, by the teer activities. The centerpiece of the program is a
+
+same token, calls on employees to participate in gen- list of nine ambassadorial behaviors, which include
+
+erating the content that makes up a company’s story. helping the company “win at the point of sale” (by
+
+Inclusive leaders, by counting employees among a taking it on themselves to tidy store displays in retail
+
+company’s official or quasi-official communicators, outlets, for example), relaying sales leads, and report-
+
+turn those employees into full-fledged conversation ing instances in which a retailer has run out of a Coke
+
+partners. In the process, such leaders raise the level product.
+
+of emotional engagement that employees bring to Thought leaders. To achieve market leadership
+
+company life in general. in a knowledge-based field, companies may rely
+
+Inclusion adds a critical dimension to the ele- on consultants or in-house professionals to draft
+
+ments of intimacy and interactivity. Whereas in- speeches, articles, white papers, and the like. But of-
+
+June 2012 Harvard Business Review 7
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Spotlight on LeadeRsHIp
+
+F
+
+F
+
+or many executives and managers, the
+
+temptation to treat every medium at their
+
+disposal as if it were a megaphone has
+
+proved hard to resist.
+
+ten the most innovative thinking occurs deep within many on public sites, expressing their unfiltered
+
+an organization, where people develop and test new thoughts about life at the company and sharing their
+
+products and services. Empowering those people ideas about technology.
+
+to create and promote thought-leadership material Of course, inclusion means that executives cede
+
+can be a smart, quick way to bolster a company’s a fair amount of control over how the company is
+
+reputation among key industry players. In recent represented to the world. But the fact is that cul-
+
+years Juniper Networks has sponsored initiatives to tural and technological changes have eroded that
+
+get potential thought leaders out of their labs and of- control anyway. Whether you like it or not, anybody
+
+fices and into public venues where industry experts can tarnish (or polish) your company’s reputation
+
+and customers can watch them strut their intellec- right from her cube, merely by e-mailing an internal
+
+tual stuff. The company’s engineers are working on document to a reporter, a blogger, or even a group of
+
+the next wave of systems silicon and hardware and friends—or by posting her thoughts in an online fo-
+
+can offer keen insights into trends. To communicate rum. Thus inclusive leaders are making a virtue out
+
+their perspective to relevant audiences, Juniper dis- of necessity. Scott Huennekens, the CEO of Volcano
+
+patches them to national and international technol- Corporation, suggests that a looser approach to com-
+
+ogy conferences and arranges for them to meet with munication has made organizational life less stifling
+
+customers at company-run briefing centers. and more productive than it used to be. The free
+
+Storytellers. People are accustomed to hearing flow of information creates a freer spirit. Some com-
+
+corporate communication professionals tell stories panies do try to set some basic expectations. Infosys,
+
+about a company, but there’s nothing like hearing a for instance, acknowledging its lack of control over
+
+story direct from the front lines. When employees employees’ participation in social networks, tells
+
+speak from their own experience, unedited, the employees that they may disagree but asks them not
+
+message comes to life. The computer storage giant to be disagreeable.
+
+EMC actively elicits stories from its people. Leaders And quite often, leaders have discovered, a sys-

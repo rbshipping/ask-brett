@@ -1,0 +1,38 @@
+SOURCE: Wal-Mart Way - Soderquist Don_Editable Format.docx
+SUBFOLDER: Additional\HFT
+TOPIC: Retail Technology Adoption
+SUMMARY: Wal-Mart was an early adopter of various retail technologies, including EDI, bar codes, and RFID, which improved its operational efficiency and supply chain visibility.
+KEYWORDS: retail technology, supply chain management, operational efficiency, Wal-Mart, RFID
+---
+
+[Document: Wal-Mart Way - Soderquist Don_Editable Format.docx]
+
+Wal-Mart was also the first retailer to extensively use Electronic Data Interchange (EDI) for transmission of purchase orders for merchandise directly to manufacturers, then receive their confirmation and invoices back from them electronically. This process has considerably reduced time, errors, and costs for the entire industry.
+
+We’ve never shied away from a technological advance if it would help us fulfill the Wal-Mart vision. To quote once again from Bradford C. Johnson in the McKinsey Quarterly:
+
+The company [Wal-Mart] invested in most of the waves of retail IT systems earlier and more aggressively than did its competitors; it was among the first retailers to use computers to   track inventory (1969), just as it was one of the first to adopt bar codes (1980), EDI for better coordination with suppliers (1985), and wireless scanning guns (late 1980s). These investments, which allowed Wal-Mart to reduce its inventory significantly and to reap   savings, boosted its capital productivity and labor productivity. Wal-Mart’s secret was to  focus its IT investments on applications that directly enhanced its core value proposition of  low prices. The company’s later IT investments—such as the Retail Link program, which captures sales data and gives vendors real-time stock and flow information—are aimed more  at increasing sales through micro-merchandising and cutting the incidence of stock-outs.1
+
+We’ve consistently been among the first in the retail industry when it comes to finding and creating new opportunities through technology. In 1987,Wal-Mart developed a satellite communications network that extended to every store, every club, and every distribution center in the country. We
+
+used the network to transmit the stores’ merchandise orders directly into our main computer for processing. After processing, the order-filling documents were sent to the specific distribution center that evening for filling and shipping the next day. Simultaneously, the computer adjusted and maintained the store inventories for every item in the store.
+
+Later on, we used the satellite network to speed up credit-card approval and transactions for the stores and clubs. We also used this system for many other types of communication, including transmission of training programs to the stores and clubs as well as messages from senior management directly to the associates in the field.
+
+Currently,Wal-Mart is leading the way once again. ISD is at the forefront of encouraging the retail industry to invest in radio-frequency identification (RFID) as a means of better identifying and controlling the flow of freight through the entire supply chain. As a benefit to both retailer and supplier alike, RFID literally opens a whole new window to the supply chain that makes it possible to identify and trace the exact location of every single carton of freight and what’s in that particular carton at any moment in time. It makes it possible to inventory an entire store electronically and accurately without having to count the merchandise. I am convinced that RFID, too, will become a major breakthrough technology in the years ahead. And Wal-Mart is out in front.
+
+Data-Based Management: Merchandising to America from Bentonville, Arkansas
+
+Wal-Mart’s computer system houses the largest commercial or private database in the world. It is an incredible accumulation of information that is the storehouse for all Wal-Mart systems. One of the many unique uses for this extensive database is to capture 104 weeks of sales history by week for every item in every store in the world. That information can be so powerful and useful for determining merchandise sales trends, forecasting individual item sales, capturing the seasonality of many items, and managing the replenishment of each store’s inventory.
+
+It would seem to be impossible for any group of buyers to merchandise
+
+every store in the world from Bentonville, Arkansas. But this database makes it possible to accurately determine what items each store sells best and allows Wal-Mart to merchandise each store according to the specific needs of the customers who shop in that particular store. We call this the Store of the Community. Our overall objective of this program is to have the right merchandise, at the right price, in the right store, at the right time. One size does not fit all in the retail business. The computer develops a profile of the customers’ merchandising needs and seasonal fluctuations that are unique to each store.
+
+Based on local and regional profiling, the computer automatically replenishes everyday staple merchandise items in each store. But it also determines the anticipated demand on discretionary items for each store based on that store’s sales history, checks the inventory of that item in that store daily, and then automatically creates an order and immediately transmits it to the nearest distribution center. The order is filled in the distribution center the next day, loaded onto a truck, and then shipped directly to the store. On a continuing basis, department managers in each store review their item movement and inventory reports and can revise the way the computer is ordering any of their items and update all the data in the system. While the replenishment of the items in each store is virtually automatic, there is always the provision for human initiative to override or refine the process.
+
+The computer also checks the inventory of each item that is stocked in each Wal-Mart distribution center on a daily basis. Based on the anticipated demand of those items, the computer will create purchase orders and transmit them directly to the suppliers’ computers overnight. On new items and strictly seasonal categories, the computer develops suggested orders for the buyers’ review, based on each store’s unique profile. This review is done on an exception basis. Orders are then transmitted directly to the suppliers for their shipments to our distribution centers.
+
+This automated process has made it possible for Wal-Mart stores to be in stock consistently and minimize the dollars invested in inventory at the same time—that equals superior service for the customers and reduced capital commitment from the company. The Wal-Mart Way has always been true to
+
+our vision of satisfying our customers and maximizing the impact of our assets through excellence.

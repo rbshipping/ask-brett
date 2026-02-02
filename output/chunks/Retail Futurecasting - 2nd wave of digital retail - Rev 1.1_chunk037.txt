@@ -1,0 +1,140 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Futurecasting
+SUMMARY: The text discusses the backcasting process to determine interim steps and capabilities needed to realize future retail scenarios.
+KEYWORDS: backcasting, futurecasting, retail, scenario planning
+---
+
+negotiated through group bargaining.
+
+10.4 BACKCASTING
+
+The backcasting process is a way to figure out the interim steps that are needed in order for an imagined
+
+future to become true. The result is a set of concrete actions that need to be taken at various times
+
+between now and the time in which the futurecasting scenario is to be realized. The process also
+
+extracts a set of capabilities that will need to be developed.
+
+The teams did this for both the 2017 and 2020 timeframes. This provided a set of nearer term steps they
+
+could take towards realizing their visions for 2024.
+
+A set of sample actions and capabilities extracted by the teams are listed below by way of example:
+
+By the year 2017
+
+ Need data integrity on stock availability across the purchase chain
+
+ Need a social media platform to allow visibility of buyer to friends’ likes/interest in products
+
+ A consumer platform that is extensible to all screens
+
+ Hire data scientist to conduct behavioral analysis and modeling on needs and purchase habits
+
+By the year 2020
+
+ Same day and next day shipping for goods
+
+ 3D printers to create products, cotton fabrics and designs that are designed by friends or (other)
+
+participants in the market – or markets in other parts of the world
+
+84
+
+10.5 SCIENCE FICTION PROTOTYPING
+
+Once backcasting had been used to start to extract concrete actions and capabilities that would be
+
+needed for each scenario, science fiction prototyping was employed to stress test that scenario and look
+
+for issues and nuances they might have overlooked while in the experience creation phase.
+
+These prototypes took the form of stories from the future, usually set several decades beyond the initial
+
+futurecasting time horizon. The goal of science fiction prototyping is to use the added freedom afforded
+
+by the extended timescale to take the imagined scenarios to the extreme. Teams were encouraged to
+
+imagine something going terribly wrong and then being remediated or fixed. This approach reveals
+
+insights and important design considerations that would be applicable to the shorter-term experiences
+
+being imagined.
+
+By way of illustration, a sample science fiction prototype is included below to demonstrate the process.
+
+The team had a bit of fun with the story, but it highlights some serious potential security issues with
+
+their experience scenario that have applicability back to the 2017 and 2020 time frames:
+
+The year is 2055. Alexandria is now 73 years old. She recently experienced a stroke, has partial paralysis and has
+
+great trouble speaking. Her husband was somewhat older than her and died back in 2050. Her four children are all
+
+grown and have moved to other cities in Mexico, and across Latin America.
+
+Alexandria takes a pill twice a day to manage her various ailments, which include high blood pressure, obesity,
+
+migraines, COPD and chocolate addiction. It has been specially designed for her by her health provider based on her
+
+genetic code.
+
+She still lives in the same building, albeit in a much more spacious condo, and now relies heavily on the
+
+“Convenierge” service to assist her with many of her daily living tasks. It understands and anticipates all her needs
+
+and service robots deliver all her goods, her food, and her medication to her home.
+
+Recently, Alexandria has noticed that her life feels different. Her medication looks the same, but doesn’t seem to
+
+have the same beneficial effect on her that it once did. Perhaps she’s imagining it? But her blood pressure certainly
+
+does seem to be on the rise. And lately, the range of food her robot is loading into her fridge and pantry doesn’t
+
+seem quite right. Products she’s never used before are showing up. And many of the staples she uses for her
+
+favorite recipes are missing.
+
+Alexandria suspects something is up. She hasn’t had to check her billing statement in years. She’s just learned to
+
+trust Convenierge to take care of everything for her. She waves her hand to bring up a visual display of her spending
+
+on the wall and is shocked by what she sees.
+
+From being quite financially comfortable, she now sees that she only has three months of living expenses left in her
+
+account. Somebody has been ordering vast amounts of goods and services, and billing them to her. That same
+
+somebody has hacked her “Auto birthday present” service and been sending themselves high value items – a 4D
+
+camera, a 70-year special anniversary edition Back to the future hoverboard, and even a new eKidney to her niece.
+
+Only of course it was never delivered to her niece, Naomi, but went to some address in Beijing. Alexandria also sees
+
+that many of the healthy, high-quality products she has enjoyed over the years have been substituted with poor
+
+alternatives. Some of them are known to include ingredients that were banned in the ‘30s for their serious health
+
+issues. Even worse, as she investigates further, she finds that her custom pill is actually a slow acting poison. The
+
+criminals clearly intend to knock her off before her money runs out, and take over her apartment.
+
+Alexandria’s life is turned upside-down, and she realizes somebody is out to kill her and take everything she owns.
+
+She now has nothing to leave to her kids as inheritance, and doesn’t know what to do.
+
+85
+
+She summons her automated lawyer and criminal investigation service, LawAI by thinking about a shirtless Tom
+
+Selleck as Magnum PI, her pre-agreed brainwave icon for the service. Her BMI (brain-machine interface) hat has
+
+been a godsend since her stroke. LawAI’s holographic representative appears in her lounge and listens to her
+
+problem. The representative is not a real person, but certainly looks like one. It is powered by powerful algorithms
+
+and represented as a 3D avatar carefully selected to look as friendly and calming to Alexandria as possible, based
+
+on her data profile. The algorithms of the law service immediately begin to run diagnostics on the system and

@@ -1,0 +1,370 @@
+SOURCE: 08082025.docx
+SUBFOLDER: Brett & Leah
+TOPIC: Inventory Management
+SUMMARY: The discussion centers on optimizing inventory levels to avoid overstocking and ensure customer satisfaction.
+KEYWORDS: inventory, order quantities, demand forecasting, decision-making, business operations
+---
+
+00:11:21 Brett
+
+So
+
+00:11:23 Brett
+
+Even the things that are good, they let run out and then you've just got more **** that customers don't want.
+
+00:11:30 Brett
+
+So it's a doom cycle.
+
+00:11:32 Brett
+
+So and because there's only 10 here and but the order quantities I'd like to see probably drop down.
+
+00:11:49 Brett
+
+So
+
+00:11:50 Brett
+
+That's a, there's a bit, it's a bit too much.
+
+00:11:53 Brett
+
+It's not that we shouldn't be ordering these because we're going to sell out, right?
+
+00:11:57 Leah
+
+Yeah.
+
+00:11:58 Brett
+
+They're just, it's too much.
+
+00:12:00 Leah
+
+Yeah.
+
+00:12:04 Brett
+
+One down here, you know, 300.
+
+00:12:07 Brett
+
+We're not selling.
+
+00:12:08 Brett
+
+And what is that?
+
+00:12:16 Brett
+
+The 18 gauge, whatever that is, down the bottom.
+
+00:12:21 Brett
+
+They don't have a picture.
+
+00:12:22 Brett
+
+I go, what the hell would we want?
+
+00:12:26 Brett
+
+Yeah.
+
+00:12:27 Brett
+
+Now we've ordered 240.
+
+00:12:29 Brett
+
+I know we sold 240.
+
+00:12:33 Brett
+
+And we've got 240.
+
+00:12:35 Brett
+
+It's just it's just too many.
+
+00:12:36 Brett
+
+Now, if I'm sure there's minimums on this, so that might be part of the problem.
+
+00:12:42 Leah
+
+I think 50 is the minimum.
+
+00:12:43 Leah
+
+I think 50 is the minimum.
+
+00:12:44 Leah
+
+So anything that's 100, we can move to 50.
+
+00:12:47 Leah
+
+LeBrett Bax, they might have a reasonable
+
+00:12:51 Leah
+
+We can move the 600, but I'll check because they might have, I don't know, there might be a valid reason why they want that.
+
+00:12:58 Leah
+
+So I'll check, but we can bring that down.
+
+00:13:02 Brett
+
+Now remember what I would want you to start doing, I didn't remember, this is command and control.
+
+00:13:07 Brett
+
+This is you signing off on this.
+
+00:13:09 Brett
+
+These are just Rebecca's giving you, here's what I think.
+
+00:13:14 Brett
+
+And you're the one that's got to make the final decision.
+
+00:13:16 Brett
+
+Now, it takes, I know it's going to take you a while to warm up to this, but it's not ask them why.
+
+00:13:23 Brett
+
+You've got to be able to go, that's stupid.
+
+00:13:25 Brett
+
+We don't need this many.
+
+00:13:26 Brett
+
+You've got to look at this and go, there's four weeks cover.
+
+00:13:29 Brett
+
+So the way you'll look at the first one up there, if you're looking at it, last week we sold nine, year to date is 28.
+
+00:13:38 Brett
+
+So that's like, well, that's not really a very big seller.
+
+00:13:42 Brett
+
+Average weekly sales are four, right?
+
+00:13:46 Brett
+
+Okay, four.
+
+00:13:47 Brett
+
+And so that's 100.
+
+00:13:52 Brett
+
+And then you know that we're likely to be getting out of two stores pretty quickly, both Brighton and Newcastle, right?
+
+00:14:02 Brett
+
+I mean, you have that information, right?
+
+00:14:05 Brett
+
+And so we got two stores less and four weeks, average of four, and we're ordering 100.
+
+00:14:15 Brett
+
+And I'm just doing all this fast.
+
+00:14:17 Brett
+
+I know you won't be keeping up, but this is what comes with experience.
+
+00:14:22 Brett
+
+I've got four I'm selling.
+
+00:14:25 Brett
+
+I've already got, where are we, 20 in the DC, 17, that's 37.
+
+00:14:35 Brett
+
+and now I want to order another 100.
+
+00:14:37 Brett
+
+Like, shoot me, right?
+
+00:14:40 Brett
+
+That's just, that's just shoot me.
+
+00:14:43 Brett
+
+Now, you're right to say we've got 37.
+
+00:14:45 Brett
+
+Well, that means we can carry on for at least another couple of months.
+
+00:14:53 Brett
+
+So you would quickly cross that out to 20, right?
+
+00:14:57 Brett
+
+You just take a red pen, 20.
+
+00:15:00 Speaker 3
+
+Yeah.
+
+00:15:00 Brett
+
+Because Beck doesn't know yet.
+
+00:15:02 Brett
+
+She's
+
+00:15:03 Brett
+
+She's not the leader.
+
+00:15:05 Brett
+
+She doesn't have the information.
+
+00:15:06 Brett
+
+She doesn't fully understand that we're shifting out of this.
+
+00:15:11 Brett
+
+They are steeped with the problem of we don't run out of product.
+
+00:15:16 Brett
+
+So that is 20.
+
+00:15:17 Brett
+
+So you work the next one down, the average weekly sales is 3.
+
+00:15:22 Brett
+
+You've got more or less the same amount of product and you just, you've kicked up
+
+00:15:30 Brett
+
+last week, which is nice, but it's the average weekly sales that is in there.
+
+00:15:35 Brett
+
+So, and then you, so it's like that's zero.
+
+00:15:40 Speaker 3
+
+Yeah.
+
+00:15:42 Brett
+
+So right, can you write this down right or can you do this on the screen?
+
+00:15:46 Brett
+
+Zero.
+
+00:15:48 Speaker 3
+
+Yeah.
+
+00:15:48 Brett
+
+Then you got the same thing more or less on #3.
+
+00:15:54 Brett
+
+So it's zero because you're not out of stock.
+
+00:15:58 Speaker 3
+
+Yeah.
+
+00:15:59 Brett
+
+Now that doesn't mean to say that you might not put an order in next week or the week after, because it might sell 7 again next week.
+
+00:16:09 Brett
+
+But the average is 4, three, fours.
+
+00:16:12 Brett
+
+Now you get down to the one there, it's six.
+
+00:16:18 Brett
+
+It's average is 6.
+
+00:16:21 Brett
+
+So you can, what number is that?
+
+00:16:24 Brett
+
+It's the ground stone, it's number is 439.
+
+00:16:29 Brett
+
+Yeah, Number 13 on the...
+
+00:16:32 Leah
+
+Yeah.
+
+00:16:34 Brett
+
+Now, I look at that and I go, well, the average is 6, but we're ordering, it's actually a better seller than the others, but it only sold four last week.
+
+00:16:46 Brett
+
+So that's what's throwing that out.
+
+00:16:50 Brett
+
+So Beck is not being quite efficient as she could be.
+
+00:16:59 Brett
+
+So you've got to cut this down.
+
+00:17:02 Brett
+
+So you would send it straight back to her and go, cut this back down by 1/4 and tell me the problems.
+
+00:17:09 Brett
+
+And we're not out of stock of anything yet.
+
+00:17:14 Speaker 3
+
+Yeah.
+
+00:17:16 Brett
+
+Now, we don't want to get out of stock because it takes time for this stuff to come.
+
+00:17:20 Brett
+
+But that's what you do.

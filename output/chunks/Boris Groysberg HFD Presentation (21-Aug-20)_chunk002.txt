@@ -1,0 +1,82 @@
+SOURCE: Boris Groysberg HFD Presentation (21-Aug-20).docx
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Expedition Leadership and Strategy
+SUMMARY: This text analyzes Roald Amundsen's approach to planning and executing his successful expedition to the South Pole, including his focus on critical roles, disciplined execution, and strategic decisions.
+KEYWORDS: expedition strategy, leadership selection, discipline, critical roles, Roald Amundsen
+---
+
+[Document: Boris Groysberg HFD Presentation (21-Aug-20).docx]
+
+To gain experience, Amundsen applied for entry-level jobs on expeditions, writing in his application: “I want no salary, and am prepared to submit to anything whatsoever.”
+
+Amundsen put himself through years of training for his arctic journey:
+
+Experienced skier who experimented with ski technology.
+
+Cycled 2,000 miles from Norway to Spain.
+
+Trained himself to eat dolphin meat.
+
+Used his boat to become the first person to chart the Northwest Passage between Canada and Russia. During the journey, he spent time with Eskimo communities who taught him survival skills.
+
+Upon his return, Amundsen raised money for an expedition to the North Pole, but the Americans reached the North Pole first. He decided to concentrate on the South Pole instead and not bother with scientific research: “The Pole was the main object. In this little detour, science would have to look after itself.” Amundsen was single-minded and desperate to succeed – he depended on the journey’s outcome, reputationally and financially.
+
+Amundsen’s strategy – all-in on dogs:
+
+Amundsen had learned that dogs were the most reliable form of transportation from his time with Eskimoes.
+
+After researching dog breeds, he realised Greenland dogs were faster than Siberian dogs. He cornered the market in Greenland dogs to prevent other explorers from buying them.
+
+Four leadership dimensions evident in Amundsen and Scott’s choices:
+
+Amundsen’s team – small and selective:
+
+Amundsen had a team of 23 people (vs 65 for Scott).
+
+Amundsen didn’t advertise. Instead, he identified the most critical jobs and hand-picked the best/most experienced men for each position.
+
+The three most important jobs were the skier (he selected someone who had skied 200,000km), dog handler (he selected one of the best in the world) and expedition chef (he chose a chef who focused on nutrition and could match food to the kind of activity the team was completing).
+
+The dog handler proved difficult to hire and declined to join Amundsen despite higher and higher pay offers. So Amundsen used inspiration to convince him, deciding to reveal the true aim of the expedition (the South Pole, when everyone else on the team still believed they were going to the North Pole).
+
+Amundsen’s selection process reminds us of the difference between critical and important jobs – every job is important, but not all are critical. Amundsen focused on recruiting “10x-ers” for the critical jobs.
+
+Amundsen’s approach to job selection (followed by Apple)
+
+Amundsen’s journey – characterised by extreme discipline:
+
+Upon leaving Norway, Amundsen continued to pretend he was travelling to the North Pole until the team reached Portugal, when they had to decide between travelling north or south. At this point, he suggested to his team that before going north, they “make a small excursion to the South Pole.” He asked his team one by one whether they would join him; under the pressure of being asked, each team member agreed.
+
+On the journey, Amundsen sent a telegram to Scott who was in Melbourne raising money (“Beg to inform you Fram [Amundsen’s ship] proceeding Antarctic”). Scott immediately returned to the South Pole base camp and reached it before Amundsen.
+
+Upon arriving, Amundsen set out on an initial expedition to lay his supply depots, making them larger and further away that Scott’s.
+
+Daily training: during the winter, while waiting for the summer to return so they could begin their expedition, Amundsen made his team work 6 days a week, including:
+
+Obligatory navigation courses.
+
+Reworking boots to make them stronger.
+
+Reworking sledges and tents to make them lighter.
+
+Daily competition to guess the temperature.
+
+Decision to dismiss Johansen: Amundsen decided to start his South Pole attempt early, in October, but nearly killed his team due to the cold and bad weather. Realising he made a mistake, he decided they should return in separate groups. One team member, Prestrud, was falling behind. Another team member, Johansen (one of the stars of the group and a famous explorer in his own right) looped back to save Prestrud and bring him back to base camp. The following day, Amundsen confronted Johansen about his decision to save Prestrud, putting himself and his team at risk. Johansen challenged Amundsen in public, saying “I don’t call it an expedition. It’s panic.”
+
+Amundsen acted decisively to remove Johansen from the team, writing: “The gross and unforgivable part of his statements is that they were made in everybody’s hearing. The bull must be taken by the horns; I must make an example immediately.” Johansen was left behind at base camp to complete scientific projects.
+
+Regular daily pace: Amundsen had learned the importance of regulating speed from Eskimoes – on a great day, you stop at 1pm, and even on a bad day, you still do three miles just to keep moving. His team’s daily mileage was remarkably consistent.
+
+52 days in, the team was 33 miles away from the South Pole. The team wanted to complete the journey in one final push. However, Amundsen spread the journey over two days.
+
+Forcing team members to kill their own dogs: once they reached a predetermined point on their journey (“The Butcher’s Shop”), they killed their excess dogs. Amundsen required each team member to kill their own dogs, which had the effect of implicating everyone in the act – there was no “bad guy”.
+
+Groysberg compares this to getting HR to do layoffs for everyone else in the company.
+
+At Apple, the question is commonly asked: “Are you killing your own dogs?”
+
+The Norwegians reached the South Pole on 14 December 1911 (long before Scott, who was still trying to coordinate between horses and dogs relatively far away).
+
+Amundsen’s story teaches us the power of fanatic discipline. However, his discipline almost undermined his journey, when he set out early in October, risked his team and had to turn back. This is the danger of extreme discipline without flexibility – if you choose the wrong strategy, you’re dead.
+
+Scott’s downfall

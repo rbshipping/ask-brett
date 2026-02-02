@@ -1,0 +1,180 @@
+SOURCE: Branding in the Digital Age_ You’re Spending Your Money in All the Wrong Places.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Consumer Experience Research
+SUMMARY: The company conducted in-depth research on consumers' digital shopping experiences to identify key pain points and opportunities for improving their marketing strategy.
+KEYWORDS: consumer experience, digital shopping, market research, marketing strategy
+---
+
+they tended to turn to review sites for troubleshooting advice.
+
+What they see.
+
+To better understand consumers’ experience, the team unleashed a battery of hired
+
+shoppers who were given individual assignments, such as to look for a TV for a new home;
+
+replace a small TV in a bedroom; or, after seeing a TV at a friend’s house, go online to learn
+
+more about it. The shoppers reported what their experience was like and how the
+
+company’s brand stacked up against competitors’. How did its TVs appear on search
+
+engines? How visible were they on retail sites? What did consumer reviews reveal about
+
+them? How thorough and accurate was the available information about them?
+
+Instead of focusing on how to allocate
+
+spending across media, marketers should
+
+target stages in the decision journey.
+
+The results were alarming but not unexpected. Shoppers trying to engage with any of the
+
+brands—whether the company’s or its competitors’—had a highly fractured experience.
+
+Links constantly failed, because page designs and model numbers had changed but the
+
+references to them had not. Product reviews, though they were often positive, were scarce
+
+on retail sites. And the company’s TVs rarely turned up on the first page of a search within
+
+the category, in part because of the profusion of broken links. The same story had emerged
+
+during the one-on-one surveys. Consumers reported that every brand’s model numbers,
+
+product descriptions, promotion availability, and even pictures seemed to change as they
+
+moved across sites and into stores. About a third of the shoppers who had considered a
+
+specific TV brand online during the evaluate stage walked out of a store during the buy
+
+stage, confused and frustrated by inconsistencies.
+
+This costly disruption of the journey across the category made clear that the company’s
+
+new marketing strategy had to deliver an integrated experience from consider to buy and
+
+beyond. In fact, because the problem was common to the entire category, addressing it
+
+might create competitive advantage. At any rate, there was little point in winning on the
+
+other touch-point battlegrounds if this problem was left unaddressed.
+
+What they say.
+
+Finally, the team focused on what people were saying online about the brand. With social
+
+media monitoring tools, it uncovered the key words consumers used to discuss the
+
+company’s products—and found deep confusion. Discussion-group participants frequently
+
+gave wrong answers because they misunderstood TV terminology. Product ratings and
+
+consumer recommendations sometimes triggered useful and extensive discussions, but
+
+when the ratings were negative, the conversation would often enter a self-reinforcing
+
+spiral. The company’s promotions got some positive response, but people mostly said little
+
+about the brand. This was a serious problem, because online advocacy is potent in the
+
+evaluate stage.
+
+Taking Action
+
+The company’s analysis made clear where its marketing emphasis needed to be. For the
+
+pilot launch, spending was significantly shifted away from paid media. Marketing inserted
+
+links from its own site to retail sites that carried the brand, working with the retailers to
+
+make sure the links connected seamlessly. Most important, click-stream analysis revealed
+
+that of all the online retailers, Amazon was probably the most influential touch point for
+
+the company’s products during the evaluate stage. In collaboration with sales, which
+
+managed the relationship with Amazon, marketing created content and links to engage
+
+traffic there. To encourage buzz, it aggressively distributed positive third-party reviews
+
+online and had its traditional media direct consumers to online environments that
+
+included promotions and social experiences. To build ongoing postpurchase relationships
+
+and encourage advocacy, it developed programs that included online community
+
+initiatives, contests, and e-mail promotions. Finally, to address the inconsistent
+
+descriptions and other messaging that was dissuading potential customers at the point of
+
+purchase, the team built a new content-development and -management system to ensure
+
+rigorous consistency across all platforms.
+
+How did the CDJ strategy work? The new TV became the top seller on Amazon.com and the
+
+company’s best performer in retail stores, far exceeding the marketers’ expectations.
+
+A Customer Experience Plan
+
+As our case company found, a deep investigation of the decision journey often reveals the
+
+need for a plan that will make the customer’s experience coherent—and may extend the
+
+boundaries of the brand itself. The details of a customer experience plan will vary
+
+according to the company’s products, target segments, campaign strategy, and media mix.
+
+But when the plan is well executed, consumers’ perception of the brand will include
+
+everything from discussions in social media to the in-store shopping experience to
+
+continued interactions with the company and the retailer.
+
+For instance, Apple has eliminated jargon, aligned product descriptions, created a rich
+
+library of explanatory videos, and instituted off-line Genius Bars, all of which ensure
+
+absolute consistency, accuracy, and integration across touch points. Similarly, Nike has
+
+moved from exhorting consumers to “Just Do It” to actually helping them act on its motto
+
+—with Nike+ gear that records and transmits their workout data; global fund-raising races;
+
+and customized online training programs. Thus its customers’ engagement with the brand
+
+doesn’t necessarily begin or end with a purchase. And millions of consumers in Japan have
+
+signed up to receive mobile alerts from McDonald’s, which provide tailored messages that
+
+include discount coupons, contest opportunities, special-event invitations, and other
+
+unique, brand-specific content.
+
+Up to 90% of spend goes to advertising
+
+and retail promotions. Yet the single most
+
+powerful impetus to buy is often someone
+
+else’s advocacy.
+
+These companies are not indiscriminate in their use of the tactics available for connecting
+
+with customers. Instead they customize their approaches according to their category,
+
+brand position, and channel relationships. Apple has not yet done much mining of its
+
+customer data to offer more-personalized messaging. Nike’s presence on search engines
+
+shows little distinctiveness. McDonald’s hasn’t focused on leveraging a core company
+
+website. But their decisions are deliberate, grounded in a clear sense of priorities.
+
+New Roles for Marketing
+
+Developing and executing a CDJ-centric strategy that drives an integrated customer
+
+experience requires marketing to take on new or expanded roles. Though we know of no

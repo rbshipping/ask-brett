@@ -1,0 +1,162 @@
+SOURCE: Whys & Hows of Feedback.pdf
+SUBFOLDER: Additional\HFT\2016
+TOPIC: Performance Appraisal and Feedback
+SUMMARY: This text discusses the factors affecting employees' perceived appraisal accuracy and the cultural differences in feedback practices across countries and organizations.
+KEYWORDS: performance appraisal, feedback practices, cultural differences
+---
+
+[Document: Whys & Hows of Feedback.pdf]
+
+“Exploring the Factors Associated with Employees’ Perceived Appraisal Accuracy: A Study of Chinese State-Owned
+
+Enterprises,” International Journal of Human Resource Management 24 (2013): 2197-2220; Clive Fletcher and Elissa L. Perry,
+
+“Performance Appraisal and Feedback: A Consideration of National Culture and a Review of Contemporary Research and
+
+Future Trends,” in Handbook of Industrial, Work and Organizational Psychology, Volume 1: Personnel Psychology, eds. N. Anderson,
+
+D.S. Onez, H.K. Sinangil, C. Viswesvaran. (Thousand Oaks, CA: Sage, 2002), PP. 127-144.
+
+32 See, for example, Lowell Gaertner, Constantine Sedikides, Huajian Cai, “Wanting to Be Great and Better but not Average: On
+
+the Pancultural Desire for Self-Enhancing and Self-Improving Feedback,” Journal Of Cross-Cultural Psychology 43 (2012): 521-526.
+
+33 James R. Bailey, Chao C. Chen and Sheng-Gong Dou, “Conceptions of Self and Performance-Related Feedback in the U.S.,
+
+Japan and China,” Journal of International Business Studies 28, no. 3 (1997): 605-625.
+
+9
+
+This document is authorized for use only by Ryan Benner (ryan@bbrcworld.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or
+
+800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+Leaders who are working in a foreign country—or even moving from one distinct region of their
+
+home country to another—are advised to get a formal or informal “communication coach” to help
+
+ensure that difficult conversations, such as those around performance, are handled effectively. One
+
+cultural difference to be alert to is the preference for straightforward versus indirect communication.
+
+In some cultures, feedback is sought given and directly, whereas in others feedback is conveyed and
+
+sought indirectly.34 In many Western cultures, particularly the U.S., self-promotion is considered
+
+appropriate and not off-putting. Even within a particular country, industry and organizational
+
+cultures can differ on this dimension, so it is good practice for leaders to pay attention to the feedback
+
+norms in their particular environment before attempting to give or solicit feedback.
+
+Erin Meyer offered the following practical advice in the Harvard Business Review for gauging a
+
+culture’s feedback practices:
+
+One way to begin gauging how a culture handles negative feedback is by listening to
+
+the types of words people use. More direct cultures tend to use what linguists call
+
+upgraders, words preceding or following negative feedback that make it feel stronger,
+
+such as absolutely, totally, or strongly: “This is absolutely inappropriate,” or “This is
+
+totally unprofessional.” By contrast, more indirect cultures use more downgraders,
+
+words that soften the criticism, such as kind of, sort of, a little, a bit, maybe, and slightly.
+
+Another type of downgrader is a deliberate understatement, such as “We are not quite
+
+there yet” when you really mean “This is nowhere close to complete.”35
+
+Paying attention to linguistic cues can help managers calibrate their language to ensure that their
+
+feedback is heard as intended, and that they themselves hear the intended messages in the feedback
+
+they receive.
+
+Feedback: How to Run a Session
+
+A common practice in feedback sessions, especially formal performance reviews, is the “sandwich
+
+technique” of beginning and ending the session with praise, and confining the negative comments to
+
+the middle. For example, Jone L. Pearce recommends that managers “Try to begin and end with areas
+
+of success” in a formal performance evaluation.36 The exact recipe of the “sandwich,” however, varies
+
+depending on the quality of the employee. There is no point to nitpicking the mistakes of an excellent
+
+performer, nor of trying to find some upside to a record of underperformance.
+
+Feedback sessions with poor performers need to be handled differently from those with excellent-
+
+to-acceptable performers. Dick Grote created a matrix of performance based on performance results
+
+and behaviors (“behaviors” meaning general collegiality, ethics, cultural fit and other intangibles that
+
+may not affect the quality of the work but have great impact on the quality of the workplace) to
+
+categorize the five types of employees:
+
+34 Mary F. Sully De Luque, and Steven M. Sommer, “The Impact of Culture on Feedback-Seeking Behaviors: An Integrated
+
+Model and Propositions,” Academy Of Management Review 25, no. 4 (2000): 829-849.
+
+35 Erin Meyer, “How to Say ‘This Is Crap’ in Different Cultures,” Harvard Business Review blog, https://hbr.org/2014/02/how-
+
+to-say-this-is-crap-in-different-cultures/, February 25, 2014, accessed May 22, 2015.
+
+36 Pearce, p. 103.
+
+10
+
+This document is authorized for use only by Ryan Benner (ryan@bbrcworld.com). Copying or posting is an infringement of copyright. Please contact customerservice@harvardbusiness.org or
+
+800-988-0886 for additional copies.
+
+The Whys and Hows of Feedback 416-013
+
+Poor Results Average Great Results
+
+Great Behavior Lovable Loser Star
+
+Average Journeyman
+
+Poor Behavior Failure Prima Donnas
+
+Source: Dick Grote, How to Be Good at Performance Appraisals (Boston: Harvard Business Review Press, 2011).
+
+Feedback for stars and journeymen—the solid B-level performers who keep an organization
+
+running—should focus primarily on motivating and energizing the employee. High-performing
+
+employees are usually self-motivated and willing to bring up their own shortcomings in a performance
+
+review, assuming they know what those shortcomings are. This is an important caveat. Managers may tend
+
+to avoid giving negative feedback to generally good employees whom they like, overlooking areas for
+
+improvement or possible misalignment with the organization. Such managers assume that because of
+
+their collegial relationship, the liked employees will seek out feedback, and more importantly know
+
+what feedback they need. This can be a problem when organizational goals change or an employee is in
+
+difficult circumstances.37 A manager should not feel the need to come up with picayune shortcomings
+
+or mistakes in order to “balance” a good worker’s performance review, but should also keep a keen eye
+
+out for errors or lapses that might signify a lack of alignment or capacity.
+
+Failures, lovable losers, and prima donnas, however, need a sharp wakeup call. The balance to be
+
+struck is to make a clear case for “the need for an immediate and total turnaround if the person is to
+
+remain employed,”38 while not evoking excessive defensiveness. Avoid looking for a bright side
+
+where none exists, or mentioning the employee’s strengths, as some positive comments can be
+
+latched on to by an underperformer. At the same time, focus on specific actions rather than personal

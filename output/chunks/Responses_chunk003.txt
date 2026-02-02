@@ -1,0 +1,42 @@
+SOURCE: Responses.docx
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Technology and Personalization
+SUMMARY: The document discusses the use of technologies to enable a more personalized and customized shopping experience for customers.
+KEYWORDS: retail technology, customer personalization, data-driven decision making, omnichannel integration, social media monetization
+---
+
+The technologies I would focus upon are those that enable us to focus upon ‘’Shopper of One’’ & ‘’Customisation & Personalisation’’. Given the discretionary nature of our offer at dusk, we need to make the experience of buying from our Brand, whether on-line or in store, more enjoyable and educational for our customers. I see these two streams of activity having high overlap.
+
+By focussing upon the customisation of communications whether through normal emails or through her smartphone when in proximity to our store, we could work towards being top of mind amongst our customers when it comes to where to shop for our category. By having a better understanding of what she buys, when, we can anticipate her needs whether it be for replenishment of our refills products to sending her tailored messages on new releases and additions to those lines she buys from us most frequently or the complementary products to those she has purchased before. Of course, as noted in the report, we need to pay special attention to the level of customisation our customers want.
+
+Honey Birdette (Eloise)
+
+Overall
+
+HB needs to be less ‘gut and experience’ and more data-driven.
+
+“Next hour” delivery to become wide spread
+
+Our products are emotional, our in store service highly experiential – our digital platform is not.
+
+Vast data gathered by smart systems and analysed by powerful platforms to help HB be more profitable, responsive and shopped.
+
+Shop in store, instagram, online…..turn social into a sales portal.
+
+Based on the pre-reading report shared, what is one specific action you are going to take in your brand?
+
+New advancements with the Shopify software (our online platform) has lead to the creation of a fully integrated point of sale (POS) system to synchronise sales between our online store with those made at a boutiques. If a product is unavailable in a store – no problem…. the Honey can simply pick up a tablet and place an order for the customer via Shopify POS and request the stock from the website to be shipped directly to the customer or included in replen for collection.
+
+Brings the advantages of the online store to our physical stores: breadth of offering, high availability, high efficiency and low angst. A Training program around roll out will be essential to success as are their will be conflict around individual budgets vs online. We can overcome this while also removing the manual and costly inter-store transfer system currently in place. This will allow store team to focus less of following up stock transfers (or, forgetting to action them at all) and allow our Honey’s to focus on what they do best.
+
+How can we better leverage the technology and data that we have today, that our systems are already producing or capable of producing?
+
+HB has great social engagement 39.5K Instagram – use it to capture sales.  ‘Like to Buy’ software will make our social platforms, in this instance our Instagram photo gallery, a list of shoppable products.
+
+More targeted and relevant marketing initiatives i.e. location based VIP events (Salons in store) and gender based email marketing campaigns.
+
+Use the transaction to capture more personalised customer information, i.e. birth date, anniversary for him, size, product interests etc. to create more personalised and relevant marketing material.
+
+If computer power is free what technology would we need and implement? and how could you work it to your advantage?
+
+The ability to have an accurate view of real-time inventory across stores and warehouse is crucial for supporting services like customer orders and click & collect. To make it happen investment will be needed in both software and physical technology (tablets). We are currently looking at a data integration solutions from fusion software to bridge the ‘data gap’ between physical stores and online stock visibility. Meetings this week and update coming soon!

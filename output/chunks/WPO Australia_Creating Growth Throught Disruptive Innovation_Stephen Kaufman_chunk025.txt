@@ -1,0 +1,202 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Strategic Business Decisions
+SUMMARY: The text discusses the challenges in deciding what to in-source and what to outsource, and how the core competence theory can lead to mistakes.
+KEYWORDS: in-sourcing, outsourcing, core competence, strategic decisions, new business ventures
+---
+
+successful as possible as fast as possible, and which should it outsource to a
+
+supplier or a partner? Will success be best built around a proprietary product
+
+architecture, or should the venture embrace modular, open industry standards?
+
+What causes the evolution from closed and proprietary product architectures to
+
+open ones? Might companies need to adopt proprietary solutions again, once
+
+open standards have emerged?
+
+Decisions about what to in-source and what to procure from suppliers and partners have a
+
+powerful impact on a new-growth venture’s chances for success. A widely used theory to guide
+
+this decision is built on categories of core and competence. If something fits your core
+
+competence, you should do it inside. If it’s not your core competence and another firm can do it
+
+better, the theory goes, you should rely on them to provide it.'
+
+Right? Well, sometimes. The problem with the core-competence/not-your-core-
+
+competence categorization is that what might seem to be a non-core activity today might become
+
+an absolutely critical competence to have mastered in a proprietary way in the future, and vice
+
+versa.
+
+Consider, for example, IBM’s decision to outsource the microprocessor for its PC
+
+business to Intel, and its operating system to Microsoft. IBM made these decisions in the early
+
+1980s in order to focus on what it did best—-designing, assembling, and marketing computer
+
+systems. Given its history, these choices made perfect sense. Component suppliers to IBM
+
+historically had lived a miserable, profit-free existence, and the business press widely praised
+
+IBM’s decision to outsource these components of its PC. It dramatically reduced the cost and
+
+time required for development and launch. And yet in the process of outsourcing what was not
+
+its core or its competence, IBM put into business the two companies that subsequently captured
+
+most of the profit in the industry.
+
+How could IBM have known in advance that such a sensible decision would prove so
+
+costly? More broadly, how can any executive who is launching a new-growth business, as IBM
+
+was doing with its PC division in the early 1980s, know which value-added activities are those in
+
+which future competence needs to be mastered and kept inside?”
+
+Because evidence from the past can be such a misleading guide to the future, the only
+
+way to see accurately what the future will bring is to use theory. In this case, we need a
+
+circumstance-based theory to describe the mechanism by which activities become core or
+
+peripheral. Describing this mechanism and showing how managers can use the theory is the
+
+purpose of chapters 4 and 5.
+
+4-1
+
+Integrate or Outsource?
+
+IBM and others have demonstrated—inadvertently, of course—that the core/noncore
+
+categorization can lead to serious and even fatal mistakes. Instead of asking what their company
+
+does best today, managers should ask, “What do we need to master today, and what will we need
+
+to master in the future, in order to excel on the trajectory of improvement that customers will
+
+define as important?”
+
+The answer begins with the job-to-be-done approach: Customers will not buy your
+
+product unless it solves an important problem for them. But what constitutes a “solution” differs
+
+across the two circumstances in figure 4-1: whether products are not good enough or are more
+
+than good enough. The advantage, we have found, goes to integration when products are not
+
+good enough, and to outsourcing—or specialization and dis-integration—when products are
+
+more than good enough.
+
+Figure 4.1:
+
+Circumstances in Which Interdependent vs. Modular Architectures have the Advantage
+
+Performance
+
+Surplus
+
+Beat
+
+competitors
+
+with
+
+functionality
+
+& reliability no .
+
+Performance
+
+Performance
+
+Gap ae?” Beat competitors
+
+with speed, responsiveness
+
+and convenience
+
+Cl Difference in functionality that can be achieved
+
+with an optimized, interdependent architecture,
+
+vs. modular architecture
+
+Time
+
+To explain, we need to explore the engineering concepts of interdependence and
+
+modularity and their importance in shaping a product’s design. We will then return to figure 4-1
+
+to see these concepts at work in the disruption diagram.
+
+Product Architecture and Interfaces
+
+A product’s architecture determines its constituent components and subsystems and
+
+defines how they must interact—fit and work together—in order to achieve the targeted
+
+functionality. The place where any two components fit together is called an interface. Interfaces
+
+4-2
+
+exist within a product, as well as between stages in the value-added chain. For example, there is
+
+an interface between design and manufacturing, and another between manufacturing and
+
+distribution.
+
+An architecture is interdependent at an interface if one part cannot be created
+
+independently of the other part—if the way one is designed and made depends on the way the
+
+other is being designed and made. When there is an interface across which there are
+
+unpredictable interdependencies, then the same organization must simultaneously develop both
+
+of the components if it hopes to develop either component.
+
+Interdependent architectures optimize performance, in terms of functionality and
+
+reliability. By definition, these architectures are proprietary because each company will develop
+
+its own interdependent design to optimize performance in a different way. When we use the term
+
+interdependent architecture in this chapter, readers can substitute as synonyms optimized and
+
+proprietary architecture.
+
+In contrast, a modular interface is a clean one, in which there are no unpredictable
+
+interdependencies across components or stages of the value chain. Modular components fit and
+
+work together in well-understood and highly defined ways. A modular architecture specifies the
+
+fit and function of all elements so completely that it doesn’t matter who makes the components
+
+or subsystems, as long as they meet the specifications. Modular components can be developed in
+
+independent work groups or by different companies working at arm’s length.
+
+Modular architectures optimize flexibility, but because they require tight specification,
+
+they give engineers fewer degrees of freedom in design. As a result, modular flexibility comes at
+
+the sacrifice of performance.
+
+Pure modularity and interdependence are the ends of a spectrum: Most products fall
+
+somewhere between these extremes. As we shall see, companies are more likely to succeed when
+
+they match product architecture to their competitive circumstances.
+
+Competing with Interdependent Architecture in a Not-Good-Enough World

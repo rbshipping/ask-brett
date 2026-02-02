@@ -1,0 +1,290 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Investment Analysis
+SUMMARY: The book explains why analyzing companies' economic moats is a smart long-term investment approach and how to use this approach to build wealth over time.
+KEYWORDS: economic moats, investment decisions, stock research, company valuation, wealth building
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+in a clear and entertaining way.
+
+ffllaasstt..iinndddd xxiivv 22//11//0088 1122::5566::3300 PPMM
+
+FOREWORD [xv]
+
+In the pages that follow, Pat explains why we think
+
+making investment decisions based on companies’ eco-
+
+nomic moats is such a smart long-term approach—and,
+
+most i mportant, how you can use this approach to build
+
+wealth over time. You’ll learn how to identify companies
+
+with moats and gain tools for determining how much a
+
+stock is worth, all in a very accessible and engaging way.
+
+Throughout the book, you’ll learn about the economic
+
+power of moats by studying how specific companies with
+
+wide moats have generated above-average profits over
+
+many years—whereas businesses lacking moats have often
+
+failed to create value for shareholders over time.
+
+Haywood Kelly, our chief of securities analysis, and
+
+Catherine Odelbo, president of our Individual Investor
+
+business, have also played a central role in developing
+
+Morningstar’s stock research. Our entire stock analyst
+
+staff also deserves much credit for doing high-quality
+
+moat analysis on a daily basis.
+
+This book is short. But if you read it carefully, I
+
+believe you’ll develop a solid foundation for making smart
+
+investment decisions. I wish you well in your investments
+
+and hope you enjoy our Little Book.
+
+—JOE M ANSUETO
+
+F , C , CEO, M , I .
+
+OUNDER HAIRMAN AND ORNINGSTAR NC
+
+ffllaasstt..iinndddd xxvv 22//11//0088 1122::5566::3311 PPMM
+
+ffllaasstt..iinndddd xxvvii 22//11//0088 1122::5566::3311 PPMM
+
+Acknowledgments
+
+(cid:1)
+
+A
+
+NY BOOK IS A TEAM
+
+effort, and this one is no exception.
+
+I am very lucky to work with a group of extremely tal-
+
+ented analysts, without whom I would know far less about
+
+investing than I do. The contributions of Morningstar’s
+
+Equity Analyst staff improved this book considerably,
+
+especially when it came to making sure I had just the
+
+right example to illustrate a particular point. It’s a blast
+
+to have such sharp colleagues—they make it fun to come
+
+in to work every day.
+
+Special thanks go to Haywood Kelly, Morningstar’s
+
+chief of securities analysis, for valuable editorial feedback—
+
+and for hiring me at Morningstar many years ago. I’m
+
+ffllaasstt..iinndddd xxvviiii 22//11//0088 1122::5566::3311 PPMM
+
+[xviii] ACKNOWLEDGMENTS
+
+also grateful to director of stock analysis Heather Brilliant
+
+for quickly and seamlessly shouldering my managerial
+
+duties while I completed this book. Last but not least, Chris
+
+Cantore turned ideas into graphics, Karen Wallace tight-
+
+ened my prose, and Maureen Dahlen and Sara Mersinger
+
+kept the project on track. Thanks to all four.
+
+Credit is also due to Catherine Odelbo, president of
+
+securities analysis, for her leadership of Morningstar’s equity
+
+research efforts, and of course to Morningstar founder Joe
+
+Mansueto for building a world-class firm that always puts
+
+investors first. Thanks, Joe.
+
+No one, however, deserves more gratitude than my
+
+wife Katherine, whose love and support are my most pre-
+
+cious assets. Along with little Ben and Alice, our twins,
+
+she brings happiness to each day.
+
+ffllaasstt..iinndddd xxvviiiiii 22//11//0088 1122::5566::3311 PPMM
+
+L I
+
+T TLE
+
+B
+
+E
+
+O
+
+H
+
+O
+
+T
+
+K
+
+THAT
+
+BUILDS
+
+WEALTH
+
+ffllaasstt..iinndddd xxiixx 22//11//0088 1122::5566::3322 PPMM
+
+ffllaasstt..iinndddd xxxx 22//11//0088 1122::5566::3322 PPMM
+
+Intr o d ucti
+
+o
+
+n
+
+The Game Plan
+
+(cid:1)
+
+T
+
+to make money in the stock market.
+
+HEREARELOTSOFWAYS
+
+You can play the Wall Street game, keep a sharp eye on
+
+trends, and try to guess which companies will beat earnings
+
+estimates each quarter, but you’ll face quite a lot of compe-
+
+tition. You can buy strong stocks with bullish chart patterns
+
+or superfast growth, but you’ll run the risk that no buyers
+
+will emerge to take the shares off your hands at a higher
+
+price. You can buy dirt-cheap stocks with little regard for
+
+the quality of the underlying business, but you’ll have to
+
+balance the outsize returns in the stocks that bounce back
+
+with the losses in those that fade from existence.
+
+cciinnttrroo..iinndddd 11 11//2266//0088 33::1144::5599 AAMM
+
+[2] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Or you can simply buy wonderful companies at rea-
+
+sonable prices, and let those companies compound cash
+
+over long periods of time. Surprisingly, there aren’t all
+
+that many money managers who follow this strategy, even
+
+though it’s the one used by some of the world’s most suc-
+
+cessful investors. (Warren Buffett is the best-known.)
+
+The game plan you need to follow to implement this
+
+strategy is simple:
+
+1. Identify businesses that can generate above-average
+
+profits for many years.
+
+2. Wait until the shares of those businesses trade for
+
+less than their intrinsic value, and then buy.
+
+3. Hold those shares until either the business deterio-
+
+rates, the shares become overvalued, or you find a
+
+better investment. This holding period should be
+
+measured in years, not months.
+
+4. Repeat as necessary.
+
+This Little Book is largely about the first step—finding
+
+wonderful businesses with long-term potential. If you can
+
+do this, you’ll already be ahead of most investors. Later in
+
+the book, I’ll give you some tips on valuing stocks, as well
+
+as some guidance on when you want to sell a stock and
+
+move on to the next opportunity.
+
+cciinnttrroo..iinndddd 22 11//2266//0088 33::1144::5599 AAMM
+
+THE GAME PLAN [3]
+
+Why is it so important to find businesses that can crank
+
+out high profits for many years? To answer this question,
+
+step back and think about the purpose of a company, which
+
+is to take investors’ money and generate a return on it. Com-
+
+panies are really just big machines that take in capital, invest
+
+it in products or services, and either create more capital
+
+(good businesses) or spit out less capital than they took in
+
+(bad businesses). A company that can generate high returns
+
+on its capital for many years will compound wealth at a very
+
+prodigious clip.*
+
+Companies that can do this are not common, how-
+
+ever, because high returns on capital attract competitors
+
+like bees to honey. That’s how capitalism works, after
+
+all—money seeks the areas of highest expected return,
+
+which means that competition quickly arrives at the door-
+
+step of a company with fat profits.
+
+So in general, returns on capital are what we call
+
+“mean-reverting.” In other words, companies with high

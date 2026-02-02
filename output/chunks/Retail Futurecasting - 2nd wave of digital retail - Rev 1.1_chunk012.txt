@@ -1,0 +1,150 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Trends
+SUMMARY: The text discusses key trends in digital retail, including personalized shopping experiences, the shift from ownership to access, and the rise of omni-channel shopping.
+KEYWORDS: Personalization, Sharing Economy, Omni-channel Retail
+---
+
+each shopper as best they can and have the intelligence and analytics capabilities in place to enable
+
+them to make every experience in the store both personal and relevant. See section 5 for more detail.
+
+4.3.7 Ownership to access and association
+
+Led by Millennials, shoppers in mature markets are becoming less interested in owning things.
+
+Aspiration towards ownership was a way to demonstrate success, but in some markets this is now giving
+
+way to more efficient models of consumption. Rather than seeking to own, some consumers now prefer
+
+simply to have access to products and services only when they need them. “Next hour” delivery speeds
+
+will make this shift even more attractive. Why own an infrequently used item like a hammer when you
+
+can have one delivered to you in minutes anytime you need to hang a picture? See section 6.5 on the
+
+sharing economy for more details.
+
+In an associated trend, some Millennials now feel a reduced need to own or even access a product in
+
+order for it to reflect positively on their personal brand. Rather than buy a Louis Vuiton* purse, or a
+
+shiny new Vespa* moped, some Millennials report instead being equally satisfied merely “pinning”
+
+these products and brands on their Pinterest* page. That association alone is enough, and purchase is
+
+no longer necessary or even desirable in some cases. According to The Cassandra Report, half of
+
+Millennials visit the shops and browse for things they don’t want, don’t need, and don’t intend to buy.
+
+They browse for fun and without any consumption goal in mind.
+
+Challenge: Retailers will need to fully understand the sharing economy, its implications, and its likely
+
+evolution. They will need to build out a considered strategic response that fully addresses what could be
+
+a major threat to their existing business model. This response might include aspects that embrace the
+
+trend, and others that seek to retard it and that remake the case for ownership. See section 6.5 for
+
+more details.
+
+4.3.8 Omni-channel
+
+The path to purchase has become way more complex. The shopper journey—spanning awareness,
+
+familiarity, consideration, conversion, purchase, and loyalty—is anything but linear. Shoppers don’t see
+
+a difference between online and in-store shopping. It’s all just shopping to them. And with a shopper
+
+population that is now connected 24/7, every moment is a potential shopping moment.
+
+Shoppers are engaging with brands and products using a range of devices. The device they choose varies
+
+depending on time of day and mood: desktop, smartphone, tablet and laptop. Shoppers want to be able
+
+to begin shopping on one device and perhaps complete their transaction at a later time and on a
+
+different device.
+
+Ordering and fulfillment are becoming separated. Shoppers can build a shopping basket online over a
+
+period of days and then have their orders fulfilled when they visit the store.
+
+30
+
+Retailers should imagine a range of shopping experiences in the future that span gracefully across
+
+multiple channels in this way.
+
+Challenge: Retailers need to be able to hold and maintain a conversation with shoppers that spans
+
+across all these devices and also across the physical retail space. They need to do so seamlessly and
+
+without creating any friction for shoppers.
+
+Challenge: Retailers must have a consistent message across the shopper journey between the physical
+
+and digital worlds, and there must be no distinction between physical and virtual inventory.
+
+31
+
+32
+
+5 IT’S ALL ABOUT THE DATA
+
+At the core of the coming transformation of the retail sector (and many other sectors for that matter)
+
+will be the gathering, analysis and use of data. This will occur throughout the entire retail operation.
+
+Traditionally, retailers have relied upon human-generated insight to determine business strategies,
+
+tactics, and to set the direction for innovation efforts. The future winners in the retail sector will be
+
+those that can master the collection and analysis of data to generate unique insights into their
+
+operations and to better understand customer needs and wants. Data will enable retailers to build a
+
+much more intimate relationship with each and every customer and to deliver personalized experiences
+
+and increased value to customers in a way that builds brand affinity.
+
+Retailers are already gathering a significant amount of data from customers through digital web and
+
+mobile interactions. They can monitor and analyze every purchase, every click, and even every mouse
+
+hover. Sensor systems capable of gathering similar customer activity data in the physical store
+
+environment are already beginning to be deployed. These allow retailers to gain insight into customer
+
+habits, traffic, linger time, analyze store hot spots, understand product churn, and much, much more.
+
+The wide availability of cheap and capable new sensors, combined with a bounty of computing
+
+capability at price points and in form-factors that have previously not been possible, will usher in an era
+
+of in-store data gathering that will produce an avalanche of data. This data will fuel analytics tools that
+
+will generate incredibly detailed insight into every aspect of the retail operation and will enable fine-
+
+tuning of the delivery of all retail value.
+
+It has been said that data is the new oil. This is not a bad analogy. Data is a commodity that must be
+
+extracted and refined before it becomes valuable. Oil companies invest money to build oil derricks to
+
+suck crude oil from the ground giving them the ability to refine it and turn it into valuable gasoline, jet
+
+fuel, and plastics. Data companies build “data derricks” to extract data from the world using a range of
+
+hard and soft sensors. Examples of data derricks include Google Gmail*, Twitter*, Facebook*, traffic
+
+flow sensors, Nest* thermostats, and numerous others. Huge, successful companies are making billions
+
+of dollars by analyzing (or refining) the data generated by these sources and turning them into
+
+knowledge, insight and wisdom. This insight allows them sell targeted advertising and deliver
+
+personalized services and value that is based on a deep understanding of each individual.
+
+Retailers that invest in building out “data derricks” in their stores—sensors and other instruments that

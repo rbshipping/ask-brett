@@ -1,0 +1,196 @@
+SOURCE: CommonsensePrinciples2.0.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Corporate Governance
+SUMMARY: The text outlines best practices for corporate boards, including engaging with shareholders, compensating management, and minimizing time spent on non-essential matters.
+KEYWORDS: corporate governance, shareholder engagement, board responsibilities, management compensation
+---
+
+company should consider further engagement with shareholders
+
+and formulate an appropriate response, again mindful of how a
+
+majority of the company’s shareholders voted.
+
+❖ The board (or appropriate board committee) should:
+
+a. determine the best approach to compensate management, taking
+
+into account all the factors it deems appropriate, including
+
+corporate and individual performance and other qualitative and
+
+quantitative factors; and
+
+b. discuss and approve the CEO’s compensation.
+
+See below at VII (“Compensation of Management”).
+
+• A board should be continually educated on the company and its industry, seeking
+
+information from a variety of sources, including research reports, audit reports
+
+and, where relevant, regulatory pronouncements. If a board feels it would be
+
+productive, outside experts and advisors should be brought in to inform directors
+
+on issues and events affecting the company.
+
+• The board should minimize the amount of time it spends on frivolous or non-
+
+essential matters – the goal is to provide perspective and make decisions to build
+
+real value for the company and its shareholders.
+
+• As authorized and coordinated by the board, directors should have unfettered
+
+access to management, including those below the CEO’s direct reports.
+
+• At each meeting, to ensure open and free discussion, the board should meet in
+
+executive session without the CEO or other members of management. The
+
+independent directors should ensure that they have enough time to do this
+
+properly.
+
+• In addition to its other responsibilities, the audit committee should focus on
+
+whether the company’s financial statements would be prepared or disclosed in a
+
+materially different manner if the external auditor itself were solely responsible for
+
+their preparation.
+
+III. Shareholder Rights
+
+a. Public companies should allow for some form of proxy access, subject to reasonable
+
+requirements that do not make proxy access unduly burdensome for significant, long-term
+
+shareholders. Among the larger market capitalization companies that have adopted proxy
+
+access provisions, generally a shareholder (or group of up to 20 shareholders) that has
+
+continuously held a minimum of 3% of the company’s outstanding shares for three years is
+
+6
+
+COMMONSENSE PRINCIPLES 2.0
+
+eligible to include on the company’s proxy statement nominees for a minimum of 20%
+
+(and, in some cases, 25%) of the company’s board seats. A higher threshold of ownership
+
+(e.g., 5%) often has been adopted for smaller market capitalization companies (e.g., less
+
+than $2 billion). In either case, as a general matter, only shares in which the shareholder
+
+has a full, unhedged economic interest should count toward satisfaction of the
+
+ownership/holding period requirements.
+
+b. Dual class voting is not a best practice. If a company has dual class voting, which
+
+sometimes is intended to protect the company from short-term behavior, the company
+
+ordinarily should have specific sunset provisions, based upon time or a triggering event,
+
+which would eliminate dual class voting. In addition, all shareholders should be treated
+
+equally in any corporate transaction.
+
+c. Written consent and special meeting provisions can be important mechanisms for
+
+shareholder action. Where they are adopted, there should be a reasonable minimum
+
+amount of outstanding shares required in order to prevent a small minority of shareholders
+
+from being able to abuse the rights of other shareholders or waste corporate time and
+
+resources.
+
+d. Poison pills and other anti-takeover measures can diminish board and management
+
+accountability to shareholders. Insofar as a company adopts a poison pill or other anti-
+
+takeover measure, the board ordinarily should put the item to a vote of the shareholders
+
+and clearly explain why its adoption is in the best interests of the company’s shareholders.
+
+On a periodic basis, the board should review such measures to determine whether they
+
+remain appropriate.
+
+IV. Public Reporting
+
+a. Transparency around quarterly financial results is important.
+
+b. A company should frame its required quarterly reporting in the broader context of its
+
+articulated strategy and provide an outlook, as appropriate, for trends and metrics that
+
+reflect progress (or not) on long-term goals. A company should not feel obligated to
+
+provide quarterly earnings guidance – and should determine whether providing quarterly
+
+earnings guidance for the company’s shareholders does more harm than good. If a
+
+company does provide quarterly earnings guidance, the company should be realistic and
+
+avoid inflated projections. Making short-term decisions to beat guidance (or any
+
+performance benchmark) is likely to be value destructive in the long run.
+
+c. As appropriate, long-term goals should be disclosed and explained in a specific and
+
+measurable way.
+
+d. A company should take a long-term strategic view, as though the company were private,
+
+and explain clearly to shareholders how material decisions and actions are consistent with
+
+that view.
+
+7
+
+COMMONSENSE PRINCIPLES 2.0
+
+e. Companies should explain when and why they are undertaking material mergers or
+
+acquisitions, major capital commitments or significant restructuring or cost-savings
+
+initiatives.
+
+f. Companies are required to report their results in accordance with Generally Accepted
+
+Accounting Principles (“GAAP”). While it is acceptable in certain instances to use non-GAAP
+
+measures to explain and clarify results for shareholders, such measures should be sensible,
+
+and companies should provide a bridge from non-GAAP items to the most comparable
+
+GAAP items, so as not to obscure GAAP results. In this regard, it is important to note that
+
+all compensation, including equity compensation, is plainly a cost of doing business and
+
+should be reflected in any non-GAAP measurement of earnings in precisely the same
+
+manner it is reflected in GAAP earnings.
+
+V. Board Leadership (Including the Lead Independent Director’s Role)
+
+a. Independent leadership of the board is essential to a well-functioning board and, in
+
+particular, effective oversight of the company and its management. There are two
+
+common structures for independent board leadership in the U.S.: (1) an independent chair;
+
+or (2) a lead independent director.
+
+b. The board’s independent directors should decide, based upon the circumstances at the
+
+time, whether it is appropriate for the company to have separate or combined chair and
+
+CEO roles. The board should periodically review its leadership structure and explain clearly
+
+(ordinarily in the company’s proxy statement) to shareholders why it has separated or

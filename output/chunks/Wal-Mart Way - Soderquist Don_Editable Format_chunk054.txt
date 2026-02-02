@@ -1,0 +1,60 @@
+SOURCE: Wal-Mart Way - Soderquist Don_Editable Format.docx
+SUBFOLDER: Additional\HFT
+TOPIC: Technology Adoption and Implementation
+SUMMARY: Wal-Mart's strategic use of technology to empower associates, improve efficiency, and gain a competitive edge in the retail industry.
+KEYWORDS: technology adoption, people-centric approach, return on investment, retail innovation, digital transformation
+---
+
+[Document: Wal-Mart Way - Soderquist Don_Editable Format.docx]
+
+It would be wrong to begin this chapter without first talking about our associates in relation to technology. You may have noticed that Wal-Mart associates and Wal-Mart culture are the continuing themes woven throughout this book. From the beginning of our testing and use of computers, Sam insisted that all of our systems be people-supportive, not the other way around. Our goal has been to literally put the power of the computer into the hands of our associates in order to make their work more productive and to help them make well-informed decisions.
+
+Technology is only a tool and is not as important as people, but it is a
+
+powerful resource that is available to every business, regardless of size, and can have a major impact on a company’s sales, profitability, and overall success. It can help to control expenses, provide valuable information on every aspect of a business, aid in the decision-making process, reduce the time needed to accomplish tasks, improve customer service, and maximize the use of other assets. There are four requirements that are essential to ensure that a company receives the maximum benefit that technology can provide:
+
+He that will not apply new remedies must expect new evils.
+
+Senior leadership involvement and support.
+
+—Francis Bacon
+
+Selection of the right person to lead the technology department.
+
+Investment in the right projects.
+
+A method of determining actual payback.
+
+Making Technology Pay
+
+Wal-Mart has always placed a great deal of emphasis on the effective use of technology and considered it an investment rather than an expense. As a result, we always expected a payback on that investment just as with any other investment we made. I confess that there were times when some questioned the size of our technology investment, but, in retrospect, this investment has proven to be one of the more significant factors in our success.
+
+We don’t want to be famous for our technology.
+
+We want to be famous for what our technology allows us to do.
+
+—Linda Dillman, EVP & CIO, Wal-Mart Stores, Inc.
+
+Technology has been an enabler and facilitator of change throughout Wal- Mart. It has made it possible for us to dramatically change not only the way we do business, but also the way business is conducted in the entire industry. As a result of the support of senior leadership,Wal-Mart has consistently been
+
+on the leading edge of practical technological breakthroughs in equipment, software, and communications technology, a proactive approach that has kept us far ahead of all competitors in taking advantage of the opportunities that technology affords.
+
+Sam’s Early Fascination with Computers
+
+In his early days in the retail business, Sam was intrigued by the potential of computers and how he could use them to improve his business. The day I met him, he was visiting with Ben Franklin executives about the possibility of franchising discount stores in small rural communities. It was 1963, and he had already opened his first version of a discount store in Rogers, Arkansas.
+
+I was the data-processing manager (that’s what they called technology back then) at Ben Franklin Stores. He spent an entire afternoon with me asking probing, insightful, and far-reaching questions about what computers were capable of doing now and my opinion about how they could be used in the future to manage a business more effectively. He was incredibly inquisitive and took notes the entire time. After I got to know him, I realized that was just a part of who he was—that he never stopped learning and looking for ways to improve all areas of the business. Never.
+
+What has amazed me as I have looked back at that experience was that Sam seemed to have almost a sixth sense that technology would someday have a major impact on business. You have to remember that in 1963 no one could have conceived that computers would become so powerful and so cost- effective that they would be driving major business functions. Sam, a small- town business entrepreneur who began with the dream of owning his own store, was at the forefront of the practical application of this important business tool.
+
+I have noted numerous times in this book that Sam hired for attitude as much as he hired for ability. This included his filling of positions at executive levels, which, as I’ve mentioned, were almost always in-house promotions. In emphasizing Sam’s insistence on personal character and presentation among Wal-Mart associates, I don’t want to give the misleading impression that he was not highly driven by competence. He not only wanted things done right;
+
+he wanted things done best. I believe that is why he was so far ahead of the retail industry in looking for, testing, and adopting the use of cutting-edge technology.
+
+Progress is a tide. If we stand still we will surely be drowned. To stay on the crest, we have to keep moving.
+
+Senior Leadership Involvement
+
+—Harold Mayfield
+
+When I joined the Wal-Mart leadership team, we observed that in many companies, the senior leadership members were not involved in systems development—they just let the technicians decide what systems to develop and institute. Why? New technology, almost by definition, is not easy to understand. It is much easier for leaders to delegate the task of staying on top of technological developments to specialists than do the hard work of asking questions and participating in the steep learning curve. No wonder there was a concurrent natural tendency for technical people, who were highly compartmentalized in those days, to be captivated by the systems side of the business but not have an understanding of the real needs of the company.

@@ -1,0 +1,170 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Uncategorized
+SUMMARY: Could not generate summary
+KEYWORDS: 
+---
+
+Today these include things like fixtures and fittings, the supply chain, inventory management systems,
+
+loyalty card and reward systems, and point of sale terminals. Future advances in the bones of the store
+
+might include smart infrastructure, indoor location tracking, 3D printers, robots, delivery drones, and
+
+automated and reconfigurable store fixtures.
+
+The Brains - All the data analytics and intelligence that is deployed through every stage of the retail
+
+machine. This intelligence helps retailers to drive operational efficiency and better understand their
+
+customers. This knowledge is then used to deliver a personalized set of experiences, offers, pricing,
+
+services and products.
+
+Thinking about the face, bones, and brains of retail is a valuable way to reframe the conversation on the
+
+future of retail. It offers a helpful way to let go of old notions that are tied to tired retail formats. And it’s
+
+a productive way to frame ideas for future innovation and deployments.
+
+This report explores many ways for stores to differentiate their brand proposition and gain competitive
+
+advantage through the deployment of technology that transform the face, bones and brains of retail.
+
+12
+
+These include technology designed to:
+
+ Personalize the shopping experience (section 4.3)
+
+ Deliver customized products (section 6.2)
+
+ Create new business models and revenue streams (section 6.1.2)
+
+ Enable retailers to embrace the sharing economy with and build new business models around
+
+sharing, bartering, and renting (see section 6.5)
+
+ Create interactive experiences in the store that exceed shopper expectations by making
+
+shopping more efficient, more fun, or more personal (section 7.5)
+
+ Free up sales staff in the store to deliver better customer service by automating non-value
+
+added activities that can be mechanized or handled by algorithms.
+
+ Augment and improve sales staffs’ selling capability using wearable technology and assistive AI
+
+(section 6.1.3)
+
+ Generate the maximum profit from each customer over time by using dynamic pricing that
+
+varies by location, by customer, by product, and by the minute (section 7.5)
+
+ Increase profits and margin by gaining operational advantage through the use of data analytics.
+
+Such operational improvements might include using data-driven insights to optimize floor and
+
+merchandise layout, optimize labor investment and scheduling, and deliver time- and
+
+merchandise-right messaging by department. (section 5)
+
+2.3 AMPLIFY YOUR INVESTMENTS BY FEEDING THE BRAIN
+
+It’s worth noting that investment in the brains of retail can be considered as multiplicative to the other
+
+two elements. Improving the brains can make the bones and the face of the store much more intelligent
+
+and thus more effective.
+
+For example, dynamic pricing at the shelf won’t truly hit the mark unless it’s backed up by cutting edge
+
+analytics and comprehensive customer data held in the brain. Personalized experiences won’t be very
+
+personal unless the brains can direct and choreograph them. And supply chains will only be as
+
+streamlined and efficient as the quality of the insights distilled from operational data allow them to be.
+
+Without a fully functioning retail brain—a brain fed by vast amounts of data and powered by
+
+13
+
+sophisticated analytics software—investments in the retailers’ face and bones won’t yield maximum
+
+returns.
+
+Shopper Experience = (Face + Bones) x Brains
+
+2.4 WHO SHOULD READ THIS REPORT
+
+In this paper, we will explore the output of a futurecasting session held in July 2014 at Intel’s campus in
+
+Hillsboro, Oregon. We will reveal the team’s findings, and then explore the conclusions of the session in
+
+detail. For details on the futurecasting process itself and insight into the incredible talent that
+
+participated to do the futurecasting work, please read section 10.
+
+C-suite readers should read the executive summary and may then wish to skip directly to section 8
+
+which provides a cheat sheet summary on the main findings of the report together with a set of
+
+recommendations for retailers. Future-looking C-suite readers are strongly encouraged to read and
+
+absorb the contents of section 7 regarding the smart store, and most importantly section 5 on the
+
+power data will have to transform their businesses.
+
+Retail strategists, retail planners, and retail innovation teams will want to absorb this whole report
+
+front to back.
+
+Systems Analysts and IT personnel will find the full report highly valuable if they are in any way hoping
+
+to serve the retail sector. Newcomers to the retail sector should pay particular attention to section 4
+
+which describes many of the current challenges faced by the retail sector.
+
+14
+
+3 LOOKING BACK BEFORE WE LOOK FORWARD
+
+3.1 RETAIL CAN LEARN FROM THE MEDIA INDUSTRY
+
+Over the last thirty years, digitization has utterly transformed the media and publishing sector. A lengthy
+
+upheaval was triggered by sustained technological change. The changes wrought on the industry
+
+ushered in new business models, obsoleted prior expertise, changed customer expectations, and
+
+remade the entire business landscape.
+
+Both winners and losers emerged. Companies that embraced the digital revolution prospered and
+
+powerful new companies like Netflix*, Spotify*, and Google* rose to prominence. Companies that either
+
+denied the trend, or actively fought it, have since been consigned to history. We all fondly remember
+
+Kodak*, Xerox*, and Blockbuster video*.
+
+To understand what happened you need to understand a little about the implications of Moore’s Law.
+
+Moore’s Law states that you can squeeze roughly double the number of transistors onto a piece of
+
+silicon every 18-24 months. The more transistors that can be squeezed onto a tiny sliver of silicon, the
+
+more capability computers have. Each generation, smaller transistors deliver higher performance, lower
+
+cost, physical smaller computer chips that consume less power. This is what allows computers with
+
+capabilities that were unimaginable even for a giant room-filling computer thirty years ago to slip easily
+
+into our pockets and purses today.
+
+When combined with associated advances in communications, storage and other technology Moore’s
+
+Law disrupts business models, businesses, and entire industries. In the media and publishing industry,
+
+the computing performance delivered by Moore’s Law was enough to trigger a series of powerful
+
+breakthroughs that remade the entire industry, from production to distribution to consumption.

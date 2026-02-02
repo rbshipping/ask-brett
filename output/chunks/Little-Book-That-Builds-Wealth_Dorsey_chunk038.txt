@@ -1,0 +1,214 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Equipment Reliability and Customer Service
+SUMMARY: The text discusses the importance of equipment reliability and customer service in the agricultural equipment industry, using Deere as an example.
+KEYWORDS: equipment reliability, customer service, economic moat, agricultural industry
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+order is critical given that Deere’s customers are extremely
+
+time-sensitive—a farmer might use a $300,000 combine for
+
+only a few weeks out of the year, but the machine abso-
+
+lutely, positively has to be running smoothly during those
+
+few weeks. Because replicating this dealer network would
+
+be possible for a competitor, and farmers might switch
+
+brands if Deere’s quality slipped substantially, it’s hard to
+
+say that Deere has a wide economic moat. But it would
+
+take years for a competitor to be able to do this, and it’s not
+
+certain that a competitor actually will. So, I’d say Deere
+
+has a narrow but solid economic moat, and we can have
+
+some confidence that the company will continue to gener-
+
+ate solid returns on capital for some time into the future.
+
+Our next example takes us from the heartland to the
+
+Hamptons—Martha Stewart Living Omnimedia, which
+
+licenses the Martha Stewart brand and also produces
+
+magazines and TV shows. Given Martha’s popularity—
+
+even after a brief sojourn in the pokey—we might expect
+
+the company to be pretty profitable. Let’s check the num-
+
+bers by referring to Exhibit 11.3 .
+
+cc1111..iinndddd 114499 11//2266//0088 33::1122::3366 AAMM
+
+[150] THE LITTLE BOOK THAT BUILDS WEALTH
+
+EXHIBIT 11.3 Martha Stewart Living Omnimedia
+
+Martha Stewart MSO 99 00 01 02 03 04 05 06 TTM Avg
+
+Net Margin (%) 11.0 7.5 7.4 2.5 (cid:1)1.1 (cid:1)31.8(cid:1)36.2 (cid:1)5.9 (cid:1)9.3 —
+
+Return on Assets (%) 9.1 7.4 7.2 2.3 (cid:1)0.9 (cid:1)20.8(cid:1)29.2 (cid:1)7.1(cid:1)12.6(cid:1)5.0
+
+Financial Leverage 1.4 1.5 1.4 1.4 1.3 1.4 1.6 1.7 1.8 —
+
+Return on Equity (%) 12.8 10.8 10.5 3.2 (cid:1)1.2 (cid:1)28.1(cid:1)43.5(cid:1)11.7(cid:1)22.6(cid:1)7.8
+
+Hmm. Not very impressive, are they? At first glance,
+
+it’s a bit of a concern that even in Martha’s heyday, before
+
+she ran afoul of the law, the company generated less than
+
+a 13 percent return on equity. While that’s not a terrible
+
+return on capital, we should expect better from a business
+
+that doesn’t have a whole lot of invested capital to begin
+
+with. After all, Martha Stewart Living Omnimedia pro-
+
+duces a magazine and a TV show, and licenses the brand
+
+to other companies; it doesn’t own a whole bunch of fac-
+
+tories or expensive inventory. So, despite the resurgent
+
+popularity of the Martha Stewart brand, I have to con-
+
+clude that her company has no economic moat. And that’s
+
+not a good thing.
+
+Moving from a firm without much invested capital to
+
+one with a whole lot of it, let’s take a look at Arch Coal,
+
+the country’s second-largest coal producer. It’s generally
+
+tough for commodity firms to dig an economic moat, so
+
+we’ll probably be a bit skeptical when we start the analy-
+
+sis. Looking at the numbers, however, returns on capital
+
+have shown modest improvement to decent, if not great,
+
+cc1111..iinndddd 115500 11//2266//0088 33::1122::3366 AAMM
+
+WHERE THE RUBBER MEETS THE ROAD [151]
+
+levels. Looks like things started looking up for Arch in
+
+2004, while both 2006 and 2007 showed solid results.
+
+See Exhibit 11.4.
+
+Let’s dig in further to see whether the past couple of
+
+years were an aberration, and returns on capital are likely
+
+to fall back to sub-par levels, or whether something has
+
+structurally changed for the better at Arch. First of all, it
+
+seems that Arch sold a bunch of money-losing mines in
+
+Central Appalachia in late 2005, which is positive for future
+
+returns on capital. Second, Arch is one of four companies
+
+that essentially control the supply of coal produced from an
+
+area called the Powder River Basin in Wyoming, and coal
+
+from this area is in demand from utilities because it has a
+
+very low sulfur content, and sulfur is one of the major pol-
+
+lutants that get emitted when coal is burned.
+
+Now all of this is well and good, but if Arch were
+
+only competing with other firms producing coal in the
+
+Powder River Basin, it wouldn’t have a moat unless it was
+
+producing coal at a sustainably lower cost than its peers
+
+in the area. (It’s not, by the way.) However, coal from the
+
+EXHIBIT 11.4 Arch Coal
+
+Arch Coal ACI 97 98 99 00 01 02 03 04 05 06 TTM
+
+Net Margin (%) 2.8 2.0 (cid:1)22.1 (cid:1)0.9 0.5 (cid:1)0.2 1.2 6.0 1.5 10.4 7.3
+
+Return on Assets (%) 1.8 1.3 (cid:1)13.2 (cid:1)0.6 0.3 (cid:1)0.1 0.7 4.0 1.2 8.2 5.0
+
+Financial Leverage 2.7 4.7 9.7 10.2 3.9 4.1 3.5 3.0 2.6 2.4 2.4
+
+Return on Equity (%) 5.0 4.9 (cid:1)80.6 (cid:1)5.5 1.8 (cid:1)0.5 2.7 12.9 3.4 20.5 12.0
+
+cc1111..iinndddd 115511 11//2266//0088 33::1122::3366 AAMM
+
+[152] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Powder River Basin is much cheaper to produce than coal
+
+mined in many other parts of the U.S.—even after you take
+
+into account the higher transport costs, since the Powder
+
+River Basin is pretty far from high-population areas that
+
+consume lots of coal. And in a commodity business, if
+
+you can produce something at a sustainably lower cost than
+
+other companies selling the same product, you may very
+
+well have a moat.
+
+So, why aren’t we seeing this cost advantage in Arch’s
+
+historical returns on capital? Well, it turns out that Arch
+
+signed some long-term contracts at much lower prices years
+
+ago, and those contracts are just starting to expire and be
+
+replaced by new contracts at much higher prices—which
+
+means that future returns on capital should be substantially
+
+higher than past returns. So, I think we can provisionally
+
+assign Arch a narrow economic moat, but it’s a moat that
+
+we’d want to watch pretty closely. If production costs in the
+
+Powder River Basin increase considerably, or if the govern-
+
+ment introduces regulations that make coal less attractive as
+
+a resource by imposing a carbon tax, we’d want to re-evaluate
+
+things. But based on what we know today, Arch seems to
+
+have a (very) narrow moat.
+
+Our fourth company isn’t as well-known as the first
+
+three, but we can learn a lot about moats from looking at it.
+
+The Fastenal Company distributes a wide variety of mainte-

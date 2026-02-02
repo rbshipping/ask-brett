@@ -1,0 +1,495 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The text discusses various strategies and considerations for managing fashion, core, and basic product categories in retail inventory.
+KEYWORDS: fashion, core, basics, assortment planning, sales analytics
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+Very trendy, generally more expensive than rest of assortment
+
+Image enhancer
+
+"one and done" (no replen: Sell-through or mark-down in short time frame)
+
+Typically planned <2 months in advance
+
+Often bought to minimum order quantities
+
+Seasonal SKUs, but less trendy than "fashion"
+
+product in store for 2-6 months
+
+Sell-through, but mark down to clear out at end of season
+
+Used to identify "new" anchors/basics
+
+Typically planned 4-9 months in advance
+
+Typically some replen
+
+Long-term materials/fabrics and styles
+
+carry through of >12 months, or cyclical
+
+Typically larger buys, with several Key Items
+
+Generally, largest profit share
+
+Sales driven by competitive pricing
+
+Replenishment and ensuring "never out of stock" critical
+
+Strategy
+
+Fashion
+
+Core
+
+What should the shape of your "triangle" be?
+
+Important to define before translating goals to units/category
+
+2
+
+[Slide 97]
+
+Example: Zara focuses much more on the high-turn, trendy portion of the triangle
+
+Strategy
+
+Fashion
+
+Core
+
+2
+
+Basics
+
+Fast Fashion retailer: e.g. Zara
+
+Big box retailer: e.g. Wal-Mart
+
+Fashion
+
+Core
+
+Basics
+
+Deep dive on Zara's approach to assortment planning later in presentation
+
+vs.
+
+[Slide 98]
+
+Brand strategy: Who are you trying to appeal to with your assortment?
+
+Strategy
+
+2
+
+Need to be very clear on what customer is your target and buy for that particular customer
+
+diva example
+
+[Slide 99]
+
+Brand strategy: Who are you trying to appeal to with your assortment?
+
+Strategy
+
+2
+
+Once muumuu dresses were deleted from assortment, sales increased +9% above target
+
++
+
+=
+
+Perfect harmony
+
+example: catalogue retailer
+
+[Slide 100]
+
+Starting with the big picture: Which categories are trending up/down in the overall market?
+
+Sales analytics
+
+3
+
+sample analyses, based on industry sales history for an apparel retailer
+
+Key questions to answer: In which categories do you WANT to win, and in which can you CREDIBLY win?
+
+Using this data, the retailer:
+
+Mapped industry volatility to internal sales volatility
+
+Reduced assortment of
+
+Outerwear
+
+Tailored clothing
+
+Certain subcategories of intimate apparel
+
+Bulked up assortment of
+
+Swimwear
+
+Certain subcategories of sleepwear
+
+[Slide 101]
+
+Moving to a macro internal view: Which categories are trending up/down within my assortment?
+
+Sales analytics
+
+3
+
+sample analyses, based on internal sales history
+
+Using this data, the retailer:
+
+Delved into breadth vs. depth via customer research and
+
+increased breadth of gold and fine jewellery (more SKUs)
+
+increased depth of bridal
+
+Segmented stores into different types and
+
+reduced counter space allocated to silver jewellery in most stores (except heavy silver trading stores)
+
+[Slide 102]
+
+Category level sales analysis can help point where to invest and shift category focus (resulting in shelf allocation shifts)
+
+Sales analytics
+
+3
+
+Cumulative sales
+
+$40 M
+
+$20 M
+
+0
+
+Number of SKUs ranked by top selling
+
+5,000,000
+
+10,000,000
+
+15,000,000
+
+25,000,000
+
+30,000,000
+
+35,000,000
+
+45,000,000
+
+50,000,000
+
+55,000,000
+
+100
+
+Cumulative sales
+
+0
+
+Number of SKUs ranked by top selling
+
+$40
+
+$20M
+
+$80M
+
+$60M
+
+300
+
+500
+
+700
+
+Category 1
+
+Category 2
+
+Low selling
+
+Low turns, poor GMROI
+
+High risk of aged inventory that stuffs up the entire pipeline
+
+Hopefully, via systematic reviews, you understand why some product is not moving
+
+Assumes that any additional SKU follows a predictable pattern
+
+Also need to look at:
+
+Category growth
+
+Target GM
+
+etc.
+
+The more fashion-oriented the category, the longer the tail tends to be
+
+[Slide 103]
+
+The tail needs to be evaluated
+
+0
+
+Number of SKUs ranked by top selling
+
+10,000,000
+
+15,000,000
+
+25,000,000
+
+30,000,000
+
+35,000,000
+
+45,000,000
+
+50,000,000
+
+55,000,000
+
+5,000,000
+
+Cumulative sales
+
+$40 M
+
+$20 M
+
+Bestselling SKUs
+
+Worst Performing SKUs
+
+~350 SKUs
+
+90% of Sales Revenue
+
+$50.1 M
+
+Tops category: Cumulative sales by SKU for Internet channel in 2009
+
+example
+
+It's easy to think "These SKUs don't make me any money! I'm going to cut them from the assortment!"
+
+Sales analytics
+
+3
+
+[Slide 104]
+
+But, before cutting tail products, it is critical to conduct customer basket analytics
+
+An convenience store retailer deleted the bottom performing 20% of its SKUs to allow for expansion of its fast 'n fresh meal offerings – a critical part of their new overall strategy
+
+Total sales declined 30%
+
+While all of the deleted SKUs had low sales, when core customers didn't find them any longer, they stopped shopping this retailer
+
+Issue with cutting the low-performers:
+
+A cautionary tale
+
+Key questions and example basket analytics
+
+Are your best customers buying these products? (and how frequently?)
+
+Are they complementary to another critical category that is doing well?
+
+Does this product attract more shoppers to my store (e.g. The New Science of Retailing example of a grocery retailer offering a $264 bottle of wine to help sell the $67 bottle)?
+
+Sales analytics
+
+3
+
+% of total customer base
+
+Top 20% cust
+
+Other cust
+
+[Slide 105]
+
+Some retailers also look at customer purchase patterns to determine category strategy (requires sophisticated tracking)
+
+Sales analytics
+
+3
+
+example: Global fine jewellery retailer
+
+Best practices
+
+Know who your target customer is and is not your target customer
+
+Track what your target customer buys from you
+
+Relentlessly utilise purchase data to make assortment decisions
+
+Bolster quantitative sales data with qualitative customer insights
+
+Do NOT buy for people not in your target... you might hurt your brand equity with your target
+
+[Slide 106]
+
+Building the range plan is detail-oriented work, requiring serious trade-offs between depth and breadth in mix
+
+Sales analytics
+
+3
+
+Should I add another silver ring or gold?
+
+Is it better to offer all size sheets in 400 thread count, or only certain sizes?
+
+Would it be important for me to add Swarovski crystals to the range?
+
+range plan
+
+[Slide 107]
+
+Attribute mapping can help decide which SKUs and weigh trade-offs between breadth vs. depth in a category (modeling)
+
+Sales analytics
+
+3
+
+Ergonomics
+
+Performance
+
+Design
+
+3
+
+2
+
+4
+
+Handle type
+
+Anti-adhesive
+
+Deformation
+
+Heat distribution
+
+Cover resistance
+
+Shape
+
+Handle
+
+Finish
+
+Color
+
+Expectation
+
+Options
+
+Rank
+
+Decision criteria
+
+Functional
+
+attributes
+
+Basic/Normal/Ergo
+
+No/Yes/Yes+Relief
+
+Aluminum
+
+Steel & Stainless steel
+
+Coated
+
+Copper
+
+Lacquer/enamel
+
+Lyonnaise/High
+
+Black/silver/metal/color
+
+Gas/elect/vit. ceramic
+
+Basic
+
+Yes
+
+2 mm
+
+Alu
+
+
+
+Lacquered
+
+Lyonnaise
+
+Black
+
+Gas
+
+$
+
+Normal
+
+Yes
+
+2.5 mm
+
+Alu
+
+ 
+
+Lacquered
+
+High
+
+Black
+
+Gas/ elect. / vitro ceramic
+
+$$
+
+Ergo
+
+Yes
+
+3 mm
+
+Alu
+
+  
+
+Enamel
+
+Lyonnaise
+
+Black

@@ -1,0 +1,416 @@
+SOURCE: Executives Summaries of HBR Reprint_Favourites.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Business Innovation
+SUMMARY: The text discusses innovative and bold ideas from experts across disciplines to address major global problems.
+KEYWORDS: Innovation, Problem-solving, Multidisciplinary approach
+---
+
+it needs audacity~bold, inventive ideas that
+
+ake on big problems, So HBR asked experts
+
+from a range of disciplines to propose them.
+
+Robert J. Shiller believes an innovative form
+
+f national financing can solve the global
+
+debt crisis. Enric Sala has a radical but simple idea for saving
+
+the oceans. Bruce Gibney and Ken Howery want venture
+
+capitalists to bet on breakthrough start-ups. Bruno S, Frey
+
+and Margit Ostertoh argue that corporations have been hurt
+
+by pay-for-performance schemes and should toss them. Ellen
+
+Gustafson says we can end obesity and famine by changing
+
+the way we produce food. Gregg Easterbrook thinks NASA
+
+must find an affordable way to reach Mars. Doc Searls argues
+
+that companies should ditch their data and tet consumers
+
+direct transactions. Ellen Goodman believes we can change
+
+the way we die. Wayne Porter has a new vision for Afghani-
+
+stan, Linda A. Hill and Kent Lineback say crowdsourced
+
+reviews will make executives better managers. Parag Khanna
+
+and Karan Khemka think for-profit universities will jump-start
+
+the global economy. Arun Majumdar is looking for a battery
+
+to serve the bottom of the pyramid. And Eric Schmidt thinks
+
+social-impact bonds could transform the prison system.
+
+/ HBR Reprint RI201B
+
+The Big Idea
+
+_ POLITICAL ECONOMY
+
+| Runaway Capitalism.
+
+Christopher Meyerand dutia |
+
+Kirby | Page 66
+
+: : powerful, flexible, and robust
+
+system for driving broad-
+
+_ capitalism on ‘track will depend on our abil
+
+Priorities that guide everyone in the syste 1
+
+: peel wewill need to
+
+: ogy, i explained best by the peacock's tail. 7 hat feature grew
+
+ever more flamboyant across the centuries hanks to simple
+
+fact: Peahens showed preference for large-tailed mates. But
+
+| after many generations the tail created a problem: it required
+
+more nutrients and was heavy, slowing down its owner and __
+
+making him easier prey—eventually causing the peacock popu-
+
+lation to decline. Capitalism is on a similar runaway trajectory,
+
+say Meyer and Kirby, ‘mostly because it has taken the ideas
+
+of. competition and ROE~ brilliant in their. time-—too far, By
+
+reining in these metrics and developing new ones more suited:
+
+_ to today's world, we can-reformulate capitalism and break the
+
+runaway cycle. HBR Reprint RI201C
+
+Gramo A/S is rewriting the
+
+book on energy solutions.
+
+By implementing an intelligent
+
+energy management system, this
+
+midsize bookbindery in Denmark
+
+created its own virtual power plant
+
+that controls consumption and cut
+
+costs by 10%.
+
+VCC is building a new
+
+client base.
+
+Asmartphone-enabled customer
+
+relationship management (CRM)
+
+solution was the blueprint for an
+
+increase in new business for this
+
+midsize construction company.
+
+th ult
+
+r
+
+(i
+
+diol
+
+Gruppo Intergea is
+
+accelerating its data
+
+security.
+
+This Italian midsize business
+
+has been able to improve
+
+infrastructure security in car
+
+dealerships, showrooms and
+
+repair shops by identifying new
+
+threats and staying ahead of them.
+
+yall
+
+(iy
+
+it
+
+Uenll
+
+Sun World is harvesting
+
+new insights.
+
+Specializing in the growing,
+
+packing and shipping of fresh
+
+produce, this midsize business
+
+in California is using IBM Cognos?
+
+business analytics solutions to
+
+analyze operations data and
+
+improve harvesting efficiency.
+
+ey
+
+Ayu
+
+any
+
+fll
+
+Ibe
+
+EXECUTIVE SUMMARIES
+
+STRATEGY & COMPETITION
+
+How the Growth
+
+Outliers Do It
+
+Rita Gunther McGrath |
+
+page 10
+
+FINANCE & ACCOUNTING
+
+A New Approach
+
+To Funding Social
+
+Enterprises
+
+Antony 8ugg-Levine, Bruce
+
+Kogut, and Nalin Kulatilaka |
+
+page 118
+
+OPERATIONS
+
+Why “Good Jobs” Are
+
+Good for Retailers
+
+Zeynep Ton | page 124
+
+Steady, predictable growth is
+
+what every big company strives
+
+for, and what investors prize
+
+above all else. McGrath set out
+
+to discover haw many compa-
+
+nies actually deliver. To meet
+
+her initial criteria, a company
+
+had to have a market capital
+
+ization of at least usst billion
+
+and to have grown by 5% each
+
+year over a five-year period,
+
+Only 8% of the companies in
+
+her sample of 4,793 qualified.
+
+When the five-year period was
+
+doubled, only 10 companies
+
+qualified—and of those, only
+
+five had grown both revenues
+
+and net income every year,
+
+The success of these “growth
+
+outliers” can't be explained by
+
+industry, company age, owner-
+
+ship structure, global location,
+
+or economy (emerging versus
+
+developed). They do, however,
+
+share a lot of practices. For
+
+example, they diversify their
+
+portfolios with early, small
+
+bets; manage major resource
+
+allocations centrally; focus
+
+attention on culture and shared
+
+values; and hold on to their tal-
+
+ent. Their practices add up to
+
+an intriguing, counterintuitive
+
+profile: Although they are
+
+nimble and adaptive, their
+
+leadership, strategy, and
+
+values are extraordinarily
+
+stable. The author concludes
+
+that this seeming paradox is a
+
+feature, not a bug: Stability is
+
+what enables these companies
+
+to innovate and to maintain
+
+steady growth.
+
+HBR Reprint RI2015
+
+An increasing number of social
+
+entrepreneurs and investors
+
+are realizing that social enter-
+
+prises of all sorts, including
+
+many organizations regarded
+
+as charitable nonprofits, can
+
+generate returns acceptable to
+
+the financial markets, The key
+
+is to view the funding of social
+
+enterprises as a problem of
+
+financial structuring.
+
+lf they treat charitable
+
+donations as a form of capital
+
+that seeks social, not financial,
+
+returns, organizations can
+
+then tap traditional sources of
+
+funding: venture capital firms,
+
+banks, mutual funds, bonds,
+
+and so on. And with access to
+
+these sources, they can make
+
+use of all the toals for transfer-
+
+ting risk and return, allowing
+
+them to free up capital and
+
+grow.
+
+For this to succeed, the
+
+social enterprise sector will
+
+need to create greater preci-
+
+sion and transparency around
+
+measuring and reporting social
+
+outcomes, and policy makers
+
+must build the necessary
+
+market infrastructure and legal
+
+frameworks. With these efforts,
+
+social enterprises could have
+
+a larger universe of investors
+
+than conventional businesses
+
+do. This would be a significant
+
+step toward a greener, health-
+
+ier, and more equitable world,
+
+HBR Reprint RI2Z0iK
+
+Too many retail managers
+
+believe that they must offer
+
+bad jobs to keep prices low,
+
+Asa result, almost one-fifth
+
+of American workers suffer
+
+low wages, poor benefits,
+
+constantly changing sched-
+
+ules, and few opportunities
+
+for advancement. The author's
+
+research reveals, however, that
+
+the presumed trade-off be-
+
+tween investment in employees
+
+and low prices is false.

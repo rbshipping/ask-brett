@@ -1,0 +1,122 @@
+SOURCE: HBR making-supply-meet-demand-in-an-uncertai.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Supply Chain Management
+SUMMARY: The text discusses how a model helped Sport Obermeyer improve its supply chain, reduce stockout and markdown costs, and redesign its product line to increase profits.
+KEYWORDS: supply chain, demand forecasting, reactive capacity, product redesign, cost reduction
+---
+
+improvement increased profits by two-thirds.
+
+The model can also be used to evaluate the cost impact of physical changes to the supply chain. For example, we used the
+
+model together with historical sales data from the 1992–1993 season to estimate how much stockout and markdown costs
+
+would drop as we increased the available amount of reactive capacity—that is, capacity committed in reaction to actual early
+
+demand information.
+
+For Sport Obermeyer’s women’s parkas, stockout and markdown costs would be 10.2% of sales if none of the parkas could be
+
+produced reactively—that is, if all production commitments had to be made before any orders were received. At the other
+
+extreme, those costs would drop to 1.8% if all the parkas could be produced reactively—if all production commitments could be
+
+placed after a certain portion of orders came in. (See the graph “An Ability to React Lowers Costs.”)
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 8of 9
+
+It is rarely possible to defer all production until after early demand information has been obtained; the important conclusion is
+
+that even a small amount of reactive capacity can have a dramatic impact on cost. In Sport Obermeyer’s case, producing only
+
+30% of the season’s volume reactively provides nearly half of the potential cost reduction.
+
+Guided by the model, Sport Obermeyer continued to make numerous refinements to its supply chain and product-redesign
+
+process, which collectively had a significant impact. Supply chain changes focused on keeping raw materials and factory-
+
+production capacity undifferentiated as long as possible. For example, in addition to warehousing raw materials, the company
+
+began to book factory capacity for the peak production periods well in advance but did not specify the exact styles to be
+
+manufactured until a later date. Sport Obermeyer assumed the risk of supplying the correct raw materials to the factories. In
+
+exchange, the factories allowed production commitments to be made later.
+
+In addition to making supply chain changes, Sport Obermeyer has merged its design and production departments into one
+
+merchandising department and is thus broadening its strategy to encompass more production concerns. For example, the
+
+company has redesigned its parka line to reduce dramatically the variety of zippers used. Whereas it previously tended to
+
+match the color of both the zipper and its tape to the color of the garment, the company now uses black zippers in several lines
+
+as a fashion element introducing color contrast to the style. In this way, Sport Obermeyer has reduced the number of zippers it
+
+requires more than fivefold. This change has been particularly valuable because of lengthy lead times caused by limited supply
+
+sources for high-quality zippers; the absence of a zipper of a certain length and color could hold up production of an entire style
+
+for months.
+
+Sport Obermeyer is also encouraging designers to use the same kinds of raw materials in their patterns. For example, whereas
+
+each designer previously might have selected a different shade of red for a particular article of clothing, resulting in the
+
+company’s having to work with five or six different shades, now the designers settle on two or three shades for any given
+
+design cycle. Sport Obermeyer has discovered that customers generally don’t notice minute differences in color; they pay
+
+much more attention to a garment’s overall appearance, quality of construction, and special features.
+
+Achieving Accurate Response
+
+When managers set out to assess the cost of stockouts and markdowns to see whether or not an accurate response program
+
+is warranted, they may be in for a surprise. The typical company lacks such information—mainly because tracking sales lost as
+
+a result of stockouts is difficult. But assessing lost sales is well worth the effort; even rudimentary estimates can be useful. For
+
+example, consider a product that sells evenly throughout a ten-week period. If supplies of that product run out at the end of the
+
+eighth week, it is logical to assume that the manufacturer and retailer could have sold 25% more than they had available.
+
+Companies also can change their order-entry systems to capture orders that can’t be filled because of insufficient inventory.
+
+Sport Obermeyer realized that orders during the retail selling season for products that were out of stock and hence could not
+
+be filled were not being entered into the computer. After it changed its system, it found that information invaluable for both
+
+improving forecasts and measuring the cost of insufficient inventory.
+
+Some organizations have made ingenious changes that allow them to improve their estimates of how many sales they have
+
+lost because of stock-outs. Dillard Department Stores’ new policy regarding customer requests provides a good example.
+
+When a store is out of an article requested by a customer, the company will mail that item to the customer at no extra charge
+
+from another Dillard store. Dillard’s original intent was solely to improve customer service and increase sales. However, the
+
+company has reaped an important side benefit. It now has a better understanding of true demand at each store, which allows it
+
+to do a better job of estimating lost sales and forecasting demand.
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 9of 9
+
+An important component of an accurate response program is to streamline the supply chain to reduce production and
+
+distribution lead times. Clearly, a reduction in cycle time offers the potential to reduce the cost of stockouts and markdowns by
+
+allowing production decisions to be deferred until more information and better forecasts become available. Yet realizing that
+
+potential also requires changes in forecasting and production planning.
+
+Accurate response requires two changes in forecasting. The first is to be more resourceful in using demand indicators to
+
+improve forecasts. The second is to institute a system for tracking forecasting errors.
+
+Sales data early in the season are an obvious source of information that can be used to revise and improve forecasts. But they

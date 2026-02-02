@@ -1,0 +1,158 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruption and Commoditization in Business
+SUMMARY: This text analyzes how government securities, financial services, and product assembly are being disrupted and commoditized, requiring companies to adapt their strategies.
+KEYWORDS: disruption, commoditization, value chain, brand strategy, business transformation
+---
+
+government securities can now even auction their securities to institutional investors within
+
+Bloomberg’s proprietary system. Back-end suppliers such as First Data and State Street enjoy a
+
+similar position vis-a-vis commercial banks. Venerable Wall Street institutions are being
+
+disrupted and hollowed out—and they don’t even realize it because outsourcing the asset-
+
+5-9
+
+intensive back end is a compelling mandate that feels good once the front end has become
+
+modular and commoditized.
+
+Core competence, as it is used by many managers, is a dangerously inward-looking
+
+notion. Competitiveness is far more about doing what customers value than doing what you think
+
+you're good at. And staying competitive as the basis of competition shifts necessarily requires a
+
+willingness and ability to learn new things rather than cling hopefully to the sources of past
+
+glory. The challenge for incumbent companies is to rebuild their ships while at sea, rather than
+
+dismantling themselves plank by plank while someone else builds a new, faster boat with what
+
+they cast overboard as detritus.
+
+What can growth-hungry managers do in situations like this? In many ways, the process
+
+is inevitable. Assemblers of modular products must, over time, shed assets in order to reduce
+
+costs and improve returns—financial market pressure leaves managers with few alternatives.
+
+However, knowing that this is likely to happen gives those same managers the opportunity to
+
+own or acquire, and manage as separate growth-oriented businesses, the component or subsystem
+
+suppliers that are positioned to eat their way up the value chain. This is the essence of skating to
+
+where the money will be.'*
+
+Good Enough, Not Good Enough, and the Value of Brands
+
+Executives who seek to avoid commoditization often rely on the strength of their brands
+
+to sustain their profitability—but brands become commoditized and de-commoditized, too.
+
+Brands are most valuable when they are created at the stages of the value-added chain where
+
+things aren’t yet good enough. When customers aren’t yet certain whether a product’s
+
+performance will be satisfactory, a well-crafted brand can step in and close some of the gap
+
+between what customers need and what they fear they might get if they buy the product from a
+
+supplier of unknown reputation. The role of a good brand in closing this gap is apparent in the
+
+price premium that branded products are able to command in some situations. For similar logic,
+
+however, the ability of brands to command premium prices tends to atrophy when the
+
+performance of a class of products from multiple suppliers is manifestly more than adequate.
+
+When overshooting occurs, the ability to command attractive profitability through a
+
+valuable brand often migrates to those points in the value-added chain where things have flipped
+
+into a not-yet-good-enough situation. These often will be the performance-defining subsystems
+
+within the product, or at the retail interface when it is the speed, simplicity, and convenience of
+
+getting exactly what you want that is not good enough. These shifts define the and opportunities
+
+in branding.
+
+For example, in the early decades of the computer industry, investment in complex and
+
+unreliable mainframe computer systems was an unnerving task for most managers. Because
+
+IBM’s servicing capability was unsurpassed, the brand of IBM had the power to command price
+
+premiums of 30 to 40 percent, compared with comparable equipment. No corporate IT director
+
+got fired for buying IBM. Hewlett-Packard’s brand commanded similar premiums.
+
+How did the brands of Intel and Microsoft Windows subsequently steal the valuable
+
+branding power from IBM and Hewlett-Packard in the 1990s? It happened when computers
+
+came to pack good-enough functionality and reliability for mainstream business use, and
+
+modular, industry-standard architectures became predominant in those tiers of the market. At that
+
+point, the microprocessor inside and the operating system became not good enough, and the
+
+locus of the powerful brands migrated to those new locations.
+
+The migration of branding power in a market that is composed of multiple tiers is a
+
+process, not an event. Accordingly, the brands of companies with proprietary products typically
+
+create value mapping upward from their position on the improvement trajectory—toward those
+
+customers who still are not satisfied with the functionality and reliability of the best that is
+
+available. But mapping downward from that same point—toward the world of modular products
+
+where speed, convenience, and responsiveness drive competitive success—the power to create
+
+profitable brands migrates away from the end-use product, toward the subsystems and the
+
+channel.
+
+This has happened in heavy trucks. There was a time when the valuable brand, Mack,
+
+was on the truck itself. Truckers paid a significant premium for Mack the bulldog on the hood.
+
+Mack achieved its preeminent reliability through its interdependent architecture and extensive
+
+vertical integration. As the architectures of large trucks have become modular, however,
+
+purchasers have come to care far more whether there is a Cummins or Caterpillar engine inside
+
+than whether the truck is assembled by Paccar, Navistar, or Freightliner.
+
+Apparel is another industry in which the power to brand has begun to migrate to a
+
+different stage of the value-added chain. As elsewhere, it has happened because a changed basis
+
+of competition has redefined what is not good enough. A generation ago most of the valuable
+
+brands were on the products. Levi’s brand jeans and Gant brand shirts, for example, enjoyed
+
+strong and profitable market shares because many of the competing products were not nearly as
+
+sturdily made. These branded products were sold in department stores, which trumpeted their
+
+exclusive ability to sell the best brands in clothing.
+
+Over the past fifteen years, however, the quality of clothing from a wide range of
+
+manufacturers has become assured, as producers in low-labor-cost countries have improved their
+
+capabilities to produce high-quality fabrics and clothing. The basis of competition in the apparel
+
+industry has changed as a consequence. Specialized retailers have stolen a significant share of
+
+market from the broad-line department stores because their focused merchandise mix allows the
+
+customers they target to find what they want more quickly and conveniently. What is not good

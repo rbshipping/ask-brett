@@ -1,0 +1,100 @@
+SOURCE: HBR making-supply-meet-demand-in-an-uncertai.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Demand Forecasting
+SUMMARY: The text discusses strategies to improve demand forecasting, including using sales data, creating custom-order systems, and tracking forecasting errors.
+KEYWORDS: demand forecasting, sales data, custom-order system, forecasting errors, production planning
+---
+
+improve forecasts. The second is to institute a system for tracking forecasting errors.
+
+Sales data early in the season are an obvious source of information that can be used to revise and improve forecasts. But they
+
+are only one kind of indicator. If a company is imaginative, it can usually find or even create better ones. Take the case of
+
+National Bicycle, a subsidiary of Matsushita that manufactures bicycles in Japan under the Panasonic and National brand
+
+names.
+
+Several years ago, National Bicycle found that sports bikes—ten-speed and mountain bikes—had become fashion items sold
+
+in part on the basis of bright, intricate color patterns that changed every year. National’s inability to predict which color patterns
+
+would be hot each year was causing it to overproduce some colors and underproduce others, generating huge losses. To
+
+circumvent the forecasting problem, the company created a custom-order system by which customers were measured for their
+
+ideal frame dimensions and invited to choose their favorite color pattern from a wide selection. Their ideal bike was then
+
+created in the company’s remarkably flexible plant in Kashiwara and delivered to their door two weeks later.
+
+The program has become so popular that nearly half of National’s sports bikes are now custom ordered. But surprisingly, the
+
+system also benefits the rest of National’s operation. The company has found that the most popular colors for its custom-
+
+ordered bikes are an excellent indicator of which colors will be hot across the board for that season. It now uses that
+
+information to guide planning for its mass-produced bikes, which has greatly reduced losses due to overproduction and
+
+underproduction.
+
+As an organization begins to improve its forecasts, it must also systematically track its errors. Most operations managers have
+
+an opinion of the accuracy of forecasts in their company, but too often that opinion takes the form of grousing about the latest
+
+blunder made by the marketing department. “They forecast we’d sell 2 million cans of mint-flavored dog food, so we made 2
+
+million cans and now we have a 28-year supply sitting in our warehouse.” Clearly, a more systematic approach is needed.
+
+Companies should note when a forecast was made, on what information it was based, and its level of detail (for example, was
+
+it on the aggregate or the SKU level?), and they should later compare it with actual demand.
+
+For an existing product with at least one season of demand history, it may be possible to use past forecasting errors to predict
+
+future forecasting accuracy. Otherwise, we recommend the approach employed by Sport Obermeyer: convene a panel of
+
+experts to make independent forecasts, and use the variance in their predictions to measure the accuracy of the forecasts.
+
+Using risk-based production sequencing requires plants to be flexible enough to switch between various seasonal products and
+
+to have access to required materials and components when they are needed. Achieving optimal flexibility may entail changes
+
+in equipment or require limiting risk-based production sequencing to product families that run on the same equipment. Ensuring
+
+access to the right supplies requires extensive discussions with suppliers to find a way to meet both parties’ needs. For
+
+example, the suppliers’ need for early commitment might be satisfied if the company specifies only the total volume
+
+requirements early. The company’s need for flexibility might be satisfied if the suppliers allow it to postpone specifying the mix
+
+of supplies it needs until market trends become clear.
+
+Finally, for all decisions about supply chain changes and production planning, it is important to adopt a framework rooted in a
+
+probabilistic model of demand. Contrary to what many believe, market uncertainty is a manageable risk.
+
+Reference
+
+1. This assertion is based in part on the study by Robert M. Frazier “Quick Response in Soft Lines,” Discount Merchandiser,
+
+January 1986, p. 40.
+
+Marshall L. Fisher is the Stephen J. Heyman Professor and codirector of the
+
+Manufacturing and Logistics Research Center at the University of Pennsylvania’s
+
+Wharton School in Philadelphia.
+
+Janice H. Hammond is associate professor at the Harvard Business School and
+
+cofounder of the Harvard University Center for Textile and Apparel Research in
+
+Boston, Massachusetts.
+
+Walter R. Obermeyer is a principal of Sport Obermeyer, Ltd., in Aspen,
+
+Colorado, and a graduate of the Harvard Business School.
+
+Ananth Raman is assistant professor at the Harvard Business School.
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012

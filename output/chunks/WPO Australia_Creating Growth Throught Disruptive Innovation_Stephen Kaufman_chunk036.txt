@@ -1,0 +1,154 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Organizational Innovation
+SUMMARY: The text discusses the challenges of managing sustaining and disruptive innovations within established organizations.
+KEYWORDS: sustaining innovation, disruptive innovation, organizational capabilities, business model priorities, new ventures
+---
+
+This ambidexterity is tricky to master. To this we will now turn.’
+
+Selecting the Right Organizational Home for Innovations
+
+Research has identified two distinct categories of innovation — sustaining and disruptive — based
+
+on the circumstance of that innovation.'® In sustaining situations — when the race entails making better
+
+products or services that can be sold for more money or at lower costs to the most attractive customers --
+
+4
+
+we find that incumbents almost always prevail. In disruptive circumstances — when the challenge is to
+
+commercialize a simpler, more convenient product/service that sells for less money and appeals to a new
+
+or previously unattractive customer set ~ the new entrants are likely to beat the incumbents.
+
+The RPP framework of organizational capabilities helps us see why the leading firms’ track
+
+records differ so markedly across these two tasks. The industry leaders develop and introduce sustaining
+
+technologies and innovations over and over again. In the study of the computer disk drive industry that
+
+was the foundation of The Innovator’s Dilemma, 111 of the 116 new technologies were sustaining ones.
+
+Year after year, as established companies introduce new and improved products in order to gain an edge
+
+over the competition, they refine processes for evaluating the technological potential and assessing their
+
+customers’ needs for alternative sustaining technologies. In other words, the organizations develop a
+
+capability for sustaining innovation that resides in their processes. Sustaining-technology investments
+
+also fit the priorities of the leading companies, because they promise improved profit margins from better
+
+or cost-reduced products.
+
+On the other hand, disruptive innovations occur so intermittently that no company has a practiced
+
+process for handling them. Furthermore, because disruptive products typically promise lower profit
+
+margin dollars per unit sold and cannot be used by the best customers, disruptions are inconsistent with
+
+the leading companies’ priorities. Established companies have the resources—the engineers, money, and
+
+technology—required to succeed at both sustaining and disruptive technologies. But their processes and
+
+the priorities that are embedded in their business models constitute disabilities in their efforts to succeed
+
+at disruptive innovation.
+
+In contrast, new companies are actually more capable of pursuing disruptive growth markets.
+
+Lacking resources doesn’t constrain them. Their priorities can embrace small markets, and their cost
+
+structures can accommodate lower margin dollars per unit sold. Their informal market research and
+
+resource allocation processes allow managers to proceed intuitively rather than having to be backed up by
+
+careful research and analysis and elaborate approval processes with formal status presentations and
+
+reviews every quarter. Executives who are building new-growth businesses therefore must ensure that
+
+responsibility for making the venture successful is given to an organization whose processes will facilitate
+
+what needs to be done and whose business model permits prioritization of those activities. The theory is
+
+that the requirements of an innovation need to fit with the host organization’s processes and priorities, or
+
+it will not succeed.
+
+It is important to remember that “disruption” and “sustaining” as we use them are relative terms.
+
+What is disruptive to one company might have a sustaining impact on another. For example, Dell
+
+Computer began by selling computers directly to businesses and end-users by catalog and telephone,
+
+without using the distributor and retail dealer channel then commonly employed by the incumbents. For
+
+Dell, the initiative to begin selling over the Internet was a sustaining innovation. Dell adopted Internet
+
+retailing easily and successfully since it effectively allowed them to offer their more sophisticated existing
+
+customers a faster, more efficient, and lower cost way of doing what they already did — order directly
+
+from Dell.
+
+For Compaq, HP and IBM, however, on-line marketing directly to customers was decidedly
+
+disruptive because of its impact on their distribution and retail channels. The only way they could have
+
+succeeded at becoming leaders in on-line marketing would have been to abandon their fundamental
+
+distribution channel strategy, which could only be done by creating an autonomous business unit, and
+
+possibly a new brand, led by managers not already emotionally committed to a retail distribution channel.
+
+Similarly, the on-line brokerage was a sustaining technology to discount stockbrokers such as
+
+Schwab and Ameritrade, but is disruptive to full-service brokers such as Merrill Lynch.
+
+5
+
+“Organizations cannot disrupt themselves. So when Merrill Lynch implemented Internet-based
+
+equities trading within its mainstream brokerage organization, the effect was essentially to bring better
+
+information to Merrill’s full-service brokers, to help them do an even better job servicing the needs of
+
+their high-net-worth clients. The Internet system was shaped as a sustaining technology relative to Merrill
+
+Lynch—and no other outcome would be possible. Furthermore, this was a wise thing for Merrill Lynch to
+
+do. Its brokerage business for wealthy clients is healthy and profitable. Merrill would be crazy not to
+
+make it even better. But Merrill’s executives should not conclude that they have addressed the disruption
+
+posed by Charles Schwab. They could only do that if they acquired or created an autonomous unit whose
+
+business model helped them earn attractive profits at discount prices with lower-net-worth clients.
+
+This is an important reason for the observation we have made elsewhere that established
+
+companies are prone to cram disruptive ideas into the mainstream market, forcing them to compete on a
+
+sustaining-technology basis.'' When the strategies for developing and commercializing these disruptive
+
+innovations are developed within the mainstream organization, this is the only outcome that we can
+
+expect. A unit’s processes and the priorities embedded in its business model ensure that it can only
+
+implement innovations in a sustaining way.
+
+Creating New Capabilities
+
+The RPP model can be a useful guide for executives who determine that they need to create new
+
+capabilities because those that their organization presently has aren’t well suited for building new-growth
+
+businesses. This can be framed as a make-or-buy decision. We typically frame make-or-buy decisions as
+
+relating to resources, such as making vs. procuring components, developing vs. licensing technology, and
+
+so on. But processes and business models can also be made or bought, as described below.
+
+Creating New Business Models

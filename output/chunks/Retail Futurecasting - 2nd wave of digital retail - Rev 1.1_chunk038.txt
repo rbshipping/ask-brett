@@ -1,0 +1,58 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Security and Service Recovery
+SUMMARY: The text describes a scenario where a customer's security is breached, but a law service and insurance policy enable a swift response and recovery.
+KEYWORDS: digital security, service recovery, indemnification, security audits, self-driving delivery
+---
+
+and represented as a 3D avatar carefully selected to look as friendly and calming to Alexandria as possible, based
+
+on her data profile. The algorithms of the law service immediately begin to run diagnostics on the system and
+
+search for compromises. They quickly pinpoint a weakness in Alexandria’s security features that she has
+
+inadvertently failed to keep up to date. The thieves have covered their tracks, but the algorithm traces the criminals
+
+to a location in Ghana. The law algorithm coordinates with local Ghana law enforcement algorithms and passes
+
+them all relevant data enabling a crime bust.
+
+The law service checks the details of Alexandria’s SLA and finds that she signed up for an indemnity contract back in
+
+2035 that is still in force. This covers her for losses incurred as a result of any data breach that results from using
+
+their service. The law service instantly negotiates a settlement with Convenierge and her account is restored within
+
+4 seconds.
+
+As part of the settlement Convenierge sends a luxury self-driving pod to take her to the nearest doctor for
+
+immediate assessment. The doctor and her AI algorithm examine Alexandria. They scan her body, and quickly
+
+resequence her genome. The algorithm identifies the poison in her system and formulates a potent combo of
+
+chemical, biological, and nanobot treatments to cleanse her bloodstream and major organs. This single pill is 3D-
+
+printed in the office, and administered with a nice cool glass of water and a shot of whisky (now understood to
+
+have incredible medicinal properties). She waits just 15 minutes for the treatment to act and is rescanned. Once
+
+given the all clear, the LimoPod™ whisks her back to her apartment where her family, alerted by the Law Service to
+
+her recent brush with death and destitution, have flown to celebrate the fact that she’s ok. There is cake, and of
+
+course lots of healthy Irish whisky to wash it down.
+
+The particular insights that the team drew from this science fiction prototype that they then went back
+
+and applied to their 2024 experience were:
+
+ Security is critical throughout
+
+ Indemnification and remediation plans are key to building consumer trust
+
+ Regular security audits are required to catch issues early on
+
+ Add self-driving delivery vehicles to 2024 experience
+
+86

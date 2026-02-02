@@ -1,0 +1,298 @@
+SOURCE: HBR_Guide to Persuasive Presentations.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Visual Presentation Design
+SUMMARY: The text discusses best practices for using graphics and visuals effectively in live presentations versus printed materials, emphasizing the importance of complementing rather than duplicating information.
+KEYWORDS: presentation design, visual aids, information design, complementary visuals, audience engagement
+---
+
+presented without jargon and with some humor,
+
+are better than earnest, data-stulfed boxes with
+
+tiny graphics that look important but in fact
+
+glaze your eyes over.
+
+What should we remember when using
+
+graphics in live presentations versus in
+
+print?
+
+The human voice is more powerful than the
+
+written word. Don’t tax audiences with the job
+
+of listening to and looking at the same words
+
+(which are never in sync with each other). It’s
+
+a lazy way to shape a presentation. Words
+
+and pictures should complement rather than
+
+duplicate each other, delivering information
+
+through both the ear and the eye. What you’re
+
+saying shouldn’t appear on the screen while
+
+you're saying it. 1 mix methods, sometimes just
+
+talking, at other times just words on the screen
+
+and silence. Sometimes pictures and spoken
+
+words, sometimes audience participation.
+
+if you have to prepare a series of graphics
+
+for someone else to use in a report or
+
+presentation, then how do you make sure
+
+that you’re creating the right illustrations—
+
+before you get started?
+
+Making slides for presentationsis considered one
+
+of those necessary but thankless tasks. I’m sorry
+
+that too few people find charts and diagrams
+
+worth doing. That’s why PowerPoint resides on
+
+the computers of administrative assistants and
+
+not on those of the people actually delivering
+
+the material.
+
+So, to make the process as painless as possible,
+
+start with a pencil, paper, and the guidelines for
+
+using the right type of chart (see box), A little
+
+impromptu sketching--and you needn't be able
+
+to “draw”—in front of the person requesting the
+
+presentation will quickly nail down the best way
+
+to show the information. If you can’t overcome
+
+the “I have no time to discuss it” attitude,
+
+then make rough pencil sketches of what was
+
+requested, as well as sketches of alternatives,
+
+and show these first before you ever touch the
+
+computer. You'll be amazed by how much time
+
+this method saves in the end, and how many
+
+questions it raises about design and content that
+
+were invisible in the raw data.
+
+How can we test our charts for
+
+effectiveness?
+
+Rehearse them. Run through the charts many
+
+times over in front ofa receptive audience, even
+
+of one, Ask, “Did you get the point? Did you get
+
+enough information? Did 1 rush to the next point
+
+too quickly? Did 1 make too many points?” Show
+
+the graphic to others and see whether they can
+
+“read” it properly and understand its point.
+
+www. hbrorg
+
+Easy on the Eyes
+
+Managers should allow themselves and others
+
+more time to prepare, and the presenters
+
+should always participate in making every part
+
+of the presentation, deciding which parts to
+
+speak and which to project onto a screen. For
+
+printed publications, the designer must work
+
+with editorial to decide which part of a graphic
+
+is written and which is drawn.
+
+How can we use graphics for emotional
+
+impact?
+
+By being human, above all, But also by knowing
+
+thoroughly what your subject is, and by making
+
+it accessible (not talking down, of course) to
+
+other humans just like you. By allowing people
+
+to laugh. By involving their imaginations. By
+
+referring to things outside the direct subject
+
+being discussed. By drawing comparisons. By
+
+enjoying what you do, It shows.
+
+This article originally appeared in Harvard Management
+
+Communication Letter (product #Co208C). To order,
+
+visit hbr.org.
+
+Harvard Business Review Guide to Persuasive Presentations
+
+page 17
+
+Easy on the Eyes
+
+To get your audience to really see what you mean, pick the right strategy.
+
+Do use fever charts (also called line
+
+charts) to track the progress of a
+
+quantity, like price or inventory, over a
+
+period of time. They are especially good
+
+for showing trends--what happened in
+
+the past and what might happen in the
+
+future. As a general rule, dates appear
+
+along the bottom and quantities go
+
+up the side, A thick line represents
+
+the movement of the quantity from
+
+left to right over time and up or down
+
+according to the scale, such as dollars
+
+or units,
+
+Do use bar charts to show the
+
+relationships among different items at
+
+one time. Unlike fever charts, bars work
+
+best when the time element is static, as
+
+in a comparisan of the current prices
+
+of wight: computers from different
+
+manufacturers
+
+in pie charts, do try to use numbers
+
+that add up to 100%. If that is not pos-
+
+sible.make sure to insert a note about
+
+it on the chart, because some readers
+
+delight inpointing aut “mistakes.”
+
+Atable isn'ta visualization of numbers
+
+it is the numbers, Do consider using a
+
+table when numbers differ by orders of
+
+magnitude so that no scale suffices in
+
+plotting them. Take this set of numbers:
+
+20, 400, 160,000, and 5,600,000,000.
+
+A chart will lose the detail of low figures
+
+if tt tries to reach the high ones without
+
+breaking the scale. If you must break
+
+the scale, then just use a table, because
+
+a chart with a broken scale is no longer
+
+a true picture of the numbers.
+
+If numbers are so big that any graphic
+
+representation fails to capture them,
+
+do use word pictures to put them ina
+
+human context. Think ofa trillion dollars
+
+page 18
+
+of national debt. How much bigger is a
+
+trillion than a billion? Three zeros, or
+
+one thousand times. Or consider this
+
+option: it’s the year Oa.D., and you have
+
+a trillion dollars to spend at the rate
+
+of a million dollars a day. By the year
+
+3 A.b., you've spent a billion. By the
+
+year 2002, you'd still have 736 years to
+
+gO, spending a million every day, before
+
+you reached the end of your trillion
+
+dollar pile. We can picture that in our
+
+minds because we know the lengths of
+
+a day, a year, and a millennium, and we
+
+can imagine spending a million dollars,
+
+Once you've settled on your approach,
+
+be careful not to undercut your efforts
+
+with gimmicks.
+
+Don’t use the third dimension or
+
+animation for animation’s sake. A
+
+chart shouldn't move around or jump
+
+off the page or screen~-it shauld stay

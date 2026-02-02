@@ -1,0 +1,158 @@
+SOURCE: HBS_The Whys and Hows of Feedback.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Employee Feedback
+SUMMARY: Employees want more constructive and actionable feedback, but managers may avoid it due to concerns about how it will be received.
+KEYWORDS: employee feedback, feedback quality, feedback delivery, feedback avoidance, employee performance
+---
+
+it better” is not enough!). Employees must also believe that they can improve, and that their efforts to
+
+do so will be meaningfully rewarded. If these things are not the case, improvement will not occur.
+
+Do We Have to Give Feedback if It’s So Risky?
+
+If feedback can actually make things worse, is it better to avoid it entirely? This is the default
+
+position of some managers, unfortunately. A Canadian psychology journal reported, “Feedback is too
+
+frequently perceived as just another assignment to be done and for many, this task generates anxiety.
+
+2 Avraham N. Kluger and Angelo DeNisi, “The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-
+
+Analysis, and Preliminary Feedback Intervention Theory,” Psychological Bulletin 119 (1996): 254-284; and James W. Smither,
+
+Manuel London, and Richard R. Reilly, “Does Performance Improve Following Multisource Feedback? A Theoretical Model,
+
+Meta-Analysis, and Review of Empirical Findings,” Personnel Psychology 58 (2005): 33-66.
+
+3 P. 692 of Adam P. Tolli and Aaron M. Schmidt, “The Role of Feedback, Causal Attribution, and Self-Efficacy in Goal Revision,”
+
+Journal of Applied Psychology 93 (2008): 692-701.
+
+2
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+The Whys and Hows of Feedback 416-013
+
+The recipients’ reactions to the feedback or the choice of words to use to deliver feedback are some of
+
+the concerns repeatedly worrying feedback providers. Such concerns . . . may indeed lead to
+
+procrastination and possibly avoidance.”4 Tempting though such avoidance may be, there are good
+
+reasons for practicing regular feedback.
+
+For one, people want feedback. Yes, feedback can be ego-threatening and sometimes contain
+
+unwanted information. Many people, however, find lack of feedback even more anxiety-producing,
+
+and feel that they do not receive enough high-quality, actionable feedback.5 And highly motivated,
+
+competent employees—the ones you want to retain—tend to be the most eager to know how they are
+
+doing. At Google, for example, employee surveys revealed that “rather than superior technical
+
+knowledge, periodic one-on-one coaching, which included expressing interest in the employee and
+
+frequent personalized feedback, ranked as the No. 1 key to being a successful leader.”6
+
+When global law firm Baker McKenzie surveyed their associates, this is what they discovered:
+
+First, associates wanted better-quality feedback on their performance, in terms of
+
+having greater depth and breadth of feedback. “Breadth” meaning more comprehensive
+
+feedback that covered all the key areas of performance. “Depth” meaning feedback that
+
+goes beyond generalizations, to examples that are specific and useful. Second, associates
+
+wanted more clarity on what was expected of them at the current job level, and what was
+
+expected at the next job level, and what knowledge and skills were required to get there.
+
+And thirdly, they wanted to know what development opportunities the firm had to offer
+
+to help them get there.7
+
+Also, avoiding feedback is a non-starter because feedback will at some point be necessary. People
+
+and organizations cannot stay in their comfort/success zones forever. Circumstances change, and
+
+companies must develop new strategies, new employees, and new skills. These circumstances will
+
+require feedback. If the corporate culture is one where feedback is avoided, then any intervention will
+
+tend to indicate an emergency, or punishment. (There is no neutral position regarding feedback. Lack
+
+of feedback is feedback, and the message it sends is, “Performance talk is dangerous and impolitic.”)
+
+Further, both giving and receiving feedback are complex skills that require practice to master. The day
+
+before the big presentation to the venture capitalists is not the time to start giving someone feedback
+
+on their persuasion skills.
+
+What Makes Feedback Moments Effective?
+
+So what makes feedback work? Ultimately, it’s about alignment—making sure that everyone is on
+
+the same page about job performance, what is necessary to achieve it, and how it relates to
+
+organizational goals. The goals of the feedback giver and recipient should be the same: to agree on
+
+performance to date, to clarify areas of uncertainty, to surface the best information possible in order to
+
+4 P. 261 of Amanda Baker, Dominique Perrault, Alain Reid, and Celine M. Blanchard, “Feedback and Organizations: Feedback
+
+Is Good, Feedback-Friendly Culture Is Better,” Canadian Psychology 54 (2013): 260-268.
+
+5 Svetlana Madzar, “Feedback Seeking Behavior,” Human Resources Development Quarterly 6, no. 4 (Winter 1995), pp. 337-349; and
+
+Jone L. Pearce, Organizational Behavior: Real Research for Real Managers (Irvine, CA: Melvin & Leigh, 2012).
+
+6 John Sullivan, “How Google Is Using People Analytics to Completely Reinvent HR,” http://www.tlnt.com/2013 /02/26/ how-
+
+google-is-using-people-analytics-to-completely-reinvent-hr/, accessed December 3, 2014.
+
+7 P. 17 of Boris Groysberg and Eliot Sherman, “Baker and McKenzie (B),” HBS No. 408-009 (Boston: Harvard Business School
+
+Publishing, 2008).
+
+3
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+maximize the employee’s performance. The primary goal of both parties is to reduce the feedback
+
+recipient’s anxiety and ego-protection concerns so that the feedback can be acted upon appropriately.
+
+Feedback: What It Is
+
+Feedback is more than the knowledge of results—50 sales calls made, 100 hours billed—the kind of
+
+information that can be obtained when playing a video game. Feedback is a response to one’s job
+
+performance, usually from a supervisor, but possibly from peers, clients, or a 360-degree review.
+
+Feedback usually involves analysis of performance, not merely reporting job outcomes, and involves a
+
+human perspective, even if the feedback is given in print from anonymous sources, as in students’ end-
+
+of-term teacher evaluations or client surveys. The interpersonal element contributes to the stress of the
+
+situation, particularly in jobs with a subjective or interpersonal component.
+
+Different Kinds of Feedback
+
+Feedback can differ in several ways that affect recipients’ reactions to it.
+
+The most immediately salient difference is that feedback can be either positive or negative. Both
+
+are necessary, but negative feedback, of course, tends to prompt the most negative responses from

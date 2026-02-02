@@ -1,0 +1,200 @@
+SOURCE: CommonsensePrinciples2.0.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Corporate Governance
+SUMMARY: The document outlines corporate governance principles for public companies, their boards of directors, and institutional shareholders, emphasizing duties, composition, and internal governance.
+KEYWORDS: corporate governance, board of directors, institutional shareholders
+---
+
+COMMONSENSE PRINCIPLES 2.0
+
+The following is a series of corporate governance principles for public companies, their boards of directors
+
+and their institutional shareholders (both asset managers and asset owners). These principles are intended
+
+to provide a basic framework for sound, long-term-oriented governance. Given the differences among U.S.
+
+public companies – including their size, products and services, geographic footprint, history, leadership and
+
+ownership – we recognize that not every principle will be applied in the same fashion (or at all) by every
+
+company, board or shareholder. Nonetheless, we intend to use these principles to guide our thinking.
+
+I. Board of Directors – Duties, Composition and Internal Governance
+
+a. Duties of Loyalty and Care
+
+• Directors are accountable to shareholders and owe duties of loyalty and care to the
+
+company. Directors’ performance should be evaluated through the company’s
+
+long-term performance, financial and otherwise.
+
+b. Composition
+
+• A board must not be beholden to the CEO or management. A significant majority
+
+of the board (and all of the members of the audit, compensation and nominating
+
+and governance committees of the board) should be independent, consistent with
+
+the New York Stock Exchange rules or similar standards.
+
+• All directors must have high integrity and the appropriate competence to represent
+
+the interests of all shareholders in achieving the long-term success of their
+
+company. Ideally, in order to facilitate engaged and informed oversight of a
+
+company and the performance of management, a subset of directors will have
+
+professional experiences directly related to the company’s business. At the same
+
+time, however, it is important to recognize that some of the best ideas, insights
+
+and contributions can come from directors whose professional experiences are not
+
+directly related to the company’s business.
+
+• Independent directors should be just that: strong and steadfast, independent of
+
+mind and willing to challenge the CEO and other directors constructively – concepts
+
+that may not be fully reflected in black-and-white rules. At the same time,
+
+directors should not be divisive or self-serving. Collaboration and collegiality also
+
+are critical for a healthy, functioning board.
+
+• Directors should be business savvy and shareholder-oriented, and have a genuine
+
+passion for their company.
+
+• Directors should have complementary and diverse skill sets, backgrounds and
+
+experiences. Diversity along multiple dimensions, including diversity of thought, is
+
+critical to a high-functioning board. Director candidates should be drawn from a
+
+rigorously diverse pool.
+
+1
+
+COMMONSENSE PRINCIPLES 2.0
+
+• While no one size fits all – boards need to be large enough to allow for a variety of
+
+perspectives, as well as to manage required board processes – a board generally
+
+should be as small as practicable so as to promote an open dialogue among
+
+directors.
+
+• Directors need to commit substantial time and energy to the role. Therefore, a
+
+board should assess the ability of its members to maintain appropriate focus and
+
+not be distracted by competing responsibilities. In so doing, the board should
+
+carefully consider a director’s service on multiple boards and other commitments.
+
+While senior managers of other companies may be time constrained, they may be
+
+able to offer unique insights and otherwise add significant value to a board.
+
+c. Elections of directors
+
+• It is a fundamental right of shareholders to elect directors whom they believe are
+
+best suited to represent shareholder interests.
+
+• In uncontested elections, directors should be elected by a majority of the votes
+
+cast “for” and “against/withhold” (i.e., abstentions and non-votes should not be
+
+counted for this purpose). An individual director who fails to receive such a
+
+majority should tender an offer of resignation. The board ordinarily should accept
+
+the resignation; if it does not, it should clearly explain its rationale to the
+
+company’s shareholders.
+
+• No matter how frequently a company chooses to elect directors, a director
+
+ordinarily should refrain from joining a board on which he or she is not committed
+
+to serving for at least three years.
+
+• Requiring all directors to stand for election on an annual basis may help promote
+
+board accountability to shareholders. If a company chooses to hold elections on a
+
+staggered basis or otherwise elect directors less frequently than annually, the
+
+board should explain clearly (ordinarily in the company’s proxy statement) its
+
+rationale for doing so.
+
+d. Nominating directors
+
+• A company’s board is responsible for nominating qualified directors consistent with
+
+the criteria for board composition set forth in I.b (“Composition”) above.
+
+• Long-term shareholders should recommend potential directors for the board’s
+
+consideration if they know the individuals well and believe they would be additive
+
+to the board.
+
+• A company is more likely to attract and retain strong directors if the board focuses
+
+on big-picture issues and can delegate other matters to management (see below at
+
+II.b., “Critical activities of the board; setting the agenda”).
+
+e. Director compensation and stock ownership
+
+2
+
+COMMONSENSE PRINCIPLES 2.0
+
+• A company’s independent directors should be fairly and equally compensated for
+
+board service, although (i) lead independent directors and committee chairs may
+
+receive additional compensation, and (ii) committee service fees may vary. If a
+
+director receives any additional compensation from the company that is not
+
+related to the director’s service as a board member, such activity should be
+
+disclosed and explained.
+
+• Companies should consider paying a substantial portion (e.g., for some companies,
+
+as much as 50% or more) of director compensation in stock or similar equity-like
+
+instruments. Companies also should consider requiring directors to retain a
+
+significant portion of their equity compensation for the duration of their tenure to
+
+further directors’ economic alignment with the long-term performance of the
+
+company.
+
+f. Board committee structure and service
+
+• Companies should conduct a thorough and robust orientation program for their
+
+new directors, including background on the industry and the competitive landscape
+
+in which the company operates, the company’s business and operations, important
+
+legal and regulatory issues, etc.
+
+• A board should have a well-developed committee structure with clearly
+
+understood responsibilities. Disclosures to shareholders should describe the
+
+structure and function of each board committee.

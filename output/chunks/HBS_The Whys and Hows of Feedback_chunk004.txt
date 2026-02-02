@@ -1,0 +1,152 @@
+SOURCE: HBS_The Whys and Hows of Feedback.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Employee Feedback and Evaluation
+SUMMARY: This text examines how employees' competence and motivational factors influence their response to feedback in the workplace.
+KEYWORDS: feedback, Dunning-Kruger effect, performance goal orientation, learning goal orientation
+---
+
+452-463; Monica Biernat and Kelly Danaher, “Interpreting and Reacting to Feedback in Stereotype-Relevant Performance
+
+Domains,” Journal Of Experimental Social Psychology 48, no. 1 (2012): 271-276.; Geoffrey L. Cohen, Claude M. Steele, and Leonard
+
+D. Ross, “The Mentor’s Dilemma: Providing Critical Feedback Across the Racial Divide,” Personality and Social Psychology Bulletin
+
+25 (1999): 1302–1318; Jennifer Crocker, Kristin Voelkl, Maria Testa, and Brenda Major, “Social Stigma: The Affective
+
+Consequences of Attributional Ambiguity,” Journal Of Personality And Social Psychology 60, no. 2 (1991): 218-228; and Jason S.
+
+Lawrence, J. Crocker, and Hart Blanton, ”Stigmatized and Dominant Cultural Groups Differentially Interpret Positive
+
+Feedback,” Journal of Cross-Cultural Psychology 42 (2011): 165-169.
+
+5
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+416-013 The Whys and Hows of Feedback
+
+Recipient
+
+A major factor in how people will respond to feedback is how competent they are at their jobs. This
+
+relates to the well-known Dunning-Kruger effect, according to which “the expertise necessary to judge
+
+a person’s performance in many domains is exactly the same expertise needed to produce competent
+
+performance in the first place.”12 In other words, poor performers often fail to realize their own
+
+incompetence, and even rate themselves highest on the domains in which they score the worst. Hence,
+
+in the workplace, those who need feedback the most often benefit from it the least. Low performers
+
+show very little interest in feedback and are likely to disparage negative criticism in whatever way they
+
+can, calling into question the accuracy or relevance of the feedback. Because poor performers fail to
+
+recognize their own incompetence, they may interpret neutral or mildly positive feedback as
+
+negative—with all the attendant problems that come along with negative feedback—if their own image
+
+of their performance was higher.
+
+Assuming a baseline of competence, motivational factors can also play a major role in feedback
+
+interactions. Within the feedback literature, a considerable amount of research has been done on how
+
+people relate to goals, differentiating two major approaches: “a learning goal orientation, whereby
+
+individuals focus on improving their capabilities and mastering challenging situations by learning new
+
+skills or new things, and a performance goal orientation, whereby an individual demonstrates
+
+competence, receives recognition for accomplishments, and avoids negative feedback about his/her
+
+competence or performance.”13 The performance goal orientation can be focused primarily on proving
+
+the self in a positive way, or on avoiding negative feedback. For the most part, employees focused on
+
+learning tend to go to greater lengths to seek feedback, approaching people with experience in the area
+
+in which they are looking to gain expertise rather than individuals with power in the organization.14
+
+In contrast, people whose main aim it is to prove their ability are less likely to seek feedback, and when
+
+(if) they do, they are more likely to approach people with power rather than those with experience in
+
+the task at hand.15 The learning orientation also goes along with using feedback more effectively.
+
+Employees who are motivated more by internal factors (intellectual challenge, the satisfaction of
+
+accomplishment) also seek and use feedback more effectively than workers who are primarily motivated
+
+by external rewards such as money and status.16
+
+Relatedly, an individual’s beliefs about change have a strong impact on how that person will
+
+respond to feedback. Part of the learning orientation, for example, is the belief that change is possible,
+
+that improvement happens incrementally, and that effort pays off. An employee with these beliefs will
+
+have reason to use feedback to improve, whereas a person who believes “you either got it or you don’t,”
+
+upon finding out that he “don’t,” will see no reason to invest extra effort.17
+
+12 P. 125 of Oliver J. Sheldon, David Dunning, and Daniel R. Ames, “Emotionally Unskilled, Unaware, and Uninterested in Learning
+
+More: Reactions to Feedback About Deficits in Emotional Intelligence,” Journal of Applied Psychology 99 (2014): 125-137.
+
+13 P. 607 of Byoung Kwon Choi, Hyoung Koo Moon, and Eun Young Nae, “Cognition- and Affect-Based Trust and Feedback-
+
+Seeking Behavior: The Roles of Value, Cost, and Goal Orientations.”
+
+14 Svetlana Madzar, “Feedback Seeking Behavior.”
+
+15 Svetlana Madzar, “Feedback Seeking Behavior.”
+
+16 Yun Guo, Jianqiao Liao, Shudi Liao, and Yanhong Zhang, “The Mediating Role of Intrinsic Motivation on the Relationship
+
+Between Developmental Feedback and Employee Job Performance.”
+
+17 Adam P. Tolli and Aaron M. Schmidt, “The Role of Feedback, Causal Attribution, and Self-Efficacy in Goal Revision.”
+
+6
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+The Whys and Hows of Feedback 416-013
+
+Beliefs about change are to some extent individual or culturally learned18 (Asians, for example, are
+
+more likely to attribute outstanding performance to effort and practice, while Westerners attribute it to
+
+native talent), but organizational factors matter here as well. An employee high in organizational
+
+cynicism, or the belief that effort will not be rewarded nor support given for development, will be
+
+unwilling to change. At the worst, burnout or emotional exhaustion can lead employees to avoid
+
+feedback, even to the point of creating or exacerbating a vicious cycle of underperformance and
+
+deteriorating relationships.19 Even the most motivated employee will not seek or use feedback if they
+
+have reason to believe that their organization will ignore or, at worst, punish their efforts.
+
+Feedback: Where It Happens
+
+Corporate Culture
+
+As the above indicates, feedback is only as useful and performance-enhancing as the corporate
+
+culture surrounding it. Organizational coherence is paramount. If the corporate mission is unclear,
+
+strategic goals cannot be set, and individual performance cannot be linked in a meaningful way with
+
+the organization’s performance as a whole. Lack of clarity around job descriptions or team boundaries
+
+can also foil attempts to give, or solicit, useful feedback.
+
+Feedback also needs to be embedded in an entire context of performance management. This involves

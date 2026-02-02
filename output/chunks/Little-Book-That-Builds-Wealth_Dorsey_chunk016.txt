@@ -1,0 +1,282 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Customer Switching Costs
+SUMMARY: The text discusses how companies can create switching costs to make it difficult for customers to switch to competitors, which helps maintain high returns on capital.
+KEYWORDS: switching costs, customer experience, competitive advantage, barriers to entry
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+ented firms, such as retailers, restaurants, packaged-goods
+
+companies, and the like. That’s because low switching costs
+
+are the main weakness of these kinds of companies. You can
+
+walk from one clothing store to another, or choose a differ-
+
+ent brand of toothpaste at the grocery store, with almost no
+
+effort whatsoever. That makes it very hard for retailers and
+
+restaurants to create moats around their businesses. Some,
+
+like Wal-Mart and Home Depot, can do it through econo-
+
+mies of scale, and some, like Coach, can create moats by
+
+building strong brands—but in general, consumer-oriented
+
+firms often suffer from low switching costs.
+
+cc0044..iinndddd 5544 11//2266//0088 33::0077::4455 AAMM
+
+SWITCHING COSTS [55]
+
+Switching costs can be tough to identify because you
+
+often need to have a thorough understanding of a custom-
+
+er’s experience—which can be hard if you’re not the
+
+customer. But this type of economic moat can be very
+
+powerful and long-lasting, so it’s worth taking the time to
+
+seek it out. I hope the examples in this chapter have given
+
+you some food for thought.
+
+Our third source of competitive advantage is the sub-
+
+ject of the next chapter. Although it is arguably a type of
+
+switching cost, the network effect is such a unique and
+
+potentially powerful economic moat that it deserves a cat-
+
+egory all its own.
+
+The Bottom Line
+
+1. Companies that make it tough for customers
+
+to use a competitors’ product or service create
+
+switching costs. If customers are less likely to
+
+switch, a company can charge more, which helps
+
+maintain high returns on capital.
+
+2. S witching costs come in many flavors—tight
+
+integration with a customer’s business, monetary
+
+costs, and retraining costs, to name just a few.
+
+3. Y our bank makes a lot of money from switching
+
+costs.
+
+cc0044..iinndddd 5555 11//2266//0088 33::0077::4466 AAMM
+
+cc0044..iinndddd 5566 11//2266//0088 33::0077::4466 AAMM
+
+h a p te r Fi
+
+C v
+
+e
+
+The Network Effect
+
+(cid:1)
+
+So Powerful, It Gets a Chapter
+
+to Itself.
+
+I
+
+’ amazed by those people who seem to
+
+VE ALWAYS BEEN
+
+have met everyone in creation. You probably know some-
+
+one like this yourself—think of that friend who effortlessly
+
+schmoozes everyone he or she meets and winds up with a
+
+Rolodex the size of a bowling ball. These people create
+
+huge networks of contacts that make them desirable
+
+acquaintances, because the more people they know,
+
+the more people they can connect for mutual benefit. Their
+
+cc0055..iinndddd 5577 11//2266//0088 33::0088::2200 AAMM
+
+[58] THE LITTLE BOOK THAT BUILDS WEALTH
+
+social value increases as the number of people in their net-
+
+work grows.
+
+Businesses that benefit from the network effect are
+
+very similar; that is, the value of their product or service
+
+increases with the number of users. This may sound
+
+incredibly simple, but it’s actually fairly unusual. Think
+
+about your favorite restaurant. That business delivers
+
+value to you by providing good food at a reasonable price.
+
+It likely doesn’t matter much to you whether the place is
+
+crowded or empty, and in fact, you’d probably prefer it
+
+to be not terribly crowded. The value of the service is
+
+almost completely independent of how many other people
+
+use it.
+
+Now think about some well-known large companies,
+
+like the constituents of the Dow Jones Industrial Aver-
+
+age, for example. (I’ve included Exhibit 5 .1 of the stocks
+
+in the Dow as a refresher.) Exxon Mobil Corporation?
+
+A wonderful business, but it makes money by selling
+
+energy products for more money than the cost of finding
+
+them. More customers are good for Exxon Mobil, but
+
+that’s not something you think about when you choose
+
+which gas station to use. Citigroup? Companies don’t use
+
+Citi for corporate banking because their peers do—they
+
+use Citi because it offers attractive rates on loans. Wal-
+
+Mart? It’s the same story. The giant retailer’s low costs
+
+stem in part from its massive size, but people don’t shop
+
+cc0055..iinndddd 5588 11//2266//0088 33::0088::2200 AAMM
+
+THE NETWORK EFFECT [59]
+
+EXHIBIT 5.1 Companies in the Dow Jones Industrial Average
+
+Security Name Industry Ticker
+
+IBM Computer Equipment IBM
+
+Boeing Company Aerospace & Defense BA
+
+3M Company Diversified Manufacturing MMM
+
+ExxonMobil Corporation Oil & Gas XOM
+
+United Technologies Diversified Manufacturing UTX
+
+Caterpillar, Inc. Construction Machinery CAT
+
+Procter & Gamble Household & Personal Products PG
+
+Altria Group, Inc. Tobacco MO
+
+American International Group Insurance AIG
+
+Johnson & Johnson Drugs JNJ
+
+Honeywell International, Inc. Diversified HON
+
+American Express Company Credit Cards AXP
+
+Coca-Cola Company Beverage Manufacturing KO
+
+McDonald’s Corporation Restaurants MCD
+
+Merck & Co., Inc. Drugs MRK
+
+Hewlett-Packard Company Computer Equipment HPQ
+
+Dupont El de Nemours & Co. Chemicals DD
+
+Citigroup, Inc. International Banks C
+
+J.P. Morgan Chase & Co. International Banks JPM
+
+Verizon Communications, Inc. Telecommunication Services VZ
+
+Wal-Mart Stores, Inc. Discount Stores WMT
+
+AT&T, Inc. Telecommunication Services T
+
+General Electric Company Diversified Manufacturing GE
+
+Alcoa, Inc. Aluminum AA
+
+General Motors Corporation Automakers GM
+
+Walt Disney Company Media Conglomerates DIS
+
+Home Depot, Inc. Home Supply HD
+
+Microsoft Corporation Software MSFT
+
+Intel Corporation Semiconductors INTC
+
+Pfizer, Inc. Drugs PFE
+
+cc0055..iinndddd 5599 11//2266//0088 33::0088::2211 AAMM
+
+[60] THE LITTLE BOOK THAT BUILDS WEALTH
+
+at W al-Mart because other people shop at Wal-Mart—they
+
+shop there because stuff is cheap.
+
+Sticking with Dow components, what about American
+
+Express? Ah, now we’re onto something. The rewards
+
+and perks that Amex offers users help it to compete with
+
+other credit cards, but if its cards weren’t accepted at
+
+millions of places where people want to spend money,
+
+Amex could offer triple the level of rewards and still have
+
+a tiny number of users. That huge network of merchants
+
+is what gives Amex a competitive advantage over any
+
+other company that may want to start up a new credit
+
+card. The more places you can use your Amex card, the
+
+more valuable that card becomes to you, which is a big
+
+reason behind the company’s recent push to get Amex
+
+accepted at smaller merchants like convenience stores
+
+and gas stations.
+
+Now think about how many large credit card net-
+
+works there are in the United States. The top four—Visa,

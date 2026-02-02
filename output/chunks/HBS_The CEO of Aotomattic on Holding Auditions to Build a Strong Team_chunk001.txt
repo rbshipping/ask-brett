@@ -1,0 +1,166 @@
+SOURCE: HBS_The CEO of Aotomattic on Holding Auditions to Build a Strong Team.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Hiring and Talent Management
+SUMMARY: The CEO of Automattic discusses the company's unique hiring process that focuses on tryouts and output-based work rather than traditional resume screening and 9-to-5 workdays.
+KEYWORDS: hiring, talent management, tryouts, output-based work, remote work
+---
+
+Welcome to the new HBR.org. Here’s what’s new. Here’s an FAQ.
+
+HIRING
+
+The CEO of Automattic on
+
+Holding “Auditions” to Builda
+
+Strong Team
+
+by Matt Mullenweg
+
+FROM THE APRIL 2014 ISSUE -
+
+PHOTOGRAPHY: LIZ CARUANA
+
+The Idea: In its early years, Automattic relied on traditional résumé screening and
+
+interviews to do its hiring. But over time Mullenweg came to focus on tryouts, in which
+
+final candidates are paid to spend several weeks working on a project.
+
+Automattic employs 230 people. We’re located in 170 cities all over the world. Although ‘we: °
+
+maintain an office in San Francisco that functions like a coworking space, most of our
+
+employees work somewhere other than our home base. Some are even nomads, traveling
+
+from place to place and couch to couch.
+
+This might seem like a recipe for disaster—low productivity, poor management, and abuse.
+
+But Automattic is profitable and fast-growing. With an applicant-screening process that
+
+gives candidates genuine job responsibilities and relationships, we can hire smarter, retain
+
+strong employees longer, and reduce terminations and turnover. The key? Tryouts.
+
+Where 9 to 5 Fails
+
+It all starts with the way we think about work. In my experience, people in lots of
+
+companies are just going through the motions. If someone shows up in the morning
+
+dressed appropriately and isn’t drunk or asleep at his desk, we assume he’s working. If he’s
+
+making spreadsheets and to-do lists, we assume he’s working really hard. Unfortunately,
+
+none of this gets at what an employee actually creates during the day. It’s possible (and,
+
+sadly, not uncommon) for someone to sit at a desk for eight hours, moving papers and
+
+sending e-mail, without producing any results.
+
+The CEO of Automattic on Holding “Auditions” to Build a Strong Team
+
+At Automattic we focus on what you create, not whether you live up to some ideal of the
+
+“good employee.” We measure work according to outputs. I don’t care what hours you
+
+work. I don’t care if you sleep late or if you pick upa child at school in the afternoon. I don’t
+
+care if you spend the afternoon on the golf course and then work from 2 to 5 AM. What do
+
+you actually produce? Many people create great things without sitting at a desk in an office
+
+all day, including all the people at Automattic. (One employee recently wrote a book about
+
+his time with us. Its title—The Year Without Pants—should tell you something about our
+
+lack of emphasis on professional dress.) We work in open-source software, which is a
+
+decentralized product, so uncoupling our workforce from the 9-to-5 workday makes sense.
+
+We can do it well because we have the right team.
+
+We used to hire people the way most other companies do. We’d screen résumés and
+
+conduct interviews. Sometimes we asked candidates brainteaser-style questions, as
+
+Microsoft and Google famously did. We focused on their past experiences and paid special
+
+’ attention to what other start-ups they’d worked for. A candidate might interview with five
+
+employees, and we’d all take him or her out to lunch. We invested a lot of energy in the
+
+process, and we believed we were being as rigorous as we could.
+
+Inevitably, some of those hires didn’t work out, which was a big disappointment. When you
+
+hire someone, you see all the potential in the world. If things break down, you have to do
+
+some soul-searching. Is it my fault? Is it something I did as a manager? How did we miss the
+
+less-than-positive signs? Managers at other companies appeared not to care, assuming that
+
+it was normal for a third of new hires to wash out. But it seemed so inefficient.
+
+As we considered the situation, it became clear that we were being influenced by aspects of
+
+an interview—such as someone’s manner of speaking or behavior in a restaurant—that have
+
+no bearing on how a candidate will actually perform. Some people are amazing
+
+interviewees and charm everyone they talk to. But if the job isn’t going to involve charming
+
+others, their interview skills don’t predict how well they’ll do as employees. Just like work,
+
+interviews can be “performed” without real productivity.
+
+Tryouts Trump Interviews
+
+The more we thought about why some hires succeeded and some didn’t, the more we
+
+recognized that there is no substitute for working alongside someone in the trenches. So
+
+we gradually changed our approach. I still personally review most of the résumés we
+
+receive, and we screen out about 85% of candidates immediately, for lack of relevant
+
+experience, lack of technical skills, or mistakes on the application. (One thing I don’t pay
+
+much attention to is education: I’m a University of Houston dropout, so it would be
+
+hypocritical of me to obsess over where or whether someone went to college.) Candidates
+
+then have initial interviews, usually via online chat.
+
+Since March 2013 Automattic has received
+
+314 applications, interviewed 155
+
+candidates, run 94 tryouts, and hired 38
+
+people
+
+The most significant shift we’ve made is requiring every final candidate to work with us for
+
+three to eight weeks on a contract basis. Candidates do real tasks alongside the people they
+
+would actually be working with if they had the job. They can work at night or on weekends,
+
+so they don’t have to leave their current jobs; most spend 10 to 20 hours a week working
+
+with Automattic, although that’s flexible. (Some people take a week’s vacation in order to
+
+focus on the tryout, which is another viable option.) The goal is not to have them finish a
+
+product or do a set amount of work; it’s to allow us to quickly and efficiently assess
+
+whether this would be a mutually beneficial relationship. They can size up Automattic
+
+while we evaluate them.
+
+Paying them for their efforts is important; this isn’t about getting work done free. Originally
+
+we tried to set hourly pay rates based on what they might earn if they were hired, but that
+
+became too complicated. We were almost negotiating what we would pay someone who

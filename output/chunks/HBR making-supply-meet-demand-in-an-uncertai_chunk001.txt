@@ -1,0 +1,126 @@
+SOURCE: HBR making-supply-meet-demand-in-an-uncertai.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Supply Chain Management
+SUMMARY: The article discusses the challenges of meeting uncertain demand in a volatile market and proposes a new approach called 'accurate response' to improve forecasting and minimize the impact of inaccurate forecasts.
+KEYWORDS: supply chain, demand forecasting, production planning, inventory management, accurate response
+---
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 1of 9
+
+Making Supply Meet Demand in an Uncertain World
+
+by Marshall L. Fisher, Janice H. Hammond, Walter R. Obermeyer, and Ananth Raman
+
+Thanks to global competition, faster product development, and increasingly flexible manufacturing systems, an unprecedented
+
+number and variety of products are competing in markets ranging from apparel and toys to power tools and computers. Despite
+
+the benefits to consumers, this phenomenon is making it more difficult for manufacturers and retailers to predict which of their
+
+goods will sell and to plan production and orders accordingly.
+
+As a result, inaccurate forecasts are increasing, and along with them the costs of those errors. Manufacturers and retailers
+
+alike are ending up with more unwanted goods that must be marked down—perhaps even sold at a loss—even as they lose
+
+potential sales because other articles are no longer in stock. In industries with highly volatile demand, like fashion apparel, the
+
+costs of such “stockouts” and markdowns can actually exceed the total cost of manufacturing.1
+
+To address the problem of inaccurate forecasts, many managers have turned to one or another popular production-scheduling
+
+system. But quick-response programs, just-in-time (JIT) inventory systems, manufacturing resource planning, and the like are
+
+simply not up to the task. With a tool like manufacturing resource planning, for example, a manufacturer can rapidly change the
+
+production schedule stored in its computer when its original forecast and plan prove incorrect. Creating a new schedule doesn’t
+
+help, though, if the supply chain has already been filled based on the old one.
+
+Similarly, quick response and JIT address only part of the overall picture. A manufacturer might hope to be fast enough to
+
+produce in direct response to demand, virtually eliminating the need for a forecast. But in many industries, sales of volatile
+
+products tend to occur in a concentrated season, which means that a manufacturer would need an unjustifiably large capacity
+
+to be able to make goods in response to actual demand. Using quick response or JIT also may not be feasible if a company is
+
+dependent on an unresponsive supplier for key components. For example, Dell Computer Corporation developed the capability
+
+to assemble personal computers quickly in response to customers’ orders but found that ability constrained by component
+
+suppliers’ long lead times.
+
+We think that manufacturers and retailers alike can greatly reduce the cost of forecasting errors by embracing accurate
+
+response, a new approach to the entire forecasting, planning, and production process. We believe that companies can improve
+
+their forecasts and simultaneously redesign their planning processes to minimize the impact of inaccurate forecasts. Accurate
+
+response provides a way to do both. It entails figuring out what forecasters can and cannot predict well, and then making the
+
+supply chain fast and flexible so that managers can postpone decisions about their most unpredictable items until they have
+
+some market signals, such as early-season sales results, to help correctly match supply with demand.
+
+This approach incorporates two basic elements that other forecasting and scheduling systems either totally or partially lack.
+
+First, it takes into account missed sales opportunities. Forecasting errors result in too little or too much inventory. Accurate
+
+response measures the costs per unit of stockouts and markdowns, and factors them into the planning process. Most
+
+companies do not even measure how many sales they have lost, let alone consider those costs when they commit to
+
+production.
+
+Second, accurate response distinguishes those products for which demand is relatively predictable from those for which
+
+demand is relatively unpredictable. It does this by using a blend of historical data and expert judgment.
+
+Those two elements help companies rethink and overhaul not only every important aspect of their supply chains—including the
+
+configuration of their supplier networks, schedules for producing and delivering unfinished materials, transportation, and the
+
+number and location of warehouses—but also the designs of their products. Armed with the knowledge of which products have
+
+predictable demand and which do not, they can then take different approaches to manufacturing each class of product. Those
+
+in the relatively predictable category should be made the furthest in advance in order to reserve greater manufacturing capacity
+
+for making unpredictable items closer to the selling season. Such a strategy enables companies to make smaller quantities of
+
+the unpredictable products in advance, see how well the different goods fare early in the selling period, and then use that
+
+information to determine which products to make more of.
+
+Accurate response thus enables companies to use the power of flexible manufacturing and shorter cycle times much more
+
+effectively. And the capability to do a better job of matching supply and demand produces savings that drop straight to the
+
+bottom line. One supplier in the fashion-ski-apparel business, Aspen, Colorado-based Sport Obermeyer, Ltd., has slashed its
+
+mismatch costs in half by using accurate response.
+
+By dramatically reducing mismatch costs, this approach also gives companies the option of taking a further action: lowering
+
+prices. Currently, suppliers, distributors, and retailers alike build mismatch costs into their prices. In other words, they try to
+
+make consumers pay more to cover the cost of inaccurate forecasts.
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 2of 9
+
+Clearly, companies that make or sell products with long lifetimes and steady sales do not need to make such changes to their
+
+forecasting and planning systems. Forecasts for those products are likely to be consistently close to the mark, and in any case,
+
+the long lifetimes of such products greatly reduce the cost of any forecast inaccuracy. But for companies that deal with
+
+products that are new or highly seasonal, or have short lifetimes, the accurate response approach is essential. Any
+
+manufacturer whose capacity is constrained during peak production periods can benefit from making better use of its off-peak
+
+capacity. And any retailer that has difficulty predicting demand can likewise benefit by learning which products to order in bulk
+
+before the selling season and which to order in increments during the season.

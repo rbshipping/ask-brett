@@ -1,0 +1,210 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Performance Measurement and Improvement
+SUMMARY: The text discusses how P&G developed new performance measures focused on consumer preferences and holistic product experience, moving beyond just technical product performance.
+KEYWORDS: performance measurement, consumer insights, product improvement, strategic thinking, Procter & Gamble
+---
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch06.indd 151 11/6/12 8:20 PM
+
+152 Playing to Win
+
+and business-unit levels (and using that same measure across busi-
+
+nesses and over time) enabled more balanced, consistent, and
+
+r eliable p erformance.
+
+Measures can and should be developed throughout the orga-
+
+nization. We asked P&G leaders to think about the kinds of mea-
+
+sures that would truly advance strategic thinking in their own
+
+businesses. Some measures were highly industry specific and were
+
+put in place in only a few P&G businesses. But other measures cre-
+
+ated or implemented in a given business spread across the organi-
+
+zation. Some of the best thinking about cross-enterprise measures
+
+concerned understanding consumer preferences, like Henretta’s
+
+work in baby care.
+
+Like many P&G businesses, the diaper business had become
+
+a bit myopic—it was focused on technical product performance.
+
+Recalls Henretta: “Basically, we used to test how much moisture
+
+a diaper could absorb. That was the test of product superior-
+
+ity, and that, over time, got equated with brand superiority. The
+
+product that had the best absorbency was deemed to be the best
+
+diaper. All of our metrics over time were geared to that absor-
+
+bency metric. That’s how we defined success or nonsuccess. If
+
+we had a better diaper, a more absorbent, technically superior
+
+diaper, we then by definition would have the better product for
+
+consumers.”6
+
+But did consumers think about diapers in the same way? Hen-
+
+retta had her doubts: “As diapers got more and more sophisticated,
+
+moms started to expect more. It wasn’t just good enough to have
+
+the technical performance” on one primary product dimension. In
+
+fact, most of the diapers on the market had quite similar levels of
+
+performance on the absorbency front. And though tests typically
+
+showed its products had superior absorbency, Pampers wasn’t
+
+winning in the marketplace.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch06.indd 152 11/6/12 8:20 PM
+
+Manage What Matters 153
+
+Henretta wanted to explore the other measures that might
+
+drive consumer preference, purchase, and, over time, loyalty. “We
+
+created a metric that would look holistically at all of the compo-
+
+nents that made up product or brand preference. Our weighted
+
+purchase intent (WPI) measure looked at a number of product
+
+dimensions that included things like the aesthetic appeal, the
+
+design, the feel of the diaper, the look of the diaper in addition
+
+to technical performance; it also considered the brand proposi-
+
+tion you were giving to the consumer and the price of the prod-
+
+uct.” The goal of WPI was to capture the complete picture, the
+
+full proposition as presented to consumers. It was to understand
+
+all the components of the consumer value equation: the drivers of
+
+consumer preference and the overall perceptions of product and
+
+brand value.
+
+The WPI metric, Henretta says, “started to show where we had
+
+deficiencies. Even where we had technical superior performance,
+
+we found that we had a WPI disadvantage; when you consider all
+
+of the ways a mom evaluates a baby-care brand, we just weren’t
+
+doing enough on some of the other aspects, like the feel of the
+
+diaper, the look of the diaper, the design of the diaper.” The data
+
+gave Henretta the ammunition she needed to spur a change in the
+
+business: “It was an important part of making the shift, because we
+
+could show the organization, and even my leadership team, that
+
+we weren’t doing as well on our diapers as we thought we were.
+
+They had this view that we had far and away the most superior
+
+diaper. They weren’t taking into consideration all these other pur-
+
+chase factors that the consumer used when she made her decision
+
+on what brand she was going to buy; she was coming up with a
+
+very different value equation than our internal technical testing
+
+showed.” WPI suggested that factors like the way the baby looked
+
+in the diaper and the ease of putting the infant in the diaper were
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch06.indd 153 11/6/12 8:20 PM
+
+154 Playing to Win
+
+far more important than technologists believed. “We proved,
+
+market by market, that when we used this WPI metric, we could
+
+explain the dynamics in the marketplace,” Henretta says. “The
+
+WPI winner was the fastest-growing brand in the marketplace and
+
+often the market leader.”
+
+The data from the WPI analysis informed the transformation
+
+of the baby-care business, and the metric soon spread throughout
+
+P&G. WPI was just one of many measures that better helped P&G
+
+win. The company took existing best-in-class measures, adopted
+
+them, and adapted them to make them better, like using an adapted
+
+net promoter score to track consumer sentiment and loyalty.7 The
+
+company also developed unique and proprietary test methodolo-
+
+gies. Together, these measures were very important contributors to
+
+P&G’s strategic success.
+
+Shifting Gears
+
+Every company needs systems to formulate, refine, and clearly
+
+communicate the essentials of the strategy choice cascade through-
+
+out the company. It needs systems to support and invest in its core
+
+capabilities. It needs systems to measure attainment of its goals.
+
+These management systems are a key piece of the strategy puzzle.
+
+While where to play and how to win represent the heart of strat-
+
+egy, those choices won’t provide sustainable advantage without
+
+associated core capabilities that drive competitive advantage and
+
+the management systems that support the choices.
+
+Building management systems takes time, money, and
+
+focus. There is no one-size-fits-all set of systems; they need to
+
+be geared to individual context and capabilities. Until a set of
+
+systems and measures is in place, the strategic choice cascade is

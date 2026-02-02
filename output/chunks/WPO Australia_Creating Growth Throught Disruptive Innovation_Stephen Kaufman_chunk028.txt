@@ -1,0 +1,170 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Modular Architectures and Industry Integration
+SUMMARY: The text discusses how modular architectures can lead to the decline of integrated firms and the rise of non-integrated firms, but circumstances can drive reintegration in the industry.
+KEYWORDS: modular architectures, industry integration, competitive advantage, disruptive innovation
+---
+
+nonintegrated firms can now outcompete the integrated firms that had dominated
+
+the industry. Whereas integration at one point was a competitive necessity, it later
+
+becomes a competitive disadvantage.!?
+
+Figure 4.2
+
+Impact of Modular Architectures on the Degree of Integration in the Computer Industry
+
+Materials
+
+Components
+
+Figure 4-2 is simplified, in that the integrated business model did not disappear
+
+overnight—rather, it became less dominant as the trajectory of performance improvement passed
+
+through each tier of each market and the modular model gradually became more dominant.
+
+4]
+
+We emphasize that the circumstances of performance gaps and performance surpluses
+
+drive the viability of these strategies of architecture and integration. This means, of course, that if
+
+the circumstances change again, the strategic approach must also change. Indeed, after 1990
+
+there has been some reintegration in the computer industry. We describe one factor that drives
+
+reintegration in the next section, and return to it in chapter S.
+
+The Drivers of Reintegration
+
+Because the trajectory of technological improvement typically outstrips the ability of
+
+customers in any given tier of the market to utilize it, the general current flows from
+
+interdependent architectures and integrated companies toward modular architectures and
+
+nonintegrated companies. But remember, customers’ needs change too. Usually this happens at a
+
+relatively slower pace, as suggested by the dotted lines on the disruption diagram. On occasion
+
+there can be a discontinuous shift in the functionality that customers demand, essentially shifting
+
+the dotted line in figure 4-1 upward. This flips the industry back toward the left side of the
+
+diagram and resets the clock into an era in which integration once again is the source of
+
+competitive advantage.
+
+For example, in the early 1980s Apple Computer’s products employed a proprietary
+
+architecture involving extensive interdependence within the software and across the hardware—
+
+software interface. By the mid-1980s, however, a population of specialized firms such as
+
+WordPerfect and Lotus, whose products plugged into Microsoft’s DOS operating system through
+
+a well-defined interface, had arisen to dethrone Apple’s dominance in software. Then in the early
+
+1990s, the dotted lines of functionality that customers needed in PC software seemed to shift up
+
+as customers began demanding to transfer graphics and spreadsheet files into word processing
+
+documents, and so on. This created a performance gap, flipping the industry to the not-good-
+
+enough side of the world where fitting interdependent pieces of the system together became
+
+competitively critical again.
+
+In response, Microsoft interdependently knitted its Office suite of products (and later its
+
+Web browser) into its Windows operating system. This helped it stretch so much closer to what
+
+customers needed than could the population of focused firms that the nonintegrated software
+
+companies, including WordPerfect and Lotus’s 123 spreadsheet, vaporized very quickly.
+
+Microsoft’s dominance did not arise from monopolistic malfeasance. Rather, its integrated value
+
+chain under not-good-enough conditions enabled it to make products whose performance came
+
+closer to what customers needed than could nonintegrated competitors under those conditions."
+
+Today, however, things may be poised to flip again. As computing becomes more
+
+Internet-centric, operating systems with modular architectures (such as Linux), and modular
+
+programming languages (such as Java) constitute new-market disruptions relative to Microsoft.
+
+This modularity is enabling a population of specialized firms to begin making incursions into this
+
+industry.
+
+In a similar way, fifteen years ago in optical telecommunications the bandwidth available
+
+over a fiber was more than good enough for voice communication; as a consequence, the
+
+industry structure was horizontally stratified, not vertically integrated. Corning made the optical
+
+fiber, Siemens cabled it, and other companies made the multiplexers, the amplifiers, and so on.
+
+As the screams for more bandwidth intensified in the late 1990s, the dotted line in figure 4-1
+
+shifted up, and the industry flipped into a not-good-enough situation. Corning found that it could
+
+not even design its next generation of fiber if it did not interdependently design the amplifier, for
+
+example. It had to integrate across this interface in order to compete, and it did so. Within a few
+
+years, there was more than enough bandwidth over a fiber, and the rationale for being vertically
+
+integrated disappeared again.
+
+The general rule is that companies will prosper when they are integrated across interfaces
+
+in the value chain where performance, however it is defined at that point, is not good enough
+
+relative to what customers require at the next stage of value addition. There are often several of
+
+these points in the complete value-added chain of an industry. This means that an industry will
+
+rarely be completely nonintegrated or integrated. Rather, the points at which integration and
+
+nonintegration are competitively important will predictably shift over time.’? We return to this
+
+notion in greater detail in chapter 5.
+
+Aligning Your Architecture Strategy to Your Circumstances
+
+In a modular world, supplying a component or assembling outsourced components are
+
+both appropriate “solutions.” In the interdependent world of inadequate functionality, attempting
+
+to provide one piece of the system doesn’t solve anybody’s problem. Knowing this, we can
+
+predict the failure or success of a growth business based on managers’ choices to compete with
+
+modular architectures when the circumstances mandate interdependence, and vice versa.
+
+Attempting to Grow a Nonintegrated Business When Functionality Isn’t Good Enough
+
+It’s tempting to think you can launch a new-growth business by providing one piece of a modular
+
+product’s value. Managers often see specialization as a less daunting path to entry than providing
+
+an entire system solution. It costs less and allows the entrant to focus on what it does best,
+
+leaving the rest of the solution to other partners in the ecosystem. This works in the
+
+circumstances in the lower-right portions of the disruption diagram. But the seemingly lower
+
+hurdle often proves illusory and causes many growth ventures to fail when functionality and
+
+reliability are inadequate. Modularity often is not technologically or competitively possible
+
+during the early stages of many disruptions.
+
+To succeed with a nonintegrated, specialist strategy, you need to be certain you’re
+
+competing in a modular world. Three conditions must be met in order for a firm to procure

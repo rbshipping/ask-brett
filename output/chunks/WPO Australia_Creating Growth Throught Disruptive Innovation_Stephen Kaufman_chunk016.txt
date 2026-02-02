@@ -1,0 +1,178 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Distributed Storage Technology
+SUMMARY: The text discusses the disruptive impact of distributed storage technologies, such as network-attached appliances, on centralized storage systems.
+KEYWORDS: distributed storage, network-attached appliances, disruptive innovation, centralized storage, technological disruption
+---
+
+Network relative to the centralized storage systems supplied by companies like EMC. Some of these distributed
+
+Appliance networked storage are so simple to augment that an office assistant can simply “snap” an additional storage
+
+1-23
+
+server onto a network.
+
+Wireless Cellular and digital wireless phones have been on a disruptive path against wireline phones for 25 years.
+
+Telephony Initially they were large, power-hungry car phones with spotty efficacy; but gradually have improved to the
+
+point where, by some estimates, nearly one-fifth of mobile telephone users have chosen to “cut the cord” and
+
+do without wireline telephone service. The viability of the wireline long distance business is now in
+
+jeopardy,
+
+Xerox Photocopying has been a new-market disruption relative to offset printing, enabling non-printers to make
+
+smaller volumes of copies in the convenience of their workplace. Xerox’s initial machines were so expensive
+
+and complicated that they were housed in corporate photocopy centers manned by technicians,
+
+Notes
+
+1. We mentioned in the introduction that in early stages of theory building, the best that
+
+scholars can do is suggest categories that are defined by the attributes of the phenomena.
+
+Such studies are important stepping stones in the path of progress. One such important
+
+book is Richard Foster, Innovation: The Attacker’s Advantage (New York: Summit
+
+Books, 1986). Another study predicted that the leaders will fail when an innovation
+
+entails development of completely new technological competencies. See Michael L.
+
+Tushman and Philip Anderson, “Technological Discontinuities and Organizational
+
+Environments,” Administrative Science Quarterly 31 (1986). The research of MIT
+
+Professor James M. Utterback and his colleagues on dominant designs has been
+
+particularly instrumental in moving this body of theory toward circumstance-based
+
+categorization. See, for example, James M. Utterback and William J. Abernathy, “A
+
+Dynamic Model of Process and Product Innovation” Omega 33, no. 6 (1975): 639-656;
+
+and Clayton M. Christensen, Fernando F. Suarez, and James M. Utterback, “Strategies
+
+for Survival in Fast-Changing Industries,” Management Science 44, no.12 (2001): s207-
+
+$2202. Demanding customers are those customers who are willing to pay for increases on
+
+some dimension of performance—faster speeds, smaller sizes, better reliability, and so
+
+on. Less-demanding or undemanding customers are those customers who would rather
+
+make a different trade-off, accepting less performance (slower speeds, larger sizes, less
+
+reliability, and so on) in exchange for commensurately lower prices. We depict these
+
+trajectories as straight lines because empirically, when charted on semi-long graph paper,
+
+they in fact are straight, suggesting that our ability to utilize improvement increases at an
+
+exponential pace—though a pace that is shallower than the trajectory of technological
+
+rOgress.
+
+After watching students and managers read, interpret, and talk about this distinction
+
+between sustaining and disruptive technologies, we have observed a stunningly common
+
+human tendency to take a new concept, new data, or new way of thinking and morph it so
+
+that it fits one’s existing mental models. Hence, many people have equated our use of the
+
+term sustaining innovation with their preexisting frame of “incremental” innovation, and
+
+they have equated the term disruptive technology with the words radical, breakthrough,
+
+out-of-the-box, or different. They then conclude that disruptive ideas (as they define the
+
+term) are good and merit investment. We regret that this happens, because our findings
+
+relate to a very specific definition of disruptiveness, as stated in our text here. It is for this
+
+reason that in this book we have substituted the term disruptive innovation for the term
+
+disruptive technology—to minimize the chance that readers will twist the concept to fit
+
+into what we believe is an incorrect way of categorizing the circumstances.
+
+1-24
+
+4
+
+a ‘s Dilemma notes that the only times that established companies succeeded
+
+\_HBiice, IBM was able to remain atop its industry when minicomputers disrupte
+
+in staying atop their industries when confronted by disruptive technologies were when the
+
+established firms created a completely separate organization and gave it an unfettered
+
+charter to build a completely new business with a completely new business model.
+
+mainframes because it competed in the minicomputer market with a different business
+
+unit. And when the personal computer emerged, IBM addressed that disruption by
+
+creating an autonomous business unit in Florida. Hewlett-Packard remained the leader in
+
+printers for personal computing because it created a division to make and sell ink-jet
+
+printers that was completely independent from its printer division in Boise, which made
+
+and sold laser jet printers. Since publication of The Jnnovator’s Dilemma, a number of
+
+companies that were faced with disruption have succeeded in becoming leaders in the
+
+wave of disruption coming at them by setting up separate organizational units to address
+
+the disruption. Charles Schwab became the leading online broker; Teradyne, the maker of
+
+semiconductor test equipment, became the leader in PC-based testers; and Intel
+
+introduced its Celeron chip, which reclaimed the low end of the microprocessor market.
+
+We hope that as more established companies learn to address disruptions through
+
+independent business units when faced with disruptive opportunities, the odds that
+
+historically were overwhelmingly favorable to entrant firms and their venture capital
+
+backers will become more favorable to established leaders who seek to create new-
+
+growth opportunities.
+
+An exception to this statement is found in Japan, where a couple of integrated mills have
+
+subsequently acquired existing minimill companies.
+
+The economists’ simple notion that price is determined at the intersection of supply and
+
+demand curves explains this phenomenon. Price gravitates to the cash cost of the
+
+marginal, or highest-cost, producer whose capacity is required for supply to meet the
+
+quantity demanded. When the marginal producers were high-cost integrated mills,
+
+minimills could make money in rebar. When the marginal, highest-cost producers were
+
+minimills, then the price of rebar collapsed. The same mechanism destroyed the
+
+temporary profitability to the minimills of each subsequent tier of the market, as
+
+described in the text that follows.
+
+That cost reduction rarely creates competitive advantage is argued persuasively in
+
+Michael Porter, “What Is Strategy?” Harvard Business Review, November—December
+
+1996, 61~78.
+
+We recommend in particular Steven C. Wheelwright and Kim B. Clark, Revolutionizing
+
+New Product Development (New York: The Free Press, 1992); Stefan Thomke,

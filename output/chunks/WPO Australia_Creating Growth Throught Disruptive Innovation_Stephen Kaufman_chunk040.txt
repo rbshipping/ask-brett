@@ -1,0 +1,164 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Product Disruption and Commoditization
+SUMMARY: The text discusses how successful companies can become vulnerable to disruption and commoditization when they overshoot their customers' needs.
+KEYWORDS: product architecture, cost advantages, commoditization, market disruption, customer needs
+---
+
+leftmost side of the disruption diagram, the companies that are most successful are integrated
+
+companies that design and assemble the not-good-enough end-use products. They make
+
+attractive profits for two reasons. First, the interdependent, proprietary architecture of their
+
+products makes differentiation straightforward. Second, the high ratio of fixed to variable costs
+
+that often is inherent in the design and manufacture of architecturally interdependent products
+
+creates steep economies of scale that give larger competitors strong cost advantages and create
+
+formidable entry barriers against new competitors.
+
+This is why, for example, IBM, as the most integrated competitor in the mainframe
+
+computer industry, held a 70 percent market share but made 95 percent of the industry’s nrofits:
+
+It had proprietary products, strong cost advantages, and high entry barriers. For the same vasons,
+
+from the 1950s through the 1970s, General Motors, with about 55 percent of the U.S. automobile
+
+market, gammered 80 percent of the industry’s profits. Most of the firms that were suppliers to
+
+IBM and General Motors, in contrast, had to make do with subsistence profits year after year.
+
+These firms’ experiences are typical. Making highly differentiable products with strong cost
+
+advantages is a license to print money, and lots of it?
+
+We must emphasize that the reason many companies don’t reach this nirvana or remain
+
+there for long is that it is the not-good-enough circumstance that enables managers to offer
+
+products with proprietary architectures that can be made with strong cost advantages versus
+
+competitors. When that circumstance changes—when the dominant, profitable companies
+
+overshoot what their mainstream customers can use-—then this game can no longer be played,
+
+and the tables begin to turn. Customers will not pay still-higher prices for products they already
+
+deem too good. Before long, modularity rules, and commoditization sets in. When the relevant
+
+dimensions of your product’s performance are determined not by you but by the subsystems that
+
+you procure from your suppliers, it becomes difficult to earn anything more than subsistenc
+
+returns in a product category that used to make a lot of money. When your world become./
+
+modular, you’ll need to look elsewhere in the value chain to make any serious money.
+
+The natural and inescapable process of commoditization occurs in six steps:
+
+1. As anew market coalesces, a company develops a proprietary product that, while
+
+iN Ja not good enough, comes closer to satisfying customers’ needs than any of its
+
+competitors. It does this through a proprietary architecture, and earns attractive
+
+profit margins.
+
+Yan 2. As the company strives to keep ahead of its direct competitors, it eventually
+
+U overshoots the functionality and reliability that customers in lower tiers of the
+
+market can utilize.
+
+3. This precipitates a change in the basis of competition in those tiers, which. . .
+
+5-2
+
+4... .precipitates an evolution toward modular architectures, which. . .
+
+5... facilitates the dis-integration of the industry, which in turn. . .
+
+6... .makes it very difficult to differentiate the performance or costs of the product
+
+versus those of competitors, who have access to the same components and assemble
+
+according to the same standards. This condition begins at the bottom of the market,
+
+where functional overshoot occurs first, and then moves up inexorably to affect the
+
+higher tiers.
+
+Note that it is overshooting—the more-than-good-enough circumstance—that connects
+
+disruption and the phenomenon of commoditization. Disruption and commoditization can be
+
+seen as two sides of the same coin. A company that finds itself in a more-than-good-enough
+
+circumstance simply can’t win: Either disruption will steal its markets, or commoditization will
+
+steal its profits. Most incumbents eventually end up the victim of both, because, although the
+
+pace of commoditization varies by industry, it is inevitable, and nimble new entrants rarely miss
+
+an opportunity to exploit a disruptive foothold.
+
+There can still be prosperity around the corner, however. The attractive profits of the
+
+future are often to be earned elsewhere in the value chain, in different stages or layers of added
+
+value. That’s because the process of commoditization initiates a reciprocal process of de-
+
+commoditization. Ironically, this de-commoditization—with the attendant ability to earn lots of
+
+money~—occurs in places in the value chain where attractive profits were hard to attain in the
+
+past: in the formerly modular and undifferentiable processes, components, or subsystems.*
+
+To visualize the reciprocal process, remember the steel minimills from chapter 1. As long
+
+as the minimills were competing against integrated mills in the rebar market, they made a lot of
+
+money because they had a 20 percent cost advantage relative to the integrated mills. But as soon
+
+as they drove the last high-cost competitor out of the rebar market, the low-cost minimills found
+
+themselves slugging it out against equally low-cost minimills in a commodity market, and
+
+competition among them caused pricing to collapse. The assemblers of modular products
+
+generally receive the same reward for victory as the minimills did whenever they succeed in
+
+driving the higher-cost competitors and their proprietary architectures out of a tier in their
+
+market: The victorious disruptors are left to slug it out against equally low-cost disruptors who
+
+are assembling modular components procured from a common supplier base. Lacking any basis
+
+for competitive differentiation, only subsistence levels of profit remain. A low-cost strategy
+
+works only as long as there are higher-cost competitors left in the market.>
+
+The only way that modular disruptors can keep profits healthy is to carry their low-cost
+
+business models up-market as fast as possible so that they can keep competing at the margin
+
+against higher-cost makers of proprietary products. Assemblers of modular products do this by
+
+finding the best performance- defining components and subsystems and incorporating them in
+
+their products faster than anyone else.° The assemblers need the very best performance-defining
+
+components in order to race up-market where they can make money again. Their demand for
+
+improvements in performance-defining components, as a result, throws the suppliers of those
+
+components back to the not-good-enough side of the disruption diagram.
+
+5-3
+
+Competitive forces consequently compel suppliers of these performance-defining
+
+components to create architectures that, within the subsystems, are increasingly interdependent

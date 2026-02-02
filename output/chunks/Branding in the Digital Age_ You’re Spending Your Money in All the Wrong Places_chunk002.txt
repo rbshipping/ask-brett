@@ -1,0 +1,172 @@
+SOURCE: Branding in the Digital Age_ You’re Spending Your Money in All the Wrong Places.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Digital Marketing Strategy
+SUMMARY: The article discusses the shift from the traditional marketing funnel to the consumer decision journey (CDJ) and its implications for marketing strategy.
+KEYWORDS: consumer decision journey, marketing allocation, advocacy, owned media, earned media
+---
+
+advocate-buy loop that skips the consider and evaluate stages entirely.
+
+The Journey in Practice
+
+Although the basic premise of the consumer decision journey may not seem radical, its
+
+implications for marketing are profound. Two in particular stand out.
+
+First, instead of focusing on how to allocate spending across media—television, radio,
+
+online, and so forth—marketers should target stages in the decision journey. The research
+
+my colleagues and I have done shows a mismatch between most marketing allocations and
+
+the touch points at which consumers are best influenced. Our analysis of dozens of
+
+marketing budgets reveals that 70% to 90% of spend goes to advertising and retail
+
+promotions that hit consumers at the consider and buy stages. Yet consumers are often
+
+influenced more during the evaluate and enjoy-advocate-bond stages. In many categories
+
+the single most powerful impetus to buy is someone else’s advocacy. Yet many marketers
+
+focus on media spend (principally advertising) rather than on driving advocacy. The
+
+coolest banner ads, best search buys, and hottest viral videos may win consideration for a
+
+brand, but if the product gets weak reviews—or, worse, isn’t even discussed online—it’s
+
+unlikely to survive the winnowing process.
+
+The second implication is that marketers’ budgets are constructed to meet the needs of a
+
+strategy that is outdated. When the funnel metaphor reigned, communication was one-
+
+way, and every interaction with consumers had a variable media cost that typically
+
+outweighed creative’s fixed costs. Management focused on “working media spend”—the
+
+portion of a marketing budget devoted to what are today known as paid media.
+
+This no longer makes sense. Now marketers must also consider owned media (that is, the
+
+channels a brand controls, such as websites) and earned media (customer-created
+
+channels, such as communities of brand enthusiasts). And an increasing portion of the
+
+budget must go to “nonworking” spend—the people and technology required to create and
+
+manage content for a profusion of channels and to monitor or participate in them.
+
+More than 60% of consumers of facial skin
+
+care products do online research about
+
+them after purchase—a touch point
+
+entirely missing from the funnel model.
+
+Launching a Pilot
+
+The shift to a CDJ-driven strategy has three parts: understanding your consumers’ decision
+
+journey; determining which touch points are priorities and how to leverage them; and
+
+allocating resources accordingly—an undertaking that may require redefining
+
+organizational relationships and roles.
+
+One of McKinsey’s clients, a global consumer electronics company, embarked on a CDJ
+
+analysis after research revealed that although consumers were highly familiar with the
+
+brand, they tended to drop it from their consideration set as they got closer to purchase. It
+
+wasn’t clear exactly where the company was losing consumers or what should be done.
+
+What was clear was that the media-mix models the company had been using to allocate
+
+marketing spend at a gross level (like the vast majority of all such models) could not take
+
+the distinct goals of different touch points into account and strategically direct marketing
+
+investments to them.
+
+The company decided to pilot a CDJ-based approach in one business unit in a single
+
+market, to launch a major new TV model. The chief marketing officer drove the effort,
+
+engaging senior managers at the start to facilitate coordination and ensure buy-in. The
+
+corporate VP for digital marketing shifted most of his time to the pilot, assembling a team
+
+with representatives from functions across the organization, including marketing, market
+
+research, IT, and, crucially, finance. The team began with an intensive three-month market
+
+research project to develop a detailed picture of how TV consumers navigate the decision
+
+journey: what they do, what they see, and what they say.
+
+What they do.
+
+Partnering with a supplier of online-consumer-panel data, the company identified a set of
+
+TV shoppers and drilled down into their behavior: How did they search? Did they show a
+
+preference for manufacturers’ or retailers’ sites? How did they participate in online
+
+communities? Next the team selected a sample of the shoppers for in-depth, one-on-one
+
+discussions: How would they describe the stages of their journey, online and off? Which
+
+resources were most valuable to them, and which were disappointing? How did brands
+
+enter and leave their decision sets, and what drove their purchases in the end?
+
+The research confirmed some conventional wisdom about how consumers shop, but it also
+
+overturned some of the company’s long-standing assumptions. It revealed that off-line
+
+channels such as television advertising, in-store browsing, and direct word of mouth were
+
+influential only during the consider stage. Consumers might have a handful of products
+
+and brands in mind at this stage, with opinions about them shaped by previous experience,
+
+but their attitudes and consideration sets were extremely malleable. At the evaluate stage,
+
+consumers didn’t start with search engines; rather, they went directly to Amazon.com and
+
+other retail sites that, with their rich and expanding array of product-comparison
+
+information, consumer and expert ratings, and visuals, were becoming the most important
+
+influencers. Meanwhile, fewer than one in 10 shoppers visited manufacturers’ sites, where
+
+most companies were still putting the bulk of their digital spend. Display ads, which the
+
+team had assumed were important at the consider stage, were clicked on only if they
+
+contained a discount offer, and then only when the consumer was close to the buy stage.
+
+And although most consumers were still making their purchases in stores, a growing
+
+number were buying through retail sites and choosing either direct shipping or in-store
+
+pickup.
+
+The research also illuminated consumers’ lively relationships with many brands after
+
+purchase—the enjoy-and-advocate stage so conspicuously absent from the funnel. These
+
+consumers often talked about their purchases in social networks and posted reviews
+
+online, particularly when they were stimulated by retailers’ postpurchase e-mails. And
+
+they tended to turn to review sites for troubleshooting advice.
+
+What they see.
+
+To better understand consumers’ experience, the team unleashed a battery of hired
+
+shoppers who were given individual assignments, such as to look for a TV for a new home;

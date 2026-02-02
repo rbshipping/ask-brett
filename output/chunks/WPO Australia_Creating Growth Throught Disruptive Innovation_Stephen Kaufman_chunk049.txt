@@ -1,0 +1,94 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Product Disruption and Innovation
+SUMMARY: The text discusses how disruptive innovations in products and services can enable new market entrants to compete against established players.
+KEYWORDS: product disruption, disruptive innovation, new market entry, competitive advantage
+---
+
+dry cleaning is not yet good enough, so the power to build a profitable brand is likely to
+
+reside in the product for some time. What is more, just as Sony’s solid-state electronics
+
+products enabled discount merchandisers to compete against appliance stores, so P&G’s
+
+Dryel gives Wal-Mart a vehicle to move up-market and begin competing against dry
+
+cleaning establishments. P&G is doing the same thing with its introduction of its Crest
+
+brand do-it-yourself teeth whitening system, a new-market disruption of a service that
+
+historically could only be provided by professionals. We thank one of Professor
+
+Christensen’s former students, David Dintenfass, a global brand manager at Procter &
+
+Gamble, for pointing this out to us.
+
+Kec}
+
+of fen
+
+Me fia, te
+
+17.
+
+19.
+
+20.
+
+As we have shared these hypotheses with students, some of the more stylishly dressed
+
+among them have asked whether this applies also to the highest-fashion brands, such as
+
+Gucci, and in product categories such as cosmetics. Those who know us probably have
+
+observed that dressing ourselves in fashionable, branded merchandise just isn’t a job that
+
+we have been trying to get done in our lives. We confess, therefore, to having no intuition
+
+about the world of high fashion. It will probably persist profitably forever. Who are we to
+
+know?
+
+Remaining competitive at the level of the process-defined value chain that the current
+
+auto assemblers dominate is likely to require that they move toward new distribution
+
+structures—an integration of supply chains and customer interfaces in a way that
+
+effectively exploits the modularity of the product itself. How this can be done and its
+
+performance implications are explored at length in the Deloitte Research study “Digital
+
+Loyalty Networks,” available for download at http://www.de.com/research, or upon
+
+request from delresearch@dc.com
+
+Those of our readers who believe in the efficiency of capital markets and the abilities of
+
+investors to diversify their portfolios will see no tragedy in these decisions. After these
+
+divestitures the shareholders of the two auto giants found themselves owning stock in
+
+companies that design and assemble cars, and in companies that supply performance-
+
+enabling subsystems. It is because we are writing this book for the benefit of managers in
+
+firms like General Motors and Ford that we characterize these decisions as unfortunate.
+
+We say “usually” here because there are exceptions (most, but not all, of which prove the
+
+rule). We note in the text of this chapter, for example, that two modular stages of added
+
+value can be juxtaposed—as DRAM memory chips fit in modular personal computers.
+
+And there are instances where two interdependent architectures need to be integrated,
+
+such as when enterprise resource planning software from companies such as SAP needs
+
+to be interleaved into companies’ interdependent business processes. The fact that neither
+
+side is modular and configurable is what makes SAP implementations so technically and
+
+organizationally demanding.
+
+5-20

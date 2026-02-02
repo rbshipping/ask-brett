@@ -1,0 +1,270 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Corporate Learning and Improvement
+SUMMARY: This article discusses how companies can improve their after-action review (AAR) process to enhance future performance, by learning from the U.S. Army's standing enemy brigade.
+KEYWORDS: after-action reviews, organizational learning, continuous improvement, U.S. Army, corporate learning
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+www.hbrreprints.org
+
+After-action reviews identify Learning in the Thick
+
+past mistakes but rarely
+
+enhance future performance. of It
+
+Companies wanting to fully
+
+exploit this tool should look to
+
+its master: the U.S. Army’s
+
+standing enemy brigade,
+
+by Marilyn Darling, Charles Parry, and
+
+where soldiers learn and
+
+Joseph Moore
+
+improve even in the midst of
+
+battle.
+
+Included with this full-text Harvard Business Review article:
+
+1 Article Summary
+
+The Idea in Brief—the core idea
+
+The Idea in Practice—putting the idea to work
+
+2 Learning in the Thick of It
+
+10 Further Reading
+
+A list of related materials, with annotations to guide further
+
+exploration of the article’s ideas and applications
+
+Reprint R0507G
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It
+
+The Idea in Brief The Idea in Practice
+
+Like many managers, you probably con- To improve your AAR process: meetings—monthly or quarterly—may be
+
+duct after-action reviews (AARs) to extract sufficient to identify and correct emerging
+
+Build your AAR regimen slowly
+
+lessons from key projects and apply them problems.
+
+Rather than applying the AAR process across
+
+to others. But in most companies, AARs
+
+the board, begin using it selectively—on Focus on your own team’s learning
+
+don’t fulfill their promise: Scrapped
+
+projects where the payoff is greatest and lead- Lessons must first and foremost benefit your
+
+projects, poor investments, and failed safety
+
+ers have committed to working through sev- team, so resist any urge to create an AAR doc-
+
+measures repeat themselves—while
+
+eral AAR cycles. ument specifically for some other corporate
+
+hoped-for gains rarely materialize. One
+
+use. Focus team members on improving
+
+manufacturing executive, reading an AAR Focus on efforts critical to your team’s mission,
+
+their own learning and, as a result, their own
+
+report for a failed project that had stum- so people will be motivated to participate.
+
+performance.
+
+bled twice before, realized with horror that
+
+Conduct a before-action review (BAR)
+
+the team was “discovering” the same mis- Your people may generate a lesson during the
+
+Before embarking on an important project,
+
+takes all over again. AAR process, but they won’t have learned the
+
+answer these questions:
+
+lesson until they’ve changed their behavior. It
+
+How to transform your AARs from diag-
+
+• “What are our intended results and met- takes multiple iterations to produce solutions
+
+noses of past failure into aids for future suc-
+
+rics?” Does your team want to improve that stand up under any conditions.
+
+cess? Realize that looking for lessons isn’t
+
+product quality? Accelerate its response to
+
+the same as learning them. View the AAR as
+
+emergencies? Improve sales win/loss ratio?
+
+an ongoing learning process—rather than
+
+a one-time meeting, report, or postmor- • “What challenges do we anticipate?” Do
+
+tem. Set the stage for AARs with rigorous you expect shortages of certain resources?
+
+before-action planning—articulating your A turn in customers’ preferences?
+
+intended results, anticipated challenges,
+
+• “What have we or others learned from
+
+and lessons from previous similar situations.
+
+similar projects?” Be candid about past fail-
+
+Conduct mini-AARs after each project mile-
+
+ures—focusing on improving performance,
+
+stone—holding everyone accountable for
+
+not placing blame.
+
+applying key lessons quickly in the next
+
+project phase. • “What will enable us to succeed this time?”
+
+What practices helped you succeed in earlier
+
+Companies that master this process gain—
+
+efforts? What worked before that should be
+
+and sustain—competitive advantage. They
+
+tested under different circumstances?
+
+avoid repeating the kinds of errors that
+
+gnaw away at stakeholder value. And in- Responses to these questions align team
+
+stead of merely fixing problems, they adapt members’ objectives and set the stage for ef-
+
+more rapidly and effectively than rivals to fective AARs as your project unfolds.
+
+challenges no one even imagined.
+
+Conduct mini-BARs and AARs
+
+Break big projects into smaller chunks, book-
+
+ended by short BAR and AAR meetings con-
+
+ducted in task-focused groups. You’ll establish
+
+feedback loops that maximize project perfor-
+
+mance and foster an ongoing learning culture.
+
+But tailor your process to fit each project and
+
+project phase. For example, during periods of
+
+intense activity, use brief daily AAR meetings
+
+to help teams coordinate and improve the
+
+next day’s work. At other times, less frequent
+
+page 1
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+.DEVRESER
+
+STHGIR
+
+LLA
+
+.NOITAROPROC
+
+GNIHSILBUP
+
+LOOHCS
+
+SSENISUB
+
+DRAVRAH
+
+5002
+
+©
+
+THGIRYPOC
+
+After-action reviews identify past mistakes but rarely enhance future
+
+performance. Companies wanting to fully exploit this tool should look
+
+to its master: the U.S. Army’s standing enemy brigade, where soldiers
+
+learn and improve even in the midst of battle.
+
+Learning in the Thick
+
+of It
+
+by Marilyn Darling, Charles Parry, and
+
+Joseph Moore
+
+Imagine an organization that confronts con- called Blue Force, or BLUFOR, for the duration
+
+stantly changing competitors. That is always of the exercise—is numerically and technologi-
+
+smaller and less well-equipped than its oppo- cally superior. It possesses more dedicated re-
+
+nents. That routinely cuts its manpower and sources and better, more rapidly available data.
+
+resources. That turns over a third of its leaders It is made up of experienced soldiers. And it
+
+every year. And that still manages to win com- knows just what to expect, because OPFOR
+
+petition after competition after competition. shares its methods from previous campaigns
+
+The U.S. Army’s Opposing Force (commonly with BLUFOR’s commanders. In short, each of
+
+known as OPFOR), a 2,500-member brigade these very capable BLUFOR brigades is given
+
+whose job is to help prepare soldiers for combat, practically every edge. Yet OPFOR almost al-
+
+is just such an organization. Created to be the ways wins.
+
+meanest, toughest foe troops will ever face, Underlying OPFOR’s consistent success is
+
+OPFOR engages units-in-training in a variety of the way it uses the after-action review (AAR), a
+
+mock campaigns under a wide range of condi- method for extracting lessons from one event

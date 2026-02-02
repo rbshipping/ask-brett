@@ -1,0 +1,138 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Military Training and Tactics
+SUMMARY: The text describes the Army's After Action Review (AAR) process, which is used by the Opposing Force (OPFOR) to continuously learn and improve their tactics in training exercises.
+KEYWORDS: After Action Review, Military Training, OPFOR, Tactical Execution, Operational Orders
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+consulting.com), Charles Parry team members gather to share insights and in 1981 to help Army leaders adapt quickly in
+
+(cparry@signetconsulting.com), and identify mistakes and successes. Their conclu- the dynamic, unpredictable situations they
+
+retired Colonel Joseph Moore sions are expected to flow—by formal or infor- were sure to face. And that is the AAR as
+
+(jmoore@signetconsulting.com) are re- mal channels—to other teams and eventually OPFOR practices it every day.
+
+searchers and consultants with Boston- coalesce into best practices and global stan-
+
+based Signet Consulting Group. Moore dards. More than a Meeting
+
+is a former commander of the 11th Ar- Mostly though, that doesn’t happen. Al- Much of the civilian world’s confusion over
+
+mored Cavalry Regiment, the Opposing though the companies we studied actively look AARs began because management writers fo-
+
+Force at the U.S. Army’s National Train- for lessons, few learn them in a meaningful cused only on the AAR meeting itself. OP-
+
+ing Center in Fort Irwin, California. way. One leader at a large manufacturing com- FOR’s AARs, by contrast, are part of a cycle
+
+harvard business review • july–august 2005 page 3
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Learning in the Thick of It
+
+that starts before and continues throughout defeated or cut off from their supplies.”
+
+each campaign against BLUFOR. (BLUFOR The commander shares these orders with
+
+units conduct AARs as well, but OPFOR has his subordinate commanders—the leaders in
+
+made a fine art of them.) OPFOR’s AAR regi- charge of infantry, munitions, intelligence, lo-
+
+men includes brief huddles, extended plan- gistics, artillery, air, engineers, and communi-
+
+ning and review sessions, copious note taking cations. He then asks each for a “brief back”—
+
+by everyone, and the explicit linking of lessons a verbal description of the unit’s understand-
+
+to future actions. ing of its mission (to ensure everyone is on
+
+The AAR cycle for each phase of the cam- the same page) and its role. This step builds
+
+paign begins when the senior commander accountability: “You said it. I heard it.” The
+
+drafts “operational orders.” This document con- brief back subsequently guides these leaders
+
+sists of four parts: the task (what actions subor- as they work out execution plans with their
+
+dinate units must take); the purpose (why the subordinates.
+
+task is important); the commander’s intent Later that day, or the next morning, the
+
+(what the senior leader is thinking, explained commander’s executive officer (his second in
+
+so that subordinates can pursue his goals even command) plans and conducts a rehearsal,
+
+if events don’t unfold as expected); and the end which includes every key participant. Most re-
+
+state (what the desired result is). It might look hearsals take place on a scale model of the bat-
+
+like this: tlefield, complete with hills sculpted from
+
+Task: “Seize key terrain in the vicinity of Tiefort sand, spray-painted roads, and placards denot-
+
+City…” ing major landmarks. The rehearsal starts with
+
+Purpose: “…so that the main effort can safely a restatement of the mission and the senior
+
+pass to the north.” commander’s intent, an intelligence update on
+
+Commander’s Intent: “I want to find the enemy positions and strength, and a break-
+
+enemy’s strength and place fixing forces there down of the battle’s projected critical phases.
+
+while our assault force maneuvers to his flank Each time the executive officer calls out a
+
+to complete the enemy’s defeat. The plan calls phase, the unit leaders step out onto the ter-
+
+for that to happen here, but if it doesn’t, you rain model to the position they expect to oc-
+
+leaders have to tell me where the enemy is and cupy during that part of the action. They state
+
+which flank is vulnerable.” their groups’ tasks and purposes within the
+
+End State: “In the end, I want our forces in larger mission, the techniques they will apply
+
+control of the key terrain, with all enemy units in that phase, and the resources they expect to
+
+have available. After some discussion about
+
+what tactics the enemy might use and how
+
+units will communicate and coordinate in the
+
+Learning to Be OPFOR thick of battle, the executive officer calls out
+
+the next phase and the process is repeated.
+
+The 11th Armored Cavalry Regiment cently gave up its home-court advantage As a result of this disciplined preparation,
+
+(ACR), which has played the Opposing and traveled to BLUFOR’s home base the action that follows becomes a learning ex-
+
+Force (OPFOR) for more than a decade, when that unit-in-training’s deployment periment. Each unit within OPFOR has estab-
+
+is a brigade of regular U.S. Army sol- date was moved up. lished a clear understanding of what it intends
+
+diers. In the current environment, every Nonetheless, the Army is satisfied that to do and how it plans to do it and has shared
+
+Army unit that is deployable has been this new OPFOR—now one year into its that understanding with all other units. The
+
+activated—including the 11th ACR, role—is successfully preparing combat units have individually and collectively made
+
+which is now overseas. units for deployment to the Middle East. predictions about what will occur, identified
+
+It will return. In the meantime, a Na- It has managed that, in large part, by le- challenges that may arise, and built into their
+
+tional Guard unit that fought side by veraging the after-action review (AAR) plans ways to address those challenges. So
+
+side with the 11th ACR for ten years has regimen it learned from the 11th ACR. It when OPFOR acts, it will be executing a plan
+
+assumed the OPFOR mantle. This new is difficult to imagine a more dramatic but also observing and testing that plan. The
+
+OPFOR faces even greater challenges change than the wholesale replacement early meetings and rehearsals produce a test-
+
+than the regular brigade did. It is of one team by another. That the new able hypothesis: “In this situation, given this

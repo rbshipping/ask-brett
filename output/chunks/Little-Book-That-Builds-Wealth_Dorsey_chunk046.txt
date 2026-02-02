@@ -1,0 +1,242 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Business Valuation
+SUMMARY: This text discusses various methods for evaluating the value of a company, including cash return, which incorporates debt into the capital structure.
+KEYWORDS: valuation, cash return, enterprise value, free cash flow, business analysis
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+its debt, and kept the free cash flow. Going back to our
+
+apartment-building analogy from the preceding chapter,
+
+think of cash return as the income stream, as a percentage
+
+cc1133..iinndddd 118800 11//2288//0088 77::2277::3311 PPMM
+
+TOOLS FOR VALUATION [181]
+
+of the purchase price, that you might get from owning an
+
+apartment building outright after paying for maintenance
+
+and upkeep. Cash return tells us how much free cash
+
+flow a company is generating relative to the cost of buy-
+
+ing the whole company, including its debt burden.
+
+This measure improves on the earnings yield because it
+
+looks at free cash flow (owner earnings) and incorporates
+
+debt into the company’s capital structure. To calculate cash
+
+return, add free cash flow (cash flow from operations,
+
+minus capital expenditures) to net interest expense (interest
+
+expense minus interest income). That’s the top half of the
+
+ratio. The bottom half is called “enterprise value,” which is
+
+the company’s market capitalization (equity) plus long-term
+
+debt, minus any cash on the balance sheet. Divide free cash
+
+flow plus net interest by enterprise value, and there you
+
+go—cash return.
+
+As an example, let’s take a quick look at Covidien
+
+Ltd., a huge health-care company that was part of Tyco
+
+International before that company broke itself up. In
+
+2007, Covidien posted about $2 billion in free cash flow,
+
+and it paid about $300 million in interest. So, $2 billion
+
+plus $300 million equals $2.3 billion, and there’s the
+
+top half of the ratio. The company has a market cap of
+
+$20 billion and long-term debt of about $4.6 billion, and
+
+the sum of those numbers, less $700 million in cash on the
+
+balance sheet, is Covidien’s enterprise value of $23.9 billion.
+
+cc1133..iinndddd 118811 11//2288//0088 77::2277::3311 PPMM
+
+[182] THE LITTLE BOOK THAT BUILDS WEALTH
+
+We divide $2.3 billion by $23.9 billion, and we get a cash
+
+return of 9.6 percent, which is pretty juicy considering
+
+that that cash stream should grow over time, because
+
+Covidien sells into a number of health-care markets with
+
+solid prospects.
+
+So, now you have a number of valuation tools at your
+
+disposal—multiples and yields—and you should have an
+
+idea of when each is useful and when it’s not. How do you
+
+put these together to decide whether the price of a stock
+
+is less than its value?
+
+The short answer is “very carefully.” The long answer
+
+is that it takes practice and a fair amount of trial and
+
+error to become skilled at identifying undervalued stocks,
+
+but I think the following five tips will give you better odds
+
+of success than most investors.
+
+1. Always remember the four drivers of valuation: risk,
+
+return on capital, competitive advantage, and growth.
+
+All else being equal, you should pay less for riskier
+
+stocks, more for companies with high returns on
+
+capital, more for companies with strong competitive
+
+advantages, and more for companies with higher
+
+growth prospects.
+
+Bear in mind that these drivers compound each
+
+other. A company that has the potential to grow
+
+for a long time, with low capital investment, little
+
+cc1133..iinndddd 118822 11//2288//0088 77::2277::3311 PPMM
+
+TOOLS FOR VALUATION [183]
+
+competition, and reasonable risk, is potentially
+
+worth a l ot more than one with similar growth pros-
+
+pects but lower returns on capital and an uncertain
+
+competitive outlook. Investors who focus blindly
+
+on the popular P/E-to-growth (PEG) ratio usually
+
+miss this key point, because they are forgetting that
+
+growth at a high return on capital is much more
+
+valuable than growth at a low return on capital.
+
+2. Use multiple tools. If one ratio or metric indicates
+
+that the company is cheap, apply another as well.
+
+The stars won’t always align, but when they do, it’s
+
+a good indication that you’ve found a truly under-
+
+valued company.
+
+3. Be patient. Wonderful businesses do not trade at
+
+great prices very often, but as Warren Buffett has
+
+said, “There are no called strikes in investing.”
+
+Have a watch list of wonderful businesses that you
+
+would love to own at the right price, wait for that
+
+price, and then pounce. Although you don’t want
+
+to be too picky—opportunity does have a cost—
+
+remember one thing when the decision is not clear:
+
+Not making money beats l osing money any day of
+
+the week.
+
+4. Be tough. The odds are good that the world will be
+
+telling you not to invest at precisely the time that
+
+you should. Wonderful businesses do not trade for
+
+cc1133..iinndddd 118833 11//2288//0088 77::2277::3311 PPMM
+
+[184] THE LITTLE BOOK THAT BUILDS WEALTH
+
+great prices when the headlines are positive and
+
+Wall Street is cheery; they get cheap when the
+
+news is bad and investors overreact. You’ll have to
+
+buy when everyone else is selling, which is not easy.
+
+It is profitable, though, and that’s the nice thing
+
+about it.
+
+5. Be yourself. You will make better investment deci-
+
+sions based on your own hard-won knowledge about
+
+a company than you will decisions based on any pun-
+
+dit’s tips. The reason is simple. If you understand
+
+the source of a company’s economic moat and you
+
+think the business is trading for less than its value, it
+
+will be much easier for you to make the tough
+
+against-the-grain decisions required of a successful
+
+investor. If, however, you are constantly relying on
+
+the tips and advice of others without doing some
+
+research on your own, you’ll be constantly questioning
+
+whether that advice is any good, and you’ll probably
+
+buy high and sell low.
+
+The best business in the world will be a bad invest-
+
+ment if purchased at an unattractive price. Ask anyone
+
+who bought Coke or Cisco in 1999 or 2000—they were
+
+great businesses then, and they still are today, but their
+
+valuations were so high that there was no room for error
+
+or for profit. Buying a stock without close attention to
+
+cc1133..iinndddd 118844 11//2288//0088 77::2277::3322 PPMM
+
+TOOLS FOR VALUATION [185]
+
+valuation is like buying a car without looking at the sticker
+
+price. If you buy the car, at least you get to enjoy driving

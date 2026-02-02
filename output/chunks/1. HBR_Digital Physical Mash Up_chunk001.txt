@@ -1,0 +1,194 @@
+SOURCE: 1. HBR_Digital Physical Mash Up.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Digital Business Transformation
+SUMMARY: To survive in the digital age, companies must integrate their physical and digital offerings to meet consumer demand for a seamless experience across both worlds.
+KEYWORDS: digital-physical integration, customer experience, business transformation, disruptive innovation, omnichannel strategy
+---
+
+SEPTEMBER 2014
+
+HBR.ORG
+
+REPRINT R1409F
+
+Digital-Physical
+
+Mashups
+
+To consumers, the real and virtual worlds are one.
+
+The same should go for your company.
+
+by Darrell K. Rigby
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Darrell K. Rigby is a
+
+partner in the Boston
+
+office of Bain & Company
+
+and heads the firm’s
+
+global retail practice. He
+
+is the author of Winning
+
+in Turbulence (Harvard
+
+Business Review Press,
+
+2009), among other books.
+
+digital-physical
+
+mashups
+
+TO CONSUMERS, THE REAL AND VIRTUAL WORLDS ARE ONE.
+
+THE SAME SHOULD GO FOR YOUR COMPANY. BY DARRELL K. RIGBY
+
+IN
+
+the early days of the digital revolution, many lead- technologies. The failure of the second may be less
+
+ers of established companies did their best to ignore obvious but is now well documented. Companies
+
+the upheaval, convinced that the threat from new that milked existing businesses while betting on in-
+
+technologies wouldn’t ever amount to much. As dependent digital start-ups that had no competitive
+
+that premise faltered, many flipped in their thinking, advantages usually wound up discarding decades’
+
+concluding that digital would inexorably destroy worth of physical assets and gambling away mil-
+
+their positions. To survive, it seemed, they’d have to lions in real value. Sears Holdings may be the poster
+
+stop throwing money at the old businesses, salvage child for this kind of miscalculation: Underinvesting
+
+what they could, and launch independent digital in its stores while pouring resources into online
+
+ventures. The existing units probably wouldn’t sur- ventures, it has suffered a 75% decline in stock price
+
+vive, but disruptive digital businesses could replace over the past seven years. Similar examples crop up
+
+the zombies in a company’s portfolio. in many industries.
+
+Both views proved misguided. The failure of The central problem with either extreme is that
+
+the first hardly needs elaboration: No company it fails to account for how customers have changed:
+
+can safely ignore the changes wrought by digital They now weave their digital and physical worlds so
+
+2 Harvard Business Review September 2014 COPYRIGHT © 2014 HARVARD BUSINESS SCHOOL PUBLISHING CORPORATION. ALL RIGHTS RESERVED.
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+IAYNAB
+
+NAVTSI
+
+:NOITARTSULLI
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+EMAN
+
+:YHPARGOTOHP/NOITARTSULLI
+
+DIGITAL-PHYSICAL MASHUPS
+
+tightly together that they can’t fathom why compa- “digical” fusions ultimately prove to be 10- to 20-year
+
+nies haven’t done the same. Let me relate a personal transitions toward further disruption, aren’t they still
+
+anecdote that illustrates the problem. the best way to extend your core business, generate
+
+Last December my daughter Stacy wanted to buy cash to fund continued evolution, and build the capa-
+
+the Just Dance 4 video game for her little girl. She bilities that will be essential for future success?
+
+found it on a major retailer’s website for $29.97. To My colleagues and I have studied more than 300
+
+be on the safe side—Christmas was approaching— companies around the globe and have worked di-
+
+she decided to go to the retailer’s local store and pick rectly with hundreds more that are trying to cope
+
+it up. There, however, it was selling for $47.97, a 60% with the dazzling but daunting changes reshaping
+
+markup. She was surprised, but she remembered the the marketplace. We’ve found that most indus-
+
+company’s price-matching guarantee, so she asked tries are still in the early stages of digital-physical
+
+for the online price. No dice, said the cashier—the transformation (see the exhibit “Digical’s Growing
+
+guarantee applied only to competitors’ prices. Momentum”). We’ve also found that the greatest
+
+barrier to adopting fusion strategies is not skepti-
+
+THE GREATEST BARRIER TO
+
+cism about their promise but inexperience with their
+
+ADOPTING FUSION STRATEGIES execution. Executives are intrigued by the possibili-
+
+ties and recognize their potential but are uncertain
+
+IS NOT SKEPTICISM ABOUT
+
+how to make them work.
+
+THEIR PROMISE BUT INEXPERIENCE Not surprisingly, best practices in this area are still
+
+emerging. But drawing on our study of leaders from
+
+WITH THEIR EXECUTION.
+
+20 global industries, we have identified five rules that
+
+account for much of the difference between success
+
+and failure. Some of them are common sense but not
+
+“Wait,” Stacy said. “I can buy this game online and commonly practiced. Others may sound heretical, at
+
+have it shipped to the store free, right?” The cashier least to the proponents of digital disruption. But the
+
+agreed, but cautioned that it might take several days. leaders we studied uncovered big growth opportuni-
+
+My daughter replied, “But it’s on your shelf now. ties while rivals stood by wringing their hands. So it’s
+
+Can’t I just pay for it online and take one from the worth examining what they did and how.
+
+shelf?” Of course not, was the response; the store
+
+and the online operation were separate businesses, Rule #1
+
+and that would mess things up. Standing at the reg-
+
+ister, Stacy ordered the item on her phone, and a few Build your strategy around digital-
+
+days later she came back to collect it—another exas- physical fusion. It can be your new
+
+perating process. competitive edge.
+
+People experience disconnects like this one all Some of the world’s leading strategy experts have
+
+the time. Here we are, a quarter century into the pronounced sustainable competitive advantage
+
+digital revolution, yet many companies still ago- dead. They explain that technology now changes so
+
+nize over whether to invest significant resources in rapidly, and advantages are copied so quickly, that
+
+digital capabilities. Those that have done so tend to companies must learn to leap continually from one
+
+run their digital operations as independent business wave of opportunity to the next—even though each

@@ -1,0 +1,200 @@
+SOURCE: eCommera_ClickAndCollect_v1.0.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Omni-channel Retail Operations
+SUMMARY: The text provides recommendations for improving click and collect service, focusing on stock allocation and order status notification.
+KEYWORDS: click and collect, stock management, order fulfillment, customer experience, training
+---
+
+service review check-points. Avoid relying purely
+
+on documentation to train staff. Provide live
+
+training sessions on your new processes as well as
+
+documentation to ensure that the information has
+
+been understood and absorbed. Communicate to
+
+staff the value of the service so they see the benefit
+
+in being prepared to provide an excellent service.
+
+Consider implementing a customer-feedback
+
+programme in-store. This can allow you to monitor
+
+the level of service and adjust training requirements
+
+as you go.
+
+wwwwww..eeccoommmmeerraa..ccoomm MMaakkiinngg mmoonneeyy aatt oommnnii--cchhaannnneell:: HHooww NNOOTT ttoo ddoo cclliicckk aanndd ccoolllleecctt || 77
+
+How NOT to do click and collect
+
+STOCK ALLOCATION
+
+Don’t maintain a
+
+Why not? What should you do?
+
+channel-centric l Customers have to wait longer for their order: Invest in an order management system to give you
+
+Without a single view of stock, click and collect a single view of stock. Many retailers in a rush to
+
+orders are sent from the warehouse regardless implement omni-channel services have taken a
+
+view of stock
+
+of whether the item is in the selected store. This ‘Band-Aid’ approach to tying together their systems.
+
+means customers have to wait on average 3-5
+
+While this might provide an immediate workaround,
+
+days to receive their order versus making the
+
+it is not the right approach for long-term success.
+
+order available from store stock in as little as 30
+
+To provide an optimal click and collect experience,
+
+minutes.
+
+retailers need a real-time single view of stock –
+
+l You are not best-utilising available stock across daily batch updates or approximation of stock
+
+the network: Without a single view of stock there levels are simply not good enough.
+
+is no option of using slow moving store stock
+
+The Argos website – where customers can choose
+
+to fulfil web orders, which typically means more
+
+from reservation and immediate pick-up or home
+
+stock goes to markdown than is necessary.
+
+delivery options – highlights the strength this can
+
+l Returns take too long to get back into the provide to a customer proposition.
+
+network: With fragmented stock pools returns
+
+take longer to get back into the network for resale.
+
+Rather than putting them directly on the shop floor
+
+for immediate resale, they need to be returned to
+
+the warehouse and processed – all of which is
+
+time the product is unavailable for resale.
+
+wwwwww..eeccoommmmeerraa..ccoomm MMaakkiinngg mmoonneeyy aatt oommnnii--cchhaannnneell:: HHooww NNOOTT ttoo ddoo cclliicckk aanndd ccoolllleecctt || 88
+
+How NOT to do click and collect
+
+ORDER STATUS NOTIFICATION
+
+Don’t forget to notify customers the order is in store
+
+Why not? What should you do?
+
+l You risk ‘losing’ the customer: With so many 1. H ave a clear set of automated delivery
+
+options, you only need to provide one poor notifications for the customer
+
+shopping experience to lose what could have
+
+2. H ave a set of in-store instructions for staff
+
+otherwise been a long-term, loyal customer.
+
+to follow if item is not collected on first day,
+
+l Uncollected orders are expensive: You have including contacting the customer directly
+
+to notify the customer, cancel the order, prepare
+
+If at all possible and where appropriate, ensure
+
+a refund and then return the item to stock –
+
+the item can be made available for sale in store,
+
+which could involve shipping the item back to
+
+to save return shipment costs. With a single
+
+a warehouse (slowing stock turn as well as
+
+view of stock, this item could be fulfilled from
+
+carrying delivery costs).
+
+the store to an online order – mitigating the
+
+lost sale opportunity.
+
+wwwwww..eeccoommmmeerraa..ccoomm MMaakkiinngg mmoonneeyy aatt oommnnii--cchhaannnneell:: HHooww NNOOTT ttoo ddoo cclliicckk aanndd ccoolllleecctt || 99
+
+How NOT to do click and collect
+
+TECHNOLOGY
+
+Don’t maintain separate systems for each channel or develop
+
+workarounds to integrate systems
+
+Why not? What should you do?
+
+Consider the following scenarios all of
+
+l It will cost more money in the long- which are a result of disparate systems: Make the right investment for the long term. Ideally, you want to be in a situation
+
+run: With workarounds you will be where you have all of your systems integrated. That can mean replacing some of
+
+l A customer buys an order online and
+
+investing in development time to get those systems or investing in a new system that will tie them all together.
+
+returns it to the store. On return they
+
+your systems functioning in the way
+
+are not refunded as the POS is separate The first step in any technology evaluation process is to define your services
+
+that you need. Each change or new
+
+from the online payments system. The roadmap. What do you plan to offer to your customers along what timeline? With this
+
+feature will require further investment
+
+customer has to wait for a refund. defined you’ll need to do a technology audit. Do your current systems stack up? Will
+
+in development.
+
+they get you where you need to be or do you need to start evaluating other options?
+
+l It will provide a sub-optimal l A customer is due to come in and to
+
+Consider the following questions:
+
+customer experience: Remember pick up their click and collect order; an
+
+that customers are unaware of upsell opportunity is lost as the shop l Am I happy with each of the elements in my technology stack? For example,
+
+channels and have no patience for assistant is unable to suggest other is your eCommerce platform delivering good value or could you benefit from a
+
+poor experiences that are the result relevant items for purchase as they more robust system? Identify the elements which are due for replacement. If the
+
+of system disconnects. have no access to customer purchase list is small, you may want to investigate options to integrate all of your systems
+
+history information. using an order management system or a middleware layer.
+
+l You won’t be able to keep pace
+
+with the changing expectations of l A customer inquires in store as to the l How much time are you spending as a trading team focused on technology?

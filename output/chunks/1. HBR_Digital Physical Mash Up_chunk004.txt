@@ -1,0 +1,176 @@
+SOURCE: 1. HBR_Digital Physical Mash Up.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Digital-Physical Integration
+SUMMARY: Disney's billion-dollar investment in a new entrepreneurial unit, Next Generation Experience, to integrate digital and physical experiences for customers.
+KEYWORDS: digital-physical integration, customer experience, organizational transformation, innovation, Disney
+---
+
+tomer touchpoint. Disney decided that the $1 billion-
+
+plus vision was so much bigger than anything its cel-
+
+ebrated Imagineering team of designers and product
+
+developers had ever undertaken that it required a
+
+new kind of organization. It set up an entrepreneur-
+
+ial unit dubbed Next Generation Experience, which
+
+ultimately employed more than 1,000 people from incremental revenue with a 20% operating margin.
+
+across the company’s functions. If those numbers hold up, it will earn a healthy re-
+
+Next Generation’s leaders engaged experts from turn on its billion-dollar investment.
+
+IT, Imagineering, theme park operations, market-
+
+ing, and other functional areas. Their first release, Rule #4
+
+the MyMagic+ system, combines digital technol-
+
+ogy with the three-dimensional theme park: My Organizational separation
+
+Disney Experience, a new website and mobile app, is just an interim step.
+
+facilitates vacation planning and collects informa- The choice between digital disruption and digi-
+
+tion about personal preferences; FastPass+ lets cal transformation has dramatic implications for a
+
+guests reserve attraction and character-greeting company’s operating model and organizational de-
+
+times and seats for shows; and MagicBands (RFID sign. But those implications may not be apparent at
+
+wristbands) act as tickets, room keys, FastPass+ first, because in either case successful innovators
+
+verifications, and credit cards, allowing guests to typically start by separating their digital revolution-
+
+charge meals or souvenirs with a flick of the wrist. aries from the core business. Separation enables
+
+The bands also interact with sensors in the park these companies to attract talented innovators
+
+and transmit behavioral information that enables and programmers, locating them in San Francisco,
+
+Disney to enhance the guest experience still further. Cambridge, Tel Aviv, Hyderabad, or anywhere else
+
+Future applications may include the personaliza- they want to be. A specialized capability—one un-
+
+tion of rides and attractions—for example, Winnie impeded by corporate bureaucracy and uncontami-
+
+the Pooh might greet a child by name and wish him nated by old-style thinking—can be built quickly. An
+
+a happy birthday. Thanks to the initiative, Disney upstart culture can challenge the status quo and seek
+
+is on target to realize some $500 million in annual to develop radical innovations. Compensation plans
+
+September 2014 Harvard Business Review 7
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+DIGITAL-PHYSICAL MASHUPS
+
+2007; e-commerce revenue can’t possibly grow fast
+
+enough to replace lost revenue from the stores.
+
+Digital-physical transformations have different
+
+objectives and thus different operating models. The
+
+initial aim is to acquire digital skills as strong as those
+
+of any pure play disrupter. But the ultimate goal is
+
+to create the best of both worlds, developing capa-
+
+bilities that pure plays will be unable or unwilling to
+
+copy. So separation is a transitional step; over time
+
+the company will want to build at least some inte-
+
+gration, which has advantages of its own: It satisfies
+
+customers’ wish for a seamless digital-physical ex-
+
+perience, enables greater efficiency and economies
+
+of scale, and permits better coordination, avoiding
+
+duplicated effort. It also facilitates timely commu-
+
+nication and execution of decisions, thus reducing
+
+conflict. An integrated business can leverage existing
+
+company assets in ways that a separate unit cannot.
+
+This kind of fusion is working well for Macy’s. As
+
+early as 2005 the company was devoting consider-
+
+able resources to website and infrastructure capac-
+
+ity, and in 2010 it mapped out an “omnichannel”
+
+strategy—a long-term plan that included a host of
+
+initiatives designed to create seamless customer
+
+experiences both online and in stores. Finding that
+
+customers who used both channels to shop were five
+
+times as profitable as those who shopped online only,
+
+and incentives can be tailored to the needs of the Macy’s invested heavily in its iconic Herald Square
+
+new rather than to the requirements of the old. store in New York City and hundreds of others as well
+
+But at some point these companies must make a and began integrating them with its online business.
+
+decision. If they are facing digital disruption, they’ll It has turned virtually all of them into omnichannel
+
+leave the businesses separate for a long time—maybe fulfillment centers: Customers can order online and
+
+forever. The core, after all, is a rival to be milked pick up their items at a local store. The Herald Square
+
+and ultimately destroyed. The businesses compete store is undergoing a $400 million renovation and
+
+for market share, management attention, and fi- will feature interactive directories, the widespread
+
+nancial resources in a battle to the death. Only one use of RFID tagging to track individual items, and a
+
+will be left standing. That may be the model Sears mobile app to guide customers as they shop. Sales
+
+chose. Under CEO Edward S. Lampert, Sears has associates equipped with mobile devices will be able
+
+invested heavily in its wholly separate e-commerce to summon shoes from the back room without ever
+
+business; one Credit Suisse analyst has said, “[Its] leaving the customer.
+
+website is better than [that of] just about any other Organizational changes reflect Macy’s growing
+
+retailer I cover.” Online sales have grown steadily, integration. In January 2013, for example, Robert B.
+
+and by late 2013 they were about $1.2 billion a year, Harrison, previously the executive vice president
+
+according to analysts. But the company’s under- for omnichannel strategy, became the first chief om-
+
+investment in brick-and-mortar has been signifi- nichannel officer, reporting to CEO Terry Lundgren.
+
+cant. In 2012, for instance, Sears spent an average of He also joined the company’s executive commit-
+
+$1.46 per square foot on its stores, compared with tee. As he continued to manage the development
+
+the average of $9.45 per square foot spent by four of strategies to closely integrate stores, online, and
+
+of its chief competitors, according to the New York mobile activities, Harrison assumed responsibility
+
+Times. Online sales account for only about 2.5% for systems and technology, logistics, and related
+
+of total sales, which have declined steadily since operating functions.
+
+8 Harvard Business Review September 2014

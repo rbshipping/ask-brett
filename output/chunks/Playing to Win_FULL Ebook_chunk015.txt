@@ -1,0 +1,200 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Automotive Industry Strategy
+SUMMARY: The text discusses the strategy of GM's Saturn brand, which aimed to play in the small car segment but failed to invest enough to win against competitors like Toyota, Honda, and Nissan.
+KEYWORDS: automotive strategy, GM, Saturn, small car segment, Toyota, Honda, Nissan
+---
+
+to sustain a full lineup of cars or a national dealer network. As one
+
+former GM director said of Saturn, “it may well be the biggest
+
+fiasco in automotive history since Ford brought out the Edsel.”4
+
+The folks running Saturn aspired to participate in the US small-
+
+car segment with younger buyers. By contrast, Toyota, Honda,
+
+and Nissan all aspired to win in that segment. Guess what hap-
+
+pened? Toyota, Honda, and Nissan all aimed for the top, making
+
+the hard strategic choices and substantial investments required to
+
+win. GM, through Saturn, aimed to play and invested to that much
+
+lower standard. Initially Saturn did OK as a brand. But it needed
+
+substantial resources to keep up against Toyota, Honda, and Nis-
+
+san, all of which were investing at breakneck speed. GM couldn’t
+
+and wouldn’t keep up. Saturn died, not because it made bad cars,
+
+but because its aspirations were simply too modest to keep it alive.
+
+The aspirations did not spur winning where-to-play and how-to-
+
+win choices, capabilities, and management systems.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch02.indd 38 11/6/12 8:17 PM
+
+What Is Winning 39
+
+To be fair, GM had myriad challenges that made playing to win
+
+a daunting prospect—troubling union relations, oppressive legacy
+
+health-care and pension costs, and difficult dealer regulations.
+
+However, playing to play, rather than seeking to play to win, per-
+
+petuated the overall corporate problems rather than overcoming
+
+them. Contrast the approach at GM to the approach at P&G, where
+
+the company plays to win whenever it chooses to play. And the
+
+approach holds even in the unlikeliest of places. Playing to win is
+
+reasonably straightforward to contemplate in a consumer market.
+
+But what does it look like for an internal, shared-services function?
+
+Even there, you can play to win, as Filippo Passerini, president of
+
+P&G’s global business services (GBS) unit demonstrates.
+
+Playing to Win
+
+At the end of the dot-com bubble, the IT world was in turmoil.
+
+The NASDAQ had melted down, taking both the credibility of
+
+the high-tech industry and the broader market indexes with it,
+
+throwing the economy into a recession. Yet, despite the crash, it
+
+was clear that spending on IT infrastructure and services would
+
+continue to increase. IT services were far from a core competency
+
+for most companies (including P&G), and the costs and complexi-
+
+ties of providing IT services in-house were daunting. Fortunately,
+
+riding to the rescue was a new breed of service provider: the busi-
+
+ness process outsourcer (BPO). These companies (including IBM,
+
+EDS, Accenture, TCS, and Infosys) would provide a range of IT
+
+services from the outside, managing complexity for a fee. As the
+
+postcrash dust cleared, rapidly digitizing companies were faced
+
+with decisions on how much to use BPOs, which BPO partner to
+
+select, and how best to do so. It wasn’t easy; the implications of a
+
+poor choice could be millions of dollars in extra costs and untold
+
+headaches down the line.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch02.indd 39 11/6/12 8:17 PM
+
+40 Playing to Win
+
+At P&G, many of the operations that might be outsourced had
+
+been gathered together in a 1999 reorganization. This GBS func-
+
+tion was responsible for business services including IT, facilities
+
+management, and employee services. In 2000, three options for the
+
+future of GBS were being actively explored: stay the course and
+
+continue to run GBS internally; spin off GBS (partly or wholly)
+
+to allow it to become a major player in the BPO business; or out-
+
+source most of GBS to one of the biggest existing BPO companies.
+
+It was not an easy decision. The stock markets and economy
+
+were cratering, as were the stock prices of the publicly traded
+
+BPOs. If completed, the deal would have been highly complex and
+
+at an unprecedented size for the global BPO industry. P&G had
+
+never outsourced or sold anything affecting this many employees,
+
+so the impact on morale and culture was highly uncertain. As the
+
+options were made known to employees, some employees feared
+
+the company would sell loyal P&G employees into “slavery.”
+
+The easiest thing would have been to declare that the issue
+
+was too divisive and to stick with the status quo. After all, GBS
+
+was working just fine. It was playing well in its space and deliv-
+
+ering high-quality services to a wide range of internal customers.
+
+Alternatively, P&G could have gone with the next most conven-
+
+tional option: a single large deal with a premier BPO firm like
+
+IBM Global Services or EDS. Finally, the company could have
+
+acknowledged that a large, in-house global services organization
+
+was an inefficient use of P&G resources and spun out GBS into its
+
+own BPO. Any of these choices might have seemed sensible given
+
+the circumstances. But none effectively answered the question of
+
+how P&G could win with its global services.
+
+The senior team wasn’t convinced that all of the options were
+
+on the table. So, Filippo Passerini, who had a strong IT back-
+
+ground and marketing management experience, was asked to think
+
+through the existing options and, if appropriate, suggest additional
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch02.indd 40 11/6/12 8:17 PM
+
+What Is Winning 41
+
+possibilities. Passerini struggled with the conventional choice. In
+
+theory, outsourcing to a single large BPO would create consider-
+
+able economies of scale. It was clear that the deal would be good
+
+for the BPO partner, which would secure the biggest outsourc-
+
+ing deal in the industry’s history. But there was no obvious reason
+
+why the deal would help P&G to win. P&G wanted more than
+
+cost-effectiveness and a commitment to a predefined service level

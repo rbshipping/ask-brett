@@ -1,0 +1,148 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Strategy and Technology
+SUMMARY: Retailers must adapt to changing customer shopping habits, optimize their store and channel portfolio, and prioritize security and trust to meet customer expectations.
+KEYWORDS: customer behavior, store/channel strategy, data security, personalization, brand trust
+---
+
+22
+
+Challenge: Retailers will need to fit in with the new rituals and routines of the changing customer and
+
+understand the difference between ‘fast’ and ‘slow’ shopping missions. They will need to figure out how
+
+to best meet customers’ expectations for each of these missions, and then what products, services,
+
+formats and channels they need to meet the relevant shopping missions in their sector. They will need
+
+to build adaptable in-store experience flows that enable shoppers to select their mode of engagement
+
+based on which shopping state they are currently in. A shopper may be in ‘slow’ mode one minute, and
+
+‘fast’ mode the very next, or visa versa.
+
+Challenge: Based on their strategic focus and product category, retailers will need to appropriately
+
+rebalance their store and channel portfolio over time. With long leases, this will be a slow process. And
+
+retailers will need to find ways to reallocate space to boost the experience for shoppers. One big UK
+
+grocer has already stated they will no longer be building any new large stores, and will in future
+
+exclusively invest in smaller, in-city stores and their online retail and delivery capability. They are also
+
+using space in their bigger stores for restaurants and coffee shops to create more of a destination
+
+experience.
+
+4.2.4 Security and trust
+
+Fundamentally, shopping is about trust: Trust that value-exchanges will be fair, that transactions are
+
+secure, that products will be of expected quality, that the shopping environment is safe, and that all
+
+normal social contracts will be respected. A brand stands for all of these things, and when any of these
+
+are violated, they hurt brand value. That can translate into massive destruction of value.
+
+Retail brands remain at high risk. You need only look at what befell Target* to understand the impact a
+
+security breach can have on customer confidence and trust. Target has paid a heavy price. Their data
+
+breach in December 2013 wiped roughly $5 billion off their market cap and plunged earnings 46% the
+
+next quarter.
+
+Challenge: Shoppers are demanding the level of personalization that only the collection and analysis of
+
+personal data will deliver. Retailers have little choice but to embrace data collection. As retailers deploy
+
+technology to gather more and more data on shoppers, they will need to ensure they apply appropriate
+
+focus and resources to guard shopper’s privacy and secure their personal data. In a landscape of heavy
+
+competition, a security breach that leads to a puncturing of customer loyalty could be fatal.
+
+Challenge: Retailers will need to embrace robust end-to-end security for all their data, including data
+
+related to financial transactions, loyalty program systems, and personal data gathered on consumers.
+
+Tokenized security systems with high encryption and hardware-based security will significantly
+
+outperform software-only security solutions. Retailers will need to consider a regimen of regular internal
+
+security audits to catch issues early on and assure data integrity.
+
+Recommendation: Retailers may also consider adding identity theft indemnification to their offering as
+
+a way to boost and sustain trust with shoppers. Target had to do this after the fact to try and mitigate
+
+their security breach of 2013, offering shoppers a free year of identity protection services as a way to
+
+woo back shoppers. As personal data gathering becomes more commonplace, brands that stand behind
+
+an indemnification and remediation guarantee will probably benefit from increased customer loyalty
+
+and trust.
+
+23
+
+4.2.5 Oversupply
+
+Retailers are not just facing a scenario where they have stores that are too big, and not in the right
+
+places. In most mature markets shoppers are oversupplied by the number of retailers they have to
+
+choose from. Shops are abundant. Brands are abundant and even confusingly abundant. The retail
+
+sector is saturated and the goal for retailers has now become to steal market segment share away from
+
+competitors rather than to drive overall growth for the retail sector.
+
+Differentiation in this era becomes critical, and those that embrace the second era of digital retail will
+
+find many potential avenues for differentiation.
+
+4.2.6 Inefficiency
+
+The retail model today is innately inefficient, particularly in sectors like grocery. For example, in a typical
+
+grocery store a vast amount of space is devoted to ‘dark’ retail, hosting rarely purchased products that
+
+enjoy very little traffic. For shoppers, the purchase experience can feel inefficient and even painful as
+
+they hunt to find the few products they need. They must navigate past a very long, low tail of items that
+
+represents only a very small fraction of store sales. In a grocery store, according to shopperscientist.com,
+
+the top 500 items (out of 35-40,000 line items in the average store) represent one third of all sales. The
+
+top 1000 is 42% of sales. The others are there to give the shopper a feeling of choice and abundance and
+
+to attract them to the store. From an efficiency perspective, some of these items might better be served
+
+via the online channel once delivery is able to meet consumers need for immediacy (see section 6.7).
+
+There is good news about the shift towards smaller, local stores. Using technology to deliver new
+
+formats and virtual spaces (as in the Hointer* and Adidas* examples above) could lead to a potential
+
+reduction in real-estate rental costs, improved productivity, and increased sales per square foot (or
+
+meter). In smaller stores, shoppers visit a higher percentage of the displays and shelves in the store,
+
+making that space potentially more efficient for the retailer. According to WPP, the average number of
+
+displays visited in small supermarkets is 33% versus close to 10% in a larger super center like a CostCo*
+
+or a Walmart*.
+
+Technology will also boost brick and mortar retail efficiency. Many low value-added manual processes
+
+will become automated by leveraging mobile, IOT, robotic, and other technologies. This will free labor to
+
+be more customer-facing, further improving the customer experience and differentiating retailers versus
+
+their competition. This implies that retailers will need to invest in the quality of their staff as retail labor
+
+is more focused towards delivering highly-differentiated customer service.

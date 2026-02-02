@@ -1,0 +1,188 @@
+SOURCE: Wal-Mart Way - Soderquist Don.pdf
+SUBFOLDER: Additional\HFT
+TOPIC: Retail Logistics and Distribution
+SUMMARY: The text discusses Walmart's continuous improvement in warehouse management, distribution, and material handling to revolutionize logistics and support rapid company growth.
+KEYWORDS: logistics, distribution, continuous improvement, material handling, warehouse management
+---
+
+[Document: Wal-Mart Way - Soderquist Don.pdf]
+
+that point, we were the only retailer managing freight this way, and we had
+
+established the framework for revolutionizing logistics.
+
+Continuous Improvement
+
+As our company grew and expanded geographically,we continued to open
+
+new warehouses. We always aimed to build in smaller communities where
+
+we could help the local economy and provide jobs for the local people—we
+
+felt a loyalty to our roots in small communities and found that the people
+
+living in these communities were usually very friendly and hardworking.
+
+We started by looking in a general area on a map and identifying potential
+
+towns. A real-estate associate then visited all of the sites and recommended a
+
+few possibilities. We considered all the demographics involved, and then
+
+senior leadership flew out to look at the potential locations from the air—
+
+Sam liked to look at the road systems and traffic flow from that vantage—
+
+before driving around the area to take an up-close look. I remember the day
+
+that Sam and I flew over Cullman, Alabama, on one such trip. We had visited
+
+a number of other locations, but when Sam saw the rolling hills and chicken
+
+houses from the air he said, “Don, this is it. It looks just like northwest
+
+Arkansas.”
+
+Gentlemen, the officer who doesn’t know his communications and supply as well as his tactics is totally
+
+useless.
+
+—General George S. Patton
+
+With a keen eye to improving on past performances, we built every new
+
+warehouse with major upgrades over the previous one. Each one has been
+
+more efficient, more cost-effective, and has had greater storage capacity than
+
+the last one. In order to move more merchandise and keep up with
+
+tremendous store growth, we then developed mechanization and then
+
+automation. As these new systems and processes were implemented, the
+
+older model distribution centers were retrofitted so the entire network was
+
+kept current and uniform.
+
+At first, we outfitted our warehouses with the usual material-handling
+
+equipment and conveyor systems that the manufacturers were producing.
+
+Over time, we began to challenge them to build equipment that was better
+
+suited to our specific needs. They ended up designing and producing
+
+equipment that no one had even envisioned, and before long, the warehouses
+
+were transformed into state-of the-art, full-line distribution centers, including
+
+conveyor systems equipped with barcode scanners to read and sort cartons of
+
+merchandise and move those cartons from one place in the warehouse all the
+
+way to a specific point on the shipping dock and into a waiting trailer. This
+
+tremendously reduced time and costs to move merchandise. I believe that
+
+Wal-Mart was a real pioneer in the application of material-handling
+
+equipment to a retail distribution center.
+
+When solving problems, dig at the roots instead of just hacking at the leaves.
+
+—Anthony J. D’Angelo
+
+I remember a time when several of our frontline associates came to me,
+
+saying they weren’t able to move the merchandise through our conveyor
+
+system fast enough. We had already increased the speed of our conveyor
+
+belts as fast as they could go. Their idea was that since we couldn’t safely
+
+make the belts go any faster, we needed to get our conveyor manufacturer to
+
+reduce the distance between the cartons as they moved down the conveyor
+
+and thereby improve the output. The first reaction from the manufacturer
+
+management was unyielding—they had never done it before, and they
+
+believed they couldn’t do it. We encouraged them to go back to the drawing
+
+board and find a way. A few weeks later, they came back and said they could
+
+do it. They had to revise and upgrade a number of things in their camera and
+
+support systems that read the bar code. They did it for us within a short
+
+period of time.
+
+Many of the innovations that our logistics team developed to make our
+
+distribution centers more effective and efficient are now being used in
+
+competitors’ distribution centers across the country. And we’ve continued to
+
+make advances. In the late nineties,Wal-Mart implemented special electronic
+
+equipment, including radio-frequency-controlled order filling systems. This
+
+meant that order fillers no longer worked off of printed documents or labels.
+
+Interacting with the computer through headsets and microphones attached to
+
+control units hooked on their belts, they received voice messages to identify
+
+the location and item number of each item to be picked. They verbally replied
+
+to the computer once they pulled the item, and the computer in turn verbally
+
+verified the accuracy of the item picked. This system not only improved
+
+productivity but also improved the accuracy of the entire order filling
+
+process. In addition,we have employed a method of having the computer
+
+assign locations to inbound freight and thereby electronically controlling both
+
+the storing and retrieving of all merchandise in the building.
+
+Not only has our use of equipment changed, but the layout of the
+
+distribution centers has continued to evolve and become more efficient. We
+
+began to build taller distribution centers so that we could use the cubic feet
+
+more effectively. In fact, we have changed just about everything we used to
+
+do in a distribution center, and we are still changing. At any point in time,
+
+there are numerous experiments under way, and many of them result in new
+
+systems that improve productivity and service. Wal-Mart culture has helped
+
+us to avoid the temptation to believe that “we have arrived.”We are always
+
+acutely aware that we still have a lot more to learn.
+
+Measuring and Tracking Performance
+
+Over the years, the logistics team became real experts in measuring and
+
+analyzing every aspect of their operation. Just as with every other function in
+
+Wal-Mart, the team carefully scrutinized the monthly profit-and-loss
+
+statements for any slippage in performance and took corrective action
+
+immediately. Every morning, all managers in all distribution centers receive
+
+detailed recaps of the previous day’s numbers for their areas. The managers
+
+then dissect each function to find areas where they can improve performance.
+
+They also continuously scan these numbers for possible systems
+
+improvements that they can make. The numbers are not just production

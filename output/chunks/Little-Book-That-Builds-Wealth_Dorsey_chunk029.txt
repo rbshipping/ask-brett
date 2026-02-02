@@ -1,0 +1,244 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Advantage and Growth Strategy
+SUMMARY: The text discusses how some forms of growth can erode a company's competitive advantage or 'moat', using Microsoft as an example.
+KEYWORDS: competitive advantage, moat, growth strategy, Microsoft, diversification
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+decent economic moat, and GE’s margins in particular
+
+have rebounded, but Rolls’ actions hurt all three players at
+
+the time.
+
+T he Bad Kind of Growth
+
+Some kinds of growth can cause moats to erode. In fact,
+
+I’d say the single most common self-inflicted wound to
+
+competitive advantage occurs when a company pursues
+
+growth in areas where it has no moat. Most corporate
+
+managers think bigger is always better (in fairness, man-
+
+agers at larger companies tend to get paid more than
+
+cc0088..iinndddd 111100 11//2266//0088 33::1100::1144 AAMM
+
+ERODING MOATS [111]
+
+managers at smaller companies, so it’s not illogical in
+
+some respects) and so they expand into less profitable
+
+businesses.
+
+My favorite example of this is Microsoft. Yes, the com-
+
+pany still has a very wide moat, but I’d argue that share-
+
+holders in the firm over the past decade have not been well
+
+served by the company’s attempts to expand outside of its
+
+core operating system and office productivity franchises.
+
+The list of sinkholes into which Microsoft has poured
+
+money is longer than you’d think—the Zune, MSN, and
+
+MSNBC are just a start. Did you know that the company
+
+once tried to launch a series of kids’ toys called Actimates?
+
+Or that it blew more than $3 billion on a bunch of Euro-
+
+pean cable companies in the late 1990s?
+
+Although Microsoft would likely be somewhat smaller,
+
+in terms of employees and sales, had it never ventured
+
+into any of these areas, the company’s phenomenal returns
+
+on capital would have been even higher without fruitless
+
+spending on industries in which the company had no com-
+
+petitive advantage. What business does a software com-
+
+pany have starting a cable news channel, for goodness’
+
+sake?
+
+Like many wide-moat businesses, Microsoft found
+
+itself in the enviable position of generating more cash
+
+than it needed to reinvest in the core Windows/Office
+
+franchises. And—also like more than a few wide-moat
+
+cc0088..iinndddd 111111 11//2266//0088 33::1100::1144 AAMM
+
+[112] THE LITTLE BOOK THAT BUILDS WEALTH
+
+businesses—Microsoft chose to take that cash and use it
+
+to create and expand businesses in which its competitive
+
+advantage was much weaker. Microsoft is so ridiculously
+
+profitable that this misuse of cash did not drag overall
+
+returns on capital down to an unattractive level, but that’s
+
+not the case for every company. For less profitable com-
+
+panies, no-moat investments can hurt returns on capital
+
+enough to make the entire corporation less attractive as
+
+an investment.
+
+You may be asking what Microsoft s hould have done
+
+with all that cash flow it didn’t need to keep expanding
+
+and improving Windows. Well, the company did use some
+
+to expand into complementary areas that have succeeded,
+
+such as database software and operating systems for serv-
+
+ers. It should have just given the rest back to shareholders
+
+as a dividend, a vastly underutilized tool for allocating cap-
+
+ital efficiently.
+
+A company can fill in its own moat by investing heav-
+
+ily in areas in which it has no competitive advantage.
+
+No, I Won’t Pay
+
+This is more of a sign of moat erosion than a cause, but
+
+it’s important nonetheless. If a company that has regu-
+
+larly been able to raise prices starts getting pushback
+
+from customers, you’re getting a strong signal that the
+
+company’s competitive advantage may have weakened.
+
+cc0088..iinndddd 111122 11//2266//0088 33::1100::1144 AAMM
+
+ERODING MOATS [113]
+
+I’ll give you a fairly current example from the analyst
+
+team at Morningstar. In late 2006, one of our analysts
+
+noticed that Oracle, which sells database software, was
+
+less able to raise prices on its software maintenance con-
+
+tracts than it had been in the past. Historically, maintenance
+
+contracts have been one of the most lucrative segments of
+
+companies that sell huge pieces of software to large busi-
+
+nesses. Typically, large corporate customers have favored
+
+maintenance done by the original vendor of the software,
+
+because that company is presumably the most intimately
+
+familiar with the code, and is also the most up-to-date on
+
+new versions and features of the software. Also, Oracle
+
+would essentially force companies into upgrading by
+
+announcing that it would, after a time, no longer support
+
+previous versions of the software. So, Oracle raised its
+
+maintenance fee a little every year, and customers grum-
+
+bled a bit but paid anyway.
+
+So why was Oracle getting pushback on maintenance
+
+pricing now? We did some digging, and found that a few
+
+third-party support companies had sprung up and were
+
+getting a decent amount of business. If a third-party com-
+
+pany could credibly offer maintenance services, custom-
+
+ers wouldn’t necessarily have to upgrade to a new version
+
+of the software. This seemed like a trend that would likely
+
+continue, placing pressure on a highly profitable revenue
+
+stream for Oracle, and potentially narrowing its moat.
+
+cc0088..iinndddd 111133 11//2266//0088 33::1100::1144 AAMM
+
+[114] THE LITTLE BOOK THAT BUILDS WEALTH
+
+I ’ve Lost My Moat, and I Can’t Get Up
+
+As physicist and philosopher Niels Bohr once said, “Pre-
+
+diction is very difficult, especially if it’s about the future.”
+
+Yet that’s exactly what we need to do when assessing the
+
+durability of a company’s competitive advantage. But
+
+sometimes the future throws you a curve ball, and that’s
+
+when you need to reassess whether a company’s moat is
+
+still intact or the unexpected turn of events has done per-
+
+manent damage to the company’s competitive advantage.
+
+The Bottom Line
+
+1. Technological change can destroy competitive
+
+advantages, but this is a bigger worry for com-
+
+panies that are enabled by technology than it is
+
+for companies that sell technology, because the
+
+effects can be more unexpected.
+
+2. I f a company’s customer base becomes more con-
+
+centrated, or if a competitor has goals other than
+
+making money, the moat may be in danger.
+
+3. Growth is not always good. It’s better for a com-
+
+pany to make lots of money doing what it is good
+
+at, and give the excess back to shareholders, than
+
+it is to throw the excess profits at a questionable
+
+line of business with no moat. Microsoft could

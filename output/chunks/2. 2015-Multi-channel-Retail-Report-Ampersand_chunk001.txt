@@ -1,0 +1,238 @@
+SOURCE: 2. 2015-Multi-channel-Retail-Report-Ampersand.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Multi-Channel Retail
+SUMMARY: An analysis of multi-channel retail strategies and customer experiences in the UK, based on the Ampersand Retail Matrix score.
+KEYWORDS: multi-channel retail, customer experience, Ampersand Retail Matrix, UK retail
+---
+
+Multi-channel
+
+amp.co
+
+Retail Report
+
+2015 UK edition
+
+Multi-channel retailers in the UK analysed and scored on
+
+overall multi-channel customer experience.
+
+“Click and collect, drones, Amazon
+
+buying physical stores, same day
+
+delivery, and device usage. This has
+
+been another dramatic year of change
+
+in multi-channel retail.
+
+“Technology and evolving consumer behaviour have challenged the capabilities
+
+of retailers to their limits. Agility is crucial for multi-channel retailers to keep up
+
+with rapid change. Many are still failing to execute on obvious strategies to build
+
+customer loyalty. Our report identifies significant gaps in retailers’ multi-channel
+
+strategies. It highlights opportunities where every retailer can improve. It serves
+
+as a challenge to us all to continue the quest for continual improvement.
+
+“The ‘day job’ often distracts us from our ultimate aim of amazing customer
+
+experiences. This report’s aim is to provide insight and a quantitative framework
+
+for measurement. We wish to aid in giving retailers actionable items to focus on.”
+
+Darryl Adie
+
+Managing Director, Ampersand
+
+da@amp.co
+
+DEFINITION
+
+We have defined a “multi-channel” retailer as
+
+those that sell online in physical stores.
+
+and
+
+The Ampersand Retail Matrix score for each retailer is based on the overall multi-channel customer experience. We have considered a wide range of factors, all applicable
+
+to specialist multi-channel retailers. The Matrix identifies the best-performing multi-channel retailers in the UK.
+
+Based on the definition, we then split the retailers into the following segments:
+
+Children, Department, Electrical, Fashion, Luxury Fashion, Food, Health & Beauty, Home & DIY, Sports & Outdoor , Stationery & Gifts
+
+A unique report about truly multi-channel retailers in the UK.
+
+The result?
+
+THE RETAILERS
+
+Adidas Cotswold Outdoor Gap JD Sports Mothercare Smythson
+
+American Golf Cotton Traders Go Outdoors Jessops Mulberry Snow & Rock
+
+Ann Summers Crabtree & Evelyn Gucci Jigsaw Multiyork Furniture Space NK
+
+Anya Hindmarch Craghoppers H&M Jimmy Choo Nespresso UK Ltd Specsavers
+
+AO Crew Clothing Habitat JJB Sports New Look Speedo
+
+Apollo 2000 Currys Halfords John Lewis Next Staples
+
+Apple D&G Hamleys Karen Millen Nike Superdrug
+
+Aquascutum Debenhams Harrods Kiddicare O2 UK Tesco
+
+Argos Dell Harvey Nichols Kurt Geiger Oak Furnitureland The Body Shop
+
+Armani Diesel Harveys Furniture L’Occitane Optical Express The Entertainer
+
+Asda Dior Haskins Furniture Laithwaites Paperchase The Fragrance Shop
+
+Asics Disney Store Hawkin’s Bazaar Laura Ashley Paul Smith The Pen Shop Ltd
+
+B&Q Dune Hermes Lego Prada The Perfume Shop
+
+Barbour Dunelm HI Weldricks Liberty Reebok The Whisky Shop
+
+Bathstore Dunnes Stores Hillarys Blinds Links of London Richer Sounds Thomas Pink
+
+Beales Early Learning Centre Hobbs Lloyds Pharmacy River Island Thorntons
+
+Bensons for Beds Estee Lauder Hobbycraft Group Lush Retail Robert Dyas TJ Hughes
+
+BHS Euronics Holland & Barrett Majestic Wine Rohan TK Maxx
+
+Blacks Outdoor Division Evans Cycles Homebase Mamas & Papas Rowlands Pharmacy Top Shop
+
+Boots F Hinds Hoopers Manor Pharmacy Russell Hobbs Toys R Us
+
+Build A Bear Fat Face Hornby Maplin Ryman Vodafone
+
+Burberry Field & Trek Hotel Chocolat Marc Jacobs Sainsburys Waitrose
+
+Cameraworld Flannels House of Fraser Marks and Spencer Schuh Waterstone’s
+
+Carphone Warehouse Fortnum & Mason HP Matalan Screwfix WH Smith
+
+Chain Reaction Cycles Foyles Hughes Electrical Menkind Scribbler Whistles
+
+Clarks Fred Perry Iceland Michael Kors SCS Whittard of Chelsea
+
+Clinton Cards French Connection Ikea Miu Miu Selfridges Wickes
+
+Coast Furniture Village Interflora Molton Brown Simply Be Wiggle
+
+COS Game Jaeger Morrisons Smyths Zara
+
+Results
+
+Top-rated Bottom-rated
+
+1. House of Fraser 1. HI Weldricks
+
+2. Selfridges 2. Cotton Traders
+
+3. Marks and Spencer 3. Rowlands Pharmacy
+
+4. JD Sports See how you compare. 4. Hoopers
+
+Download the full Retail
+
+5. Wiggle 5. Miu Miu
+
+Matrix (Excel file).
+
+6. BHS 6. Prada
+
+7. John Lewis Click here 7. Rohan
+
+8. Coast 8. Nespresso
+
+9. JJB Sports 9. Hamleys
+
+10. Maplin 10. Laithwaites
+
+11. Asda Direct 11. Manor Pharmacy
+
+12. New Look 12. Kiddicare
+
+13. Tesco Direct 13. Russell Hobbs
+
+14. COS
+
+12%
+
+of fashion retailers don’t
+
+offer click and collect
+
+21%
+
+of bottom-scoring retailers
+
+use Oracle ATG
+
+9%
+
+of multi-channel retailers offer
+
+collection within 1 hour
+
+Technology
+
+We used Google Developers PageSpeed Tool for scoring speed on desktop Technology by sector
+
+and mobile. For desktop just 28% of retailers scored 75 or above out of
+
+100. The average was 66. Marc Jacobs and Clintons Cards were the worst Compared to other sectors, department stores offer customers the best
+
+performing for both mobile and desktop speeds. multi-channel experience. House of Fraser, Selfridges and John Lewis all
+
+feature in the top 10.
+
+Mobile speed continues to be a key area for improvement for most retailers.
+
+Over a third (37%) of retailers achieved scores below 50. Only six retailers Luxury and pharmaceutical retailers fared worst. These included Miu Miu,
+
+scored 75 or above for mobile, with Sainsbury’s achieving an impressive 95. Prada, Mulberry, Rowlands Pharmacy, HI Weldricks and Manor Pharmacy.
+
+Of the poorest performing retailers, the most common ecommerce platform 5 Home & DIY retailers featured in the top 20 list for best desktop speeds
+
+was Oracle ATG. 33% of Oracle ATG retailers achieved a score less than 30. including Oak Furniture Land, Ikea, Hillarys Blinds, Dunelm and Bathstore.
+
+Compared to BT Fresca (0%), Demandware (0%), Hybris (20%), IBM (8%),
+
+We used Google PageSpeed Insights to build a user experience score. 29
+
+Magento (10%) and Venda (0%).
+
+retailers scored a perfect score of 100. Department stores, Luxury Fashion
+
+and Home & DIY retailers were the strongest in this area.
+
+Customer journey
+
+Almost a third (31%) of multi-channel retailers do not offer a persistent cart across devices. A function that we believe is
+
+fundamental to a great multi-channel experience.
+
+One in three multi-channel retailers does not accept alternative payment methods such as PayPal. This limits the options
+
+available to customers to complete a transaction.
+
+Just 69% offer a guest checkout, meaning that 31% force customers to sign-up to buy. Only 42% of retailers offer real-time
+
+stock availability information.
+
+Customer journey by sector
+
+Real-time stock information was most prevalent amongst: Sports & Outdoor (63%), Stationary & Gifts (71%), Electrical
+
+(52%) and Fashion (45%)

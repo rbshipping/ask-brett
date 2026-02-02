@@ -1,0 +1,172 @@
+SOURCE: HBR_Learning In the Thick Of It.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Military Training and Simulations
+SUMMARY: The U.S. Army's Opposing Force (OPFOR) is a highly capable military training organization that consistently defeats its training opponents through the effective use of after-action reviews.
+KEYWORDS: military training, simulations, after-action review, OPFOR, learning from experience
+---
+
+[Document: HBR_Learning In the Thick Of It.pdf]
+
+The U.S. Army’s Opposing Force (commonly with BLUFOR’s commanders. In short, each of
+
+known as OPFOR), a 2,500-member brigade these very capable BLUFOR brigades is given
+
+whose job is to help prepare soldiers for combat, practically every edge. Yet OPFOR almost al-
+
+is just such an organization. Created to be the ways wins.
+
+meanest, toughest foe troops will ever face, Underlying OPFOR’s consistent success is
+
+OPFOR engages units-in-training in a variety of the way it uses the after-action review (AAR), a
+
+mock campaigns under a wide range of condi- method for extracting lessons from one event
+
+tions. Every month, a fresh brigade of more or project and applying them to others. The
+
+than 4,000 soldiers takes on this standing en- AAR, which has evolved over the past two de-
+
+emy, which, depending on the scenario, may cades, originated at OPFOR’s parent organiza-
+
+play the role of a hostile army or insurgents, tion, the National Training Center (NTC). AAR
+
+paramilitary units, or terrorists. The two sides meetings became a popular business tool after
+
+battle on foot, in tanks, and in helicopters dodg- Shell Oil began experimenting with them in
+
+ing artillery, land mines, and chemical weapons. 1998 at the suggestion of board member Gor-
+
+Stationed on a vast, isolated stretch of Cali- don Sullivan, a retired general. Teams at such
+
+fornia desert, OPFOR has the home-court ad- companies as Colgate-Palmolive, DTE Energy,
+
+vantage. But the force that’s being trained— Harley-Davidson, and J.M. Huber use these re-
+
+harvard business review • july–august 2005 page 2
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+.DEVRESER
+
+STHGIR
+
+LLA
+
+.NOITAROPROC
+
+GNIHSILBUP
+
+LOOHCS
+
+SSENISUB
+
+DRAVRAH
+
+5002
+
+©
+
+THGIRYPOC
+
+Learning in the Thick of It
+
+views to identify both best practices (which pany told us about an after-action review for a
+
+they want to spread) and mistakes (which they failed project that had already broken down
+
+don’t want to repeat). twice before. Having read reports from the ear-
+
+Most corporate AARs, however, are faint lier attempts’ AARs—which consisted prima-
+
+echoes of the rigorous reviews OPFOR per- rily of one-on-one interviews—she realized
+
+forms. It is simply too easy for companies to with horror after several grueling hours that
+
+turn the process into a pro forma wrap-up. All the team was “discovering” the same mistakes
+
+too often, scrapped projects, poor investments, all over again.
+
+and failed safety measures end up repeating A somewhat different problem cropped up
+
+themselves. Efficient shortcuts, smart solu- at a telecom company we visited. A team of
+
+tions, and sound strategies don’t. project managers there conducted rigorous
+
+For companies that want to transform their milestone reviews and wrap-up AAR meetings
+
+AARs from postmortems of past failure into on each of its projects, identifying problems
+
+aids for future success, there is no better and creating technical fixes to avoid them in
+
+teacher than the technique’s master practitio- future initiatives. But it made no effort to
+
+ner. OPFOR treats every action as an opportu- apply what it was learning to actions and deci-
+
+nity for learning—about what to do but also, sions taken on its current projects. After sev-
+
+more important, about how to think. Instead eral months, the team had so overwhelmed
+
+of producing static “knowledge assets” to file the system with new steps and checks that the
+
+away in a management report or repository, process itself began causing delays. Rather
+
+OPFOR’s AARs generate raw material that the than improving learning and performance, the
+
+brigade feeds back into the execution cycle. AARs were reducing the team’s ability to solve
+
+And while OPFOR’s reviews extract numerous its problems.
+
+lessons, the group does not consider a lesson to We also studied a public agency that was
+
+be truly learned until it is successfully applied running dozens of similar projects simulta-
+
+and validated. neously. At the end of each project, team lead-
+
+The battlefield of troops, tanks, and tear gas ers were asked to complete a lessons-learned
+
+is very different from the battlefield of prod- questionnaire about the methods they would
+
+ucts, prices, and profits. But companies that or would not use again; what training the team
+
+adapt OPFOR’s principles to their own prac- had needed; how well members communi-
+
+tices will be able to integrate leadership, learn- cated; and whether the planning had been ef-
+
+ing, and execution to gain rapid and sustained fective. But the projects ran for years, and
+
+competitive advantage. memory is less reliable than observation. Con-
+
+sequently, the responses of the few leaders
+
+Why Companies Don’t Learn who bothered to fill out the forms were often
+
+An appreciation of what OPFOR does right be- sweepingly positive—and utterly useless.
+
+gins with an understanding of what businesses Those failures and many more like them
+
+do wrong. To see why even organizations that stem from three common misconceptions
+
+focus on learning often repeat mistakes, we about the nature of an AAR: that it is a meet-
+
+analyzed the AAR and similar “lessons ing, that it is a report, or that it is a postmor-
+
+learned” processes at more than a dozen cor- tem. In fact, an AAR should be more verb than
+
+porations, nonprofits, and government agen- noun—a living, pervasive process that explic-
+
+cies. The fundamentals are essentially the itly connects past experience with future ac-
+
+Marilyn Darling (mdarling@signet- same at each: Following a project or event, tion. That is the AAR as it was conceived back
+
+consulting.com), Charles Parry team members gather to share insights and in 1981 to help Army leaders adapt quickly in
+
+(cparry@signetconsulting.com), and identify mistakes and successes. Their conclu- the dynamic, unpredictable situations they
+
+retired Colonel Joseph Moore sions are expected to flow—by formal or infor- were sure to face. And that is the AAR as
+
+(jmoore@signetconsulting.com) are re- mal channels—to other teams and eventually OPFOR practices it every day.
+
+searchers and consultants with Boston- coalesce into best practices and global stan-
+
+based Signet Consulting Group. Moore dards. More than a Meeting

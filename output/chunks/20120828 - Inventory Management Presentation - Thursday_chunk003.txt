@@ -1,0 +1,243 @@
+SOURCE: 20120828 - Inventory Management Presentation - Thursday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management and Dynamic Pricing
+SUMMARY: The presentation discusses the company's implementation of dynamic pricing strategies, including price prongs and a 7-14-21 stock management process, to minimize aged inventory and maximize gross margin.
+KEYWORDS: dynamic pricing, inventory management, price prongs, 7-14-21 process
+---
+
+[Document: 20120828 - Inventory Management Presentation - Thursday.pptx]
+[Presentation Topic: Inventory Management]
+
+[Slide 55]
+
+QUESTIONS?
+
+[Slide 56]
+
+Time
+
+Topic
+
+55
+
+Inventory Management ConferenceThursday 30th August 2012
+
+[Slide 57]
+
+Inventory Conference
+
+August 2012
+
+Dynamic Pricing
+
+[Slide 58]
+
+Why dynamic pricing?
+
+To minimise aged stock and maximise gross margin by being quicker at matching product price to customer demand
+
+FACTS
+
+We bring in 300 new sku’s every month and have to assign a price based on history, product cost and competitive landscape
+
+The % of sku’s marked down from full price has been about 30% (Includes exiting residual stock on new sellers, exiting styles and marking down non performers)
+
+We are losing GM$ margin on being slow to match price to customer demand (bigger discounts required later/ opportunity cost of prong)
+
+Our stock > 120 days gets as high as 55% of all stock
+
+[Slide 59]
+
+Is this crazy stuff?
+
+Supermarkets yesteryear
+
+Supermarkets today
+
+[Slide 60]
+
+Key Elements
+
+November ‘11: Introduced price prongs v’s priced cards
+
+July ’12:
+
+Introduced 7-14-21 stock management process utilizing the price prongs
+
+[Slide 61]
+
+diva price prongs
+
+No price shown on product card
+
+Removable card
+
+[Slide 62]
+
+Price prong: Customer learnings
+
+Customers can see the price without having to pick up the product.
+
+Some customers still look to the back of the card for price
+
+Some products get moved to different prongs and cause customer frustration.
+
+Price scanners (3 store test) were not utilized by customers and complaints were minimal, suggesting that customers adapted OK.
+
+Early on, it was difficult to see the prong pricing in amongst the product.
+
+[Slide 63]
+
+Price prong: Less wide ranges
+
+Avg Range 65-75 prongs(January ’12)
+
+Avg Range 45-55 prongs(July ’12)
+
+Product covering price prongs
+
+Price prongs clearly visible
+
+[Slide 64]
+
+Price Prong: Operational learning's
+
+Easy to change prices quickly in store
+
+Poor performing products are dealt with quickly, moving them on faster.
+
+Needs constant attention to correct product location to avoid customer frustration at scanned price not matching prong price.
+
+Sale set up is enormously enhanced by price prongs
+
+Much easier set up v’s stickering
+
+estimated labour saving at June’12 sale of $15-20k
+
+[Slide 65]
+
+Price Prong: Pricing up
+
+A handful of sku’s increased in price since prongs introduced.
+
+2 examples
+
+Sku 709132: + $3, no loss in ROS, increase in GM of $1700
+
+Sku 690386: + $5, no loss in ROS, increase in GM of $7000
+
+Q: How do you sticker up?
+
+[Slide 66]
+
+7-14-21: A new mindset
+
+Aggressive stock management
+
+7 days: If not moving then reduce price on prong (30%)
+
+14 days: Still not moving, increase price reduction (50%)
+
+21 days: Customer still not interested, sold on run off gondola or marked down for future sale (up to 80% discount)
+
+[Slide 67]
+
+7-14-21: Impact
+
+Learning:Not working hard enough on the “dogs”
+
+[Slide 68]
+
+7-14-21: Impact
+
+Tested “Red price tags” for 50% price prong reductions
+
+[Slide 69]
+
+7-14-21: Impact
+
+Needs further testing but results so far...
+
+[Slide 70]
+
+Dynamic pricing summary
+
+Introduced price prongs to create greater pricing flexibility and margin optimisation.
+
+Wrapped price prongs into a new aggressive stock control approach (7-14-21)
+
+Early result encouraging... the concept is right... but still testing for optimal impact.
+
+[Slide 71]
+
+Time
+
+Topic
+
+70
+
+Inventory Management ConferenceThursday 30th August 2012
+
+[Slide 72]
+
+What we need to cover
+
+71
+
+List of critical inventory management KPIs
+
+Prioritisation of this what – what are critical?
+
+How exact metrics do we use to measure
+
+What does good look like? (Broad guiding principles)
+
+[Slide 73]
+
+Metrics & Targets
+
+72
+
+Stock turns (COGS divided by MAT)
+
+Absolute variance in stock (Retail as a %age of sales)
+
+Forward weeks cover – whole business (DC & stores)
+
+No. of POS overrides
+
+Negative stock on hand
+
+DIFOT (Delivery in-full on time) –suppliers to DC
+
+Core item out of stocks by store
+
+GMROI within the parameters overtime
+
+Initial sell-through (50% in 6 weeks)
+
+Aged inventory by store (monthly buckets
+
+IBT’s overdue
+
+OTB – against approved forecast and margin
+
+Range versus clearance (mark down percentage – allowance. First margin / final margin is the only measure that counts)
+
+Stock intensity
+
+Overdue purchase order report
+
+Refunds as a percentage of revenue (internal fraud)
+
+DC picked accuracy report
+
+[Slide 74]
+
+Closing
+
+73
+
+Page 222 Last line
+
+“A Journey of a thousand miles begins with a single step”.  Are you ready to take it?

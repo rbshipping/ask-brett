@@ -1,0 +1,138 @@
+SOURCE: HBS Delusions of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Forecasting and Decision-Making
+SUMMARY: The text discusses the importance of using the outside view, rather than the inside view, to make more accurate forecasts, especially for novel initiatives.
+KEYWORDS: forecasting, outside view, cognitive biases, optimism, decision-making
+---
+
+consultants to assist in forecasting, they often cedents are not easily found. It’s not like in the
+
+remain stuck in the inside view. If the consult- curriculum example, where many similar ef-
+
+ants provide comparative data on other compa- forts had already been undertaken. Imagine
+
+nies or projects, they can spur useful outside- that planners have to forecast the results of an
+
+view thinking. But if they concentrate on the investment in a new and unfamiliar technol-
+
+project itself, their analysis will also tend to be ogy. Should they look at their company’s ear-
+
+distorted by cognitive biases. lier investments in new technologies? Or
+
+While understandable, managers’ prefer- should they look at how other companies car-
+
+ence for the inside view over the outside view ried out projects involving similar technolo-
+
+is unfortunate. When both forecasting meth- gies? Neither is perfect, but each will provide
+
+The outside view is more
+
+ods are applied with equal intelligence and useful insights—so the planners should ana-
+
+likely to produce accurate skill, the outside view is much more likely to lyze both sets of analogous cases. We provide a
+
+yield a realistic estimate. That’s because it by- fuller explanation of how to identify and ana-
+
+forecasts and much less
+
+passes cognitive and organizational biases. In lyze a reference class in the sidebar “How to
+
+likely to deliver highly the outside view, managers aren’t required to Take the Outside View.”
+
+weave scenarios, imagine events, or gauge
+
+unrealistic ones.
+
+their own levels of ability and control—so they Putting Optimism in Its Place
+
+can’t get all those things wrong. And it doesn’t We are not suggesting that optimism is bad, or
+
+matter if managers aren’t good at assessing that managers should try to root it out of
+
+competitors’ abilities and actions; the impact themselves or their organizations. Optimism
+
+of those abilities and actions is already re- generates much more enthusiasm than does
+
+flected in the outcomes of the earlier projects realism (not to mention pessimism), and it en-
+
+within the reference class. It’s true that the ables people to be resilient when confronting
+
+outside view, being based on historical prece- difficult situations or challenging goals. Com-
+
+dent, may fail to predict extreme outcomes— panies have to promote optimism to keep em-
+
+those that lie outside all historical precedents. ployees motivated and focused. At the same
+
+But for most projects, the outside view will time, though, they have to generate realistic
+
+produce superior results. forecasts, especially when large sums of
+
+The outside view’s advantage is most pro- money are at stake. There needs to be a bal-
+
+nounced for initiatives that companies have ance between optimism and realism—be-
+
+never attempted before—like building a plant tween goals and forecasts. Aggressive goals
+
+with a new manufacturing technology or en- can motivate the troops and improve the
+
+tering an entirely new market. It is in the plan- chances of success, but outside-view forecasts
+
+ning of such de novo efforts that the biases to- should be used to decide whether or not to
+
+ward optimism are likely to be great. make a commitment in the first place.
+
+Ironically, however, such cases are precisely The ideal is to draw a clear distinction be-
+
+where the organizational and personal pres- tween those functions and positions that in-
+
+sures to apply the inside view are most in- volve or support decision making and those
+
+tense. Managers feel that if they don’t fully ac- that promote or guide action. The former
+
+count for the intricacies of the proposed should be imbued with a realistic outlook,
+
+project, they would be derelict in their duties. while the latter will often benefit from a sense
+
+Indeed, the preference for the inside view over of optimism. An optimistic CFO, for example,
+
+the outside view can feel almost like a moral could mean disaster for a company, just as a
+
+imperative. The inside view is embraced as a lack of optimism would undermine the vision-
+
+harvard business review • july 2003 page 6 of 9
+
+Delusions of Success
+
+How to Take the Outside View
+
+Making a forecast using the outside view requires planners to of temperatures two days from now, for example, will be
+
+identify a reference class of analogous past initiatives, deter- more reliable than a sportscaster’s prediction of the score of
+
+mine the distribution of outcomes for those initiatives, and next year’s Super Bowl. This step is intended to gauge the
+
+place the project at hand at an appropriate point along that reliability of the forecast you made in Step 3. The goal is to
+
+distribution. This effort is best organized into five steps:1 estimate the correlation between the forecast and the actual
+
+1. Select a reference class. Identifying the right reference outcome, expressed as a coefficient between 0 and 1, where 0
+
+class involves both art and science. You usually have to weigh sim- indicates no correlation and 1 indicates complete correlation.
+
+ilarities and differences on many variables and determine which In the best case, information will be available on how well
+
+are the most meaningful in judging how your own initiative will your past predictions matched the actual outcomes. You can
+
+play out. Sometimes that’s easy. If you’re a studio executive trying then estimate the correlation based on historical precedent.
+
+to forecast sales of a new film, you’ll formulate a reference class In the absence of such information, assessments of predict-
+
+based on recent films in the same genre, starring similar actors, ability become more subjective. You may, for instance, be
+
+with comparable budgets, and so on. In other cases, it’s much able to arrive at an estimate of predictability based on how
+
+trickier. If you’re a manager at a chemical company that is consid- the situation at hand compares with other forecasting situa-
+
+ering building an olefin plant incorporating a new processing tions. To return to the movie example, say that you are fairly
+
+technology, you may instinctively think that your reference class confident that your ability to predict the sales of films ex-

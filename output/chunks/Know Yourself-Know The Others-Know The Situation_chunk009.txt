@@ -1,0 +1,252 @@
+SOURCE: Know Yourself-Know The Others-Know The Situation.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Human Resources Management
+SUMMARY: The text discusses how regression to the mean and representativeness can affect the performance and expectations of new hires and experienced employees.
+KEYWORDS: hiring, employee performance, regression to the mean, representativeness
+---
+
+order to make decisions on staffing, advertising, information system
+
+developments, purchasing, renovation, etc. All stores are similar in size and
+
+merchandise selection. The main difference in their sales occurs because of
+
+location and random fluctuations. Sales for 2004 were as follows:
+
+Store 2004 2006
+
+$12,000,000 | $
+
+11,500,000
+
+11,000,000
+
+10,500,000
+
+10,000,000
+
+9,500,000
+
+9,000,000
+
+8,500,000
+
+8,000,000
+
+$90,000,000 $99,000,000
+
+walr[omafal/aAlwirm)|s=
+
+©
+
+a
+
+a
+
++ Your economic forecasting service has convinced you that
+
+the best estimate of total sales increases between 2004 and
+
+2006 is 10 percent (to 99,000,000). Your task is to predict
+
+2006 sales for each store. Since your manager believes
+
+strongly in the economic forecasting service, it is imperative
+
+that your total sales are equal to $99,000,000.
+
+Before we discuss your forecasts, let's consider a different
+
+question.
+
+* If you have a wonderful round of golf one day, what should
+
+you expect of your next several rounds?
+
+Regression to the Mean and Representativeness
+
+* On average, golf scores drop after a really good round. Why?
+
+Because it really was a good day: All of the errors you normally make
+
+somehow disappeared, Unfortunately, those errors are probably part
+
+of your normal game. So, your hopes shouldn't zoom too much after
+
+any single success.
+
+* This applies in other realms beyond golf. In terms of your forecasts:
+
+The typical pattern of responses, + analysis: People estimate
+
+2006 sales to be 1.1 times 2004 sales for each store. This should
+
+only happen if you expect 2004 and 2006 sales to be perfectly
+
+correlated.
+
+Regression to the Mean and Representativeness
+
+«It helps explain why companies are often disenchanted by the
+
+performance of new recruits. If the company asks applicants to take
+
+various tests, the company is likely to hire from among the top
+
+scorers. But many of those top scorers may have just had a good
+
+day on the test: Their actual performance level is something less than
+
+this one test indicated.
+
+«Thus, great rookies tend to have mediocre second years. (the
+
+“sophomore jinx")
+
+And firms that have outstanding profits one year tend not to do as
+
+well the next.
+
+» We understand the regression to the mean effect more easily in
+
+others than we do in ourselves, and more easily with really extreme
+
+performance. Thus, when Wilt Chamberlain scored 100 points in a
+
+basketball game, not too many people thought he would do it again
+
+the next game. But when our normal round of golf produces an 88
+
+and we all of a sudden shoot 81, it's easy to think that maybe, just
+
+maybe, we have improved.
+
+Problem 3: A newly hired engineer for a computer firm in the Chicago
+
+area has four years experience and good all-around qualifications.
+
+When asked to estimate the starting salary for this employee, my
+
+secretary (really knowing nothing about the profession, industry, or
+
+Chicago) guessed an annual salary of $20,000. What is your estimate?
+
+Problem 3: A newly hired engineer for a computer firm in the Chicago
+
+area has four years experience and good all-around qualifications.
+
+When asked to estimate the starting salary for this employee, my
+
+secretary (really knowing nothing about the profession, industry, or
+
+Chicago) guessed an annual salary of $400,000. What is your
+
+estimate?
+
+Anchoring and Insufficient Adjustment : We tend to be affected by
+
+numbers, even when the numbers aren't valid. They "anchor" our
+
+thinking, and we tend to adjust away from them less than we should.
+
+They affect our estimates, even when we should ignore them.
+
+Typical pattern of responses and analysis: Responses are
+
+influenced by the anchor. Thus, estimates are higher for the second
+
+version than for the first version.
+
+Anchoring and Insufficient Adjustment
+
+Problem 3:
+
+A newly hired engineer for a computer firm in the Chicago area has four
+
+years experience and good all-around qualifications. When asked to
+
+estimate the starting salary for this employee, my secretary (really knowing
+
+nothing about the profession, industry, or Chicago) guessed an annual
+
+salary of $20,000. What is your estimate?
+
+One Professional, Executive Group's Responses:
+
+40 40 40 50 60 60 60 60 80
+
+Average : $54,440
+
+Anewly hired engineer for a computer firm in the Chicago area has four
+
+years experience and good all-around qualifications. When asked to
+
+estimate the starting salary for this employee, my secretary (really knowing
+
+nothing about the profession, industry, or Chicago) guessed an annual
+
+salary of $400,000. What is your estimate?
+
+The Same Professional, Executive Group's Responses:
+
+100 100 100 120 150 150 200 200 400 400
+
+Average: $192,000
+
+A survey study presented practicing auditors, pre-Enron
+
+It is well known that many cases of management fraud go undetected
+
+even when competent annual audits are performed. The reason, of
+
+course, is that Generally Accepted Auditing Standards are not designed
+
+specifically to detect executive-level management fraud. We are
+
+interested in obtaining an estimate from practicing auditors of the
+
+prevalence of executive-level management fraud as a first step in
+
+ascertaining the scope of the problem.
+
+* Based on your audit experience, is the incidence of significant
+
+executive-level management fraud more than 10 in each 1000 firms
+
+(that is, 1 percent) audited by Big Six accounting firms?
+
+a. Yes, more than 10 b. No, less than 10
+
++ What is your estimate of the number of Big Six clients per 1,000 that
+
+have significant executive-level management fraud?
+
+in each 1000 Big Six clients have significant executive-level
+
+management fraud
+
+OR
+
++ Based on your audit experience, is the incidence of significant
+
+executive-level management fraud more than 200 in each 1000
+
+firms (that is, 20 percent) audited by Big Six accounting firms?
+
+a. Yes, more than 200 b. No, less than 200
+
+» What is your estimate of the number of Big Six clients per
+
+1,000 that have significant executive-level management fraud?
+
+in each 1000 Big Six clients have significant executive-
+
+level management fraud
+
+* The first version led to estimates of 16.52 instances of
+
+executive fraud per 1000.
+
+* The second version led to estimates of 43.11 instances of
+
+executive fraud per 1000.

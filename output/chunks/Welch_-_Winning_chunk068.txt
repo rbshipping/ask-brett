@@ -1,0 +1,256 @@
+SOURCE: Welch_-_Winning.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Process Improvement and Quality Control
+SUMMARY: The text discusses the applications of Six Sigma, a data-driven approach to improve processes and ensure complex projects are completed successfully.
+KEYWORDS: Six Sigma, Process Improvement, Quality Control, Complex Project Management, Data Analysis
+---
+
+repetitive tasks—activities that happen over and over again. And
+
+second, it can be used to make sure large, complex projects go
+
+right the first time.
+
+Examples of the first kind of application are a multitude.
+
+Call centers from South Dakota to Delhi use Six Sigma to make
+
+sure the phone is answered after the same number of rings for
+
+each incoming inquiry. Credit card processing facilities use it to
+
+make sure people receive accurate bills on the same day every
+
+month.
+
+The second application of Six Sigma is the territory of engi-
+
+neers and scientists involved in multipart endeavors that some-
+
+times take years to complete. If you’re spending hundreds of
+
+— 248 —
+
+SIX SIGMA
+
+millions of dollars on a new jet engine or a gas turbine, you cannot
+
+afford to figure out process or design inconsistencies late in the
+
+game. Six Sigma is incredibly effective in discovering them on the
+
+drawing board, i.e., the computer screen.
+
+Obviously, the amount of Six Sigma training and education
+
+required depends on where and how you intend to apply it.
+
+For the first application—simple, repetitive activities—the
+
+level of training and education is certainly manageable. In order to
+
+discover the root causes of inconsistencies, people need to know
+
+what kind of information to gather and how to analyze it. The
+
+rigor of this type of training has a terrific side effect. It builds crit-
+
+ical thinking and discipline. That’s one reason why we noticed that
+
+every time a business dove into Six Sigma, not only did its finan-
+
+cial performance improve, so did its management ranks. They all
+
+became better leaders.
+
+The second application is different. It involves a sophisticated
+
+level of training and statistical analysis. I myself have never had this
+
+kind of training, but I know from GE’s very positive experience
+
+with jet engines and turbines that it works.
+
+Make no mistake: Six Sigma is not for every corner of a
+
+company. Jamming it into creative activities, such as writing
+
+advertising copy, new marketing initiatives, or one-off transactions
+
+like investment banking, makes little sense and causes a lot of
+
+wheel-spinning. Six Sigma is meant for and has its most meaning-
+
+ful impact on repetitive internal processes and complex new
+
+product designs.
+
+SO WHY THE PANIC?
+
+At this point, you might be wondering: if Six Sigma is so straight-
+
+forward, why does it cause so much anxiety and confusion?
+
+— 249 —
+
+YOUR COMPETITION
+
+Probably because of the way it is
+
+“We’re off to a good start. initially presented to people.In many
+
+cases, senior management hires out-
+
+We’ve hired several
+
+side experts—scientists, statisticians,
+
+statisticians, and we’re
+
+engineers, or Six Sigma consult-
+
+looking for more.” ants—to preach the new gospel.
+
+I thought to myself: These experts, well-intentioned
+
+though they are, proceed to freak
+
+This poor guy has really
+
+everyone out with complex Power-
+
+drunk the Kool-Aid!
+
+Point slides that only an MIT profes-
+
+sor could love. To make matters
+
+worse, they often present Six Sigma
+
+as a cure-all for every nook and cranny of a company. No activity
+
+is spared.
+
+Several years ago, the CEO of a well-known consumer goods
+
+company visited me to get my take on Six Sigma. “We’re off to a
+
+good start,” he said. “We’ve hired several statisticians from places
+
+like Carnegie Mellon, and we’re looking for more.”
+
+I thought to myself: This poor guy has really drunk the Kool-
+
+Aid!
+
+Not using those words, I told him as much. The statisticians
+
+might be great, I said, but for the relatively straightforward projects
+
+he was looking at, he needed everyone in the company to under-
+
+stand Six Sigma. The brand-new experts were only going to scare
+
+people.
+
+He said he’d think that over, but I think he was just being po-
+
+lite. He saw Six Sigma as the purview of experts, not in the blood
+
+of his company.
+
+■
+
+— 250 —
+
+SIX SIGMA
+
+In time, most people come to understand Six Sigma and where
+
+to use it—and not use it—in an organization. Most of all, they also
+
+come to appreciate its competitive power after they’ve seen it in
+
+action for a few months. At which point, they usually become Six
+
+Sigma missionaries themselves.
+
+So next time you hear Six Sigma mentioned, don’t run for
+
+cover. Once you understand the simple maxim “variation is evil,”
+
+you’re 60 percent of the way to becoming a Six Sigma expert
+
+yourself.
+
+The other 40 percent is getting the evil out.
+
+— 251 —
+
+YOUR CAREER
+
+16. THE RIGHT JOB
+
+Find It and You’ll Never Really Work Again 255
+
+17. GETTING PROMOTED
+
+Sorry, No Shortcuts 277
+
+18. HARD SPOTS
+
+That Damn Boss 299
+
+19. WORK-LIFE BALANCE
+
+Everything You Always Wanted to Know About
+
+Having It All (But Were Afraid to Hear) 313
+
+16
+
+The Right Job
+
+FIND IT AND YOU’LL NEVER
+
+REALLY WORK AGAIN
+
+IT’S SAID that you can only live life forward and understand
+
+it backward. The exact same thing is true about careers.
+
+Every time I ask successful people about their first few jobs, the
+
+immediate reaction is almost always laughter. The chairman and
+
+CEO of Procter & Gamble, A. G. Lafley, thought he was going to
+
+be a professor of Renaissance history. That career plan evaporated
+
+when he dropped out of grad school to join the navy for two
+
+years, and then spent six more running grocery and specialty stores
+
+near a navy base in Tokyo.
+
+Or take Meg Whitman. She started her career as a manage-
+
+ment consultant, then joined Disney to open its first stores in
+
+Japan, then moved to Stride Rite to revive its Keds brand, then
+
+took over the ailing floral company FTD, and then moved to
+
+Hasbro to run its PlaySkool and Mr. Potato Head divisions.
+
+It makes perfect sense that Meg Whitman would end up as the
+
+CEO of eBay, the retailer of absolutely everything, doesn’t it? But
+
+you know there was nothing specifically planned about her career.
+
+EBay didn’t even exist until a few years ago!
+
+— 255 —
+
+YOUR CAREER

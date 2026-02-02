@@ -1,0 +1,162 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Smart Retail Technology
+SUMMARY: The text discusses the capabilities of smart shelves, including access to real-time data, video streaming, and natural computing services, as well as the need for careful architectural decisions and the potential for enhancing conversations between manufacturers and shoppers.
+KEYWORDS: smart shelves, back-end infrastructure, shopper engagement, manufacturer-shopper communication, personalized offers
+---
+
+support services could include access to databases that store real-time inventory data, customer profile
+
+data, and product information. The back-end server infrastructure may also provide video streaming
+
+services, natural computing services and more.
+
+60
+
+Challenge: Systems architects will need to make careful architectural decisions on where best to host
+
+the intelligence needed to deliver experiences at the shelf. In some cases it will make sense to build
+
+capability into the shelf itself, but in other circumstances a cloud-based approach may be the more cost-
+
+effective approach and enable faster deployment of new services and capabilities.
+
+7.5 ENHANCING CONVERSATIONS BETWEEN MANUFACTURERS AND SHOPPERS
+
+A smart shelf, bristling with sensors, should be able to understand not only what product is displayed
+
+upon it, but also something about the shopper stood in front of it. Like any good sales person, the ideal
+
+smart shelf will need to have a personality that combines knowledge and insight on the shopper with
+
+great selling skills. The shelf should also make choosing easier for the shopper, just like any good sales
+
+person.
+
+The shelf will be able to host a conversation between manufacturers/brands and shoppers. Today that
+
+conversation is hosted by way of static signage on the shelf and packaging or labelling on the product
+
+itself. But what if that conversation could be customized based on the individual shopper, and the shelf
+
+could make enticing, customized offers to the shopper on behalf of the manufacturer?
+
+Let’s consider the types of conversations that manufacturers and brands need and want to have with
+
+prospective buyers:
+
+Value and differentiation – They want to explain why their product justifies the price tag, offers value
+
+for money, and how it is different and offers better value than the competition.
+
+Positioning and help choosing – Is the product good, better, or best? How does it compare against
+
+other products in a range? The shelf should simplify the purchase decision and make it much easier for
+
+the shopper to select the product that’s right for them.
+
+61
+
+Suitability – How well does this product meet the customers’ needs? Not just any customer; This
+
+particular customer.
+
+Offers and special pricing – They want to convey information about any special offers and promotions,
+
+including personalized offers that they want to make to the shopper as a way to entice them to
+
+purchase. They might also want to set pricing dynamically based on the individual shopper, either to
+
+reward loyalty, or to optimize revenue by using algorithms to set the highest price that will still trigger
+
+the shopper to buy.
+
+Queries – They want to answer shoppers’ questions on the product and remove any doubt that might
+
+be a barrier to purchase.
+
+Social context – They want to share any salient online reviews that might help the shopper choose.
+
+These could include reviews from sites that this particular shopper respects and trusts, and also reviews
+
+from their friends. They may possibly also want to highlight similar purchases made by friends and
+
+shared via social media. “Carrie has this in black, and loves it”
+
+Availability – They want to show in-store, local and online availability. And if the product is out of stock,
+
+provide other options for the shopper to source the desired item, or a similar item.
+
+The ideal shelf will be able to handle all of these conversations with shoppers and help to move the
+
+shopper towards making a purchase.
+
+Challenge: When designing smart shelves, retailers will need to focus on trust. The shelf will need to
+
+build trust with the shopper in just the same way a human shopping assistant would. It will need to be
+
+able to demonstrate:
+
+ Strong knowledge on products and the market
+
+ Empathy for the shopper and understanding of their needs
+
+ Honesty, transparency, and trustworthiness
+
+ That it has the shopper’s best interests at heart
+
+Shoppers will quickly figure it out if retailers block poor online product reviews or deploy shelves that
+
+don’t appear to have the shopper’s interest at the center of their programming. Shoppers will flee a self-
+
+interested shelf just as fast as they will run away from a shop assistant on commission that clearly as an
+
+agenda that doesn’t include true customer satisfaction.
+
+Challenge: Retailers will need to find ways for the shelf to help the shopper through the product
+
+discovery process and move them towards purchase. What if the shelf could become a trusted advisor
+
+to the shopper?
+
+Challenge: Retailers will need to find ways for the shelf to help brands establish and then strengthen
+
+relationships with shoppers.
+
+62
+
+7.6 SMART SHELVES SHOULD DEVELOP AN EQ
+
+A smart shelf might also assess the emotional state and context of the shopper in much the same way a
+
+human shopping assistant will attempt to rapidly assess their best approach to interacting with a
+
+customer. Using indoor location, cameras, eye-tracking, and other sensors, the shelf could assess
+
+whether the customer is:
+
+ Stressed, or relaxed
+
+ In a hurry, or open to a more lengthy shopping engagement
+
+ Confused and lost, or moving with purpose
+
+ Looking at multiple products (and thus in discovery mode), or focused on just one or two
+
+products (and thus perhaps in search/decision mode and about the move to purchase)
+
+By better understanding the emotional state of the shopper, the shelf will be able to make an intelligent
+
+decision on how best to offer assistance. For example, a shopper that looks stressed and in a hurry
+
+probably doesn’t have time or the patience for a helpful suggestion on a delicious sauce that would go
+
+perfectly with the broccoli they just put in their cart.
+
+Challenge: Retailers should start thinking about what they will do differently once they are able to
+
+deploy infrastructure that can assess and understand the current emotional state of a shopper.
+
+7.7 CONVERSATIONS WILL BECOME NATURAL
+
+Computers will soon be able to communicate with people in a way that is natural to us humans, rather

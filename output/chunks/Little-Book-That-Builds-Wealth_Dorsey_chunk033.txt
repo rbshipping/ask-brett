@@ -1,0 +1,238 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Energy Sector Moats
+SUMMARY: The text discusses the moats in the energy sector, particularly in the oil and pipeline industries, and how they can lead to attractive returns for investors.
+KEYWORDS: oil industry, pipeline industry, moats, regulatory barriers, monopoly power
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+leum Exporting Countries (OPEC) that does a pretty good
+
+job at keeping the price of oil relatively high. Those high
+
+prices create decent returns on capital for many (not all)
+
+oil producers, in addition to the fact that only a small num-
+
+ber of well-capitalized giants have the resources to develop
+
+the increasingly hard-to-access oil fields that are being
+
+discovered.
+
+We also find lots of moats in a small niche of the
+
+energy sector that is, surprisingly, not all that well-known:
+
+pipelines. Many of the companies that operate the vast
+
+network of pipelines used to transport natural gas, gasoline,
+
+crude oil, and a variety of other energy-related products
+
+trade publicly, and they are pretty good businesses. Gen-
+
+erally, building a pipeline requires regulatory approval,
+
+cc0099..iinndddd 112266 11//2266//0088 33::1100::5566 AAMM
+
+FINDING MOATS [127]
+
+which is not always easy to secure, and many pipelines
+
+benefit from the same niche economics discussed in
+
+Chapter 7 : When there is not enough demand between two
+
+points to profitably support multiple pipelines, a single
+
+pipeline enjoys a local monopoly and can charge the maxi-
+
+mum allowed rates. Moreover, those allowed rates can be
+
+fairly attractive, because pipelines have a somewhat looser
+
+regulatory regimen than utilities have. Pipelines are gen-
+
+erally wrapped into a structure known as a master limited
+
+partnership, which can cause some tax complications for
+
+investors, and which is generally unsuitable for tax-deferred
+
+accounts like individual retirement accounts (IRAs) or 401(k)s.
+
+Still, the attractive returns and moaty businesses in this
+
+corner of the energy market make it worth an extra hour
+
+or two come tax time.
+
+Finally, we come to utilities, which are a bit odd in terms
+
+of economic moats. Their natural monopolies over some
+
+geographic areas would seem to make them wide-moat
+
+businesses, but regulatory agencies have—unfortunately for
+
+investors, fortunately for consumers—figured this out, which
+
+is why their returns on capital are usually capped at a rela-
+
+tively low level. Reasonably friendly regulators are the best
+
+asset a utility can have, and this varies considerably by
+
+region—the Northeast and West Coast have some of the
+
+least friendly regulators, while the Southeast is a more
+
+benign environment. Generally speaking, the utility sector is
+
+cc0099..iinndddd 112277 11//2266//0088 33::1100::5566 AAMM
+
+[128] THE LITTLE BOOK THAT BUILDS WEALTH
+
+not an area of the market where moats are abundant, but
+
+low-cost generating assets and friendly regulators can create
+
+decent returns, if you’re careful about the price you pay.
+
+Measuring a Companys Profitability
+
+’
+
+I hope you understand by now that moats increase the
+
+value of companies by helping them stay profitable for a
+
+longer period of time. So, what is the best way to measure
+
+a company’s profitability? Easy—we look at how much
+
+profit the company is generating relative to the amount of
+
+money invested in the business. From a numbers perspec-
+
+tive, this is the real key to separating great companies
+
+from average ones, because the job of any company is to
+
+take money and invest it in projects, products, or services
+
+to generate more money. The more capital that comes
+
+out relative to the amount that goes in, the better the
+
+business.
+
+Understanding how much economic profit a company
+
+generates p er dollar of capital employed tells us how efficiently
+
+a company is using its capital. More efficient capital users
+
+are going to be better businesses—and better investments—
+
+because they can increase shareholder wealth at a faster
+
+compound rate.
+
+Think about it this way. A company’s management is
+
+similar to the management of a mutual fund. A mutual fund
+
+cc0099..iinndddd 112288 11//2266//0088 33::1100::5566 AAMM
+
+FINDING MOATS [129]
+
+manager takes investors’ money and invests it in stocks or
+
+bonds to generate a return, and a manager who is able to
+
+generate, say, 12 percent returns is going to increase share-
+
+holders’ wealth faster than a manager who can compound
+
+at only 8 percent. Companies aren’t much different. They
+
+take shareholders’ money and invest it in their own busi-
+
+nesses to create wealth. By measuring the return that a
+
+company has achieved, we know how good it is at efficiently
+
+transforming capital into profits.
+
+So, how do we measure return on capital? The three
+
+most common ways are return on assets (ROA), return on
+
+equity (ROE), and return on invested capital (ROIC).
+
+Each gives us the same information, but in a slightly dif-
+
+ferent way.
+
+Return on assets (ROA) measures how much income a
+
+company generates per dollar of assets, and if all compa-
+
+nies were just big piles of assets, we could use it and be per-
+
+fectly happy. It’s a fine starting point, and you can find it
+
+calculated for just about any company on web sites such
+
+as Morningstar.com and elsewhere. Very broadly speaking,
+
+a nonfinancial company that can consistently generate an
+
+ROA of 7 percent or so likely has some kind of competitive
+
+advantage over its peers.
+
+But many firms are at least partially financed with
+
+debt, which gives their returns on capital a leverage
+
+cc0099..iinndddd 112299 11//2266//0088 33::1100::5566 AAMM
+
+[130] THE LITTLE BOOK THAT BUILDS WEALTH
+
+component that we need to take into account. Enter return
+
+on equity (ROE), which is also a great overall measure of
+
+returns on capital. ROE measures the efficiency with
+
+which a company uses shareholders’ equity—think of it as
+
+measuring profits per dollar of shareholders’ capital. One
+
+flaw of ROE is that companies can take on a lot of debt
+
+and boost their ROE without becoming more profitable,
+
+so it’s a good idea to look at ROE alongside how much
+
+debt a company has. Like ROA, you can find ROE calcu-
+
+lated for most companies on just about any financial web
+
+site. Again, as a very broad rule of thumb, you might use
+
+15 percent as a reasonable cutoff—companies that can
+
+consistently crank out ROEs of 15 percent or better are
+
+more likely than not to have economic moats.
+
+Finally, there’s return on invested capital (ROIC),
+
+which combines the best of both worlds. It measures the
+
+return on all capital invested in the firm, regardless of

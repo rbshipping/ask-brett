@@ -1,0 +1,194 @@
+SOURCE: Wal-Mart Way - Soderquist Don.pdf
+SUBFOLDER: Additional\HFT
+TOPIC: Business Technology Leadership
+SUMMARY: Wal-Mart's Information Systems Division played a key role in the company's success by deeply integrating with the business and embracing a merchant-centric mindset.
+KEYWORDS: business technology, technology leadership, information systems, retail technology, Wal-Mart
+---
+
+[Document: Wal-Mart Way - Soderquist Don.pdf]
+
+business leaders, not merely technicians. The executive responsible for
+
+technology was a member of the senior leadership team of the company—to
+
+my knowledge, we were the first major retailer to place someone at this level
+
+—who participated in all of our meetings and stayed involved in all major
+
+business initiatives. The involvement and input from our tech staff on the
+
+front lines was extremely valuable in the decision-making process in areas
+
+where systems support would be needed. We were so fortunate, over the
+
+years, to have leadership in technology that was not only highly competent in
+
+the technical side but who also zealously focused on the needs of the
+
+business. Our information-systems associates have all been visionaries who
+
+anticipated the increasing growth of the business and prepared for the needs
+
+of tomorrow.
+
+They also had an unusual and contagious sense of urgency in what they
+
+did, often causing the members of their entire department to think and act
+
+with the same intensity. Anytime someone brought up a problem or issue
+
+related to technology in a meeting, it was not uncommon to see one of the
+
+systems associates get up and leave the meeting hurriedly, only to reappear
+
+before the meeting was over with either an answer or a commitment to find
+
+an answer before next week.
+
+The systems associates developed systems by actually working in the areas
+
+that they were assigned, interacting directly with the people who would have
+
+to make the systems work. They were assigned to a specific functional team,
+
+which allowed them to get a full understanding of the workings of that area,
+
+not just the technical side. And at least once a year, usually during the
+
+Christmas season when the stores were extremely busy, systems associates
+
+did something we called Store (or Club) Appreciation, where nearly all of the
+
+systems associates went out and worked in the stores and clubs, doing what
+
+the store associates had to do. This was a great education for them, and they
+
+learned about the practical application of the systems they developed.
+
+Companies should strive to provide the individualized customer service of the old days, while
+
+embracing the technology of the future.
+
+The commitments of Wal-Mart’s Information Systems Division were:
+
+1. Know the Business.
+
+2. Build It Right.
+
+3. Show the Value.
+
+4. Count on Us.
+
+5. Teach Them.
+
+At Wal-Mart, these five commitments were based on and underscored by
+
+the simple motto: “Think like a merchant.” Admittedly, this is an unusual
+
+statement for a technology department, but that’s how Wal-Mart’s
+
+technology workers stayed attuned to the needs and realities of our business.
+
+Information-systems workers tend to be bright, resourceful, and creative. I
+
+think that simple motto, “Think like a merchant,” is what made our
+
+information-systems associates the very best in the business.
+
+Leading the Way
+
+In addition to their detailed involvement in our business, our information-
+
+systems associates also have outstanding technical skills. Wal-Mart has been
+
+at the forefront of almost all technological innovation in the retail industry.
+
+We were one of the first retailers to effectively use electronic scanners for
+
+point-of-sale (POS) capture of item movement at the cash register.
+
+We were leaders in the development of the Universal Product Code (UPC)
+
+and its placement on all merchandise, a process in which the manufacturer
+
+assigns a unique but standardized code to each individual item. This method
+
+has revolutionized order processing, scanning customers’ merchandise at the
+
+front registers, data collection, replenishment, and other aspects of business
+
+for every retailer and every manufacturer in the world. The retailing industry
+
+did not generally accept UPC in its early days. Many thought it would be
+
+impossible to get everyone to agree on standardization and that the method
+
+would ultimately cost too much for everyone to adopt. Our perseverance
+
+prevailed, though, and we made it happen. Today, nearly every retailer and
+
+manufacturer in the world uses UPC and recognizes it as the very foundation
+
+of all merchandise processing.
+
+Wal-Mart was also the first retailer to extensively use Electronic Data
+
+Interchange (EDI) for transmission of purchase orders for merchandise
+
+directly to manufacturers, then receive their confirmation and invoices back
+
+from them electronically. This process has considerably reduced time, errors,
+
+and costs for the entire industry.
+
+We’ve never shied away from a technological advance if it would help us
+
+fulfill the Wal-Mart vision. To quote once again from Bradford C. Johnson in
+
+the McKinsey Quarterly:
+
+The company [Wal-Mart] invested in most of the waves of retail IT systems earlier and more
+
+aggressively than did its competitors; it was among the first retailers to use computers to
+
+track inventory (1969), just as it was one of the first to adopt bar codes (1980), EDI for better
+
+coordination with suppliers (1985), and wireless scanning guns (late 1980s). These
+
+investments, which allowed Wal-Mart to reduce its inventory significantly and to reap
+
+savings, boosted its capital productivity and labor productivity. Wal-Mart’s secret was to
+
+focus its IT investments on applications that directly enhanced its core value proposition of
+
+low prices. The company’s later IT investments—such as the Retail Link program, which
+
+captures sales data and gives vendors real-time stock and flow information—are aimed more
+
+1
+
+at increasing sales through micro-merchandising and cutting the incidence of stock-outs.
+
+We’ve consistently been among the first in the retail industry when it
+
+comes to finding and creating new opportunities through technology. In
+
+1987,Wal-Mart developed a satellite communications network that extended
+
+to every store, every club, and every distribution center in the country. We
+
+used the network to transmit the stores’ merchandise orders directly into our
+
+main computer for processing. After processing, the order-filling documents
+
+were sent to the specific distribution center that evening for filling and
+
+shipping the next day. Simultaneously, the computer adjusted and maintained
+
+the store inventories for every item in the store.
+
+Later on, we used the satellite network to speed up credit-card approval
+
+and transactions for the stores and clubs. We also used this system for many
+
+other types of communication, including transmission of training programs to

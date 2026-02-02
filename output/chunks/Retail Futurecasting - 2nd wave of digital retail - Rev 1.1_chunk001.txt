@@ -1,0 +1,252 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Transformation
+SUMMARY: This report explores the second era of digital retail, including trends, challenges, and a vision for the future of smart shopping and the smart shelf.
+KEYWORDS: digital retail, retail transformation, smart shelf, retail trends, retail challenges
+---
+
+The second era of digital retail
+
+A vision for the future of shopping and the
+
+smart shelf
+
+A futurecasting report by
+
+Steve Brown
+
+Futurist, Intel Labs
+
+Rev 1.1
+
+1
+
+2
+
+The Second Era of Digital Retail
+
+CONTENTS
+
+1 Executive Summary: Only the brave will win ........................................................................................ 7
+
+2 Introduction ........................................................................................................................................ 11
+
+2.1 Why now? A perfect storm in retail ............................................................................................ 11
+
+2.2 The face, bones, and brains of retail ........................................................................................... 12
+
+2.3 Amplify your investments by feeding the brain.......................................................................... 13
+
+2.4 How to get the most out of this report ....................................................................................... 14
+
+3 Looking back before we look forward ................................................................................................ 15
+
+3.1 Retail can learn from the media industry ................................................................................... 15
+
+3.2 Retail is next: Moore’s Law and the 2nd era of Digital Retail ...................................................... 16
+
+3.3 Moore’s Law makes retail smart ................................................................................................. 17
+
+4 Retail sector - Trends and challenges ................................................................................................. 19
+
+4.1 Manufacturers/Brands – Trends and challenges ........................................................................ 19
+
+4.2 Retailers - Trends and challenges ............................................................................................... 19
+
+4.2.1 The shift to online ............................................................................................................... 20
+
+4.2.2 Footprint ............................................................................................................................. 21
+
+4.2.3 Polarization ......................................................................................................................... 22
+
+4.2.4 Security and trust ................................................................................................................ 23
+
+4.2.5 Oversupply .......................................................................................................................... 24
+
+4.2.6 Inefficiency .......................................................................................................................... 24
+
+4.3 Shopper Trends ........................................................................................................................... 26
+
+4.3.1 Convenience, efficiency and speed ..................................................................................... 26
+
+4.3.2 Experience and New Value ................................................................................................. 27
+
+4.3.3 Choice and control .............................................................................................................. 28
+
+4.3.4 Transparency ....................................................................................................................... 28
+
+4.3.5 Brand interaction ................................................................................................................ 29
+
+4.3.6 Personalized/customized .................................................................................................... 29
+
+4.3.7 Ownership to access and association ................................................................................. 30
+
+4.3.8 Omni-channel ...................................................................................................................... 30
+
+3
+
+5 It’s all about the data .......................................................................................................................... 33
+
+5.1 Partner with or acquire data talent ............................................................................................ 35
+
+5.2 Unifying online and offline data ................................................................................................. 36
+
+5.3 Collaboration versus competition ............................................................................................... 37
+
+5.4 Who pays for data: CapEx versus OpEx ...................................................................................... 38
+
+5.5 Retail investment horizons will need to lengthen ...................................................................... 38
+
+5.6 Standards for data, analytics, and smart infrastructure will emerge ......................................... 39
+
+6 Disruptive forces on the horizon......................................................................................................... 40
+
+6.1 Digital everything ........................................................................................................................ 40
+
+6.1.1 Smart everything ................................................................................................................. 41
+
+6.1.2 Smart objects enable new business models ....................................................................... 41
+
+6.1.3 Wearables will transform customer service ....................................................................... 42
+
+6.2 3D Printing could turn retailers into manufacturers .................................................................. 43
+
+6.2.1 New materials and new approaches to just-in-time........................................................... 43
+
+6.2.2 Millennials leading the desire for customized products ..................................................... 43
+
+6.2.3 Customized products require new design thinking ............................................................ 43
+
+6.3 Location ....................................................................................................................................... 44
+
+6.3.1 Why indoor location? .......................................................................................................... 44
+
+6.3.2 Indoor location techniques ................................................................................................. 44
+
+6.3.3 How accurate is accurate enough? ..................................................................................... 46
+
+6.3.4 Location and security .......................................................................................................... 46
+
+6.4 Consumer desire for personalization and customization ........................................................... 46
+
+6.4.1 Customized vs Personalized ................................................................................................ 46
+
+6.4.2 Customized products and personalized experiences ......................................................... 47
+
+6.5 The rise of the sharing economy ................................................................................................. 48
+
+6.5.1 Massive efficiency already applied to production and distribution ................................... 48
+
+6.5.2 Digital reputation and trust ................................................................................................ 49
+
+6.5.3 From ownership to access .................................................................................................. 50
+
+6.5.4 Uncertainty ahead for retailers ........................................................................................... 50
+
+6.5.5 “Servicification” of the world .............................................................................................. 52
+
+6.5.6 Conclusions on the sharing economy ................................................................................. 52
+
+6.5.7 The social economy ............................................................................................................. 52
+
+6.6 Clubs and memberships .............................................................................................................. 53
+
+4
+
+6.6.1 Clubs change shopper behavior .......................................................................................... 53
+
+6.7 Delivery network disruption will further strengthen online ....................................................... 53
+
+7 The future of the shelf ........................................................................................................................ 56
+
+7.1 Defining the “shelf”: shelves, racks, rounders, peg boards, end caps and more ....................... 56
+
+7.2 Redefining the role of the shelf .................................................................................................. 56
+
+7.3 Expect a broad, diverse family of smart shelves ......................................................................... 57
+
+7.3.1 Smart shelves – Manufacturer-facing vs Shopper-facing ................................................... 58
+
+7.3.2 Shelves will sport a range of different displays, or no display at all ................................... 59
+
+7.3.3 Upgrades and new deployments ........................................................................................ 59
+
+7.3.4 Virtual shelves ..................................................................................................................... 59
+
+7.3.5 Different shelves in different locations ............................................................................... 59
+
+7.3.6 Good, Better, Best, and Amazing ........................................................................................ 60
+
+7.4 The tip of a much larger iceberg ................................................................................................. 60
+
+7.5 Enhancing conversations between manufacturers and shoppers .............................................. 61
+
+7.6 Smart shelves should develop an EQ .......................................................................................... 63
+
+7.7 Conversations will become natural............................................................................................. 63
+
+7.8 Going beyond conversations ...................................................................................................... 64
+
+7.9 A tiered hierarchy of shelves ...................................................................................................... 65
+
+7.10 Smart shelf business models ....................................................................................................... 67
+
+8 Summary and next steps ..................................................................................................................... 68
+
+8.1 Next steps for savvy retailers ...................................................................................................... 68
+
+9 Retail 2030: a vision for the future of shopping ................................................................................. 74
+
+10 Futurecasting process ..................................................................................................................... 80
+
+10.1 Participants ................................................................................................................................. 81
+
+10.2 Synthesis of key trends ............................................................................................................... 82
+
+10.3 Futurecasting – modeling the future around people ................................................................. 83
+
+10.4 Backcasting.................................................................................................................................. 84
+
+10.5 Science Fiction Prototyping......................................................................................................... 85
+
+Legal disclaimer: All trademarks and brands listed in this document are the property of their respective
+
+owners.
+
+5
+
+6
+
+1 EXECUTIVE SUMMARY: ONLY THE BRAVE WILL WIN
+
+The $15 trillion retail sector is entering another period of major disruption, driven by technological,
+
+social, and demographic change. The pressure from online sales will increase as delivery times fall. And
+
+the shift towards the sharing economy is changing the notion of consumption itself.
+
+Shopper expectations are evolving faster than retailers are innovating and over-capacity in the retail
+
+sector has put shoppers in control. Shoppers want their needs met faster. They are demanding more
+
+efficient, higher quality, personalized, and omni-channel shopping experiences. They want products and
+
+services tailored to their individual tastes and desires. They are demanding increased transparency into
+
+pricing, retail operations, and products, and want a bigger say in how products are developed and sold.
+
+But retailers have been slow to innovate and are furiously discounting as they fight for every dollar. The
+
+spaces they occupy are too big and in the wrong places. Urbanization is only piling on the pressure.
+
+Unless something changes, the race to the bottom is on.
+
+Successful retailers will improve operations and deliver new value to shoppers by mastering the use of
+
+data throughout every aspect of their business. Retailers that remain stuck in the past, running their
+
+businesses on gut and historical experience will become uncompetitive. They will need to learn new
+
+skills, embrace new technology, and take big risks. Retailers will all need to be much braver than in the
+
+past; and only the bravest will win.

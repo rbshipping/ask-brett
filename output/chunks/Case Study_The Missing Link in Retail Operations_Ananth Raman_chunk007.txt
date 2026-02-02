@@ -1,0 +1,94 @@
+SOURCE: Case Study_The Missing Link in Retail Operations_Ananth Raman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text analyzes the factors that drive misplaced SKUs (stock-keeping units) in retail stores, including inventory density, audit frequency, product variety, and distribution center.
+KEYWORDS: retail operations, inventory management, misplaced SKUs, store performance, distribution management
+---
+
+the recorded itemj.the quantity sold of that item during the past year, and
+
+‘unétion of inventory density (the quantity of inventory in a particular
+
+ing floor space), the frequency of inventory audits at the store, the product
+
+variety, displayed at the store, and the DC from which the store receives mer-
+
+chandise. We control for sales differences across stores. In our final model,
+
+inventory density and the frequency of audits are significant at the 95% level,
+
+roduct variety is significant at the 99% level, and the impact of the DCs from
+
+hich the store received merchandise was significant at the 99.9% level.
+
+We estimate the drivers of misplaced SKUs at the store level. We predict
+
+the fraction of items that are present in storage areas but not on the selling floor
+
+as a function of “SKU density” (the number of SKUs in a particular selling floor
+
+CALIFORNIA MANAGEMENT REVIEW VOL. 43,INO.3 SPRING 2001 1S]
+
+Thie dnnumant ie aitharivad far nice anhe hy WALIKE STRARIG unit Anril 2949 Canine ar noctian ie an infrinnamant
+
+Execution: The Missing Link mn Retail Operations
+
+space), “depth” (the quantity of inventory for each SKU), backroom size, full-
+
+time and part-time employee turnover, general manager turnover, and “train;
+
+ing” (the number of training assistant managers at a particular store), We control
+
+for regional differences, unemployment rate, age of the store, and the period
+
+during which the audit was conducted. In our final model, part-time, employee
+
+turnover is significant at the 95% level, depth is significant at the 99% Jevel, and
+
+SKU density and general manager turnover are significant at the 99.5% level,
+
+Notes
+
+1. Car] Steidtmann, “The New Retail Technology,” Discount/Merchandiser( November
+
+1999), pp. 23-24.
+
+2. The research consortium, Consortium for Operational | Excellence i in Retailing
+
+(COER), is directed by Professor Marshall Fisher of the Wharton School of the
+
+University and Pennsylvania and Professor Ananth Raman of the Harvard Busi-
+
+ness School. The research is supported by the {Wo schools and a grant from the
+
+Alfred P. Sloan Foundation.
+
+3. John F Kratcik, “Triumph of the Lean prodiiction System,” Sloan Management
+
+Review, 30 (Fall 1988): 41-52.
+
+4, W.E, Deming, Ont of the Crisis (Cam
+
+brldge, The MIT Press, 2000); P.B. Crosby,
+
+he Free Press, 1989).
+
+tie erence between the recorded value of
+
+ise bought and veceived and the value of actual
+
+vion centers. Shrink is caused " employee thelt,
+
+7. See Steven Nahmias, | tion and Operations Analysis (New York, NY:
+
+Irwin/McGraw-Hill 1997).
+
+8. Fora discussion of manufacturing quality, see David Garvin, Managing Quality
+
+Drivers of Misplaced SKUs in Retailing,” Harvard Business School Working Paper
+
+., (2001).
+
+152 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+Thie danimant ie antharized far ites anh hu IOUM TRANG tnt Anrit 9949 Canuinn ar nneting ic an infrinnamant

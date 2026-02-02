@@ -1,0 +1,220 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Stock Investment Analysis
+SUMMARY: The text discusses reasons to sell a stock, such as deteriorating fundamentals or a change in the original investment thesis.
+KEYWORDS: stock selling, investment decisions, anchoring bias, fundamentals analysis
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+into financial trouble, and they were a lot more worried
+
+about paying their bills—especially the interest on their
+
+debt—than they were in building new theaters. I was down
+
+quite a bit on the investment by the time I figured this
+
+out, but I sold anyway. Good thing I did, too, because the
+
+shares subsequently plunged to penny-stock territory.
+
+cc1144..iinndddd 118899 11//2266//0088 33::1144::2277 AAMM
+
+[190] THE LITTLE BOOK THAT BUILDS WEALTH
+
+I should note that this is far easier said than done,
+
+because we tend to anchor on the price at which we bought
+
+a stock, and we hate losing money. (In fact, numerous
+
+psychological studies have proved that people experience
+
+almost twice as much pain when they lose money than
+
+they experience pleasure when they gain the exact same
+
+amount.) This behavior causes us to focus on irrelevant
+
+information—the price at which we purchased a stock,
+
+which has zero effect on the company’s future prospects—
+
+instead of much more relevant information, such as the
+
+fact that our original assessment of the company’s future
+
+may have been flat-out wrong.
+
+One trick you can use to avoid anchoring is this: Each
+
+time you buy a stock, write down why you bought it and
+
+roughly what you expect to happen with the company’s
+
+financial results. I’m not talking about quarterly earn-
+
+ings forecasts, just rough expectations: Do you expect sales
+
+growth to be steady or to accelerate? Do you expect
+
+profit margins to go up or down? Then, if the company
+
+takes a turn for the worse, pull out your piece of paper
+
+and see whether your reasons for buying the stock still
+
+make sense. If they do, hold on or buy more. But if they
+
+don’t, selling is likely your best option—r egardless of
+
+whether you’ve made or lost money on the shares.
+
+The second reason to sell is if a company’s fundamen-
+
+tals deteriorate substantially and don’t look like they’re
+
+cc1144..iinndddd 119900 11//2266//0088 33::1144::2277 AAMM
+
+WHEN TO SELL [191]
+
+going to rebound. For a long-term investor, this is likely to
+
+be one of the more common reasons to sell: Even the best
+
+companies can hit a wall after years of success. You may
+
+very well have been 100 percent right in your initial assess-
+
+ment of the company’s prospects, its valuation, and its com-
+
+petitive advantages, and you may have had a lot of success
+
+owning the stock—but as economist John Maynard Keynes
+
+once said, “When the facts change, I change my mind.”
+
+Here’s a recent example from a company I once cov-
+
+ered for Morningstar: Getty Images. This is a fascinating
+
+company that capitalized on photography’s digital migra-
+
+tion by building a massive database of digital images that
+
+it distributes to ad agencies and other large image con-
+
+sumers. Getty essentially became the industry’s largest
+
+marketplace for images, making it easy for photographers
+
+to upload images to its database, and for image users to
+
+find exactly the image they need. For a time it was a great
+
+business, with strong growth rates, high returns on capi-
+
+tal, and massive operating leverage.
+
+So what happened? Essentially, the same digital tech-
+
+nology that built the company made it less relevant. As
+
+high-quality digital imaging became more accessible to a
+
+wider range of users, it became easier to create professional-
+
+quality images with cheaper cameras. This led to the rise
+
+of web sites selling images that were admittedly lower-
+
+quality than the average Getty image, but that were much
+
+cc1144..iinndddd 119911 11//2266//0088 33::1144::2277 AAMM
+
+[192] THE LITTLE BOOK THAT BUILDS WEALTH
+
+cheaper (a few dollars versus a few hundred dollars), and
+
+good enough for less demanding users. Couple this with
+
+the fact that online images don’t need to be of as high
+
+quality as ones used in print media, and Getty’s economics
+
+and growth prospects changed markedly for the worse.
+
+The third reason to sell is that you come across a better
+
+place for your money. As an investor with limited capital,
+
+you want to always be sure that your investments have the
+
+highest possible expected return. So, selling a modestly
+
+undervalued stock to fund the purchase of a ridiculously
+
+mouth-watering opportunity is perfectly logical—and a
+
+darned good idea. Of course, taxes come into play here, and
+
+you may need a larger difference in potential upside to jus-
+
+tify a sale in a taxable account than in a tax-qualified one,
+
+but it is nonetheless something to keep in mind. I wouldn’t
+
+recommend constant portfolio tweaking to move from stocks
+
+with 20 percent upside to stocks with 30 percent upside, but
+
+when a great opportunity comes along, sometimes you need
+
+to sell an existing stock to fund the idea.
+
+For example, when the market sold off during the
+
+credit crunch in late summer of 2007, financial services
+
+stocks were absolutely crushed. Some were deservedly so,
+
+but as is usually the case, Wall Street threw a lot of babies
+
+out with the bathwater, and many stocks were whacked
+
+down to ridiculously cheap levels. Now, I normally keep at
+
+least 5 to 10 percent of my personal account in cash so
+
+cc1144..iinndddd 119922 11//2266//0088 33::1144::2277 AAMM
+
+WHEN TO SELL [193]
+
+that I have dry powder for occasions just like this one—you
+
+never know when the market will lose its mind—but for a
+
+number of reasons, I was caught with very little spare cash
+
+during this particular sell-off. So, I started comparing the
+
+potential upside from my existing positions with some of
+
+the financial stocks that Wall Street was putting on sale.
+
+The net result was that I sold a position that I hadn’t
+
+owned for very long, but which had only modest upside
+
+potential, to fund the purchase of a bank trading at below
+
+book value, which had already agreed to be taken over at a
+
+higher price—a very worthwhile trade-off.
+
+Remember that sometimes the better place for your
+
+money may very well be cash. If a stock has far surpassed
+
+what you think it is worth and your expected return from

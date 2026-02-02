@@ -1,0 +1,164 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Shelf Technology
+SUMMARY: The text discusses the evolving nature of retail shelves, including the use of displays, virtual shelves, and the need for retailers to optimize shelf design.
+KEYWORDS: digital shelves, display technology, virtual shelves, shelf design, retail technology
+---
+
+service for their manufacturers. Many will deploy shelving infrastructure that does both.
+
+58
+
+7.3.2 Shelves will sport a range of different displays, or no display at all
+
+Shelves will vary in their display capabilities. Many will have no display. Some will have glorious high-end,
+
+highly engaging displays used to merchandise products. Other models will use the shopper’s device as
+
+the display.
+
+Since most retailers won’t want to turn their store environments into a visual assault resembling a
+
+miniaturized Las Vegas strip, most shelves will likely have no display, or employ the display on a
+
+shopper’s device. However as display technology continues to develop, capabilities increase, and costs
+
+fall, the marketing of some categories of product will benefit from a rich display capability. This might
+
+include the use of high quality video, and ultimately “holographic” displays.
+
+Challenge: Retailers will need to consider electronic shelf displays as part of their broader look and feel.
+
+With proper attention paid to on-screen design, and the use of more muted display technology
+
+(brightness will need to be set optimally for the lighting levels in the store) even an OLED or LED display
+
+can be made to look good in a store environment. Control and constraint on the design will be
+
+important to avoid the shelf looking like a coupon catalogue on steroids. Retailers that figure out this
+
+recipe early on by engaging thoughtful designers and user experience expertise will be at an advantage.
+
+7.3.3 Upgrades and new deployments
+
+Initial implementations will need to plug and play with existing shelving infrastructure. Longer term,
+
+more sophisticated smart shelving will replace existing infrastructure. This will be only happen when
+
+new deployments deliver enough value to manufacturers, retailers and shoppers to justify the upgrade.
+
+7.3.4 Virtual shelves
+
+Some shelving will be physical while other shelves will be virtual.
+
+Virtual shelves will enable the shopper to view a wider variety of
+
+products than that which is available in the increasingly limited
+
+physical space of the store. Adidas* has already done some
+
+successful experimentation in this area with virtual space
+
+technology. Using a set of large touch screens they created a
+
+movable carousel of virtual shelves displaying footwear. They
+
+placed them alongside physical racks of real shoes to create the
+
+illusion of a virtual shelf space.
+
+This allowed more product to be showcased in their flagship
+
+stores where space is at a premium. Their implementation
+
+included an interactive element that enables shoppers to
+
+interact with the digital shoes, to learn more about their
+
+construction, and to see the materials used to make them.
+
+7.3.5 Different shelves in different locations
+
+Shelves will also vary depending on their location: A smart shelf in a small local grocery store will be
+
+different to a shelf in a big box electronics store and they will both be different than a smart shelf in
+
+someone’s pantry or fridge. Shelves in a pantry or fridge only need to sense and gather home produce
+
+inventory levels. Shelves in a local store will likely combine inventory and some basic sales capabilities,
+
+59
+
+whereas shelving in experiential retail might make use of sophisticated sales capabilities to help
+
+shoppers discover products and move them towards a purchase decision.
+
+7.3.6 Good, Better, Best, and Amazing
+
+So we should expect a broad spectrum of smart shelving. These will range from simple plug-and-play
+
+add-ons to existing shelves (basic sensors, no display, assessing shopper traffic, churn, and linger times)
+
+up to super high-tech installations with either 2D or even 3D ‘holographic’ displays that are able to
+
+communicate with the shopper using touch, gesture, and voice and that can see and understand the
+
+world around them. These shelves might be capable of natural language interaction with shoppers,
+
+understand the emotional state of the shopper, be able to make personalized offers, optimize retailer
+
+revenue by offering intelligent dynamic pricing, act as in-store billboards so retailers can sell advertising
+
+services to manufacturers, and more.
+
+As technology continues to mature, and price points fall, more and more capabilities will become
+
+possible over time. Whatever the capability, a smart shelf must deliver value to either the shopper or
+
+the manufacturer. Ideally both. After all, history shows over and over again that technology for
+
+technology’s sake is an utter waste of everybody’s time.
+
+Challenge: Given the rapid speed of innovation coming to the shelf courtesy of Moore’s Law,
+
+infrastructure manufacturers may choose to design highly modular smart shelf systems. These will allow
+
+easy extensibility and rapid experimentation with new technology as it becomes available. A platform
+
+approach such as this will help to boost competitiveness and at the same time control costs. It may also
+
+enable the capture of increased value by attracting the support of software and services developers.
+
+Challenge: Retailers will need to figure out how to capitalize on the opportunity to generate revenue
+
+from manufacturers by creating data-led sales and marketing leads at the shelf.
+
+Challenge: Retailers will need to think about the smart shelf as a platform for creating and delivering
+
+new services to manufacturers, including at-shelf advertising, dynamic pricing, virtual sales assistance
+
+and more.
+
+7.4 THE TIP OF A MUCH LARGER ICEBERG
+
+Deploying smart infrastructure based on Internet of things (IoT) technology is relatively useless unless
+
+it’s connected to a back-end infrastructure that can gather, analyze, and act upon all the data gathered
+
+by the sophisticated set of sensors in the shelf.
+
+Section 5 discusses data in more detail, but deploying IoT solutions like the smart shelf is not for the
+
+faint of heart. To unlock maximum value, and deliver truly personalized service to shoppers, smart
+
+shelves will need to be supported by a sophisticated back-end server infrastructure able to gather and
+
+store data, run the latest data analytics, and deliver support services to the shelves as needed. These
+
+support services could include access to databases that store real-time inventory data, customer profile
+
+data, and product information. The back-end server infrastructure may also provide video streaming
+
+services, natural computing services and more.
+
+60

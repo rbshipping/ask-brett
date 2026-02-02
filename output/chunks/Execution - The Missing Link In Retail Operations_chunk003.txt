@@ -1,0 +1,234 @@
+SOURCE: Execution - The Missing Link In Retail Operations.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text discusses the challenges of inventory management and store processes that can lead to inconsistent performance and inaccuracies in retail operations.
+KEYWORDS: inventory accuracy, misplaced SKUs, store processes, backroom design, retail operations
+---
+
+Thie daniuimant ie aitharizad far ian ants hy IAUM STRANI nil Ansil O04 Canuing ar ancting ie an infvinnamant
+
+Execution: The Missing Link in Retail Operations
+
+FIGURE 3. Consistent Performance in Inventory Accuracy Among Stores in Two >
+
+Consecutive Years .
+
+8.00 }
+
+7.00
+
+Absolute Error (1999)
+
+' ' ‘ + ‘
+
+2.00 3.00 4.00 5.00 6.00 7.00 8.00 9.00
+
+Absolute Error (1998)
+
+FIGURE 4. Consistent Performance in Misplaced SKUs Among Stores in Two Consecutive Years
+
+S 12.00%
+
+&
+
+5 10.00%
+
+&
+
+Le
+
+& 8.00%
+
+°
+
+8
+
+; Zz 6.00%
+
+w“
+
+Z 400%
+
+% 400%
+
+2
+
+°o
+
+e 2.00%
+
+. 8
+
+»
+
+& 0.00%
+
+va
+
+0.00% 2.00% 4.00% 6.00% 8.00% 10.00% 12.00%
+
+Fraction of SKUs Not on Floor (1999)
+
+142 CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001
+
+This daniiminnt ie autharignd far ion ankr hu IQUM CTDANG until Anril N49 Canuinn nv nneting ia an infrinnnmant
+
+Execution: The Missing Link in Retail Operations
+
+“system inventory level” and “physical inventory level.” In the above exampley
+
+system inventory would exceed physical inventory by one unit for plain_yog
+
+and would be a unit short for lemon yogurt. Similarly, many of us have Cy 4
+
+enced situations where, after buying a “large” garment, we returng “to the store deat
+
+to exchange the “large” for a “medium.” It is not unusual in this é n
+
+for salespeople to exchange the garments without entering either transaction
+
+(i.e., the return of one item and the sale of another). Clearly, in this case thi
+
+system would underestimate physical inventory for large and ove restimate
+
+inventory for medium garments. a)
+
+Store processes also cause the “misplaced SKUs” problem. Store sales
+
+people are often charged with moving merchandise fr off the stOrage areas to
+
+the sales floor based on sales of specific items. The task ‘though | it appears to be
+
+simple, is rendered complex by a number of factors. One, BoreSalespeople, who
+
+often are very busy during high-traffic periods, find it hard to replenish mer-
+
+chandise promptly from the storage areas. Two, Ms stores do not organize the
+
+inventory in their storage areas very well. Cons: ie) tly, sales people may not
+
+know if merchandise that has stocked oubimth the area is even available in
+
+the storage areas. Moreover, computerized inf nation systems that track the
+
+inventory at the stores often do not maintain separate fields to identify storage
+
+area inventory. The fact that storage-areaStare,often dispersed over multiple loca-
+
+tions and “SKUs not on floor” cgitld be any. these locations exacerbates the
+
+problem. For example, a at some Stores, there are Storage areas above the shelves,
+
+Rof Magy" near the loading dock, and merchan-
+
+eas are n@irac ed separately.
+
+Store design—egpecially th esign, size, and number of backrooms and
+
+other storage areas per execution. The importance of backroom
+
+size, for example, can be illustrated with an anecdote from Beta Corporation.
+
+While store es was largely consistent from one year to the next, there
+
+were some an s. One store, for example, saw substantial deterioration in
+
+performan m T998)to 1999, The President of Stores at Beta was not sur-
+
+prised at "He POinted out that, after repeated requests, he had allowed the
+
+store to i crease the capacity of its backroom at the end of 1998. Not surpris-
+
+Nas ard mi,proponents of JIT* would have predicted, the backroom had
+
+ory after the expansion than it had before and the store suffered
+
+larger fraction of SKUs not available on the floor than it had in
+
+owever, store processes only explain part of the problem. Gamma, for
+
+example, found that DC processes had much to do with inventory record inac-
+
+Q curacy. In early 1999, Gamma tried an experiment at one of its new stores.
+
+he company planned to open a store on a particular date and the distribution
+
+lepartment was asked to stock merchandise in preparation for this opening.
+
+Unknown to the distribution department, however, the company postponed the
+
+opening of the store and, instead, audited every item at the store before a single
+
+y |
+
+CALIFORNIA MANAGEMENT REVIEW VOL 43,NO.3 SPRING 2001 143
+
+Thin dann nt ie autharicad far ian anhs bu IAUR CTDARNIA until Anvil 2949 Canina ar nnctina in an infrinnamant
+
+Execution: The Missing Link in Retail Operations
+
+FIGURE 5. Average Store "Absolute Errors" Grouped by Distribution Center
+
+8.00
+
+7.00
+
+6.00
+
+5.00
+
+4.00
+
+Absolute Error (units)
+
+customer had ever walked. thessiore. A r
+
+curate for 29% of thesitems and the avérage absolute error was 25% of system
+
+1OCesses is also supported by Figure 5, which
+
+shows the average error in inventory records at stores served by each of three
+
+: served, even though it is possible that the differences
+
+mmed from regional differences in store management and
+
+DC served stores in a certain geographic region). Gamma
+
+d out that, unlike the other two DCs, DC 1 had had stable man-
+
+: its inception. Over time, the management team at DCI had estab-
+
+Interestingly, merchandise received at the stores directly from the vendor
+
+end to have much more accurate records than those shipped from even the best
+
+C. Gamma managers believed that the superior performance obtained on ven-
+
+dor-direct items could be traced to two factors. First, store managers are more
+
+careful in checking shipments received directly from vendors for accuracy, partly
+
+] to ensure that invoices are accurate. Expecting this, vendors probably are more
+
+144 CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001
+
+Thin danumant ie auithariznd far ies anhs hu IALIA CTOANA tintil Anril 249 Onnuing ar na. in an infrinnamant
+
+#
+
+Execution: The Missing Link in Retail Operations
+
+careful than DCs, who at times can be somewhat sloppy in verifying accuracy
+
+Furthermore, Gamma Corporation, in an attempt to save on ai tor mill com- AN
+
+contributed to the increased likelihood of store managers checking _ lor ship-
+
+ments. Second, vendor-direct shipments tend to be smaller overall and oftem
+
+contained fewer items. Consequently, they could be checked mi@re easily.
+
+Merchandising and Inventory Management
+
+Greater variety and more store inventory lead t uy

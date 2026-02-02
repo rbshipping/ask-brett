@@ -1,0 +1,236 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Business Performance Analysis
+SUMMARY: The text analyzes Procter & Gamble's performance and strategic choices in the 2000-2009 period, highlighting both successes and failures.
+KEYWORDS: Procter & Gamble, Business Strategy, Performance Evaluation, Mergers and Acquisitions, New Product Development
+---
+
+R&D (percentage of sales) 4.8 2.5
+
+Marketing (percentage of sales) 14 15
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_A.indd 224 11/6/12 8:16 PM
+
+P&G’s Performance 225
+
+The strategies that were developed between 2000 and 2009
+
+generated significant value for the company and shareholders. Yet
+
+no strategy is perfect, and P&G during this decade had its share of
+
+disappointments and failures:
+
+• Coffee. While P&G’s Folgers won the battle against Max-
+
+well House for packaged coffee leadership in grocery and
+
+mass channels, Starbucks, Nespresso, and Keurig all won
+
+in the bigger game, creating strategies that captured more
+
+coffee consumption and significant value creation. Folgers
+
+bid and lost three times for the Starbucks packaged-coffee
+
+contract. It tested and failed in a partnership to create its
+
+own pod-plus-machine coffee system. P&G lost the larger
+
+war. In 2008, the company sold the profitable $1.7 billion
+
+Folgers business to Smuckers.
+
+• Pringles. P&G wasn’t able to realize the full potential of its
+
+$1.5 billion Pringles snacks business and sold it to Kellogg
+
+in 2011.
+
+• Pharmaceuticals. P&G could not obtain regulatory
+
+approval for its Intrinsa testosterone patch for women; nor
+
+could the company form partnerships for, or swap out, its
+
+prescription pharmaceutical business for over-the-counter
+
+brands to create more value. P&G sold its $2.5 billion
+
+pharmaceuticals business in 2009.
+
+• M&A. P&G missed on a number of merger and acquisition
+
+opportunities. It was unable to close a joint venture with
+
+Coca-Cola in the juice beverages and snacks b usiness—a
+
+venture that would have created significant value. Nor
+
+could P&G close an acquisition for a major, global
+
+skin-care brand, although it did acquire DDF (Doctor’s
+
+Dermatological Formula), a small US niche brand.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_A.indd 225 11/6/12 8:16 PM
+
+226 Appendix A
+
+• New brands. P&G was unable to create successful new
+
+brands with Dryel, Fit, Olay Cosmetics, Physique, Tempo,
+
+or Torengos.
+
+Despite the disappointments and failures, P&G made suffi-
+
+ciently good strategic choices to create enough sustainable com-
+
+petitive advantage and to deliver enough consistent value creation
+
+to put the company among the leading performers in its industry,
+
+on the Dow Jones 30 and the Fortune 50. So, it can be tempting to
+
+assume that P&G’s strategies in the first decade of the twenty-first
+
+century are the right strategies for the company (or category, or
+
+brand) moving forward.
+
+But no strategy lasts forever. Strategies need continual
+
+improvement and updating. Competitors have copied P&G’s
+
+strategies—on innovation, on branding, and the like—to an extent
+
+that renders P&G’s resultant strategy less distinctive and decisive.
+
+The consumer packaged goods industry is expanding into emerg-
+
+ing markets in a shared search for growth, making this approach a
+
+more common strategy across the industry and less powerful for
+
+individual players. Approaches that were significant sources of
+
+competitive advantage must be revisited and revised as contexts
+
+change. This is the challenge that faces the next generation of P&G
+
+leaders, just as it challenged leaders in 2000 and will challenge suc-
+
+ceeding generations. Every P&G leader has needed to change the
+
+strategy they inherited in light of the changing context, and P&G’s
+
+current and future leaders will have to do the same.
+
+Historically P&G has risen to meet its challenges over a
+
+175-year-plus history. This legacy of strategic and careful decision-
+
+making should serve P&G well if the management team keeps
+
+searching for unique where-to-play and how-to-win choices that
+
+set the company apart. Winning through distinctive choices is the
+
+always-and-forever job of every strategist.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_A.indd 226 11/6/12 8:16 PM
+
+Appendix B
+
+The Microeconomic Foundations
+
+of Strategy and the Two Ways
+
+to Win
+
+I
+
+t may seem hard to believe that there are only two possible ways
+
+to win—low cost or differentiation. Why only those two, people
+
+often wonder, and what drives this dynamic?
+
+This outcome is driven by the fundamental microeconomic
+
+foundations of strategy. A firm can face only two fundamental
+
+economic conditions, one of which gives rise to low-cost strate-
+
+gies, and another that gives rise to differentiation strategies. In
+
+microeconomics, the two central structures are demand and sup-
+
+ply, and where they cross, the price is determined.
+
+Structure of Demand
+
+Demand is a measure of consumer willingness to purchase a given
+
+product or service. Each individual buyer has his or her own demand
+
+curve: if the price is high, the person will buy less; if it is low, he
+
+or she will buy more. The utility of the product to each i ndividual
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 227 11/6/12 8:16 PM
+
+228 Appendix B
+
+Figure B-1
+
+Construction of industry demand curve
+
+Buyer 1 Buyer 2 Buyer 3 Market
+
+Price + + =
+
+Units Units Units Units
+
+Quantity
+
+will determine how much is purchased at what price, and not
+
+every c onsumer has the same utility for a given product or s ervice.
+
+A hungry person has a higher utility for a turkey sandwich than
+
+does a satiated person. So, each individual buyer has his or her own
+
+demand curve. Nevertheless, you can calculate the i ndustry demand
+
+by a ggregating the individual demand curves together. The indus-
+
+try curve follows the same basic principles as i ndividual demand
+
+curves—the curve slopes downward as higher prices produce lower
+
+demand and lower prices produce higher demand (fi gure B-1).
+
+Structure of Supply
+
+A similar dynamic occurs on the supply side. Each firm is willing
+
+to produce a certain amount of output, given the prevailing price

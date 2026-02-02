@@ -1,0 +1,202 @@
+SOURCE: HBS Delusions of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Executives' Decision Making
+SUMMARY: Executives routinely exaggerate benefits and discount costs in planning major initiatives, leading to failure, and this optimism bias can be addressed through more realistic forecasting.
+KEYWORDS: executive decision making, optimism bias, forecasting, project failure, planning
+---
+
+www.hbr.org
+
+Delusions of
+
+In planning major initiatives,
+
+executives routinely
+
+exaggerate the benefits and
+
+Success
+
+discount the costs, setting
+
+themselves up for failure.
+
+Here’s how to inject more
+
+How Optimism Undermines
+
+reality into forecasting.
+
+Executives’ Decisions
+
+by Dan Lovallo and Daniel Kahneman
+
+Reprint R0307D
+
+In planning major initiatives, executives routinely exaggerate the
+
+benefits and discount the costs, setting themselves up for failure.
+
+Here’s how to inject more reality into forecasting.
+
+Delusions of
+
+Success
+
+How Optimism Undermines
+
+Executives’ Decisions
+
+by Dan Lovallo and Daniel Kahneman
+
+In 1992, Oxford Health Plans started to build a lion, creating the largest rail carrier in North
+
+complex new computer system for processing America. Almost immediately, the two compa-
+
+claims and payments. From the start, the nies began to have serious difficulties merging
+
+project was hampered by unforeseen prob- their operations, leading to snarled traffic, lost
+
+lems and delays. As the company fell further cargo, and massive delays. As the situation got
+
+behind schedule and budget, it struggled, worse, and the company’s stock price tum-
+
+vainly, to stem an ever rising flood of paper- bled, customers and shareholders sued the
+
+work. When, on October 27, 1997, Oxford dis- railroad, and it had to cut its dividend and
+
+closed that its system and its accounts were in raise new capital to address the problems.
+
+disarray, the company’s stock price dropped Debacles like these are all too common in
+
+63%, destroying more than $3 billion in share- business. Most large capital investment
+
+holder value in a single day. projects come in late and over budget, never
+
+Early in the 1980s, the United Kingdom, living up to expectations. More than 70% of
+
+Germany, Italy, and Spain announced that new manufacturing plants in North America,
+
+they would work together to build the Euro- for example, close within their first decade of
+
+fighter, an advanced military jet. The project operation. Approximately three-quarters of
+
+was expected to cost $20 billion, and the jet mergers and acquisitions never pay off—the
+
+was slated to go into service in 1997. Today, acquiring firm’s shareholders lose more than
+
+after nearly two decades of technical glitches the acquired firm’s shareholders gain. And ef-
+
+and unexpected expenses, the aircraft has yet forts to enter new markets fare no better; the
+
+to be deployed, and projected costs have more vast majority end up being abandoned within
+
+than doubled, to approximately $45 billion. a few years.
+
+In 1996, the Union Pacific railroad bought According to standard economic theory, the
+
+its competitor Southern Pacific for $3.9 bil- high failure rates are simple to explain: The
+
+harvard business review • july 2003 page 1 of 9
+
+.DEVRESER
+
+STHGIR
+
+LLA
+
+.NOITAROPROC
+
+GNIHSILBUP
+
+LOOHCS
+
+SSENISUB
+
+DRAVRAH
+
+YB
+
+3002
+
+©
+
+Delusions of Success
+
+frequency of poor outcomes is an unavoidable One of the most powerful is the tendency of
+
+result of companies taking rational risks in un- individuals to exaggerate their own talents—
+
+certain situations. Entrepreneurs and manag- to believe they are above average in their en-
+
+ers know and accept the odds because the re- dowment of positive traits and abilities. Con-
+
+wards of success are sufficiently enticing. In sider a survey of 1 million students conducted
+
+the long run, the gains from a few successes by the College Board in the 1970s. When asked
+
+will outweigh the losses from many failures. to rate themselves in comparison to their
+
+This is, to be sure, an attractive argument peers, 70% of the students said they were
+
+from the perspective of executives. It effec- above average in leadership ability, while only
+
+tively relieves them of blame for failed 2% rated themselves below average. For ath-
+
+projects—after all, they were just taking rea- letic prowess, 60% saw themselves above the
+
+sonable risks. But having examined this phe- median, 6% below. When assessing their abil-
+
+nomenon from two very different points of ity to get along with others, 60% of the stu-
+
+view—a business scholar’s and a psycholo- dents judged themselves to be in the top
+
+gist’s—we have come to a different conclu- decile, and fully 25% considered themselves to
+
+sion. We don’t believe that the high number of be in the top 1%.
+
+business failures is best explained as the result The inclination to exaggerate our talents is
+
+of rational choices gone wrong. Rather, we see amplified by our tendency to misperceive the
+
+it as a consequence of flawed decision making. causes of certain events. The typical pattern of
+
+No matter how detailed, the When forecasting the outcomes of risky such attribution errors, as psychologists call
+
+projects, executives all too easily fall victim to them, is for people to take credit for positive
+
+business scenarios used in
+
+what psychologists call the planning fallacy. In outcomes and to attribute negative outcomes
+
+its grip, managers make decisions based on de- to external factors, no matter what their true
+
+planning are generally
+
+lusional optimism rather than on a rational cause. One study of letters to shareholders in
+
+inadequate. weighting of gains, losses, and probabilities. annual reports, for example, found that execu-
+
+They overestimate benefits and underestimate tives tend to attribute favorable outcomes to
+
+costs. They spin scenarios of success while factors under their control, such as their cor-
+
+overlooking the potential for mistakes and porate strategy or their R&D programs. Unfa-
+
+miscalculations. As a result, managers pursue vorable outcomes, by contrast, were more
+
+initiatives that are unlikely to come in on bud- likely to be attributed to uncontrollable exter-
+
+get or on time—or to ever deliver the expected nal factors such as weather or inflation. Simi-
+
+returns. lar self-serving attributions have been found
+
+Executives’ overoptimism can be traced in other studies of annual reports and execu-
+
+both to cognitive biases—to errors in the way tive speeches.
+
+the mind processes information—and to orga- We also tend to exaggerate the degree of
+
+nizational pressures. These biases and pres- control we have over events, discounting the
+
+sures are ubiquitous, but their effects can be role of luck. In one series of studies, partici-

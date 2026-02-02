@@ -1,0 +1,158 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Technology and Personalization
+SUMMARY: Retailers can leverage wearable technology and 3D printing to enhance customer experience, enable customization, and transform their supply chains.
+KEYWORDS: wearable technology, personalization, 3D printing, on-demand manufacturing, customer experience
+---
+
+help them deliver better customer service.
+
+Computing technology worn by shoppers is also an opportunity to transform the customer experience.
+
+While 80% of US consumers currently have privacy concerns over wearable technology, half of those
+
+same consumers would be willing to share personal data collected from their wearable devices with
+
+retailers if they are given some kind of compensation such as a coupon or discount (Source: Accenture’s
+
+Acquity Group, 2014).
+
+Some retailers are already experimenting with replacing loyalty cards with wearables for their
+
+customers. These wearable devices can be used to monitor shopper behavior, trigger personalized
+
+offers, and deliver rewards to shoppers for certain behaviors (perhaps for visiting the store a certain
+
+number of times in a month or in a year). Shoppers will need to perceive that they enjoy a fair exchange
+
+of value for agreeing to wear technology supplied by a retailer. It will need to offer them benefits they
+
+value and come with adequate assurances regarding privacy and security. These benefits may or may
+
+not be related to the shopping experience itself.
+
+Challenge: Retailers might want to explore the benefits of giving wearables to their regular shoppers
+
+and research the appropriate value exchange required to incent shoppers to keep these wearable items
+
+on their bodies.
+
+42
+
+6.2 3D PRINTING COULD TURN RETAILERS INTO MANUFACTURERS
+
+3D printing technology will continue to improve over the next decade and will potentially reframe the
+
+economics, supply chain and customization capabilities of retail.
+
+Retailers may also become manufacturers, able to make or finish customized goods on demand. In an
+
+urbanized world of small retail spaces, 3D printing promises to be able to offer shoppers maximum
+
+choice and immediacy, all supplied from a footprint that uses the minimum amount of space.
+
+The trend towards the use of 3D printers may also be fuelled in the US and Canada by the on-shoring of
+
+manufacturing due to cheaper energy and steadily rising overseas labor costs.
+
+6.2.1 New materials and new approaches to just-in-time
+
+Printers will be able to handle more types of materials, will be able to create products based on mixed
+
+material types, will improve output quality, reduce in cost, and improve their production speed.
+
+Beyond 3D printers, expect to see a broader new category emerge, that of local, just-in-time
+
+manufacturing. For example, DARPA is currently investing in research to build automated sewing
+
+machines, robots that are able to assemble an entire garment without any human interaction.
+
+Expect to see printers and other automated manufacturing technology that can print or make almost
+
+anything, including makeup, electronics, food, clothing, organ replacements, and even houses.
+
+6.2.2 Millennials leading the desire for customized products
+
+As described in section 4.3.6, shoppers continue to desire customized products and they will grow to
+
+expect at least some level of customization is offered for many product categories. This trend is
+
+strongest amongst, but not exclusive to, the Millennial generation.
+
+Just-in-time manufacturing technologies, including 3D printers, may offer retailers solutions that enable
+
+them to meet the growing demand for customized products.
+
+Challenge: Retailers will need to be prepared to deliver an increased level of customization across most
+
+categories of product. Retailers and manufacturers will need to collaborate to understand how shoppers
+
+will want to customize products and then design supply chains able to meet these desires. A decade
+
+from now a customer may expect to walk into a clothing store and say, “I want this shirt, in that color, in
+
+my size, and I’ll pick it up in 10 minutes.” All retailers should have a well-considered customization
+
+strategy that identifies how they will introduce customization to each product category over time.
+
+6.2.3 Customized products require new design thinking
+
+Customized products may also take on a social element with shoppers able to buy products in retail that
+
+were created or modified by friends or other “citizen designers” located elsewhere in the world. A
+
+shopper in Tokyo might buy a teapot, based on an original Spanish design, but that was modified by an
+
+up-and-coming student designer in London and printed at their local store in Ginza.
+
+This concept inevitably calls into question the notion of design copyright and may feel very
+
+uncomfortable for designers that are used to exerting absolute control over the look and feel of an end
+
+product. Strong consumer demand for customized products could lead to a significant shift in design
+
+thinking. Designers and manufacturers might choose to make their products more appealing to
+
+customizers by leaving certain design elements open and flexible.
+
+43
+
+Challenge: Manufacturers will need to design for customization. They will need to make products that
+
+can be turned into finished goods close to point of sale, based on the particular desires of the shopper.
+
+Designing for customization might include thinking about modularity, leaving design windows for
+
+customization, and collaborating with retailers to wrap compelling shopping experiences around the
+
+customization process itself. For example, a company making eyeglasses may deliver their retailers a set
+
+of easily assembled frame fronts, hinges, bridges, and temples. The shopper might enjoy an interactive,
+
+gesture or touch controlled augmented reality experience to build and virtually try a set of customized
+
+glasses that the retailer then puts together on the spot.
+
+6.3 LOCATION
+
+Location-based services have been a transformative boon to the modern smartphone-owner. But
+
+location tracking has largely remained an outdoor activity. That is changing. The race is on to use indoor
+
+location tracking to improve the customer experience and gain better insight into shopper behavior.
+
+6.3.1 Why indoor location?
+
+Indoor location will enable a number of new opportunities for retailers:
+
+ Shopper insights - Retailers will be able to gain increased insight into shopper behavior and
+
+improve their store layout and shopping experience accordingly. In-store location data can be
+
+analyzed to understand the “footstream” of shoppers, much like insight can be divined by
+
+analyzing the “clickstream” of online shoppers.
+
+ Location-based offers - Retailers and manufacturers will be able to push location-based offers.
+
+ Dynamic pricing – Retailers will be able to optimize revenue through the use of dynamic pricing

@@ -1,0 +1,198 @@
+SOURCE: Case Study_The Missing Link in Retail Operations_Ananth Raman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text discusses ways to improve operational execution in retail, including tracking inventory, performing zero-balance walks, and benchmarking within the retail chain.
+KEYWORDS: inventory record accuracy, zero-balance walk, operational execution, retail operations, process control
+---
+
+tions. Thus, the company tracked ow much and where the item was within the
+
+store (e.g., whether an item was in the backroom or on the selling floor).
+
+A variation of cycle counting to improve inventory record accuracy can
+
+be found at some retail chains. Employees at these companies perform a “Zero-
+
+Balance Walk” every day at their stores to identify items that-are stocked out.
+
+The company verifies system inventory levels for these,items and adjusts system
+
+inventory levels for those items found to be inaccurate: Beta launched an initia-
+
+tive to track misplaced SKUs in its stores. The stores were asked to verify if 100
+
+randomly chosen SKUs were available at the right location, Such a sampling
+
+process is much less expensive than the audit and eould be performed more
+
+frequently than the annual audit by store employees: Such routine checks,
+
+partly by increasing the awareness of the ppoblem, caitoften go a long way in
+
+improving execution. \
+
+The zero-balance walk or the sam ing process could also be the basis for
+
+a statistical process control (“SPC”, as been recommended and used
+
+widely in manufacturing.” Eact
+
+could be considered a “defect”
+
+expected defect levels.
+
+ing and process impro
+
+Benchmark within Your Chain
+
+Retailers can improve ¢xecution in their stores by learning from parts
+
+of their chains that are currently executing well. Our research shows that some
+
+stores within a-chain execute much better, and consistently so, than other stores.
+
+Evidence’ tk lat some stores are executing well serves as powerful evidence
+
+to managers in retail companies that operational execution ca be managed and
+
+improved. This evidence can be used to understand the drivers of poor execu-
+
+can also be used to motivate the stores that are lagging in execution.
+
+tion a
+
+of eta and Gamma shared the results of our statistical analysis widely
+
+ns in, their organizations. Understandably, the findings generated a lot of interest
+
+not. only among store managers, but also managers from merchandising and
+
+human resources whose actions were shown by our analysis to impact a store's
+
+ability to execute. Moreover, the wide dispersion within the same chain, where
+
+all the stores use the same information technology and have the same monetary
+
+incentives, makes it clear that technology and incentives are not the drivers of
+
+inter-store differences.
+
+CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001 Hg
+
+Thie dasumant ie aitharizad far nee anh: hu IOLIM STRARNIC until Anil 2049 Carainn ae nnctinag ie on infrinnamant
+
+Execution; The Missing Link in Retail Operations
+
+Immediate Steps to Improving Operational Execution in Retailing
+
+Retailers can take the following five steps to improve operational, execu
+
+tion immediately.
+
+As a first step, retailers should measure performance along: dimensigi’s of
+
+operational execution that are important to their businesses. For example, retail-
+
+ers that are interested in improving inventory record maccuracy should measure
+
+the absolute difference between system and actual inventory levels at the SKU
+
+level. Similarly, those that are interested in managing misplaced SKUs should
+
+measure the fraction of their stores’ assortment that is misplacedywithin the
+
+store. Such measures, as noted earlier, can be derived from Physicalaudits at the
+
+stores, through sampling methods, or through cycle counting procedures.
+
+Second, these measurements should be used to create awareness of the
+
+problem. As noted earlier, it is valuable to be able to quantify the costs associated
+
+with poor execution. Managers in functions like merchandising, information
+
+technology, marketing, and human resources—whoge efforts are compromised
+
+by poor execution or whose actions determine the,quality of execution in retail-
+
+ing--are usually unaware of the magnitude, or, even cxistence, of execution
+
+problems. Store and DC personnel, or other: and,are often aware of exe-
+
+cally control hundre even thousands of stores, and can use the differences
+
+in processes and performani¢e/at these stores to understand how execution can
+
+be improved?
+
+Fifth, retailers can improve performance by using operational data for
+
+decision making, It is*teinpting for some to argue that the execution problems
+
+reported here should logically lead us to avoid relying on POS and inventory
+
+data for inventory and supply chain planning. There are two flaws in this argu-
+
+execution problems when they attempted to use the data in their systems.
+
+,, Gamma, for example, found that the performance of its automatic replenish-
+
+“ment systems was compromised because of inaccurate inventory records, Beta
+
+. had invested in computerized kiosks that allowed customers to find out if a cer-
+
+tain item was available at the store. The company began to investigate customer
+
+150 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 200!
+
+Thice dasumant ic aitharigad far nee anki hu (AUM OTDORIG until Anrit 9049 Canuinn ar nneting ic on infrinnamant
+
+Execution: The Missing Link in Retail Operations
+
+complaints that items that the system showed as available at the store could
+
+often not be found. Asa result, the company discovered the magnitude gt mig-
+
+placed SKUs in its stores.
+
+Conclusion
+
+It is important for retailers, at a minimum, to be aware of these probléms
+
+and the potential impact they may have on profitability. Moreover, as a Beta
+
+executive pointed out, acknowledging the prevalence of weak execution would
+
+make it less embarrassing for retailers to discuss these problems in/public and
+
+thus identify solutions jointly. Execution can be managed. Our‘data show that
+
+some stores perform better than others year after year. The drivers of these dif-
+
+ferences yield prescriptions to improve execution. :
+
+APPENDIX
+
+Summary of Empirical Analysis”
+
+Our conclusions on the drivers of inventory record i inaccuracy and mis-
+
+ables. We use three regre
+
+Gamma data (for invent
+
+placed SKUs). More details of ourtechnical analysis can be found in DeHoratius
+
+and Raman"? and in Raman and J
+
+We estimate the dri
+
+and at the store level. For our'record level analysis, we use logistic regression to
+
+predict the probability of inventory record accuracy as a function of the cost of
+
+the recorded itemj.the quantity sold of that item during the past year, and
+
+‘unétion of inventory density (the quantity of inventory in a particular
+
+ing floor space), the frequency of inventory audits at the store, the product

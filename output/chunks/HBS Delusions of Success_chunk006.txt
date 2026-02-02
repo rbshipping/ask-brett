@@ -1,0 +1,172 @@
+SOURCE: HBS Delusions of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Project Planning and Risk Assessment
+SUMMARY: This text discusses a process for making better forecasts by analyzing a reference class of similar projects and correcting for optimistic bias.
+KEYWORDS: reference class forecasting, optimistic bias, project planning, risk assessment
+---
+
+ering building an olefin plant incorporating a new processing tions. To return to the movie example, say that you are fairly
+
+technology, you may instinctively think that your reference class confident that your ability to predict the sales of films ex-
+
+would include olefin plants now in operation. But you may actu- ceeds the ability of sportscasters to predict point spreads in
+
+ally get better results by looking at other chemical plants built football games but is not as good as the ability of weather
+
+with new processing technologies. The plant’s outcome, in other forecasters to predict temperatures two days out. Through a
+
+words, may be more influenced by the newness of its technology diligent statistical analysis, you could construct a rough scale
+
+than by what it produces. In forecasting an outcome in a compet- of predictability based on computed correlations between
+
+itive situation, such as the market share for a new venture, you predictions and outcomes for football scores and tempera-
+
+need to consider industrial structure and market factors in de- tures. You can then estimate where your ability to predict
+
+signing a reference class. The key is to choose a class that is broad film scores lies on this scale. When the calculations are com-
+
+enough to be statistically meaningful but narrow enough to be plex, it may help to bring in a skilled statistician.
+
+truly comparable to the project at hand. 5. Correct the intuitive estimate. Due to bias, the intuitive
+
+2. Assess the distribution of outcomes. Once the refer- estimate made in Step 3 will likely be optimistic—deviating
+
+ence class is chosen, you have to document the outcomes of too far from the average outcome of the reference class. In this
+
+the prior projects and arrange them as a distribution, showing final step, you adjust the estimate toward the average based on
+
+the extremes, the median, and any clusters. Sometimes you your analysis of predictability in Step 4. The less reliable the
+
+won’t be able to precisely document the outcomes of every prediction, the more the estimate needs to be regressed to-
+
+member of the class. But you can still arrive at a rough distri- ward the mean. Suppose that your intuitive prediction of a
+
+bution by calculating the average outcome as well as a mea- film’s sales is $95 million and that, on average, films in the
+
+sure of variability. In the film example, for instance, you may reference class do $40 million worth of business. Suppose fur-
+
+find that the reference-class movies sold $40 million worth of ther that you have estimated the correlation coefficient to be
+
+tickets on average, but that 10% sold less than $2 million worth 0.6. The regressed estimate of ticket sales would be:
+
+of tickets and 5% sold more than $120 million worth. $95M + [0.6 ($40M–$95M)] = $62M
+
+3. Make an intuitive prediction of your project’s position As you see, the adjustment for optimism will often be sub-
+
+in the distribution. Based on your own understanding of the stantial, particularly in highly uncertain situations where pre-
+
+project at hand and how it compares with the projects in the dictions are unreliable.
+
+reference class, predict where it would fall along the distribu-
+
+tion. Because your intuitive estimate will likely be biased, the
+
+1. This discussion builds on “Intuitive Predictions: Biases and Corrective
+
+final two steps are intended to adjust the estimate in order to
+
+Procedures,” a 1979 article by Daniel Kahneman and Amos Tversky that ap-
+
+arrive at a more accurate forecast. peared in TIMS Studies in Management Science, volume 12 (Elsevier/North
+
+4. Assess the reliability of your prediction. Some events Holland).
+
+are easier to foresee than others. A meteorologist’s forecast
+
+harvard business review • july 2003 page 7 of 9
+
+Delusions of Success
+
+ary qualities essential for superior R&D and your goals wisely and your means prudently.
+
+the esprit de corps central to a successful sales Once an organization is committed to a course
+
+force. Indeed, those charged with implement- of action, however, constantly revising and re-
+
+ing a plan should probably not even see the viewing the odds of success is unlikely to be
+
+outside-view forecasts, which might reduce good for its morale or performance. Indeed, a
+
+their incentive to perform at their best. healthy dose of optimism will give you and
+
+Of course, clean distinctions between deci- your subordinates an advantage in tackling
+
+sion making and action break down at the top. the challenges that are sure to lie ahead.
+
+CEOs, unit managers, and project champions
+
+need to be optimistic and realistic at the same
+
+time. If you happen to be in one of these posi- Reprint R0307D; Harvard Business Review
+
+tions, you should make sure that you and your OnPoint 4279
+
+planners adopt an outside view in deciding To order, see the next page
+
+where to invest among competing initiatives. or call 800-988-0886 or 617-783-7500
+
+More objective forecasts will help you choose or go to www.hbr.org
+
+harvard business review • july 2003 page 8 of 9
+
+Further Reading
+
+Delusions of Success is also part of the
+
+Harvard Business Review OnPoint collection
+
+Make Better Decisions—Faster, Product no.
+
+Harvard Business Review OnPoint 3582, which includes these additional articles:
+
+articles enhance the full-text article
+
+with a summary of its key points and The Hidden Traps in Decision Making
+
+a selection of its company examples (Harvard Business Review OnPoint
+
+to help you quickly absorb and apply Enhanced Edition)
+
+the concepts. Harvard Business Review John S. Hammond III, Ralph L. Keeney,
+
+OnPoint collections include three and Howard Raiffa
+
+OnPoint articles and an overview Harvard Business Review
+
+comparing the various perspectives September–October 1998
+
+on a specific topic. Product no. 5408
+
+Don't Trust Your Gut (Harvard Business
+
+Review OnPoint Enhanced Edition)
+
+Eric Bonabeau
+
+Harvard Business Review
+
+May 2003
+
+Product no. 3604
+
+To Order
+
+For reprints, Harvard Business Review
+
+OnPoint orders, and subscriptions to
+
+Harvard Business Review:
+
+Call 800-988-0886 or 617-783-7500.
+
+Go to www.hbr.org
+
+For customized and quantity orders of
+
+reprints and Harvard Business Review
+
+OnPoint products:
+
+Call Frank Tamoshunas at
+
+617-783-7626,

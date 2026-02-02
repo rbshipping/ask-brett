@@ -1,0 +1,30 @@
+SOURCE: kotter_watch.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Change Management
+SUMMARY: This video features renowned management expert John Kotter discussing the importance of effective change management strategies for organizations.
+KEYWORDS: change management, leadership, organizational transformation, Kotter, business strategy
+---
+
+[Document: kotter_watch.txt]
+
+TITLE: John Kotter YouTube Video
+
+SOURCE: https://www.youtube.com/watch?v=gOhYT737ItY
+
+VIDEO_ID: gOhYT737ItY
+
+============================================================
+
+This is a YouTube video. To add the content:
+
+1. Visit the URL: https://www.youtube.com/watch?v=gOhYT737ItY
+
+2. Enable captions/subtitles
+
+3. Use YouTube's transcript feature (click "..." under the video, then "Show transcript")
+
+4. Copy the transcript text and replace this placeholder
+
+Alternatively, search for "John Kotter" transcripts or summaries online.
+
+Topic: John Kotter on Change Management (based on URL context)

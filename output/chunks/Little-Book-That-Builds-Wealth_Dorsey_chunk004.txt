@@ -1,0 +1,252 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Advantages and Economic Moats
+SUMMARY: Examines how some companies can maintain high returns on capital for long periods by developing competitive advantages or 'economic moats' that protect them from competition.
+KEYWORDS: return on capital, competitive advantages, economic moats, wealth compounding, competitive threats
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+(bad businesses). A company that can generate high returns
+
+on its capital for many years will compound wealth at a very
+
+prodigious clip.*
+
+Companies that can do this are not common, how-
+
+ever, because high returns on capital attract competitors
+
+like bees to honey. That’s how capitalism works, after
+
+all—money seeks the areas of highest expected return,
+
+which means that competition quickly arrives at the door-
+
+step of a company with fat profits.
+
+So in general, returns on capital are what we call
+
+“mean-reverting.” In other words, companies with high
+
+returns see them dwindle as competition moves in, and
+
+*Return on capital is the best benchmark of a company’s profitability. It
+
+measures how effectively a company uses all of its assets—factories, people,
+
+investments—to make money for shareholders. You might think of it in
+
+the same way as the return achieved by the manager of a mutual fund, ex-
+
+cept that a company’s managers invest in projects and products rather than
+
+stocks and bonds. More about return on capital in Chapter 2.
+
+cciinnttrroo..iinndddd 33 11//2266//0088 33::1144::5599 AAMM
+
+[4] THE LITTLE BOOK THAT BUILDS WEALTH
+
+companies with low returns see them improve as either they
+
+move into new lines of business or their competitors leave
+
+the playing field.
+
+But some companies are able to withstand the relent-
+
+less onslaught of competition for long periods of time, and
+
+these are the wealth-compounding machines that can form
+
+the bedrock of your portfolio. For example, think about
+
+companies like Anheuser-Busch, Oracle, and J ohnson &
+
+Johnson—they’re all extremely profitable and have faced
+
+intense competitive threats for many years, yet they still
+
+crank out very high returns on capital. Maybe they just
+
+got lucky, or (more likely) maybe those firms have some
+
+special characteristics that most companies lack.
+
+How can you identify companies like these—ones that
+
+not only are great today, but are likely to stay great for
+
+many years into the future? You ask a deceptively simple
+
+question about the companies in which you plan to invest:
+
+“What prevents a smart, well-financed competitor from
+
+moving in on this company’s turf ? ”
+
+To answer this question, look for specific structural
+
+characteristics called competitive advantages or economic
+
+moats. Just as moats around medieval castles kept the
+
+opposition at bay, economic moats protect the high
+
+returns on capital enjoyed by the world’s best companies.
+
+If you can identify companies that have moats and you
+
+can purchase their shares at reasonable prices, you’ll build
+
+cciinnttrroo..iinndddd 44 11//2266//0088 33::1155::0000 AAMM
+
+THE GAME PLAN [5]
+
+a portfolio of wonderful businesses that will greatly
+
+improve your odds of doing well in the stock market.
+
+So, what is it about moats that makes them so spe-
+
+cial? That’s the subject of Chapter 1 . In Chapter 2 , I
+
+show you how to watch out for false positives—company
+
+characteristics that are commonly thought to confer
+
+competitive advantage, but actually are not all that reli-
+
+able. Then we’ll spend several chapters digging into the
+
+sources of economic moats. These are the traits that
+
+endow companies with truly sustainable competitive advan-
+
+tages, so we’ll spend a fair amount of time understanding
+
+them.
+
+That’s the first half of this book. Once we’ve estab-
+
+lished a foundation for understanding economic moats,
+
+I’ll show you how to recognize moats that are eroding,
+
+the key role that industry structure plays in creating com-
+
+petitive advantage, and how management can create (and
+
+destroy) moats. A chapter of case studies follows that
+
+applies competitive analysis to some well-known compa-
+
+nies. I’ll also give an overview of valuation, because even
+
+a wide-moat company will be a poor investment if you pay
+
+too much for its shares.
+
+cciinnttrroo..iinndddd 55 11//2266//0088 33::1155::0000 AAMM
+
+cciinnttrroo..iinndddd 66 11//2266//0088 33::1155::0000 AAMM
+
+h
+
+a p te r
+
+O
+
+C n
+
+e
+
+Economic Moats
+
+(cid:1)
+
+What’s an Economic Moat, and
+
+How Will It Help You Pick
+
+Great Stocks?
+
+F
+
+, it’s common sense to pay more for some-
+
+ORMOSTPEOPLE
+
+thing that is more durable. From kitchen appliances to cars
+
+to houses, items that will last longer are typically able to
+
+command higher prices, because the higher up-front cost
+
+will be offset by a few more years of use. Hondas cost more
+
+than Kias, contractor-quality tools cost more than those
+
+from a corner hardware store, and so forth.
+
+cc0011..iinndddd 77 11//2266//0088 33::0055::5577 AAMM
+
+[8] THE LITTLE BOOK THAT BUILDS WEALTH
+
+The same concept applies to the stock market. Durable
+
+companies—that is, companies that have strong competitive
+
+advantages—are more valuable than companies that are at
+
+risk of going from hero to zero in a matter of months
+
+because they never had much of an advantage over their
+
+competition. This is the biggest reason that economic
+
+moats should matter to you as an investor: Companies with
+
+moats are more valuable than companies without moats.
+
+So, if you can identify which companies have economic
+
+moats, you’ll pay up for only the companies that are really
+
+worth it.
+
+To understand why moats increase the value of compa-
+
+nies, let’s think about what determines the value of a stock.
+
+Each share of a company gives the investor a (very) small
+
+ownership interest in that firm. Just as an apartment build-
+
+ing is worth the present value of the rent that will be paid by
+
+its tenants, less maintenance expenses, a company is worth
+
+the present value* of the cash we expect it to generate over
+
+its lifetime, less whatever the company needs to spend on
+
+maintaining and expanding its business.
+
+*To calculate present value, we adjust the sum of those future cash flows
+
+for their timing and certainty. A dollar in the hand is more valuable than
+
+one in the bush, so to speak, and cash we’re confident of receiving in the
+
+future is worth more than cash flows we’re less certain about receiving. I’ll
+
+go over some basic valuation principles in Chapters 12 and 13, so don’t
+
+worry if this isn’t clear just yet.
+
+cc0011..iinndddd 88 11//2266//0088 33::0055::5577 AAMM
+
+ECONOMIC MOATS [9]
+
+So, let’s compare two companies, both growing at

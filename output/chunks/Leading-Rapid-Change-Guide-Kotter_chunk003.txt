@@ -1,0 +1,166 @@
+SOURCE: Leading-Rapid-Change-Guide-Kotter.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Change Management
+SUMMARY: The text discusses the challenges of leading change, emphasizing the importance of creating certainty and aligning with the 8-Step Process for Leading Change.
+KEYWORDS: leading change, change management, rapid change, 8-step process
+---
+
+[Document: Leading-Rapid-Change-Guide-Kotter.txt]
+
+technology that has fundamentally influenced human relationships. There is much to be said about the
+
+reactive nature of change – i.e. we respond to impacts around us because we have to, like Covid-19, but it
+
+is arguably harder (but equally gratifying and rewarding) to lead ourselves and others through change in
+
+the absence of a necessity. Also be careful not to associate necessity with a "negative" or "burning
+
+platform".
+
+How does the Leading Rapid Change framework and 8-Steps model match? Are they to be used
+
+together, or is one taking over the other? by Eckhard
+
+The 8-Step foundation remains key to our framework for leading and managing change. The approach
+
+discussed during the Leading Rapid Change webinar is an approach that should be layered together with
+
+the 8-Step foundation. For instance, the notion of creating more certainty (as we discussed during the
+
+session) is something that can be done with a strong and compelling change vision, then anchored in
+
+specific actions that are then taken. Ultimately we would suggest focusing on the explicit outcomes we
+
+emphasized in the Leading Rapid Change framework, and executing these against the 8-Step Process for
+
+Leading Change.
+
+© Kotter 2020
+
+--- Page 7 ---
+
+LEADING CHANGE
+
+THE FAQ'S TO LEADING RAPID CHANGE
+
+POST LEADING RAPID CHANGE WEBINAR | Q+A CONTINUED
+
+Why do you think that many companies are having a problem achieving the accepted success with
+
+Scrum or SAFe? What are your 3 best tips to make scrum work within a team? by Helle
+
+For years, the central (and well documented) impediments to successfully scaling agile practices or
+
+methods such as SAFe have been change, culture and leadership. Ultimately, an organization can't expect
+
+to implement these new ways of working with speed, fidelity or efficacy without paying equal attention to
+
+adoption, culture, behaviors, the way leaders lead and the overall system in which new ways of working
+
+have now become an expectation. Three tips are: 1) Focus less on process, rituals and terminology and
+
+more on ensuring the work of the team is deeply anchored in the organization's strategy, 2) define success
+
+by MVPs and outcomes for the business (e.g., speed to market) vs. activities that can be executed in
+
+compressed timeframes and 3) ensure that there's clear executive sponsorship in place to help remove
+
+institutional barriers.
+
+What is your take on SAFe? by Helle
+
+SAFe like other agile methods is underpinned by a set of agile principles (think: the Agile Manifesto) that
+
+are vitally important to executing work in new and more agile ways (e.g., iterative development, allowing
+
+time for innovation, cross-functional alignment and planning, parallel process, user-centered design,
+
+etc.). However, we often find that there's a significant divide between IT and the business regarding the
+
+vision for the future and how progress against that vision should be measured. Additionally, we see many
+
+practitioners over indexing on SAFe processes and verbiage at the expense/exclusion of the business.
+
+How can the framework be linked to an Agile way of working? by Oscar
+
+Agile is about adopting a more responsive, iterative and faster approach to arriving at an end solution,
+
+contrasted by the end-to-end, sequential execution of tasks. Three elements that differentiate an agile
+
+approach are: structure (relies on a network of people, task/subject experts, who come together at a certain
+
+point, for a defined period, to collaborate together vs. a hierarchical project team who, often in parallel,
+
+execute their work), responsibility and accountability (leverages distinct strengths from content experts and
+
+process experts who come together to deliver the result vs. a singular project manager who leads the content
+
+and the timeline) and communication (requires frequent communication in the broadest possible terms –
+
+the more people who know where things stand, the faster the team can modify their tasks to keep the effort
+
+on track. Our framework is about emphasizing all of these attributes. From the power of the network (vs.
+
+only a few people) and using a non-hierarchical approach, to building the responsibility and accountability
+
+channels and broadly communicating to share and celebrate not only the progress, but also the
+
+accomplishments and learnings from risks taken and potential failures experienced.
+
+© Kotter 2020
+
+--- Page 8 ---
+
+LEADING CHANGE
+
+THE FAQ'S TO LEADING RAPID CHANGE
+
+POST LEADING RAPID CHANGE WEBINAR | Q+A CONTINUED
+
+x = n(n - 1)
+
+the formula explained
+
+2
+
+What is X and what is N in this formula? by Caroline
+
+X is the maximum number of potential connections between individuals in your
+
+network/organization/team; N is the number of people in the network/organization/team.
+
+Is a higher number better or a lower number? by Gregg
+
+Generally a higher number implies that more people are connected to one another and this
+
+correlates to greater (and potentially faster) information flow, the flow of ideas, the development of
+
+relationships, etc. A higher number also (generally) means that there are more points of connection
+
+than occur in a hierarchy. For a company/organization/team to respond to changes in the
+
+environment around them, you generally want more people who are connected to one another to be
+
+in a position where they can spot threats and opportunities, react fast with/amongst one another
+
+and can collaborate together to solve or address or take advantage of the situation. Generally you
+
+only want a smaller number when you don't want to share an idea, or when you want to keep
+
+something a secret!
+
+Can you share more about the formula? by Helle
+
+An interesting article can be found here and thorough, and detailed technical discussion
+
+Network Science can be found here.
+
+Can you share an example? by Mary
+
+Let's say you have 100 people in your organization/team. In a typical hierarchy, there are few
+
+defined relationships - the manager may have seven supervisors/direct reports, and in turn each
+
+direct report has 12-13 people reporting to them. You can map this out fairly easily and see that there
+
+are a number of 1:1 relationships. Being generous, there may be 13 relationships for each supervisor

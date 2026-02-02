@@ -1,0 +1,64 @@
+SOURCE: Responses.docx
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Technology
+SUMMARY: Explores the potential benefits of free computer power, including faster online infrastructure, RFID for inventory management, in-store WiFi, digital displays, and fitting room technology.
+KEYWORDS: digital retail, technology, online infrastructure, RFID, in-store technology
+---
+
+If computer power is free what technology would we need and implement? and how could you work it to your advantage?
+
+Servers – More power behind online infrastructure means more speed for the customer and higher conversion rates.  Servers are very expensive and if computer power was free we would add more servers (we now have 2) to reduce page load times to the lowest possible
+
+RFID: Introduce RFID technology by having a chip in every garment allowing faster delivery into store, 100% accuracy of data in store and DC, eliminating controllable out of stocks, allowing retail team to focus on customers. Can also allow true click and collect from store’s.
+
+WiFi – In Store WiFi offers a way to capture customer details and target them with offers / promotions.  Can also measure traffic and conversion rates in store.
+
+In store digital displays – That allow customers to see full business inventory.   Can link to the website or separate digital channel that gives customer more choice and features and benefits or all inventory and the option to purchase there and then if they so wish.
+
+Digital Posters and reframes: We have implemented this in two stores but cost is prohibiting full roll out. If implemented this would eliminate all printing and allow changes to occur at the support office freeing set up time for retail team to focus on the customer. Would also allow for immediate changes of campaigns that are not working.
+
+Scan to Fit – Technology in fitting rooms that scans a body and provides full sizing details and then recommends products
+
+In Store Digital
+
+Fitting room technology – Vision where when customer tries on a Bra and all information on that product comes up on screen in the fitting room including:
+
+Features & Benefits
+
+Upsell matching Brief
+
+Other Colours in that Bra
+
+Full Size Range
+
+Fabric & Construction details
+
+In Store digital commerce – Giving team in store digital devices to help customers make a purchasing decision and transact on the floor.  Devices could also hold data about customer information (size, preferences etc...), order history and cross channel loyalty.
+
+Virtual Mannequins – Choosing an item from the Bra wall triggers digital screens that show that item on a model on screen.  This widens the opportunity to see every product on a model moving as opposed to those just in windows or called out in store
+
+Augmented Reality – Allows the customer to experience that product on their body and use technology to see multiple colours and styles very quickly.
+
+Cheers
+
+George
+
+Dusk (Pete King)
+
+.      What do you think we should do, if anything? What could be an opportunity for us?
+
+As a group and as individual business units, we need to act on the insights provided in the report.
+
+a)     As a first step, could we investigate a joint strategy to address the opportunities in the report? I am aware BBRC is not a fan of shared services. That said, the shared property model works well. Could we look at jointly funding the initial stages? We could set a time limit of six months for this project to ensure it did not drag and go over the allotted budget allocation. The group would agree upon the areas we would want to focus upon and then invest in gathering the expertise from outside sources that would provide benefits in the short & long term. Such a move would allow us to then more quickly execute these new technologies as quickly and cost effectively as possible. As stated in the summary, it is recommended to move quickly and not necessarily wait for industry standards to be set.
+
+b)     Specifically, I would focus firstly upon Section 5 for Data & Analytics. That is not to say the other areas are not equally valuable, they are. It is simply the most obvious starting point for cost/benefit. The other areas all present opportunities, however the scale and potential costs would be significant for a business the size of dusk.
+
+2.      How can we better leverage the technology and data that we have today, that our systems are already producing or capable of producing?
+
+Linked to the answer above, we would look at the content in section 5 , starting with the data we already have. At dusk we do not have the skill sets internally so we are partnering with an external data specialist to segment the output and then set rules for the capture of future transaction for us to better understand exactly what our customers buy , when, and with what. This should flow through to promotional programmes and could lead to changes in store merchandising. We are separating on line and offline channels to see what differences exist, if any. Should this prove beneficial we would look at bringing this expertise into the business.
+
+The next step would be for us to be ready for the introduction of RFID and the other opportunities in the report.
+
+3.      If computer power is free what technology would we need and implement? and how could you work it to your advantage?
+
+We will need to invest in more advanced systems in store and at the back end.  To leverage, perhaps we should look at IT very differently from the way do now. IT needs to be part of the revenue generation process. Perhaps a first step is to remove this from the existing IT department. If we are going to launch new interfaces with customers and integrate into store design, we need to identify future talent for our business who can be both commercially savvy and possess the required technological skills. Whichever way we move, we need to recognise this and act quickly. I know at dusk we do not have these skill sets. We will need to access via direct hire or in the short term use external resources experts to help bring the knowledge and process into the business.

@@ -1,0 +1,238 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Advantage Analysis
+SUMMARY: This text examines the factors that contribute to a firm's competitive advantage, questioning the assumption that high market share or operational efficiency alone constitute a sustainable advantage.
+KEYWORDS: competitive advantage, market share, operational efficiency, moat, business strategy
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+So, the question to ask is not w hether a firm has high mar-
+
+ket share, but rather h ow the firm achieved that share,
+
+which will give you insight into how defensible that domi-
+
+nant position will be.
+
+And in some cases, high market share makes very little
+
+difference. For example, in the orthopedic-device i ndustry—
+
+artificial hips and knees—even the smaller players crank out
+
+very solid returns on invested capital, and market shares
+
+change glacially. There is relatively little benefit to being
+
+big in this market, because orthopedic surgeons typically
+
+don’t make implant decisions based on price.
+
+Also, switching costs are relatively high because each
+
+company’s device is implanted in a slightly different fash-
+
+ion, so doctors tend to stick with one company’s devices,
+
+and these switching costs are the same for all industry play-
+
+ers, regardless of size. Finally, technological innovations
+
+are incremental, so there is not much benefit to having an
+
+outsized research budget.
+
+So, size c an help a company create a competitive
+
+advantage—more on this in Chapter 7 —but it is rarely the
+
+source of an economic moat by itself. Likewise, high mar-
+
+ket share is not necessarily a moat.
+
+What about operational efficiency, often labeled as
+
+“great execution”? Some companies are praised for being
+
+good at blocking and tackling, and experience shows that
+
+some companies manage to achieve goals more reliably than
+
+cc0022..iinndddd 2211 11//2266//0088 33::0066::3311 AAMM
+
+[22] THE LITTLE BOOK THAT BUILDS WEALTH
+
+competitors do. Isn’t running a tight ship a competitive
+
+advantage?
+
+Sadly, no—absent some structural competitive advantage,
+
+it’s not enough to be more efficient than one’s competitors. In
+
+fact, if a company’s success seems to be based on being leaner
+
+and meaner than its peers, odds are good that it operates in a
+
+very tough and competitive industry in which efficiency is the
+
+only way to prosper. Being more efficient than your peers is a
+
+fine strategy, but it’s not a sustainable competitive advantage
+
+unless it is based on some proprietary process that can’t be
+
+easily copied.
+
+Talented CEOs are fourth in our parade of mistaken
+
+moats. A strong management team may very well help a
+
+company perform better—and all else equal, you’d certainly
+
+rather own a company run by geniuses than one managed by
+
+also-rans—but having a smart person at the helm is not a
+
+sustainable competitive advantage for a wide variety of rea-
+
+sons. For one thing, the few studies that have been done
+
+to try to isolate the effect of managerial decisions show that
+
+management’s impact on corporate performance is not
+
+that large, after controlling for industry and a variety of
+
+other factors. This makes sense, given that the practical
+
+impact that one person can have on a very large organization
+
+is likely not all that large in the majority of cases.
+
+More important, picking great managers is unlikely
+
+to be a useful forward-looking endeavor, and our goal in
+
+cc0022..iinndddd 2222 11//2266//0088 33::0066::3311 AAMM
+
+MISTAKEN MOATS [23]
+
+identifying moats is to try to gain some sense of c onfidence
+
+in the sustainability of a company’s future performance.
+
+Executives come and go, after all, especially in an era in
+
+which hiring a superstar CEO can instantly boost a com-
+
+pany’s market value by billions of dollars. How do we
+
+know that the brilliant manager on whom we’re hanging
+
+our hopes of future outperformance will still be with the
+
+company three years down the road? Generally speaking,
+
+we don’t. (More on management in Chapter 10 .)
+
+And finally, I would submit that assessing managerial
+
+brilliance is far easier e x post than it is e x ante— think back
+
+for a moment on all the rising stars of the executive firma-
+
+ment who have since fallen to earth. The difference between
+
+Cisco Systems CEO John Chambers and Enron’s Kenneth
+
+Lay is far easier to recognize with the benefit of 20/20
+
+hindsight. This would be why you rarely see lists of “the
+
+next decade’s great managers” in the business press.
+
+Instead, all you see are backward-looking surveys and stud-
+
+ies that assume a company’s financial or share-price
+
+performance is largely attributable to the CEO. Surveys of
+
+top corporate managers asking for opinions about their
+
+peers suffer from the same bias.
+
+T hese Moats Are the Real Deal
+
+So, if great products, high market share, efficient oper-
+
+ations, and smart executives are all unreliable signs of
+
+cc0022..iinndddd 2233 11//2266//0088 33::0066::3311 AAMM
+
+[24] THE LITTLE BOOK THAT BUILDS WEALTH
+
+an economic moat, what should you look for? Here’s
+
+your list:
+
+• A company can have i ntangible assets, like brands,
+
+patents, or regulatory licenses that allow it to sell
+
+products or services that can’t be matched by com-
+
+petitors.
+
+• The products or services that a company sells may
+
+be hard for customers to give up, which creates
+
+customer switching costs that give the firm pricing
+
+power.
+
+• Some lucky companies benefit from network
+
+economics, which is a very powerful type of economic
+
+moat that can lock out competitors for a long time.
+
+• Finally, some companies have c ost advantages, stemming
+
+from process, location, scale, or access to a unique
+
+asset, which allow them to offer goods or services at a
+
+lower cost than competitors.
+
+In our experience at Morningstar, these four catego-
+
+ries cover the vast majority of firms with moats, and using
+
+them as a filter will steer you in the right direction. We
+
+have thoroughly analyzed the competitive position of
+
+thousands of companies across the globe over the past
+
+several years, so these four characteristics have been
+
+boiled down from a very large data set.
+
+cc0022..iinndddd 2244 11//2266//0088 33::0066::3322 AAMM
+
+MISTAKEN MOATS [25]
+
+This framework for identifying economic moats dif-
+
+fers from a lot of what has been written in the past about
+
+competitive advantage. We think some businesses are
+
+simply better than others—b etter being defined as “more
+
+likely to generate sustainable high returns on capital”—
+
+and there are specific things you can look for to help you

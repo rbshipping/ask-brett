@@ -1,0 +1,146 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Data Strategy
+SUMMARY: Retailers face a choice between large upfront CapEx for data ownership or ongoing OpEx for third-party data analytics services, and must carefully consider their data strategy's long-term implications.
+KEYWORDS: data ownership, CapEx vs. OpEx, data as a commodity, long-term investment horizons, retail digital evolution
+---
+
+of control, and a discussion of whether manufacturers and retailers want to pay for this type of
+
+capability out of their CapEx or OpEx budgets. Retailers face two main options here:
+
+Option one: Big CapEx up front, and ownership of the data.
+
+Option two: Give the opportunity to a third party that collects and analyzes the data, and then
+
+pay for analytics services on a monthly basis.
+
+Challenge: Retailers will need to determine their data ownership strategy. In a world where data is the
+
+new oil, data is a commodity that is vital to the function of the new economy. Just as in the oil business
+
+where a company willing to do the dirty work of extracting oil from the ground is then in the luxurious
+
+position of being able to refine it and turn it into money-making gasoline, those companies that gather
+
+and own data will have the ability to analyze (refine) it and turn it into money-making insights that they
+
+can either use to gain competitive advantage, or that they can sell to others. Retailers should think
+
+carefully before embarking on a strategy that gives up data in return for “free” or subsidized equipment.
+
+In some cases, this may make good sense. But retailers should ensure they do so with eyes wide open.
+
+Oil companies make good money for a reason. Data is more valuable than most businesses have yet
+
+realized.
+
+Either way, manufacturers and retailers will pay somehow. And they will make these investments
+
+because this refined data will offer incredible value, both to them and to their customers.
+
+5.5 RETAIL INVESTMENT HORIZONS WILL NEED TO LENGTHEN
+
+Other than having to deal with long-term real estate lease agreements, retailers have historically
+
+enjoyed very short-term planning horizons when compared to many other sectors such as construction,
+
+healthcare, or transportation.
+
+38
+
+Investment timeframes measurable in years are hard to comprehend when stores are focused on
+
+takings for the week, designers are scrambling to decide what the new line will be three months from
+
+now, and cutthroat competition keeps retailers focused on competitors on a daily or hourly basis.
+
+Challenge: To maintain their competitiveness in the second era of digital retail, retailers will need to
+
+lengthen their investment horizons and take a much longer term view of their future. The retail
+
+evolution that’s coming will take multiple years to build out. Success will require strategic investments
+
+be planned, executed, and managed over multi-year timeframes. Retailers will need to think of their
+
+return on investment over much longer periods, perhaps five or ten years. Those retailers that have a
+
+strong vision for their brand and their brand proposition, that are brave enough to set their course, and
+
+that invest for the long haul to build out the customer experience will prevail. And the sooner they start,
+
+the sooner they will reap benefit, and the farther they will be ahead of their competition.
+
+5.6 STANDARDS FOR DATA, ANALYTICS, AND SMART INFRASTRUCTURE WILL EMERGE
+
+Proprietary, vertical solutions will eventually yield to lower-cost solutions based on open standards and
+
+horizontal building blocks.
+
+The industry will need to define standard interfaces and a set of open application programming
+
+interfaces (APIs) that enable developers to collaborate with each other across standardized platforms.
+
+Most every aspect of the smart shelf will benefit from standardization at some level. For example,
+
+content delivery will benefit from standard screen sizes, formats and resolutions for on-shelf advertising.
+
+And as store elements become smart and connected they will need to share data in standard formats
+
+using standard communication protocols.
+
+This will enable developers to bring waves of rapid innovation to the retail sector.
+
+Challenge: Retailers should look for open source analytics engines, standards-based networking, storage
+
+and computing, and an open set of APIs in any deployment they embark upon.
+
+Challenge: Retailers will need to take risks and may need to start deploying new technology in stores
+
+before industry standards have fully emerged. Waiting is not usually a good option. Those retailers that
+
+invest early and forge the path using more vertical and perhaps even semi-proprietary approaches will
+
+gain early-mover advantage. They will learn what works and what doesn’t, and be on their second and
+
+third generation deployments before slower competitors have even begun. Smart retailers will invest
+
+early, experiment, fail fast, learn quickly, and will be willing to modify or switch deployment strategies
+
+on a dime. Once standards fully emerge they will move to open platforms that give them access to an
+
+ecosystem of developers and service providers. This will enable them to add exciting new functionality
+
+over time, and do so in a modular way that keeps costs under control.
+
+39
+
+6 DISRUPTIVE FORCES ON THE HORIZON
+
+6.1 DIGITAL EVERYTHING
+
+Moore’s Law reduces the size and cost of computing year on year, while simultaneously increasing the
+
+capability of computing. Over the last fifty years we have seen computers shrink from being gigantic
+
+machines that filled an entire room, to bulky devices that sat on or under our desks, to today’s mobile
+
+devices that fit in our pockets and purses.
+
+Today’s leading edge chips are manufactured from many millions, sometimes billions of transistors, each
+
+transistor just 22 nanometers across. A nanometer is one billionth of a meter. That’s pretty hard to
+
+visualize, so here’s a helpful way to try and comprehend just how small these transistors are: 22
+
+nanometer transistors are so small that 4000 of them would fit across the width of a single human hair.
+
+These tiny transistors have enabled the IT industry to create small handheld computers that we carry
+
+around with us (better known as smartphones) that are more powerful than all the computing available
+
+on earth in the early 1980s. Moore’s Law will continue to deliver cheaper, smaller, more powerful
+
+computers for the foreseeable future, leading to the era of ubiquitous computing. This continued
+
+change has profound implications for the products that retailers will sell, and how they will sell them.

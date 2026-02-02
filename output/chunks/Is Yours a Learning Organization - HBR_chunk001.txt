@@ -1,0 +1,188 @@
+SOURCE: Is Yours a Learning Organization - HBR.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.05 HFT - Knowledge Sharing
+TOPIC: Organizational Learning
+SUMMARY: This article discusses the concept of a learning organization and presents a comprehensive survey instrument to assess learning within an organization.
+KEYWORDS: learning organization, organizational learning, assessment, knowledge management
+---
+
+KNOWLEDGE MANAGEMENT
+
+Is Yours a Learning
+
+Organization?
+
+by David A. Garvin, Amy C. Edmondson, and Francesca Gino
+
+FROM THE MARCH 2008 ISSUE
+
+L
+
+eaders may think that getting their organizations to learn is only a matter of
+
+articulating a clear vision, giving employees the right incentives, and providing lots
+
+of training. This assumption is not merely flawed—it’s risky in the face of
+
+intensifying competition, advances in technology, and shifts in customer preferences.
+
+Organizations need to learn more than ever as they confront these mounting forces. Each
+
+company must become a learning organization. The concept is not a new one. It flourished
+
+in the 1990s, stimulated by Peter M. Senge’s The Fifth Discipline and countless other
+
+publications, workshops, and websites. The result was a compelling vision of an
+
+organization made up of employees skilled at creating, acquiring, and transferring
+
+knowledge. These people could help their firms cultivate tolerance, foster open discussion,
+
+and think holistically and systemically. Such learning organizations would be able to adapt
+
+to the unpredictable more quickly than their competitors could.
+
+Unpredictability is very much still with us. However, the ideal of the learning organization
+
+has not yet been realized. Three factors have impeded progress. First, many of the early
+
+discussions about learning organizations were paeans to a better world rather than
+
+concrete prescriptions. They overemphasized the forest and paid little attention to the
+
+trees. As a result, the associated recommendations proved difficult to implement—
+
+managers could not identify the sequence of steps necessary for moving forward. Second,
+
+the concept was aimed at CEOs and senior executives rather than at managers of smaller
+
+departments and units where critical organizational work is done. Those managers had no
+
+way of assessing how their teams’ learning was contributing to the organization as a whole.
+
+Third, standards and tools for assessment were lacking. Without these, companies could
+
+declare victory prematurely or claim progress without delving into the particulars or
+
+comparing themselves accurately with others.
+
+In this article, we address these deficiencies by presenting a comprehensive, concrete
+
+survey instrument for assessing learning within an organization. Built from the ground up,
+
+our tool measures the learning that occurs in a department, office, project, or division—an
+
+organizational unit of any size that has meaningful shared or overlapping work activities.
+
+Our instrument enables your company to compare itself against benchmark scores
+
+gathered from other firms; to make assessments across areas within the organization (how,
+
+for, example, do different groups learn relative to one another?); and to look deeply within
+
+individual units. In each case, the power is in the comparisons, not in the absolute scores.
+
+You may find that an area your organization thought was a strength is actually less robust
+
+than at other organizations. In effect, the tool gives you a broader, more grounded view of
+
+how well your company learns and how adeptly it refines its strategies and processes. Each
+
+organization, and each unit within it, needs that breadth of perspective to accurately
+
+measure its learning against that of its peers.
+
+Building Blocks of the Learning Organization
+
+Organizational research over the past two decades has revealed three broad factors that are
+
+essential for organizational learning and adaptability: a supportive learning environment,
+
+concrete learning processes and practices, and leadership behavior that provides
+
+reinforcement. We refer to these as the building blocks of the learning organization. Each
+
+block and its discrete subcomponents, though vital to the whole, are independent and can
+
+be measured separately. This degree of granular analysis has not been previously available.
+
+Our tool is structured around the three building blocks and allows companies to measure
+
+their learning proficiencies in great detail. As you shall see, organizations do not perform
+
+consistently across the three blocks, nor across the various subcategories and
+
+subcomponents. That fact suggests that different mechanisms are at work in each building-
+
+block area and that improving performance in each is likely to require distinct supporting
+
+activities. Companies, and units within them, will need to address their particular
+
+strengths and weaknesses to equip themselves for long-term learning. Because all three
+
+building blocks are generic enough for managers and firms of all types to assess, our tool
+
+permits organizations and units to slice and dice the data in ways that are uniquely useful
+
+to them. They can develop profiles of their distinctive approaches to learning and then
+
+compare themselves with a benchmark group of respondents. To reveal the value of all
+
+these comparisons, let’s look in depth at each of the building blocks of a learning
+
+organization.
+
+Building Block 1: A supportive learning environment.
+
+An environment that supports learning has four distinguishing characteristics.
+
+Psychological safety.
+
+To learn, employees cannot fear being belittled or marginalized when they disagree with
+
+peers or authority figures, ask naive questions, own up to mistakes, or present a minority
+
+viewpoint. Instead, they must be comfortable expressing their thoughts about the work at
+
+hand.
+
+Appreciation of differences.
+
+Learning occurs when people become aware of opposing ideas. Recognizing the value of
+
+competing functional outlooks and alternative worldviews increases energy and
+
+motivation, sparks fresh thinking, and prevents lethargy and drift.
+
+Openness to new ideas.
+
+Learning is not simply about correcting mistakes and solving problems. It is also about
+
+crafting novel approaches. Employees should be encouraged to take risks and explore the
+
+untested and unknown.
+
+Time for reflection.
+
+All too many managers are judged by the sheer number of hours they work and the tasks
+
+they accomplish. When people are too busy or overstressed by deadlines and scheduling
+
+pressures, however, their ability to think analytically and creatively is compromised. They
+
+become less able to diagnose problems and learn from their experiences. Supportive
+
+learning environments allow time for a pause in the action and encourage thoughtful
+
+review of the organization’s processes.
+
+Supportive learning environments allow
+
+time for a pause in the action and
+
+encourage thoughtful review of the
+
+organization’s processes.
+
+To change a culture of blame and silence about errors at Children’s Hospitals and Clinics of
+
+Minnesota, COO Julie Morath instituted a new policy of “blameless reporting” that

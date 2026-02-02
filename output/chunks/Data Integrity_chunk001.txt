@@ -1,0 +1,155 @@
+SOURCE: Data Integrity.ppt
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: This document discusses issues with data integrity, inventory management, and sales failures, highlighting the need for a complete rethink of merchandise planning processes.
+KEYWORDS: data integrity, inventory management, merchandise planning
+---
+
+[Document: Data Integrity.ppt]
+[Presentation Topic: Inventory Management Failure]
+
+[Slide 1]
+
+This leads to bad data integrity:
+
+the moment you have data integrity failure
+
+you then have inventory management failure
+
+leading to sales failure
+
+which leads to business failure
+
+This all comes back to not having the appropriate tools to actually give the team the best chance of doing a good.
+
+[Slide 2]
+
+John and Shane
+
+I have been concerned for some time now with regard to the merchandise planning side of the inventory equation.
+
+We certainly have a great focus on product and Miranda looked beautiful, however, having great product will not work unless we are able to get it into the stores when the customer wants it, in quantities that make sense.  My experience is screaming at me that we are heading for a systematic failure on inventory management, we are hanging on by a thread and not in any fit state to take on any serious competitor.
+
+I’m certain that we need a complete re-think in terms of the abilities and process that we have in merchandise planning.  We need to understand what has gone wrong and the history behind how we got to this point.  I suspect that the issues are partly created from our success but mostly because we’ve become complacent and are not on top of, nor thinking intelligently in terms of merchandise planning, as a result we are fighting fires and losing the fight:
+
+We have too much in some stores, too little in others.
+
+Our data integrity capacity, skill level and process at store level is failing us.
+
+Our DC has failed us.
+
+Our systems and processes don’t appear to be functioning.
+
+We are putting out a lot of fires and not fixing the issues, causing the death spiral to continue.
+
+We have to much hit and miss through it out there , we still have a push mentality and it is growing as opposed to pull.
+
+We do not leave enough for replenishment
+
+Although I feel there are issues to be addressed with our system, (it may even be that we need a new system) it is becoming an excuse for all the controllable and people accountable issues.
+
+We need the head of product to understand what’s going on and how to get on top of this.
+
+We need to forget the cost element in this part of the inventory equation.  We need to get our stock balanced at the start of the program.  By cost element, I mean we need to go to daily picks and shipping and ignore the extra costs associated with this because it is a false economy.
+
+We will probably need to reduce our pack size for the smaller stores so we can actually get things in the right perspective, perhaps increase for bigger stores.
+
+We have to get over this mentality of hanging onto stock, trying to protect our margin, we need to analyse the failure rate and take the hits aggressively, we don’t want to slow up the amount of stock coming in (depth and intensity), but we need to clear much more aggressively.
+
+We need to get on the automated front for the DC
+
+No effective store and range grading
+
+There is no understanding of how much product a store can actually physically carry.
+
+And most of all, we need an effective merchandise planning department.  We need to have it headed by someone who gets it, can put in the work and get the product flowing in time, right stores, in the right quantities to the last piece and sale.
+
+My overriding concern of sending this note is that we will react by throwing people and money at this issues, I don’t believe that is the case, I believe, we’ve lost control. And that is where we must start.
+
+The consequence of the above is missed sales, adding costs, sell outs in larger stores, over stocks in others, looming moral issues, sub standard in store merchandising, excessive mark downs, unnecessary work in stores, lumpy workloads, unnecessary ‘them and us’ attitudes growing.
+
+Important styles that don’t even have targets and therefore won’t be replenished.
+
+Black board merchandising planners that are wrong or not there, or do not apply to that store.
+
+Boxes and boxes of product arriving after they are no longer required i.e. sale product.
+
+Ranges that are in drawers and staying in drawers because there is no where to put them, yet they keep getting them!
+
+Ongoing styles such as Spring One that no one can tell me when it will be coming out of the drawer.
+
+An offsite to store product………. This is a body blow to bad planning.
+
+A counter designed for 1 POS that is a 2 POS store.
+
+Posters that were manually cut down to fit the frames, slicing the products in half!
+
+Ranges that are not being replenished at all.
+
+Regional’s driving around collecting product (bless them)
+
+I also witnessed
+
+ONE BEAUTIFUL REFITTED PACKED TO THE RAFTERS WITH CUSTOMERS STORE!
+
+ONE FIRST CLASS STORE MANAGER (ELISA I THINK)
+
+The triangle that is not solid ,robust and on song is like a cancer  that weakens and then kills even the strongest and greatest!
+
+We have Cancer……….Cut it out and give treatment.
+
+Complacency is our greatest Enemy.
+
+[Slide 3]
+
+Why manage inventory?
+
+The major reason for managing inventory is to reconcile the following potentially conflicting objectives:
+
+Thus increasing return on investment (ROI) and return on assets (ROA)
+
+Maximising customer satisfaction
+
+Maximising efficiency of purchasing
+
+Minimising inventory investment
+
+Maximising profit
+
+[Slide 4]
+
+Country
+
+Supplier
+
+Style
+
+Size
+
+Colour
+
+Check digit
+
+[Slide 5]
+
+Inventory Management
+
+[Slide 6]
+
+Purchase order management/shipping documents management i.e. ensuring that what is ordered from suppliers arrives to the DC/stores, follow up on in transit and overdue.
+
+[Slide 7]
+
+data Integrity
+
+A Short Workshop
+
+What is data integrity?
+
+How do you know when you have got it?
+
+What in your roles can effect your data integrity?
+
+What is impacted by bad data?
+
+[Slide 8]

@@ -1,0 +1,186 @@
+SOURCE: Is Yours a Learning Organization - HBR.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.05 HFT - Knowledge Sharing
+TOPIC: Organizational Learning
+SUMMARY: This text discusses how supportive learning environments, concrete learning processes, and knowledge sharing can help create a learning organization.
+KEYWORDS: learning organization, organizational culture, knowledge sharing, continuous improvement, process improvement
+---
+
+Supportive learning environments allow
+
+time for a pause in the action and
+
+encourage thoughtful review of the
+
+organization’s processes.
+
+To change a culture of blame and silence about errors at Children’s Hospitals and Clinics of
+
+Minnesota, COO Julie Morath instituted a new policy of “blameless reporting” that
+
+encouraged replacing threatening terms such as “errors” and “investigations” with less
+
+emotionally laden terms such as “accidents” and “analysis.” For Morath, the culture of
+
+hospitals must be, as she told us, “one of everyone working together to understand safety,
+
+identify risks, and report them with out fear of blame.” The result was that people started
+
+to collaborate throughout the organization to talk about and change behaviors, policies,
+
+and systems that put patients at risk. Over time, these learning activities yielded
+
+measurable reductions in preventable deaths and illnesses at the institution.
+
+Building Block 2: Concrete learning processes and practices.
+
+A learning organization is not cultivated effortlessly. It arises from a series of concrete steps
+
+and widely distributed activities, not unlike the workings of business processes such as
+
+logistics, billing, order fulfillment, and product development. Learning processes involve
+
+the generation, collection, interpretation, and dissemination of information. They include
+
+experimentation to develop and test new products and services; intelligence gathering to
+
+keep track of competitive, customer, and technological trends; disciplined analysis and
+
+interpretation to identify and solve problems; and education and training to develop both
+
+new and established employees.
+
+For maximum impact, knowledge must be shared in systematic and clearly defined ways.
+
+Sharing can take place among individuals, groups, or whole organizations. Knowledge can
+
+move laterally or vertically within a firm. The knowledge-sharing process can, for instance,
+
+be internally focused, with an eye toward taking corrective action. Right after a project is
+
+completed, the process might call for post-audits or reviews that are then shared with
+
+others engaged in similar tasks. Alternatively, knowledge sharing can be externally
+
+oriented—for instance, it might include regularly scheduled forums with customers or
+
+subject-matter experts to gain their perspectives on the company’s activities or challenges.
+
+Together, these concrete processes ensure that essential information moves quickly and
+
+efficiently into the hands and heads of those who need it.
+
+Perhaps the best known example of this approach is the U.S. Army’s After Action Review
+
+(AAR) process, now widely used by many companies, which involves a systematic
+
+debriefing after every mission, project, or critical activity. This process is framed by four
+
+simple questions: What did we set out to do? What actually happened? Why did it happen?
+
+What do we do next time? (Which activities do we sustain, and which do we improve?) In
+
+the army, lessons move quickly up and down the chain of command, and laterally through
+
+sanctioned websites. Then the results are codified by the Center for Army Lessons Learned,
+
+or CALL. Such dissemination and codification of learning is vital for any organization.
+
+Building Block 3: Leadership that reinforces learning.
+
+Organizational learning is strongly influenced by the behavior of leaders. When leaders
+
+actively question and listen to employees—and thereby prompt dialogue and debate—
+
+people in the institution feel encouraged to learn. If leaders signal the importance of
+
+spending time on problem identification, knowledge transfer, and reflective post-audits,
+
+these activities are likely to flourish. When people in power demonstrate through their own
+
+behavior a willingness to entertain alternative points of view, employees feel emboldened
+
+to offer new ideas and options.
+
+When leaders demonstrate a willingness to
+
+entertain alternative points of view,
+
+employees feel emboldened to offer new
+
+ideas.
+
+Harvey Golub, former chief executive of American Express, was renowned for his ability to
+
+teach employees and managers. He pushed hard for active reasoning and forced managers
+
+to think creatively and in unexpected ways. A subordinate observed that he often “came at
+
+things from a different angle” to ensure that conventional approaches were not accepted
+
+without first being scrutinized. “I am far less interested in people having the right answer
+
+than in their thinking about issues the right way,” Golub told us. “What criteria do they use?
+
+Why do they think the way they do? What alternatives have they considered? What
+
+premises do they have? What rocks are they standing on?” His questions were not designed
+
+to yield particular answers, but rather to generate truly open-minded discussion.
+
+The three building blocks of organizational learning reinforce one another and, to some
+
+degree, overlap. Just as leadership behaviors help create and sustain supportive learning
+
+environments, such environments make it easier for managers and employees to execute
+
+concrete learning processes and practices smoothly and efficiently. Continuing the virtuous
+
+circle, concrete processes provide opportunities for leaders to behave in ways that foster
+
+learning and to cultivate that behavior in others.
+
+Uses for the Organizational Learning Tool
+
+Our online diagnostic tool is designed to help you answer two questions about the
+
+organizational unit that you lead or in which you work: “To what extent is your unit
+
+functioning as a learning organization?” and “What are the relationships among the factors
+
+that affect learning in your unit?” People who complete the survey rate how accurately a
+
+series of brief, descriptive sentences in each of the three building blocks of learning
+
+describe their organization and its learning culture. For the list of statements in the
+
+complete survey, information about where to find it online, and details about how it works,
+
+see the exhibit “Assess the Depth of Learning in Your Organization.”
+
+Assess the Depth of Learning in There are two primary ways to use the
+
+Your Organization
+
+survey. First, an individual can take it to get a
+
+This diagnostic survey, which you take quick sense of her work unit or project team.
+
+online, is designed to help you determine
+
+Second, several members of a unit can each
+
+how well your company functions as a
+
+complete the survey and average their scores.
+
+learning organization. The complete
+
+interactive version, available at los.hbs.edu,
+
+Either way, the next step is to compare
+
+includes all the self-assessment statements
+
+individual or group self-evaluations with
+
+to the right; they are divided into three

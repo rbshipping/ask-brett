@@ -1,0 +1,262 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Economic Moats and Industry Analysis
+SUMMARY: The text discusses the importance of identifying industries with sustainable competitive advantages (economic moats) when investing, and provides examples of contrasting industries like auto parts and asset management.
+KEYWORDS: economic moats, industry analysis, competitive advantage, asset management, auto parts
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+panies that are enabled by technology than it is
+
+for companies that sell technology, because the
+
+effects can be more unexpected.
+
+2. I f a company’s customer base becomes more con-
+
+centrated, or if a competitor has goals other than
+
+making money, the moat may be in danger.
+
+3. Growth is not always good. It’s better for a com-
+
+pany to make lots of money doing what it is good
+
+at, and give the excess back to shareholders, than
+
+it is to throw the excess profits at a questionable
+
+line of business with no moat. Microsoft could
+
+get away with it, but most companies can’t.
+
+cc0088..iinndddd 111144 11//2266//0088 33::1100::1144 AAMM
+
+h a p te r Ni
+
+C n
+
+e
+
+Finding Moats
+
+(cid:1)
+
+It’s a Jungle Out There.
+
+O
+
+NE OF THE BEST THINGS
+
+about being an intelligent investor
+
+is that the world is your oyster. You’re not forced to invest in
+
+industry A or industry B, so you’re free to cast a discerning
+
+eye over the entire investment universe, ignoring what you
+
+don’t like and buying what you do. This freedom is espe-
+
+cially important if you are looking to build a portfolio of
+
+companies with economic moats, because it’s a lot easier to
+
+dig a moat in some industries than in others.
+
+Let me repeat myself, because this is a critically
+
+important point: Some industries are brutally competitive
+
+cc0099..iinndddd 111155 11//2266//0088 33::1100::5533 AAMM
+
+[116] THE LITTLE BOOK THAT BUILDS WEALTH
+
+and have awful economics, and creating a competitive
+
+advantage requires the managerial equivalent of a Nobel
+
+Prize. Other industries are much less competitive, and
+
+even average companies are able to sustain solid returns
+
+on capital. (No one ever said life was fair.) As an inves-
+
+tor, you’ll have better odds hunting for ideas in indus-
+
+tries where managers only need to hurdle one-foot
+
+bars to succeed than you will looking for long-term win-
+
+ners in industries where the barriers to success are much
+
+higher.
+
+Looking at opposite ends of the spectrum, consider
+
+auto parts and asset management. No, it’s not a fair fight,
+
+but that’s precisely my point. Morningstar covers 13 auto-
+
+parts companies, only two of which have economic moats.
+
+The remainder struggle to generate decent returns on
+
+capital, and those that do have only fleeting success.
+
+Consider American Axle, which makes—you guessed
+
+it—axles for General Motors and Chrysler. Five years ago,
+
+when Americans couldn’t buy SUVs fast enough, the com-
+
+pany cranked out respectable returns on capital in the low
+
+to mid-teens. But since 2003, shrinking SUV sales and an
+
+uncompetitive cost structure have caused losses and crushed
+
+returns on capital to single-digit levels. The same story,
+
+with minor variations, could be repeated for many auto-
+
+parts manufacturers, which operate in a cutthroat industry
+
+with truly awful economics.
+
+cc0099..iinndddd 111166 11//2266//0088 33::1100::5533 AAMM
+
+FINDING MOATS [117]
+
+Turning to asset management, Morningstar covers 18
+
+publicly traded asset managers, all of which have economic
+
+moats. (In fact, a dozen have wide moats, while the rest
+
+have narrow moats.) * Although the barriers to e ntry are low
+
+in asset management—anyone willing to spend $100,000 or
+
+so on lawyers and registration fees can start a mutual
+
+fund—the barriers to s uccess are quite high, because it gen-
+
+erally takes a large distribution network to really rake in the
+
+assets. However, those assets tend to stick around once
+
+they’re in the door, which means that money managers that
+
+have amassed a good-sized pile of assets under manage-
+
+ment can generally generate high returns on capital without
+
+breaking much of a sweat.
+
+Let’s consider something akin to a worst-case scenario
+
+for an asset manager. Imagine a firm that specializes in
+
+one style of investing, and that style goes out of favor,
+
+making once-stellar returns turn into terrible ones. A few
+
+years later, it comes to light that the company has allowed
+
+big clients to trade its funds in a way that siphons profits
+
+from long-term fund holders, which embroils the com-
+
+pany in a high-profile legal snafu. Star managers leave,
+
+*At Morningstar, we divide companies with competitive advantages into
+
+two groups. Companies with very durable competitive advantages are la-
+
+beled “wide moat,” and companies with identifiable but less strong advan-
+
+tages are labeled “narrow moat.” More on separating one from the other in
+
+Chapter 11, where we’ll walk through several examples.
+
+cc0099..iinndddd 111177 11//2266//0088 33::1100::5544 AAMM
+
+[118] THE LITTLE BOOK THAT BUILDS WEALTH
+
+many investors follow suit, and assets under management
+
+are cut almost in half.
+
+Doomsday? Hardly—this scenario is exactly what hap-
+
+pened to Janus in the early part of the decade, and after
+
+dipping to 11 percent in the trough of the crisis, operating
+
+margins recovered to about 25 percent. That’s what you
+
+call a resilient business model—one with a moat.
+
+L ooking for Moats in All the Right Places
+
+Exhibit 9 .1 breaks out Morningstar’s coverage universe
+
+of more than 2,000 stocks into sectors, so we can see
+
+which areas of the market tend to have the most moats.
+
+EXHIBIT 9.1 Moats by Sector
+
+Narrow Wide All
+
+Sector Moats (%) Moats (%) Moats (%)
+
+Software 49 9 58
+
+Hardware 26 5 31
+
+Media 69 14 83
+
+Telecommunications 59 0 59
+
+Health Care Services 31 11 42
+
+Consumer Services 32 7 39
+
+Business Services 36 13 49
+
+Financial Services 54 14 68
+
+Consumer Goods 32 14 46
+
+Industrial Materials 31 3 34
+
+Energy 55 6 61
+
+Utilities 80 1 81
+
+cc0099..iinndddd 111188 11//2266//0088 33::1100::5544 AAMM
+
+FINDING MOATS [119]
+
+In technology, you can see that software companies
+
+tend to have an easier time creating moats than hardware
+
+companies. This is not simply an accounting artifact—
+
+hardware firms are generally more capital-intensive than
+
+software firms—but has a strong basis on the way these
+
+two broad categories of products are used. A piece of
+
+software often needs to be integrated with other pieces
+
+of software to work properly, and this integration leads to
+
+customer lock-in and higher switching costs. Hardware
+
+is more frequently based on common industry standards,

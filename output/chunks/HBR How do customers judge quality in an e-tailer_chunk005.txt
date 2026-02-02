@@ -1,0 +1,112 @@
+SOURCE: HBR How do customers judge quality in an e-tailer.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Online Retail Service Recovery
+SUMMARY: Effective service recovery, including easy feedback and resolution processes, is essential for online retailers to build and maintain customer relationships.
+KEYWORDS: service recovery, customer feedback, online retail, service failures, customer satisfaction
+---
+
+impacts customers’ quality evaluations is a retailer’s ability to re- back and report problems is essential to improving the quality of
+
+cover from a service failure. Of the online shoppers we surveyed, a retailer’s online service operations. If a customer experiences a
+
+more than half noted a problem with a previous online transac- problem and cannot find a suitable method to contact the re-
+
+tion. Previous research has observed that the physical separation tailer, the company risks losing the customer, other customers
+
+of buyers and sellers can heighten the sense of anxiety associated (through word of mouth) and the opportunity to prevent future
+
+with a transaction and influence the criteria customers use to service failures. Providing online or call center help to address
+
+evaluate service quality7. Being prepared when a failure occurs is service failures is only the first step, however. Online retailers
+
+essential to building and maintaining customer relationships. If a must make the feedback process as easy as possible, then follow
+
+customer is dissatisfied and pursues a recovery measure, an online through to fully resolve the problem. E-mail inquiries that receive
+
+retailer may only have one chance to satisfy the customer. There no response or long waits in a call center queue will only serve to
+
+are essentially no switching costs in an online retail context; thus, intensify the dissatisfaction a customer is already feeling. Letting
+
+if a customer leaves a transaction dissatisfied, he or she is only one customers speak their minds in a comfortable setting is the first
+
+click away from another retailer. step, but without follow-up to customer feedback, it’s just a
+
+Online retailers must be prepared to take proactive steps to wasted effort on the customer’s part.
+
+prevent or minimize the dissatisfaction that results from a service
+
+failure because failure to do so will ultimately influence a cus- Fairness of Policies and Procedures An online retailer should
+
+tomer’s future purchase behavior. The recovery from service make sure its policies and procedures are fair and clearly stated
+
+failures in online contexts is an area that has attracted relatively so that the customer knows what to expect if a failure occurs.
+
+little attention among online retailers. The focus has been pri- Online retailers must ensure that customers do not incur ad-
+
+marily on the Web site interactivity and delivery of the product. ditional expenses because of the retailer’s mistakes. For example,
+
+That lack of attention to recovery issues is evidenced by the fact if a wrong item is sent to a customer, the retailer should pay the
+
+that significant numbers of customers exhibit dissatisfaction return shipping costs. Customers want fair procedures that are
+
+with online recovery attempts.8 Our study shows that customers clearly stated before a purchase is made. That includes know-
+
+of online retailers are concerned with three different aspects of ing the process for returning items and receiving refunds or
+
+service recovery. credit when customers change their minds. L.L. Bean Inc.
+
+clearly states on its Web site that if a product does not give
+
+The Opportunity to Talk to a Person Online retail customers who 100% satisfaction in every way, a customer can return the item
+
+have experienced a problem will attempt to resolve it in one of at any time, offering detailed steps on what to do to get an ex-
+
+two ways. Some customers look for a resolution on the retailer’s change or refund of a purchased item. Customers know upfront
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+FALL 2006 MIT SLOAN MANAGEMENT REVIEW 39
+
+that L.L. Bean is committed to ensuring that customers are from Lowes.com and is not happy with the color must be given
+
+happy with their purchases. the option of exchanging the appliance at a Lowe’s Companies
+
+If an online retailer contracts with a third party for any of the Inc. brick-and-mortar location. Similarly, if a retail customer
+
+transaction or delivery processes, it should be the retailer’s, not finds a microwave model to purchase in a Lowe’s brick-and-mor-
+
+the customer’s, responsibility to follow up with the third party to tar location, but the location does not have the color desired in
+
+resolve a service failure. Online customers have no interest in inventory, the customer should be given the option of placing an
+
+dealing with an additional party in the transaction. Policies and order from Lowes.com and experiencing either home delivery or
+
+procedures that are not fair and clearly stated can erode trust in in-store pickup. To the extent that this seamlessness is success-
+
+a retailer, because customers feel they were not able to make a fully accomplished, retail customers will benefit by having
+
+truly informed purchasing decision. multiple avenues to achieve a successful retail outcome. Thus, the
+
+e-tail format, as well as the brick-and-mortar retail format, will
+
+Compensation and Apologies Despite online retailers’ best efforts, benefit from customers’ perceptions of quality. In addition, this
+
+problems can and do occur. In service failure situations, online seamlessness enhances a retailer’s ability to manage service recov-
+
+retailers must understand the importance of taking additional ery, which also increases customers’ quality perceptions.
+
+actions, beyond resolving the problem, to satisfy customers. For Second, for retailers that confine their format to the online
+
+example, the retailer might need to offer monetary compensa- environment, such as Amazon.com, in the long term, the most
+
+tion, vouchers for free products or perhaps simply an apology. successful will be those that continually strive to enhance the
+
+Oftentimes, customers just want online retailers to admit that it quality of their customers’ interactions with their Web sites, the
+
+was their fault and apologize for the service failure. The expense outcome of their retail transactions and successful resolution of
+
+of an apology is minimal when compared to the future loss of the problems when they occur.
+
+revenue stream from a dissatisfied customer. Finally, our findings imply that although indicators of trust in
+
+Though many customers may be satisfied with an apology an online retail environment may be somewhat unique due to the

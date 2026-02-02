@@ -1,0 +1,168 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation Strategy
+SUMMARY: The text discusses how companies should adapt their product architectures and business models as the basis of competition shifts from performance to modularity.
+KEYWORDS: modular architecture, proprietary architecture, disruptive innovation, industry dynamics
+---
+
+important competitive disadvantage until the basis of competition shifts and modularity becomes
+
+the predominant architectural form. This was the experience of IBM and its clones in the
+
+personal computer industry. The superior performance of Apple’s computers did not preclude
+
+IBM from succeeding. IBM just had to fight its performance disadvantage because it opted
+
+prematurely for a modular architecture.
+
+What happens to the initial leaders when they overshoot, after having jumped ahead of
+
+the pack with performance and reliability advantages that were grounded in proprietary
+
+architecture? The answer is that they need to modularize and open up their architectures and
+
+begin aggressively to sell their subsystems as modules to other companies whose low-cost
+
+assembly capability can help grow the market. Had good theory been available to provide
+
+guidance, for example, there is no reason why the executives of Apple Computer could not have
+
+modularized their design and have begun selling their operating system with its interdependent
+
+applications to other computer assemblers, preempting Microsoft’s development of Windows.
+
+Nokia appears today to be facing the same decision. We sense that adding even more features
+
+and functions to standard wireless handsets is overshooting what its less-demanding customers
+
+can utilize; and a dis-integrated handset industry that utilizes Symbian’s operating system is
+
+rapidly gaining traction.
+
+The next chapter will show that a company can begin with a proprietary architecture
+
+when disruptive circumstances mandate it, and then, when the basis of competition changes,
+
+open its architecture to become a supplier of key subsystems to low-cost assemblers. If it does
+
+this, it can avoid the traps of becoming a niche player on the one hand and the supplier of an
+
+undifferentiated commodity on the other. The company can become capitalism’s equivalent of
+
+Wayne Gretzky, the hockey great. Gretzky had an instinct not to skate to where the puck
+
+presently was on the ice, but instead to skate to where the puck was going to be. Chapter 5 can
+
+help managers steer their companies not to the profitable businesses of the past, but to where the
+
+money will be.
+
+WR GR ok ok oR
+
+There are few decisions in building and sustaining a new-growth business that
+
+scream more loudly for sound, circumstance-based theory than those addressed
+
+in this chapter. When the functionality and reliability of a product are not good
+
+enough to meet customers’ needs, then the companies that will enjoy significant
+
+competitive advantage are those whose product architectures are proprietary and
+
+that are integrated across the performance-limiting interfaces in the value chain.
+
+When functionality and reliability become more than adequate, so that speed and
+
+responsiveness are the dimensions of competition that are not now good enough,
+
+then the opposite is true. A population of nonintegrated, specialized companies
+
+whose rules of interaction are defined by modular architectures and industry
+
+standards holds the upper hand.
+
+At the beginning of a wave of new-market disruption, the companies that initially
+
+will be the most successful will be integrated firms whose architectures are
+
+proprietary because the product isn’t yet good enough. Afier a few years of
+
+success in performance improvement, those disruptive pioneers themselves
+
+become susceptible to hybrid (primarily low-end) disruption by a population of
+
+nonintegrated companies whose focus gives them lower overhead costs.
+
+For a company that serves customers in multiple tiers of the market, managing
+
+the transition is tricky, because the strategy and business model that are required
+
+to successfully reach unsatisfied customers in higher tiers are very different from
+
+those that are necessary to compete with speed, flexibility, and low cost in lower
+
+tiers of the market. Pursuing both ends at once and in the right way often requires
+
+multiple business units—a topic that we address next.
+
+1. We are indebted to a host of thoughtful researchers who have framed the existence and
+
+the role of core and competence in making these decisions. These include C. K. Prahalad
+
+and Gary Hamel, “The Core Competence of the Corporation,” Harvard Business Review,
+
+May-June 1990, 79-91; and Geoffrey Moore, Living on the Fault Line (New York:
+
+HarperBusiness, 2002). It is worth noting that “core competence,” as the term was
+
+originally coined by C. K. Prahalad and Gary Hamel in their seminal 1990 article (op.
+
+cit.), was actually an apology for the diversified firm. They were developing a view of
+
+diversification based on the exploitation of established capabilities, broadly defined. We
+
+interpret their work as consistent with a well-respected and very useful stream of research
+
+and theoretical development that goes all the way back to Edith Penrose’s 1959 book The
+
+4-12
+
+Theory of the Growth of the Firm (New York: Wiley). This line of thinking is very
+
+powerful and useful. As it is used now, however, the term “core competence” has become
+
+synonymous with “focus”; that is, firms that seek to exploit their core competence do not
+
+diversify—if anything, they focus their business on those activities that they do
+
+particularly well. It is this “meaning in use” that we feel is misguided.
+
+IBM arguably had much deeper technological capability in integrated circuit and
+
+operating system design and manufacturing than did Intel or Microsoft at the time IBM
+
+put these companies into business. It probably is more correct, therefore, to say that this
+
+decision was based more on what was core than what was competence, The sense that
+
+IBM needed to outsource was based on the correct perception of the new venture’s
+
+managers that they needed a far lower overhead cost structure to become acceptably
+
+profitable to the corporation and needed to be much faster in new-product development
+
+than the company’s established internal development processes, which had been honed in
+
+a world of complicated interdependent products with longer development cycles, could
+
+handle.
+
+In the past decade there has been a flowering of important studies on these concepts, We
+
+have found the following ones to be particularly helpful: Rebecca Henderson and Kim B.
+
+Clark, “Architectural Innovation: The Reconfiguration of Existing Product Technologies
+
+and the Failure of Established Firms,” Administrative Science Quarterly 35 (1990): 9-30;
+
+K. Monteverde, “Technical Dialog as an Incentive for Vertical Integration in the

@@ -1,0 +1,59 @@
+SOURCE: Data Integrity.ppt
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management and Data Integrity
+SUMMARY: The text discusses maximizing customer satisfaction, efficiency, and profits through effective inventory management and ensuring data integrity.
+KEYWORDS: inventory management, data integrity, return on investment, customer satisfaction, efficiency
+---
+
+[Document: Data Integrity.ppt]
+[Presentation Topic: Inventory Management Failure]
+
+Thus increasing return on investment (ROI) and return on assets (ROA)
+
+Maximising customer satisfaction
+
+Maximising efficiency of purchasing
+
+Minimising inventory investment
+
+Maximising profit
+
+[Slide 4]
+
+Country
+
+Supplier
+
+Style
+
+Size
+
+Colour
+
+Check digit
+
+[Slide 5]
+
+Inventory Management
+
+[Slide 6]
+
+Purchase order management/shipping documents management i.e. ensuring that what is ordered from suppliers arrives to the DC/stores, follow up on in transit and overdue.
+
+[Slide 7]
+
+data Integrity
+
+A Short Workshop
+
+What is data integrity?
+
+How do you know when you have got it?
+
+What in your roles can effect your data integrity?
+
+What is impacted by bad data?
+
+[Slide 8]
+
+“Effective Inventory Management enables our businesses to meet or exceed our Customers expectations of product availability while maximising our profits and/or minimising costs”

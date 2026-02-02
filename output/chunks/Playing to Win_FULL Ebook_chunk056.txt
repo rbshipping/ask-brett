@@ -1,0 +1,238 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Strategic Decision-Making
+SUMMARY: The text discusses a strategic choice cascade and the need to define a winning aspiration, where to play, and how to win, while leveraging various analytical tools.
+KEYWORDS: strategic choice cascade, winning aspiration, where to play, how to win, analytical tools
+---
+
+choice cascade (what is your winning aspiration, where will you
+
+play, how will you win, what capabilities will you use, and what man-
+
+agement systems will you employ?) and argued that all five must be
+
+answered, coordinated, and integrated to craft a powerful strategy
+
+and lasting competitive advantage. But how and where do you start?
+
+And how do you generate and choose between possibilities at each
+
+stage? For any company, there are many possible strategic choices
+
+that could be selected, an almost infinite amount of data that could be
+
+crunched, and a wide array of strategic tools that might be brought to
+
+bear on the problem. It can be overwhelming, even paralyzing. The
+
+bad news is that there is no simple algorithm for choice. The good
+
+news is that there is a framework that can give you a place to start.
+
+As you begin articulating your strategic choice cascade, the
+
+obvious place to start is at the top. We’ve argued that it is essen-
+
+tial to define a winning aspiration up front, and it does make sense
+
+to begin thinking about strategy by defining the purpose of your
+
+enterprise; without having an initial definition of winning, it is dif-
+
+ficult to assess the value of any subsequent choice. You need a win-
+
+ning aspiration against which you can weigh different choices. But
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch07.indd 159 11/6/12 8:21 PM
+
+160 Playing to Win
+
+remember that strategy is an iterative process, and you’ll need to
+
+return to refine your winning aspiration in the context of the sub-
+
+sequent choices. So, rather than dwell on crafting the perfect defi-
+
+nition of winning, sketch a prototype, with the understanding that
+
+you will return to it later with the rest of the cascade in mind. Then
+
+consider the real work of strategy as beginning with where to play
+
+and how to win—the very heart of strategy. These are the choices
+
+that actually define what you will do, and where you will do it, so
+
+as to generate competitive advantage.
+
+To define where to play and how to win, you’ll need to under-
+
+stand and reflect on your context. To do so, you have scores of tools
+
+at your disposal—from simple analyses like SWOT (strengths,
+
+weaknesses, opportunities, and threats) to purpose-built tools
+
+like the Boston Consulting Group growth matrix and General
+
+Electric–McKinsey nine-box matrix to detailed frameworks based
+
+on particular strategic theories (the VRIN model, which assesses
+
+the degree to which the organization possesses capabilities that
+
+are valuable, rare, inimitable, and non-substitutable, and which
+
+emerged from the resource-based view of the firm). Each of these
+
+tools, frameworks, and philosophies has its most helpful uses, but
+
+none considers the full strategic landscape. Alone, none can help
+
+you decide where to play and how to win. Together, they produce
+
+a potentially unfocused and overwhelming mass of data and analy-
+
+sis. Instead of picking and choosing among these tools, companies
+
+need to develop a more directed approach that can be applied to
+
+make where-to-play and how-to-win choices across contexts.
+
+Ultimately, there are four dimensions you need to think about
+
+to choose where to play and how to win:
+
+1. The industry. What is the structure of your industry and
+
+the attractiveness of its segments?
+
+2. Customers. What do your channel and end customers value?
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch07.indd 160 11/6/12 8:21 PM
+
+Think Through Strategy 161
+
+3. Relative position. How does your company fare, and how
+
+could it fare, relative to the competition?
+
+4. Competition. What will your competition do in reaction
+
+to your chosen course of action?
+
+These four dimensions can be understood through a frame-
+
+work we call the strategy logic flow, which poses seven questions
+
+across the four dimensions (figure 7-1). The strategy logic flow
+
+spurs a thoughtful analysis of your company’s current reality, con-
+
+text, challenges, and opportunities and leads to the development of
+
+multiple possible where-to-play and how-to-win choices.
+
+The flow runs from left to right as a framing mechanism and
+
+a rough order of operations—though as with pretty much every-
+
+thing to do with strategy, a lot of iterative back-and-forth is
+
+required. The flow of the logic runs from industry to customers to
+
+relative position to competitive reaction. It is in considering all of
+
+these together that strategic choices emerge, but different dimen-
+
+sions will be more or less important in different contexts.
+
+FIGURE 7-1
+
+The strategy logic flow
+
+Customer Analysis
+
+Industry value of relative Competitor Strategic
+
+analysis analysis position analysis choice
+
+Segmentation Channel Capabilities
+
+What are the How do our Where-to-play
+
+What attributes
+
+strategically capabilities stack choice A
+
+constitute
+
+distinct up against with how-to-
+
+channel value?
+
+segments? competitors’? Prediction win choice Y
+
+How will
+
+competitors
+
+Or...
+
+react to our
+
+Structure End consumer Costs actions?
+
+How do our Where-to-play
+
+How structurally What attributes
+
+costs stack up choice B
+
+attractive are the constitute end-
+
+against with how-to-
+
+segments? customer value?
+
+competitors’? win choice Z
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch07.indd 161 11/6/12 8:21 PM
+
+162 Playing to Win
+
+Industry Analysis
+
+The first component of the strategy logic flow is industry analy-
+
+sis. To determine where to play, you must assess the industry land-
+
+scape. You must ask, what might be the distinct segments of the
+
+industry in question (geographically, by consumer preference, by
+
+distribution channel, etc.)? Which segmentation scheme makes
+
+the most sense for the given industry today, and what might make
+
+sense in the future? And what is the relative attractiveness of those
+
+segments, now and in the future?
+
+Segmentation
+
+Industry segments are distinctive subsets of the larger industry along
+
+lines such as geography, product or service type, channel, customer

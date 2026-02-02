@@ -1,0 +1,90 @@
+SOURCE: Building Competitive Advantage in Retailing.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text discusses strategies for improving retail productivity, including supply relationships, technology implementation, and merchandising and space management.
+KEYWORDS: supply relationships, productivity loop, logistics, technology implementation, merchandising
+---
+
+unintentional inaccuracies.
+
+Suppliers
+
+Supply relationships determine deals, terms, delivery quantities, and dates, etc. Relationships
+
+range from adversarial to cooperative.
+
+Triangle Activities
+
+The many triangle activities can also be categorized as quick response, replacement of labor by
+
+technology, and merchandising and space management.
+
+Quick Response (including automatic replenishment) includes an alphabet soup of activities such
+
+as EDI; UPC/Barcode; POS; CL; PSS; VMI; Perpetual Inventory; Programmed Supply
+
+Relationships; and Information Sharing.
+
+Replacement of Labor by Technology includes Front End Scanning; Labor Scheduling Systems;
+
+Electronic Shelf Stickers; Fully Automated Warehouse/Distribution Center; Check Robot:
+
+Automated Picking Lines; Store Security Systems; Environmental Controls.
+
+Merchandising and Space Management includes SKU Data Capture; Direct Product Profitability;
+
+Rapid Intensification and Delisting; and Modularization in Store Design.
+
+In general, the idea is to build a productivity loop--to make an investment in lowering costs by
+
+having better logistics, or better supplier relationships, or just in time delivery, or systems for better
+
+inventory control or better labor scheduling, or whatever. Once costs have been lowered, the
+
+company can then reduce its margins. Lower margins mean lower prices, and lower prices means
+
+the company's value equation improves. An improved value position results in higher sales per
+
+square foot. Higher sales per square foot mean lower costs--as a percent of sales. And lower
+
+costs means that retailer can reduce gross margins, and thereby prices, again.
+
+The ultimate objective of working the triangle is to develop sustainable price leadership.
+
+Companies who are most successful at this typically are or move towards consistent (or EDLP-
+
+everyday low prices), rather than high/low promotional pricing.
+
+The Eight Ways to Win in Retailing:
+
+The Pentagon & Triangle
+
+Copyright 1989, DJ. Tigert & LJ. Ring
+
+Size
+
+Location
+
+Layout & Design
+
+Positional Style & Fashion
+
+) Intensity
+
+Assortment
+
+(Value)
+
+Quality
+
+Promotional
+
+5
+
+Logistics Suppliers
+
+Service i
+
+Knowledge People
+
+Climate

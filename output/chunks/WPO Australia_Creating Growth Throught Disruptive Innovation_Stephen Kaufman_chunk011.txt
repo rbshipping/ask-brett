@@ -1,0 +1,170 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: The text discusses the potential of disruptive innovation, highlighting the challenges of Internet banking as an example where disruption is unlikely.
+KEYWORDS: disruptive innovation, new-market disruption, low-end disruption, Internet banking
+---
+
+because the power-hungry, expensive machines that historically have been available don’t fit in
+
+the average family’s pocketbook or apartment. If GE could design a $49.95 product that would
+
+easily slip into the window of a cramped Shanghai apartment and reduce the temperature and
+
+humidity in a ten-foot by ten-foot room with ten amps of current, things might get interesting—
+
+because once GE had a business model that could make money at that price point, taking on the
+
+rest of the up-market world would be easy. Parenthetically, while Western executives are
+
+understandably concerned about the threat that low-cost manufacturing in China poses to them,
+
+our guess is that China’s greatest competitive asset is the unfathomable amount of non-
+
+consumption in its markets, which makes them fertile ground for new-market disruptive
+
+companies of many sorts.
+
+The Potential for Internet Banking
+
+When we ask the test questions about Internet banking, we conclude that disruption using
+
+this technology is not possible. In the first place, there is not a large population of people who
+
+have been unable to open and maintain a bank account because they have lacked the money or
+
+skill. Existing banks’ penetration of this market is high. This rules out a new-market disruption
+
+for Internet banking.
+
+1-17
+
+Second, are there current bank customers at the low end who would be happy to accept a
+
+bank account with fewer privileges and features in order to get the service at a lower price? The
+
+prevalence of advertisements featuring no-fee accounts is a testament that this condition
+
+probably exists. But is it possible to design a business model that would afford a disruptive
+
+online bank attractive profits at the discount prices required to win business at the low end? This
+
+is doubtful, because the cost of money is similar for all banks.
+
+Because the idea does not satisfy the conditions for either a new-market or a low-end
+
+disruption, Internet banking is likely to be implemented as a sustaining innovation by established
+
+banks. As for the third test, there already are many banks and credit unions, with only a limited
+
+number of office locations, that transact much of their business by mail. Internet banking would
+
+have a sustaining impact on their business models.
+
+deo ok ok ae
+
+Disruption is a theory: a conceptual model of cause and effect that makes it
+
+possible to better predict the outcomes of competitive battles in different
+
+circumstances. The asymmetries of motivation chronicled in this chapter are
+
+natural economic forces that act on all businesspeople, all the time. Historically,
+
+these forces almost always have toppled the industry leaders when an attacker
+
+has harnessed them, because disruptive strategies are predicated upon
+
+competitors doing what is in their best and most urgent interest: satisfying their
+
+most important customers and investing where profits are most attractive. In a
+
+profit-seeking world, this is a pretty good bet.
+
+Not all innovative ideas can be shaped into disruptive strategies, however,
+
+because the necessary preconditions do not exist; in such situations, the
+
+opportunity is best licensed or left to the firms that are already established in the
+
+market. On occasion, entrant companies have simply caught the leaders asleep at
+
+the switch and have succeeded with a strategy of sustaining innovation. But this is
+
+rare. Disruption does not guarantee success: It just helps with an important
+
+element in the total formula. Those who create new-growth businesses need to get
+
+on the right side of a number of other challenges, to which we will now turn.
+
+1-18
+
+Appendix:
+
+A Brief Description of the Disruptive Strategies of the Firms in Figure 1-4
+
+Table 1-2 briefly summarizes our understanding of the disruptive roots of the success of
+
+the companies that are arrayed in figure 1-4. Because of space limitations, much important detail
+
+has been omitted. The companies are listed in alphabetical, rather than chronological, order. We
+
+do not pretend to be strong business historians, and as a consequence can only present here a
+
+partial listing of disruptive companies. Furthermore, it is often difficult to identify a specific year
+
+in which each firm’s disruptive strategy was launched. Some firms existed for a considerable
+
+period, often in other lines of business, before the disruptive strategy that led to their ultimate
+
+success was implemented. In some cases it seems easier to visualize the disruption in terms of a
+
+product category, rather than by listing the name of one company. Hence, we ask our readers to
+
+regard this information as only suggestive, rather than definitive.
+
+Table 1.2:
+
+A Brief Description of the Disruptive Roots
+
+of the Companies and Industries Listed in Figure 1.4
+
+Company or Description
+
+Product
+
+802.11 This is a protocol for high bandwidth wireless transfer of data. It has begun disrupting local area wireline
+
+networks, Its present limitations are that the signals can’t travel long distances.
+
+Amazon.com A low-end disruption relative to traditional bookstores.
+
+Apple, Compaq
+
+et.al, Personal
+
+Microprocessor-based computers made by firms such as Apple, IBM and Compaq were true new-market
+
+disruptions, in that for years they were sold and used in their unique value network before they began to
+
+Black & Decker
+
+computers capture sales from higher-end professional computers.
+
+Beef Processing | In the 1880s, Swift and Armour began huge, centralized beef slaughtering operations that transported large
+
+sides of beef by refrigerated railcar to local meat cutters. This disrupted local slaughtering operations.
+
+Bell Telephone | Bell’s original telephone could only carry a signal for 3 miles, and therefore was rejected by Western Union,
+
+whose business was long-distance telegraphy, because Western Union couldn't use it. Bell therefore started a
+
+new-market disruption, offering local communication ~ and as the technology improved, it pulled customers.
+
+out of telegraphy’s long distance value network into telephony.
+
+Prior to 1960, hand-held electric tools were heavy and rugged, designed for professionals ~ and very
+
+expensive. B&D introduced a line of plastic-encased tools with universal motors that would only last 25-30
+
+hours of operation ~ which actually was more than adequate for most do-it-yourselfers who drill a few holes

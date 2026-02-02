@@ -1,0 +1,122 @@
+SOURCE: HBR making-supply-meet-demand-in-an-uncertai.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Demand Forecasting and Supply Chain Management
+SUMMARY: The text discusses the growing need for companies to incorporate demand uncertainty into their production-planning processes, highlighting examples of companies like Timberland and L.L. Bean that have successfully adapted to this challenge.
+KEYWORDS: demand uncertainty, production planning, inventory management, forecasting, supply chain
+---
+
+capacity. And any retailer that has difficulty predicting demand can likewise benefit by learning which products to order in bulk
+
+before the selling season and which to order in increments during the season.
+
+The Growing Need to Face Demand Uncertainty
+
+A few companies are already using some of the techniques incorporated in accurate response. The Timberland Company, the
+
+fast-growing New Hampshire-based shoe manufacturer, for example, has developed a sophisticated production-planning
+
+system linked to a sales-tracking system that updates demand forecasts. Those systems, along with efforts to reduce lead
+
+times in obtaining leather from tanners, have enabled the company to reduce stockout and markdown costs significantly.
+
+L.L. Bean, the Maine outdoor-sporting-goods company, has started to use its understanding of uncertainty to drive its
+
+inventory-planning decisions. As a direct marketer, Bean finds it easy to capture stockout data. Having discovered that
+
+forecasts for its continuing line of “never out” products are much more accurate than those for its new products, Bean estimates
+
+demand uncertainty differently for each category and then uses those estimates in making product-supply decisions.
+
+But most companies still treat the world as if it were predictable. They base production planning on forecasts of demand made
+
+far in advance of the selling season to provide ample time for efficient production and distribution. And when that approach
+
+results in shortages of some products, and in pipelines filled with obsolete components and finished goods because anticipated
+
+hot sellers have bombed, it is generally seen as a forecasting problem. Everyone unfairly blames the forecasters.
+
+The real problem, though, is that most companies do a poor job of incorporating demand uncertainty into their production-
+
+planning processes. They are aware of demand uncertainty when they create a forecast—witness the widespread reliance on
+
+safety stocks—but they design their planning processes as if that initial forecast truly represented reality. They do this for two
+
+reasons. First, it’s complicated to factor multiple demand scenarios into planning; most companies simply don’t know how to do
+
+it. Second, the dramatic increase in demand unpredictability is fairly recent, so most companies haven’t yet changed their
+
+planning systems to adapt to it. The result, as shown by the sharp increase in department store markdowns in the past two
+
+decades, has been catastrophic. (See the graph “Skyrocketing Markdowns in the Retail Industry.”)
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 3of 9
+
+All this is somewhat ironic given the advances during the past 15 years that have ostensibly made it easier to identify and
+
+supply ever-smaller market niches. Point-of-sale scanners have provided a flood of data on consumers’ buying patterns. And
+
+by reducing the cost of making smaller quantities of products, flexible manufacturing has enabled companies to make a much
+
+wider variety of goods—all with the goal of giving customers exactly what they want. Even industries that traditionally have not
+
+been considered fashion driven have been affected. The number of new-product introductions in the U.S. food industry, for
+
+example, has exploded in recent years, from 2,000 in 1980 to 18,000 in 1991.
+
+But frequent introductions of new products have two side effects that most companies are not prepared to address. For one,
+
+they reduce the average lifetime of products; more of them are either at the beginning of their life (when prediction is tough
+
+because there is no demand history) or at the end of their life (when keeping inventory is expensive because the products will
+
+soon become obsolete). For another, as products proliferate, demand is divided over a growing number of stock-keeping units
+
+(SKUs). Even if manufacturers and retailers can forecast aggregate demand figures with some certainty, it is becoming
+
+increasingly difficult to predict how that demand will be distributed among the many SKUs they sell. To visualize this effect,
+
+compare the relative difficulty of predicting who will win a baseball game (the aggregate result) with the difficulty of predicting
+
+who will score more runs in each inning (the result at an SKU level).
+
+Consider the problems General Motors’ Cadillac division faced after redesigning its Seville and Eldorado models. Based on
+
+initial demand forecasts for its 1992 line, General Motors allocated half the capacity of its Detroit-Hamtramck plant to those two
+
+models; the remaining capacity was slated to produce Buicks and Oldsmobiles. However, demand for the Sevilles and
+
+Eldorados quickly exceeded supply: GM’s underproduction of the two models led to the loss of thousands of potential
+
+customers. Scrambling to meet the growing demand, GM changed its allocation and devoted 86% of the plant’s capacity to the
+
+Cadillac models. Eventually, the company allocated all of the plant’s production capacity to the Seville and Eldorado. But the
+
+damage had already been done.
+
+In the computer industry, which is contending with considerable product proliferation, short product life cycles, and a limited
+
+history of specific customer demand, undersupply and oversupply problems are endemic. And in retailing, consolidation in
+
+many segments has given the surviving businesses much more power over suppliers—power they have not been shy about
+
+http://hbr.org/1994/05/making-supply-meet-demand-in-an-uncertain-world/ar/pr 18/07/2012
+
+Making Supply Meet Demand in an Uncertain World - Harvard Business Review Page 4of 9
+
+using to reduce their own vulnerability to an unpredictable market. Kmart, for example, told a number of its toy suppliers last
+
+July that it would in effect buy products from them on a consignment basis: the toy manufacturers were expected to send
+
+products to Kmart distribution centers based on Kmart’s orders, but Kmart would not actually purchase the products unless and
+
+until they were sent from the distribution center to a Kmart store. Products not selling up to expectations would be returned
+
+from the distribution center to the manufacturer.
+
+Black & Decker Corporation lost tens of millions of dollars in sales in less than one year because of increased retailer
+
+demands, notes Al Strumar, the company’s former vice president of advanced manufacturing technology. In the power tool
+
+industry, stiff competition has meant an increased variety of products and a need for faster delivery. Also, to some extent,

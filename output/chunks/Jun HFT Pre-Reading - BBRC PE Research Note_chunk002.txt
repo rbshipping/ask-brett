@@ -1,0 +1,178 @@
+SOURCE: Jun HFT Pre-Reading - BBRC PE Research Note.pdf
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Live Commerce and Retail Strategies
+SUMMARY: This text analyzes the rise of live commerce in China, highlighting the key success factors such as entertaining content, interactivity, and trusted influencers.
+KEYWORDS: live commerce, e-commerce, retail strategies, Chinese market, livestreaming
+---
+
+[Document: Jun HFT Pre-Reading - BBRC PE Research Note.pdf]
+
+they rely on sales assistants to provide an interactive experience, and livestreamed events and virtual
+
+shopping consultations often take place in stores. However, like e-commerce, the shopping process
+
+and sales transaction occur online. Live commerce may effectively become a third channel for retail
+
+sales — it occurs neither entirely online nor offline, but combines elements of both to offer an
+
+alternative path to purchase.
+
+In order to understand why live commerce is so powerful and how this evolution might unfold and
+
+be executed, we've extracted lessons from different ends of the retail spectrum: Chinese
+
+livestreaming and TV home shopping.
+
+Lesson 1: Live commerce in China
+
+Digital 3.0 strategies are already well advanced in China, where livestreaming has been an important
+
+trend since Alibaba launched its livestream network Taobao Live in 2016. Livestreaming, which is
+
+used to sell everything from apparel and skincare products to cars, real estate and agricultural
+
+produce, represented 9% of China's total e-commerce sales in 2019, with live commerce revenue
+
+reaching US$61 billion. As Covid-19 hit China, livestreaming platforms saw sharp uptake in usage. In
+
+February 2020 Taobao Live recorded a 719% increase in participating merchants and annual live
+
+commerce revenue is now predicted to more than double to US$135 billion in 2020, suggesting live
+
+commerce is indeed worthy of being treated as a ‘third’ sales channel.
+
+This remarkable sales volume is made possible by the well-established e-commerce and payments
+
+ecosystem available to consumers. Livestream shopping is available on e-commerce platforms like
+
+Taobao, JD.com and Pinduoduo, short-video platforms like Douyin (China’s version of TikTok) and
+
+Digital 3.0 | 3
+
+Kuaishou, and social networking platforms like WeChat and Little Red Book. Each platform has
+
+different features and attracts different users and brands; for example, Little Red Book is known for
+
+its community of affluent urban women and tends to attract luxury retailers.
+
+Chinese live commerce has developed a consistent format relying on four key success factors:
+
+e Entertaining content: livestreams should be highly engaging, which retailers achieve by
+
+featuring fashion shows, competitions, celebrity interviews and education sessions.
+
+e Interactivity: social commerce platforms typically allow viewers to comment and ask
+
+questions during a livestream. This creates a running conversation between the presenter and
+
+viewers, in which the presenter responds to viewers by name while a customer service team
+
+answers audience questions in the background.
+
+e Trusted influencers or brand personalities: the most effective livestreams are run by well-
+
+known influencers (known as key opinion leaders or KOLs) who have developed substantial
+
+consumer trust. Viya — a leading Chinese KOL with over 18 million followers, who famously
+
+helped Kim Kardashian sell 15,000 bottles of perfume in a matter of minutes last year —
+
+reportedly only features products that have been vetted by her 200-person team.
+
+e Seamless transaction experience: livestream e-commerce should also be seamless. In
+
+China, most platforms are integrated with payments providers, allowing shoppers to
+
+complete an order without leaving the app, and incorporate interactive features for users to
+
+ask questions and participate in special promotions.
+
+iva |e
+
+70,157
+
+DAR NaS SHFHRB
+
+HRTVRS: BBE T IU!
+
+AAAAAAbigale: IE
+
+|
+
+PERES: EmBw? E97
+
+B® youngmexe): Ave wiRey
+
+ao &
+
+Leading Taobao livestream hosts Viya, Austin Li and Zhang Dayi (Source: Forbes)
+
+As a result of this well-honed format, live commerce offers retailers a powerful method of selling in a
+
+highly competitive market. Taobao reports that its livestream platform has a 32% conversion rate,
+
+and even on other platforms conversion rates reach 18% for beauty products and 21% for female
+
+fashion. “I think this market has just begun,” says Zhang Guowei, head of JD.com’s livestreaming
+
+platform JD Live. “E-commerce livestreaming will become a daily [aspect] of a merchant's brand, a
+
+new kind of brand marketing scenario.”
+
+Lesson 2: TV home shopping
+
+While livestream e-commerce feels innovative, the premise and format are nothing new. In fact,
+
+they've been perfected by TV home shopping networks for half a century.
+
+Like Chinese live commerce, TV home shopping content produces high conversion rates (QVC, the
+
+largest network in the US, has reportedly achieved conversion rates of 16%). Home shopping
+
+customers are also incredibly sticky — in 2019, 93% of QVC’'s sales came from repeat or reactivated
+
+customers, who typically make between 20-25 purchases per year. As a result, despite a slow decline
+
+as consumers move away from TV viewing, home shopping networks continue to generate a
+
+remarkable volume of sales activity. In the US, the owner of the two biggest home shopping
+
+networks, QVC and HSN, is one of the country’s largest e-commerce retailers and reported US$11
+
+billion in revenue and US$1.3 billion in operating income in 2019.
+
+Home shopping achieves these results by applying an almost identical formula to Chinese live
+
+commerce. While home shopping is a low-growth sales channel suited to a limited set of brands, its
+
+sales methodology delivers powerful results and deserves attention:
+
+e Programming features lifestyle content, which uses storytelling techniques to educate the
+
+viewer.
+
+e There is constant variety and exclusivity in product range. QVC and HSN air up to 60 new
+
+products per day, many of which are exclusive to the network.
+
+e Shows generate intense urgency to purchase by providing live updates on stock levels and
+
+showing timers counting down to deal cut-offs.
+
+e Like Chinese KOLs, home shopping hosts are likeable and authentic personalities who
+
+succeed at winning the viewer's trust. Unscripted segments and the use of personal
+
+anecdotes and recommendations make home shopping feel like a social experience.
+
+Home shopping networks have managed to remain relevant by adapting their formats to digital
+
+channels, with 60% of QVC’s sales now occurring online. Meanwhile, big tech is also investing in
+
+home shopping formats. In 2019, Amazon launched a home shopping channel, Amazon Live, which
+
+allows Amazon stockists to create livestreamed content and engage with customers via a live chat
+
+function. Meanwhile, in a significant move towards the social commerce model pioneered by
+
+Chinese networks like WeChat, Facebook recently announced the launch of Facebook Shops, which

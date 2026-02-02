@@ -1,0 +1,158 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Strategy, Outsourcing, Vertical Integration
+SUMMARY: The text describes a company, TCC, that progressively outsources various business functions to another company, Components Corp., leading to increased profitability and stock price for both companies.
+KEYWORDS: outsourcing, vertical integration, value chain, profitability, business strategy
+---
+
+A short time later Components Corp. approaches TCC’s management again. “You know,
+
+the motherboard really is the guts of the computer. Let us assemble the whole computer for you.
+
+Assembling those products really isn’t your competitive advantage, anyway, and we can easily
+
+beat your internal costs.”
+
+“Gosh, that would be a great idea,” TCC’s management responds. “Assembly isn’t our
+
+core competence anyway, and if you did our product assembly, we could get all those
+
+manufacturing assets off our balance sheet.” Again, as Components Corp. takes on the additional
+
+value-added activity, its revenues increase smartly and its profitability improves because it is
+
+utilizing its manufacturing assets better. Its stock price improves accordingly. And as TCC sheds
+
+its manufacturing assets, its revenue line is unaffected. But its bottom line and its return on assets
+
+improve—and its stock price improves accordingly.
+
+A short time later Components Corp. approaches TCC’s management again. ““You know,
+
+as long as we’re assembling your computers, why do you need to deal with all the hassles of
+
+managing the inbound logistics of components and the outbound logistics of customer
+
+shipments? Let us deal with your suppliers and deliver the finished products to your customers.
+
+Supply chain management really isn’t your core competence, anyway, and we can easily beat
+
+your internal costs.”
+
+“Gosh, that would be a great idea,” TCC’s management responds. “This would help us
+
+get those current assets off our balance sheet.” As Components Corp. takes on the additional
+
+value-added activity, its revenues increase smartly and its profitability improves because it is
+
+pulling higher value-added activities into its business model. Its stock price improves
+
+accordingly. And as TCC sheds its current assets, its revenue line is unaffected. But its
+
+profitability improves—and its stock price gets another bounce.
+
+A short time later Components Corp. approaches TCC’s management again. “You know,
+
+as long as we’re dealing with your suppliers, how about you just let us design those computers
+
+for you? The design of modular products is little more than vendor selection anyway, and since
+
+we have closer relationships with vendors than you do, we could get better pricing and delivery
+
+if we can work with them from the beginning of the design cycle.”
+
+“Gosh, that would be a great idea,” TCC’s management responds. “This would help us
+
+cut fixed and variable costs. Besides, our strength really is in our brand and our customer
+
+relationships, not in product design.” As Components Corp. takes on the additional value-added
+
+activity, its revenues increase further and its profitability improves because it is pulling higher
+
+value-added activities into its business model. Its stock price improves accordingly. And as TCC
+
+5-8
+
+sheds cost, its revenue line is unaffected. But its profitability improves—and its stock price gets
+
+another nice little pop—until the analysts realize that the game is over.
+
+Ironically, in this Greek tragedy Components Corp. ends up with a value chain that is
+
+actually more highly integrated than TCC’s was when this spiral began, but often with the pieces
+
+reconfigured to allow Components Corp. to deliver against the new basis of competition, which
+
+is speed to market and the ability to responsively configure what is delivered to customers in
+
+ever-smaller segments of the market. Each time TCC off-loaded assets and processes to
+
+Components Corp., it justified its decision in terms of its own “core competence.” It did not
+
+occur to TCC’s management that the activities in question weren’t Components Corporation’s
+
+core competencies, either. Whether or not something is a core competence is not the
+
+determining factor of who can skate to where the money will be.
+
+This story illustrates another instance of asymmetric motivations—the component
+
+supplier is motivated to integrate forward into the very pieces of value-added activity that the
+
+modular assembler is motivated to get out of. It is not a story of incompetence. It is a story of
+
+perfectly rational, profit-maximizing decisions—and because of this, the ROA-maximizing death
+
+spiral traps many companies that find themselves assembling modular products in a too-good
+
+world. At the same time, it offers another avenue for creating new-growth businesses, in addition
+
+to the disruptive opportunities described in chapter 1. The assembler rids itself of assets, but it
+
+retains its revenues and often temporarily improves its bottom-line profit margins when it
+
+decides to outsource its back-end operations to contract suppliers. It feels good. When the
+
+supplier takes on the same pieces of business that the assembler was motivated to get out of, it
+
+also feels good, because it increases the back-end supplier’s revenues, profits, and stock price.
+
+For many suppliers, eating their way up the value chain creates opportunities to design
+
+subsystems with increasingly optimized internal architectures that become key performance
+
+drivers of the modular products that its customers assemble.
+
+This is how Intel became a vendor of chipsets and motherboards, which constitute a
+
+much more critical proportion of a computer’s added value and performance than did the bare
+
+microprocessor. Nypro, Inc., a custom injection molder of precision plastic components whose
+
+history we will examine later in this book, has followed a similar growth strategy and has
+
+become a major manufacturer of ink-jet printer cartridges, computers, handheld wireless devices,
+
+and medical products. Nypro’s ability to precision-mold complex structures is interdependent
+
+with its abilities to simplify assembly.
+
+Bloomberg L.P. has done the same thing, eating its way up Wall Street’s back end. It
+
+started by providing simple data on securities prices and subsequently integrated forward,
+
+automating much of the analytics. Bloomberg has disruptively enabled an army of people to
+
+access insights that formerly only highly experienced securities analysts could derive.
+
+Bloomberg has continued to integrate forward from the back end, so that portfolio managers can
+
+now execute most trades from their Bloomberg terminals over a Bloomberg-owned electronic
+
+communications network (ECN) without needing a broker or a stock exchange. Issuers of certain
+
+government securities can now even auction their securities to institutional investors within
+
+Bloomberg’s proprietary system. Back-end suppliers such as First Data and State Street enjoy a
+
+similar position vis-a-vis commercial banks. Venerable Wall Street institutions are being

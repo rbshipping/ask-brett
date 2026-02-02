@@ -1,0 +1,249 @@
+SOURCE: Melanie presentation_BBRC.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Omni-Channel Retail Strategy
+SUMMARY: Omni-channel is growing faster than pure-play online, and omni-channel customers are more loyal and spend more than single-channel customers.
+KEYWORDS: omni-channel, click and collect, retail trends, customer experience, e-commerce
+---
+
+[Document: Melanie presentation_BBRC.pptx]
+[Presentation Topic: Omni-Channel Retail Trends]
+
+[Slide 1]
+
+Brick is the new Black
+
+September 18, 2015
+
+Melanie Wilson
+
+[Slide 2]
+
+2
+
+Omni-channel is growing faster than pure play online
+
+International and domestic retailers are boosting their online channels to combat pure plays and capitalize on their physical footprints
+
+Australia
+
+International
+
+Customers no longer separate the experience of shopping on-line vs in-stores
+
+[Slide 3]
+
+3
+
+Omni-Channel customers are our best customers
+
+Omni-Channel customers are more loyal and spend on average 2x to 4x the single-channel customer
+
+Customers are utilising brand’s digital platforms to influence sales with on average 70% of customers researching online before they transact
+
+Consumers are quickly merging the online and in-store shopping experience
+
+Source: Woolworths Investor Presentation May 2015 and Forrester; Accenture; BIGinsight June 2012
+
+[Slide 4]
+
+4
+
+Key Trends impacting Bricks and Mortar retailers today
+
+Click and Collect
+
+Social
+
+Digital
+
+Personalisation
+
+Content
+
+[Slide 5]
+
+5
+
+Flexibility and choice into today’s retail environment is now the norm
+
+​
+
+Customers want more choices, more control over when their purchases will be delivered and a convenient returns process
+
+Source: PWC Report: Connected Retail: Reshaping tomorrow’s operating model and metrics April 2015
+
+[Slide 6]
+
+6
+
+Click & Collect gives customers greater convenience in how they interact with brand
+
+[Slide 7]
+
+7
+
+Click & Collect has benefits
+
+for both customers and retailers
+
+[Slide 8]
+
+8
+
+Internationally, the most successful retailers are placing C&C at the heart of their omni strategies
+
+In the UK, customers use Click & Collect for about half of all online general merchandise orders – a figure that rises up to 75% at Xmas
+
+“We are seeing about 34% of those visits translating into additional sales in shop and that number is growing exponentially at the moment. It’s typically or increasingly for purchases that the customer didn’t think they would make. John Lewis
+
+More than ⅓ of customers stay to shop in-store
+
+Avoiding delivery charges and convenience are driving the uplift in Click and Collect
+
+[Slide 9]
+
+9
+
+Convenience and/or give customers great flexibility - ability to pick up at location close to them ie rural areas, regions where there are no branded stores?
+
+Reduced delivery costs?
+
+Understanding what is important to the customer will determine what is the right C&C model
+
+Lockers
+
+3rd Party Locations (Supers, Petrol stations)
+
+Own Stores
+
+Do your customers want certainty that the item is available in their size/colour?
+
+Reduced delivery costs?
+
+Faster delivery than home?
+
+Want to be able to “try on” in stores?
+
+[Slide 10]
+
+10
+
+Fastest (orders could be ready within 12 hours)
+
+Improve stock turns
+
+Returns put back into store  inventory to be “resold”
+
+Requires accurate REAL TIME  inventory at store level (don’t want to risk disappointing customer if system says there is a item but in reality there is not)
+
+Fulfillment solution is best defined by C&C method and may include both stores and warehouse
+
+Lockers
+
+3rd Party Locations (Supers, Petrol stations)
+
+Own Stores
+
+Fulfill from stores
+
+Customers will have to wait longer (could be upto 3-5 days)
+
+Additional cost to ship (if not sent with daily stock
+
+Returns and cancellations take longer to get back into network
+
+Benefit - ranges that are slow moving or would not extend across all stores
+
+Fulfill from Warehouse &/or Hub Stores
+
+[Slide 11]
+
+11
+
+New process to be added to in -store therefore requires training
+
+Test experience/Blind shop
+
+Missing parcels, long wait times, not being able to  return item in stores all lead to a poor customer experience
+
+Measure stores NP score to measure customers experience
+
+Not every stores makes a good C&C store
+
+Factors to consider when determining C&C locations
+
+Is the store too small to offer a good C&C experience?
+
+Is there adequate space in stock room?
+
+Is there space for signage and for customers?
+
+At busy times will customers have to wait long??
+
+Is there demand for the service  in certain stores/areas?
+
+The experience in store
+
+Where possible, give stores the financial recognition for the sale
+
+Risk providing a poor service experience for click and collect customers
+
+If store staff do not receive some recognition for online orders they may not deal with them in the same priority as customers in their stores
+
+Give stores the financial recognition for the sale
+
+[Slide 12]
+
+In their minds you are picking from store - they are expecting to be able to collect it immediately!
+
+They are often out and about shopping
+
+Uncollected orders are expensive
+
+involves contacting the customer, canceling the order, refund and return item
+
+Text is most effective, and use pin or order number.
+
+Follow up text with 3, 6 days and then 10 days
+
+Make sure you have a cancel order date - so don’t miss sale on the item ie give customer ~ 2 weeks otherwise return to racks. Where possible return item to store inventory
+
+Good technologies in the market to assist with picking and notifying orders such as Parcel Point
+
+Make the process for collection is frictionless
+
+if they don’t have their text or email, store associates can find their order easily
+
+Others can pick up on their behalf ie mum in shopping centre
+
+12
+
+Almost half of all order are  collected within 24 hours
+
+64% within 2 days
+
+77% within 3 days
+
+Notifying customers is key!
+
+[Slide 13]
+
+Most retailers have a minimum spend level ~ $40
+
+Ensures the margin covers the “free” service
+
+Customers are likely to add items to basket to reach this threshold to prevent shipping fee
+
+C&C baskets tend to be 25% higher than home delivery and in both cases the average basket is above the minimum
+
+13
+
+Minimum spend - to or not too?
+
+[Slide 14]
+
+Same Day demand has decreased with only 23% of customer willing to pay for this service.
+
+Delivery cost remains one  of the biggest reasons for cart abandonment!
+
+Free shipping is the biggest driver to online sales with Customers willing to wait a few days if they can receive it free. Most retailers offer free shipping over a minimum threshold

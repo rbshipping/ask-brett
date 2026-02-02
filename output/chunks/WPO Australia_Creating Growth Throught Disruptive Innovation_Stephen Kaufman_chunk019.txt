@@ -1,0 +1,188 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Innovation and Competitive Strategy
+SUMMARY: The text discusses how customer willingness to pay higher prices for improvements in product functionality, reliability, or convenience indicates the pace of performance improvement has not yet exceeded customer needs.
+KEYWORDS: product strategy, disruptive innovation, customer value, competitive dynamics
+---
+
+question to ask is whether customers will be willing to pay higher prices for further
+
+improvements in functionality, reliability, or convenience. As long as customers reward
+
+improvements with commensurately higher prices, we take it as evidence that the pace of
+
+performance improvement has not yet overshot what customers can use. When the
+
+marginal utility that customers receive from additional improvements on any of these
+
+dimensions approaches zero, then cost is truly the basis of competition.
+
+We emphasize the term product strategy in this sentence because there certainly seems to
+
+be scope for two other low-end disruptive plays in this market. One would be a private-
+
+label strategy to disrupt the Hewlett-Packard brand. The other would be a low-cost
+
+distribution strategy through an online retailer such as Dell Computer.
+
+Matsushita, in fact, attempted entry with a sustaining strategy of exactly this sort in the
+
+1990s. Despite its strong Panasonic brand and its world-class capabilities in assembling
+
+electromechanical products, the company has been bloodied and has captured minima]
+
+market share.
+
+1-29
+
+e300 es HARVARD BUSINESS | SCHOOL
+
+9-610-019
+
+REV: AUGUST 31, 2009
+
+MODULE NOTE
+
+What Are Business Models, and How Are
+
+They Built?
+
+Business model innovations have reshaped entire industries and redistributed billions of dollars
+
+of value.! Business models that did not exist prior to 1960 now account for over 90% of the total
+
+market capitalization of the retailing industry; and business models that did not exist prior to 1980
+
+now account for literally 100% of the computer industry. Over the most recent 10-year period, 13 of
+
+the 26 entrants into the Fortune 500 owe their success to business model innovations that either
+
+transformed existing industries or created new ones.
+
+Despite the growth that they can create, established corporations rarely create innovative business
+
+models: Most are forged by start-ups. Why do they struggle to capture the new growth that business
+
+model innovation can bring? Part of the problem is that there is little codified understanding of the
+
+elements of business models or the process of building them. Most companies therefore don’t fully
+
+understand the sources of the strengths and limitations of their existing business models; the premises
+
+behind their development; and the interdependencies amongst the elements of their models. This
+
+leaves them unable to know when they can leverage their core business, and when success requires a
+
+new business model. Indeed, the consequent clumsiness in creating new business models has led to
+
+the widespread belief that companies can only successful innovate “close to the core.”
+
+What is a Business Model?
+
+As suggested in Figure A, a business model consists of four interlocking, interdependent elements
+
+that, taken together, create and deliver value. It starts with a value proposition—a product or service
+
+that helps customers do more effectively, conveniently and affordably a job that they've been trying to
+
+do.? By job we mean a fundamental problem in the customer's situation that needs a solution. Every job
+
+has functional, emotional, and social dimensions of the result that is needed—which define the
+
+experiences in purchase and use that need to be provided to get the job done perfectly. We’ve chosen
+
+the words in this paragraph carefully. If a value proposition helps customers do something that they’re
+
+not trying to do—even if they sould be trying to do it—there is not a viable basis for a business model.
+
+1 This note draws extensively upon Mark W. Johnson, Clayton M. Christensen, and Henning Kagermann, “Reinventing Your
+
+Business Model,” Harvard Business Review, (December 2008).
+
+? We have written elsewhere about the importance of understanding the job that customers are trying to do. See, for example,
+
+Christensen el.al., “Finding the Right Job for your Product,” MIT Sloan Management Review (Spring 2007), and Christensen et.al.,
+
+“Marketing Malpractice,” Harvard Business Review, (December 2005).
+
+This module note was prepared by Professor Clayton M. Christensen and Mark W. Johnson, Chairman, Innosight, to aid students in the Elective
+
+Curriculum course, “Building and Sustaining a Successful Enterprise.”
+
+Copyright © 2009 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685,
+
+write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu/educators. This publication may not be digitized,
+
+photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+610-019 Module Note—What Are Business Models, and How Are They Built?
+
+Resources
+
+The value proposition defines the resources the business must put in place in order to deliver the
+
+value proposition. In general, resources are things such as people, technology, products, suppliers,
+
+distribution channels, equipment, facilities, brands and cash. Resources typically can be hired and
+
+fired, bought and sold, built or destroyed.
+
+Processes
+
+As a company uses its resources to deliver the value proposition, processes coalesce. Some
+
+processes are visible, codified and consciously monitored and managed. Other processes are habitual
+
+ways of working together to get things done that have evolved over time in response to recurrent
+
+tasks. When processes have been used successfully and repeatedly, they become followed by
+
+assumption, rather than explicit decision—~“That’s just the way we do things around here”—and
+
+become part of the culture of the organization.
+
+Figure A What Is a Business Model?
+
+THE VALUE PROPOSITION: RESOURCES:
+
+A product that helps
+
+customers do more effectively,
+
+conveniently & affordably a
+
+job they’ve been trying to do
+
+People, technology, products,
+
+——ue | facilities, equipment, brands,
+
+and cash that are required to
+
+deliver this value proposition
+
+to the targeted customers
+
+es
+
+PROCESSES:
+
+PROFIT FORMULA: Ways of working together to
+
+Assets & fixed cost structure, | «...—. | address recurrent tasks in a
+
+and the margins & velocity consistent way: training,
+
+required to cover them development, manufacturing,
+
+budgeting, planning, etc.
+
+Source: Casewriters.
+
+Profit formula The profit formula defines the gross and net margins the organization must
+
+achieve, given the structure and magnitude of the fixed and variable costs inherent in its resources. It
+
+specifies how big the organization must become in order to break even, and the pattern of profit
+
+improvement, if any, that comes from increasing scale. And the profit formula defines how fast the

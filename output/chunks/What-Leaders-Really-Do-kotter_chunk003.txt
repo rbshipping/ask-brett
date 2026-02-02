@@ -1,0 +1,122 @@
+SOURCE: What-Leaders-Really-Do-kotter.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Manufacturing Operations Improvement
+SUMMARY: The text describes a successful effort to transform the engineering and manufacturing organization at Kodak, leading to significant quality, cost, and productivity improvements.
+KEYWORDS: manufacturing operations, quality improvement, organizational transformation
+---
+
+[Document: What-Leaders-Really-Do-kotter.txt]
+
+the copier business. An especially crucial area used in design and manufacturing—he and made the message more credible and helped
+
+was the engineering and manufacturing orga- his managers met with the top management get more people on board. Between 1984 and
+
+nization, headed by Bob Crandall. of that group over lunch every Thursday. 1988, quality on one of the main product lines
+
+Trowbridge and Crandall’s vision for engi- Later, he created a format called “business increased nearly 100-fold. Defects per unit
+
+neering and manufacturing was simple: to meetings,” where his managers meet with 12 went from 30 to 0.3. Over a three-year period,
+
+become a world-class manufacturing opera- to 20 people on a specific topic, such as in- costs on another product line went down
+
+tion and to create a less bureaucratic and ventory or master scheduling. The goal: to nearly 24%. Deliveries on schedule increased
+
+more decentralized organization. Still, this get all of his 1,500 employees in at least one of from 82% in 1985 to 95% in 1987. Inventory
+
+message was difficult to convey because it these focused business meetings each year. levels dropped by over 50% between 1984
+
+was such a radical departure from previous Trowbridge and Crandall also enlisted writ- and 1988, even though the volume of prod-
+
+communications, not only in the copy prod- ten communication in their cause. A four- to ucts was increasing. And productivity, mea-
+
+ucts group but throughout most of Kodak. So eight-page “Copy Products Journal” was sent sured in units per manufacturing employee,
+
+Crandall set up dozens of vehicles to empha- to employees once a month. A program more than doubled between 1985 and 1988.
+
+harvard business review • december 2001 page 5
+
+--- Page 4 ---
+
+What Leaders Really Do•••BEST OF HBR
+
+are not. Effective business visions regularly growth. But in an industry known more for
+
+have an almost mundane quality, usually con- bureaucracy than vision, no company had
+
+sisting of ideas that are already well known. ever put these simple ideas together and dedi-
+
+The particular combination or patterning of cated itself to implementing them. SAS did,
+
+the ideas may be new, but sometimes even and it worked.
+
+that is not the case. What’s crucial about a vision is not its
+
+For example, when CEO Jan Carlzon articu- originality but how well it serves the inter-
+
+lated his vision to make Scandinavian Airlines ests of important constituencies—customers,
+
+System (SAS) the best airline in the world for stockholders, employees—and how easily
+
+the frequent business traveler, he was not say- it can be translated into a realistic competi-
+
+ing anything that everyone in the airline in- tive strategy. Bad visions tend to ignore
+
+dustry didn’t already know. Business travelers the legitimate needs and rights of important
+
+fly more consistently than other market constituencies—favoring, say, employees over
+
+segments and are generally willing to pay customers or stockholders. Or they are stra-
+
+higher fares. Thus, focusing on business cus- tegically unsound. When a company that has
+
+tomers offers an airline the possibility of high never been better than a weak competitor
+
+margins, steady business, and considerable in an industry suddenly starts talking about
+
+Setting a Direction: Lou Gerstner at American Express
+
+When Lou Gerstner became president of the sively developing a broad range of new prod- tomer service, a central tenet in the organiza-
+
+Travel Related Services (TRS) arm at American ucts and services, and investing to increase tion’s vision.
+
+Express in 1979, the unit was facing one of its productivity and to lower costs, TRS could These incentives led quickly to new markets,
+
+biggest challenges in AmEx’s 130-year history. provide the best service possible to custom- products, and services. TRS expanded its
+
+Hundreds of banks offering or planning to ers who had enough discretionary income to overseas presence dramatically. By 1988,
+
+introduce credit cards through Visa and Mas- buy many more services from TRS than they AmEx cards were issued in 29 currencies (as
+
+terCard that would compete with the Ameri- had in the past. opposed to only 11 a decade earlier). The unit
+
+can Express card. And more than two dozen Within a week of his appointment, Gerst- also focused aggressively on two market seg-
+
+financial service firms were coming into the ner brought together the people running the ments that had historically received little at-
+
+traveler’s checks business. In a mature market- card organization and questioned all the tention: college students and women. In 1981,
+
+place, this increase in competition usually re- principles by which they conducted their TRS combined its card and travel-service ca-
+
+duces margins and prohibits growth. business. In particular, he challenged two pabilities to offer corporate clients a unified
+
+But that was not how Gerstner saw the widely shared beliefs—that the division system to monitor and control travel expenses.
+
+business. Before joining American Express, should have only one product, the green And by 1988, AmEx had grown to become the
+
+he had spent five years as a consultant to card, and that this product was limited in fifth largest direct-mail merchant in the
+
+TRS, analyzing the money-losing travel divi- potential for growth and innovation. United States.
+
+sion and the increasingly competitive card Gerstner also moved quickly to develop a Other new products and services included
+
+operation. Gerstner and his team asked fun- more entrepreneurial culture, to hire and 90-day insurance on all purchases made with
+
+damental questions about the economics, train people who would thrive in it, and to the AmEx card, a Platinum American Express
+
+market, and competition and developed a clearly communicate to them the overall di- card, and a revolving credit card known as
+
+deep understanding of the business. In the rection. He and other top managers rewarded Optima. In 1988, the company also switched
+
+process, he began to craft a vision of TRS that intelligent risk taking. To make entrepreneur- to image-processing technology for billing,
+
+looked nothing like a 130-year-old company ship easier, they discouraged unnecessary producing a more convenient monthly state-

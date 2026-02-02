@@ -1,0 +1,154 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Trends
+SUMMARY: Shoppers demand convenience, efficiency, and speed, seeking seamless, frictionless shopping experiences and reduced store visits.
+KEYWORDS: convenience, efficiency, shopper behavior, retail trends, immediacy
+---
+
+conversation. They have a low tolerance for inefficiency and are looking to more sustainable modes of
+
+consumption. You will see Millennials reflected broadly in the shopper trends below.
+
+The main changes in shopper expectations are summarized below, in no particular order:
+
+4.3.1 Convenience, efficiency and speed
+
+Convenience is king. Shoppers want what they want, when they want it, how they want it. And they
+
+want to get it as quickly and as easily as possible.
+
+Amongst some baby boomers, a stress-free shopping experience can be the number one priority they
+
+have when deciding where to shop. But for most shoppers, the number one need is speed. These
+
+shoppers buy things because they want them right now. They are driven by immediacy. Retailers that
+
+can deliver products and services same day, same hour, or instantaneously will be the ones that win.
+
+Customers are looking for fluid, seamless, frictionless shopping experiences. The last thing a consumer
+
+wants is that their shopping journey is interrupted, whether that be by a glitchy website, an inattentive
+
+sales assistant, or poorly designed in-store technology.
+
+People want to get in and out of stores more quickly. There is an opportunity to reduce friction at point
+
+of sale, and also to deploy technology that helps people quickly find and select the products they need.
+
+Shoppers enjoy choice, though not so much choice that selection becomes confusing. Shoppers favor
+
+retailers that help them understand their options and that simplify the choosing process.
+
+Shoppers are also looking to reduce the overall number of stores that they have to visit in order to fulfil
+
+their needs.
+
+26
+
+For example, when it comes to grocery and other regular needs, shoppers value the ability to do all their
+
+shopping in one place if they can get it. The average number of stores shoppers visit is dropping. In the
+
+US, according to Kantar Retail, the average number of stores people visited in 2007 was 12.4. That’s
+
+dropped to around 9 stores in 2014. And most people have a core portfolio of just 4-5 stores that they
+
+go to most often.
+
+In the US, people are making 2.3 trips/week to the grocery store. Many convenience purchases are for
+
+commodity consumables which could potentially be shifted to an automatic fulfillment and delivery
+
+model.
+
+Despite retail shifting to a 24/7 model in some categories and locations, impulse purchasing is declining,
+
+in part due to the fact that people now know they can buy at any time and thus don’t need to hold
+
+inventories at home.
+
+Shopper efficiency has not traditionally been a focus for retailers because they aren’t paying for the
+
+customer’s time. Yet some stores encourage purchases at 5X the rate of others. There may be an
+
+opportunity for some retailers to differentiate themselves based on shopper efficiency (as Costco has
+
+done).
+
+Challenge: Traditional retailers should prepare now for the day when their immediacy advantage is
+
+removed. If the only advantage in buying from your store versus online is immediate gratification, your
+
+value proposition is under direct attack from looming “next hour” delivery services. These retailers will
+
+either need to invest in other differentiators to boost their brand proposition, or ensure they have
+
+similar delivery speeds available to customers.
+
+Challenge: Retailers will need to seriously consider embracing auto-replenishment services. If they
+
+don’t, they run the risk of Amazon doing it for them.
+
+Challenge: Retailers should invest in technology that reduces friction in the product selection and
+
+purchase process. Ideally this friction should be reduced down to zero. If your customers still have to
+
+wait for anything, then you’re not done innovating yet. Retailers should consider developing RFID
+
+and/or visual recognition technology to reduce checkout friction to zero, while minimizing theft. The
+
+ideal efficient shopping experience is embodied by the concept of a local store as a “community pantry”
+
+that enables people to walk in, grab what they need, walk out, and be billed automatically. This applies
+
+to mission shopping and perhaps some types of experience shopping. Experience shoppers may still
+
+prefer an interaction with a human sales assistant at checkout as part of their broader shopping
+
+experience.
+
+4.3.2 Experience and New Value
+
+Shoppers want certain types of shopping to be an experience, and not just be a speedy acquisition. They
+
+want to experience new and increased value when making a trip to a physical store. They want to be
+
+delighted by having their expectations exceeded. Many shoppers seek the pure joy of shopping as an
+
+activity unto itself, regardless of their need to buy. They see shopping as a day out, an escape, or an
+
+adventure. The thrill of the chase. A time to be social and present in the physical world.
+
+Great experience shopping is enjoyable, often has a strong social context, and is sometimes built around
+
+an occasion that has important social or personal meaning. For example, a couple might visit a number
+
+27
+
+of stores to look for ideas and inspiration on a new kitchen they want to build in their home; a kitchen
+
+they imagine filled with future children. Or a woman might be on the hunt for a dress for a special
+
+occasion.
+
+In experience shopping, touching, feeling, or trying out a product is often essential. Shoppers are drawn
+
+to retailers that wrap experiential elements around shopping to amplify the sense of occasion, enable
+
+the shoppers to make memories, or that enhance the social aspect of shopping. Champagne in the
+
+changing room or an interactive virtual shopping assistant, for example. These all contribute to the
+
+increased sense of meaning people can then attribute to the shopping experience itself, and by
+
+extension to the retailer’s brand.
+
+Challenge: Retailers selling emotional products should explore, develop, and deploy technology that
+
+makes shopping more social, helps shoppers choose, helps them make memories, and that deepens
+
+emotional relationships with shoppers by increasing brand and product interaction. Interactive
+
+technologies that embrace natural interfaces and that span several of the five senses can create
+
+memorable experiences for shoppers that create deeper relationships with brands. For example,

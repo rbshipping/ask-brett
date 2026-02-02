@@ -1,0 +1,249 @@
+SOURCE: Strategic Retail Integrated Framework BBRC March 2014.ppt
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Category Analysis
+SUMMARY: This text analyzes retail sales, gross margin, and unit volume data for various scotch whiskey brands to determine their category roles and performance.
+KEYWORDS: Retail Sales, Gross Margin, Unit Volume, Category Scorecard, Category Roles
+---
+
+[Document: Strategic Retail Integrated Framework BBRC March 2014.ppt]
+[Presentation Topic: Integrated Strategic Retail Management]
+
+Retail sales $
+
+Gross margin $
+
+Unit volume
+
+Using a Category Scorecard
+
+[Slide 49]
+
+Category Roles
+
+Drive customer traffic through the store… look at unit volume
+
+Put money into the bank… look at gross margin dollars
+
+Other roles???
+
+Category Roles and Measurements
+
+[Slide 50]
+
+DESCRIPTION		VENDOR	Avg Retail Price	SALES $	GM $	GM %	UNIT SLS	%TOT GM$	%CUM GM$
+
+DEWARS WHITE LABEL 175   00029742	UDV/PLAINFIELD	$32.09	$460,171	$107,420	23.34%	15,583	7.42%	7.42%
+
+CHIVAS REGAL 750   00005166	SEAGRAM AMERICA $23.28	$312,892	$97,541	31.17%	14,566	6.74%	14.15%
+
+CHIVAS REGAL 175   00005186	SEAGRAM AMERIC	$51.12	$207,969	$60,802	29.24%	4,388	4.20%	18.35%
+
+SCORESBY SCOTCH WHISKEY 80*175  	UDVNA /PRI PAK	$19.30	$197,217	$58,221	29.52%	10,936	4.02%	22.37%
+
+JOHNNIE WALKER BLACK 1 LTR 86*  	SCHIEFFELIN & SOM	$30.72	$180,529	$50,895	28.19%	6,285	3.51%	25.88%
+
+JOHNNIE WALKER BLACK 86.8 750  	SCHIEFFELIN & SOM	$24.71	$205,212	$50,420	24.57%	9,465	3.48%	29.37%
+
+CHIVAS REGAL 1 LTR   00005178	SEAGRAM AMERIC	$30.72	$137,023	$48,200	35.18%	4,621	3.33%	32.69%
+
+GLENLIVET 750   00005265	SEAGRAM AMERIC	$27.28	$133,157	$44,473	33.40%	5,112	3.07%	35.77%
+
+JOHNNIE WALKER BLK 86.8 1.75   	SCHIEFFELIN & SOM	$53.10	$173,091	$40,908	23.63%	3,507	2.82%	38.59%
+
+DEWARS WHITE LABEL 86.8* 750   	BACARDI MARTINI	$18.09	$133,888	$40,714	30.41%	8,618	2.81%	41.40%
+
+J&B RARE SCOTCH 80* 1.75/6   	SCHIEFFELIN & SOM	$32.37	$187,634	$40,601	21.64%	6,181	2.80%	44.20%
+
+USHERS SCOTCH 80* 175ML   00002641	ASSOCIATED DISTR	$21.36	$95,619	$38,967	40.75%	4,784	2.69%	46.90%
+
+JOHNNIE WALKER RED 86.8 750  	SCHIEFFELIN & SOM	$17.54	$115,291	$36,539	31.69%	6,967	2.52%	49.42%
+
+CUTTY SARK 80* 175   00001569	SKYY SPIRITS INC	$30.12	$135,898	$30,530	22.47%	4,951	2.11%	51.53%
+
+PASSPORT SCOTCH 175   00005349	SEAGRAM AMERIC	$19.74	$87,258	$29,465	33.77%	4,503	2.03%	53.56%
+
+CLAN MACGREGOR 175ML   00001947	WILLIAM GRANT 	$16.26	$105,792	$29,036	27.45%	6,844	2.00%	55.57%
+
+DEWARS WHITE LABEL 1LTR   00029735	BACARDI MARTINI	$22.51	$79,601	$28,850	36.24%	3,559	1.99%	57.56%
+
+JOHNNIE WALKER RED 1LTR   00029873	SCHIEFFELIN & SOM	$21.32	$91,371	$28,738	31.45%	4,543	1.98%	59.54%
+
+GLENFIDDICH SINGLE MALT 750ML   	WILLIAM GRANT 	$26.68	$80,836	$24,823	30.71%	2,966	1.71%	61.26%
+
+MILITARY SPECIAL SCOTCH 175   	ATLANTIC WINE 	$18.25	$78,258	$24,063	30.75%	4,413	1.66%	62.92%
+
+INVERHOUSE SCOTCH 1.75ML  	FREDERICK P. WIN	$15.09	$76,470	$23,113	30.22%	5,313	1.60%	64.51%
+
+J&B RARE 1LTR/12   00029685	SCHIEFFELIN & SOM	$21.32	$67,678	$22,210	32.82%	3,293	1.53%	66.05%
+
+CLUNY SCOTCH 175   00003817	HEAVEN HILL DIST	$15.32	$78,040	$21,321	27.32%	5,418	1.47%	67.52%
+
+FAMOUS GROUSE 86* 175   00001532	HEAVEN HILL DIST	$32.81	$64,784	$20,911	32.28%	2,171	1.44%	68.96%
+
+LAUDER'S SCOTCH 175   00030701	BARTON BRANDS	$16.00	$52,894	$19,183	36.27%	3,291	1.32%	70.29%
+
+OLD SMUGGLER 80* 175   00001653	HIRAM WALKER 	$18.09	$70,006	$18,132	25.90%	4,027	1.25%	71.54%
+
+BALLANTINES FINEST  175   00001479	HIRAM WALKER 	$25.92	$61,424	$18,040	29.37%	2,746	1.25%	72.79%
+
+MCCORMICK SCOTCH 175/6   00084028	MCCORMICK DIST	$13.89	$66,490	$17,405	26.18%	4,828	1.20%	73.99%
+
+HAIG & HAIG PINCH 15YR 86* 750   	SCHIEFFELIN & SOM	$23.91	$60,351	$16,098	26.67%	2,725	1.11%	75.10%
+
+FAMOUS GROUSE 750   00001538	HEAVEN HILL DIST	$16.37	$49,794	$16,079	32.29%	3,468	1.11%	76.21%
+
+J&B RARE 750/12   00029689	SCHIEFFELIN & SOM	$17.26	$55,072	$15,701	28.51%	3,433	1.08%	77.29%
+
+HOUSE OF STUART 80* 175   00030642	BARTON BRANDS	$14.00	$66,991	$14,520	21.67%	5,030	1.00%	78.30%
+
+SCORESBY SCOTCH WHISKEY 80*750  	UDVNA /PRI PAK	$11.35	$33,494	$14,373	42.91%	3,057	0.99%	79.29%
+
+VAT 69 SCOTCH WHISKEY 175/6   	UDVNA /PRI PAK	$19.79	$33,401	$11,721	35.09%	1,824	0.81%	80.10%
+
+LAGAVULIN 86* 750   00029886	SCHIEFFELIN & SOM	$38.56	$39,608	$11,323	28.59%	1,081	0.78%	80.88%
+
+MUIRHEAD SCOTCH 1.75/6   00204315	PREMIER BEVERAG $15.79	$35,341	$11,045	31.25%	2,208	0.76%	81.64%
+
+JOHNNIE WALKER BLUE 750/6   	SCHIEFFELIN & SOM	$155.32	$29,503	$10,137	34.36%	190	0.70%	82.34%
+
+ALL HANDS SCOTCH 175   00002060	LE VECKE DISTRIB	$15.93	$51,333	$9,984	19.45%	3,759	0.69%	83.03%
+
+Totals 		$5,016,597	$1,448,256	28.87%	250,697	100.00%	100.00%
+
+Ranked by Gross Margin Dollars
+
+(top 38/139 skus shown)
+
+[Slide 51]
+
+Scotch Whiskey Category Scorecard
+
+Before		Revised
+
+Items		139		64
+
+Sizes		8		  7
+
+Vendors	33		21
+
+Sales		$5,016,597		$5,200,000
+
+GM$		$1,448,256		$1,591,200
+
+GM%		28.9%		30.6%
+
+Units		250,697		272,873
+
+Inv’y at Cost	$985,550		~$875,000
+
+Stock Turn	3.62		4.1
+
+GMROI	$1.47		$1.79
+
+Objectives:
+
+1.  Maintain as much sales as possible
+
+2.  Try to improve productivity performance (GMROI)
+
+Decision Process:
+
+1.  Assumptions about consumer buying behavior for your type store?
+
+2.  Line selection process—which sorts did you analyze? Why?  What decisions did you make?
+
+3.  What other changes did you make?  Prices?  Inventory?
+
+[Slide 52]
+
+L/H
+
+H/L
+
+H/H
+
+L/L
+
+Units
+
+GM$
+
+Hi
+
+Lo
+
+x
+
+Hi
+
+Lo
+
+x
+
+Classifying SKU’s from Category Scorecards
+
+[Slide 53]
+
+Performance Grid
+
+The H/H quadrant:
+
+Superstars which drive both high traffic and high gross margin dollars
+
+Buyers’ job here is to try and explode the assortment
+
+The H/L quadrant:
+
+Produces high gross margin dollars, but low units
+
+All SKU’s in this quadrant are kept because generating high gross margin dollars is more important than producing high units
+
+Category Roles and Measurements
+
+[Slide 54]
+
+Performance Grid
+
+The L/H quadrant:
+
+Produces high units, but low gross margin dollars
+
+Buyer will keep only the best SKU’s here and de-list others
+
+A few SKU’s might become loss leaders to drive very high traffic
+
+The key job of the buyer here is to try and improve gross margin percentage (re-negotiating cost of goods sold or through selective price increases or through less markdowns and promotions)
+
+Category Roles and Measurements
+
+[Slide 55]
+
+Performance Grid
+
+The L/L quadrant:
+
+SKU’s produce both low units and low gross margin dollars
+
+Most of these SKU’s will be de-listed quarterly
+
+Some SKU’s may be “fixable” by improving margin or volume
+
+Eventually, it would be useful to move down from “gross” to “net” margin dollars by subtracting off all assignable costs related to each SKU, usually through a technique known as ABC (activity based costing). If we can get to net profit per SKU and then divide by average inventory investment, we have NMROI (net margin return on inventory)
+
+Category Roles and Measurements
+
+[Slide 56]
+
+Ten Ideas about Merchandise Buying/Planning (with a couple sidebar comments)
+
+Assortment planning / category management is an ongoing activity that requires good systems.
+
+A low % of items drive business (20/20/60 rule)
+
+3.  Category roles
+
+Traffic drivers
+
+GM$ (put money in bank)
+
+Relevance (offer)

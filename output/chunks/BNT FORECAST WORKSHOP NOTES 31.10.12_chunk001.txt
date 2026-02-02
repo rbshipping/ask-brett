@@ -1,0 +1,134 @@
+SOURCE: BNT FORECAST WORKSHOP NOTES 31.10.12.docx
+SUBFOLDER: Additional\HFT\2013
+TOPIC: Inventory Management and Forecasting
+SUMMARY: The document discusses strategies for managing open-to-buy, forecasting, and ordering processes to optimize inventory and sales performance.
+KEYWORDS: open-to-buy, forecasting, ordering, inventory management, data accuracy
+---
+
+[Document: BNT FORECAST WORKSHOP NOTES 31.10.12.docx]
+
+BNT FORECAST WORKSHOP NOTES
+
+31st October, 2012
+
+Open To Buy
+
+GM forecast secondary to sales, GM mustn’t be driver in OTB, Sales is the primary metric
+
+17 weeks cover, more prior to Christmas, less post Christmas, if 17 the right number then probably on ideal at Sep and Mar. We need to determine ideals by month for the year
+
+17 weeks – challenge – constantly – monthly and formally discuss at OTB meeting
+
+5% or 10% or ?% contingency – review historical to assess what is right %, BB feels may be closer to 5 than 10 but should validate with some data
+
+This % needs to be proportioned over the months taking into consideration January where the is no extra buys due to Sale
+
+Must clarify what is ongoing each month. Need analysis by month by product for ongoing – based on sales and must benchmark against prior year
+
+Ongoing doesn’t have an OTB – it has a demand requirement (sales rate and lead time) – demand driven
+
+BNT currently has 197 styles at 21 weeks cover – this is a markdown waiting to happen
+
+No OTB for ongoing – just an allowance allocated from OTB to satisfy demand
+
+No rule re weeks of cover in DC re ongoing, OK to have buffer in DC
+
+Always have a sceptical view that people make mistakes so perform checks regularly
+
+Swimwear goes well till early Dec
+
+Just marking down category will move the better sellers not the dogs
+
+20% as strategy is not an answer to poor inventory management
+
+Need to understand when a % off is applied what is the uplift in sales
+
+IOP – designed to stop people from NOT taking markdowns i.e. gm% is not a factor
+
+January should have WOC at 15 due to markdowns
+
+Brett senses ideal closing units is too high – to be tested and validated. Not one specific method to validate
+
+Forecasting & Ordering
+
+Don't get hung up on total picture – get it right per product, per store, per customer etc and that will drive the right outcome
+
+Order must be by sku not style
+
+At BNT all products are seasonal until proven to be worthy of ongoing status
+
+When reviewing orders, always look at the last week of sales to validate the average
+
+There is not a 1 size fits all methodology for forecasting and ordering
+
+Orders must be exact and not be rounded up ie) 473 units
+
+Data to be accurate (constant house-keeping to ensure data accurate otherwise leads to errors at higher levels).
+
+All ongoing lines which are not current to be removed from the reporting
+
+Product descriptions need to be accurate. The data is to be perfect.
+
+No fixed number of ongoing lines – it all depends – but continue to ‘weed the garden’
+
+If there are data errors in the clear and obvious then highly likely to have data errors in clearer date levels
+
+Block shapes – if a winner may end so need to continue to look for replacements
+
+The rule applies unless it doesn’t – when discussing orders
+
+We should challenge the DC weeks of cover – should it be 2?
+
+Any sku that exceeds a year is definitely a problem, in case of fringe sizes only 2 solutions – discontinue or only carry in selected stores
+
+DNR – Do Not Reorder
+
+Buffer stock in DC – needs to be different levels for different sizes – not standard
+
+WH cover is buffer designed for ‘screw up’ factor
+
+Lead times of 20 weeks – not acceptable on ongoing lines – must move from supplier if they can’t change – 20 weeks is a killer
+
+Supplier leadtimes to be tighter than 16 weeks – try for 12 weeks
+
+Address moq’s – move to smaller orders more frequent
+
+Reduced orders reduces risk of forecasting or trend changes
+
+Cull sizes within style – eliminate fringes
+
+Christmas lifts in ongoing but traditionally dips in Jan sale period. This needs to be factored into forecasting
+
+Allocations to store reflects low and high – challenge whether this should be a more gradual allocation ie 65 stores to 202 stores, should there be a 120?
+
+Maternity deserves to be at BNT BUT cannot carry ideal range and will need to be accepting that we will be out of stock or miss some sales
+
+Maternity bras – too many colours. If we chase sales at expense of inventory levels then we will go on a path of failure
+
+MOQ are wrong, Lead times are wrong – must address both
+
+Over order of inventory i.e. inventory levels will cause pain for years
+
+Out of stocks should not occur with ongoing lines – maternity is an exception
+
+18 weeks lead time on briefs is not acceptable and any supplier that does should be validated – why?
+
+Challenge – Does BNT have a bias towards over-stock – must change this bias
+
+For sizing – unbalanced ordering reflects inaccurate forecasting/ordering in the past
+
+Ensure we are not driven by MOQ
+
+There needs to be a correlation between min/max and forecast sales
+
+Nothing in the business should have a min/max of 1,000
+
+Should range size 6 (fringe size) in twin packs – same for larger fringe sizes
+
+Benchmark good bra (BB view) if we are selling < 1 per week per store then ? as it is not customer choice. Good would be 2 per week per store. This is not black and white and no rules are fixed. Just guidelines to use as benchmarks
+
+Our buyers are not traditionally good negotiators. Suppliers push to what they want re lead time, moq and prices. We need to push back more and challenge. Good suppliers will agree and move closer to our requirements, the other suppliers should be reviewed whether we want to continue a partnership with.
+
+Vanessa’s Actions:
+
+Run report showing all product at more than 40 weeks cover (special exercise to focus on current problem)

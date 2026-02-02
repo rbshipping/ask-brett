@@ -1,0 +1,232 @@
+SOURCE: Case Study_The Missing Link in Retail Operations_Ananth Raman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations
+SUMMARY: The text discusses store processes that contribute to inventory accuracy problems, such as scanning items incorrectly and failing to enter transactions.
+KEYWORDS: inventory accuracy, store processes, retail operations
+---
+
+curacy problem—it is easy to see that store processes contribute substantially to
+
+this problem. Almost all of us, when buying multiple, identically priced items at
+
+a supermarket, say a lemon yogurt and a plain yogurt, have watched the sales-
+
+person scan one item (say, the lemon yogurt) twice instead of each item sepa-
+
+rately. This apparently innocuous practice results in two discrepancies between
+
+CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001 i41
+
+Thies Aarnimant io outharhrad far nea Anke hi WAN OTDORIG iintit Anrit 99419 Canine nr anetinn ic an infrinnomant
+
+Execution: The Missing Link in Retail Operations
+
+FIGURE 3. Consistent Performance in Inventory Accuracy Among Stores in Two
+
+Consecutive Years
+
+8.00
+
+7.00
+
+6.00 7
+
+5,00
+
+4.00
+
+Absolute Error (1999)
+
+3.00
+
+2.00 * 4
+
+2.00 3.00 4.00 5.00 6.00 7.00 8.00 9,00
+
+Absolute Error (1998)
+
+FIGURE 4. Consistent Performance in Misplaced SKUs Among Stores in Two Consecutive Years
+
+pe eae aE EEenenenanssaeaeeeesmnemmmmmeneesieaieiieinemmmmmel
+
+12.00%
+
+10.00%
+
+8.00%
+
+6.00%
+
+4.00%
+
+2.00%
+
+0.00% + :
+
+0.00% 2.00% 4.00% 6.00% 8.00% 10,00% 12,00%
+
+Fraction of SKUs Not on Floor (1999)
+
+Fraction of SKUs Not on Floor (2000)
+
+142 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+Thie danumant ie suthneizad far niece anks hie IOUM STRARIZ rink Ansel 2N49 Canina nr nncting ie an infrinnamant
+
+Execution: The Missing Link in Retail Operations
+
+“system inventory level” and “physical inventory level.” In the above example; “
+
+system inventory would exceed physical inventory by one unit for plain yogurt
+
+and would be a unit short for lemon yogurt. Similarly, many of us have experi-
+
+enced situations where, after buying a “large” garment, we returned’to the. store
+
+to exchange the “large” for a “medium.” It is not unusual in this circumstance
+
+for salespeople to exchange the garments without entering either transaction
+
+(i.e., the return of one item and the sale of another). Clearly, in this case the
+
+system would underestimate physical inventory for large and overestimate
+
+inventory for medium garments.
+
+Store processes also cause the “misplaced SKUs” oroblem Store sales
+
+people are often charged with moving merchandise front the storage areas to
+
+the sales floor based on sales of specific items. The task; though it appears to be
+
+simple, is rendered complex by a number of factors. One, store Salespeople, who
+
+often are very busy during high-traffic periods, find it hard to replenish mer-
+
+chandise promptly from the storage areas. Two, midst stores do not organize the
+
+inventory in their storage areas very well. Consequently, sales people may not
+
+know if merchandise that has stocked out,in,the selling area is even available in
+
+the storage areas. Moreover, computer ed information systems that track the
+
+inventory at the stores often do not maintain separate fields to identify storage
+
+area inventory. The fact that storage areas are.oiten dispersed over multiple loca-
+
+tions and “SKUs not on floor” could b hese locations exacerbates the
+
+problem. For example, at some stores, th ere are storage areas above the shelves,
+
+in the basement, at theyback of stores ad near the loading dock, and merchan-
+
+dise in each of these areas are nop,tracked separately.
+
+Store design—especially the design, size, and number of backrooms and
+
+other storage areas—canii per execution. The importance of backroom
+
+size, for example, can be illustrated with an anecdote from Beta Corporation.
+
+While store performance was largely consistent from one year to the next, there
+
+were some anomalies. One store, for example, saw substantial deterioration in
+
+performancefram 1998 to 1999. The President of Stores at Beta was not sur-
+
+prised at all. He pointed out that, after repeated requests, he had allowed the
+
+re to in¢erease the capacity of its backroom at the end of 1998. Not surpris-
+
+ardentproponents of JIT? would have predicted, the backroom had
+
+tory after the expansion than it had before and the store suffered
+
+‘om having a larger fraction of SKUs not available on the floor than it had in
+
+¢.past.
+
+“However, store processes only explain part of the problem. Gamma, for
+
+example, found that DC processes had much to do with inventory record inac-
+
+curacy. In early 1999, Gamma tried an experiment at one of its new stores.
+
+The company planned to open a store on a particular date and the distribution
+
+- department was asked to stock merchandise in preparation for this opening.
+
+Unknown to the distribution department, however, the company postponed the
+
+opening of the store and, instead, audited every item at the store before a single
+
+CAUFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001 143
+
+Thie darimant ic autharizad far nea anh hu LAHM STRONG until Anrif 9049 Canina ar nnctina ie on infrinnamant
+
+2
+
+Execution: The Missing Link in Retail Operations
+
+FIGURE 5. Average Store "Absolute Errors” Grouped by Distribution Center
+
+So eal
+
+8.00 =
+
+7.00 |
+
+6.00 refHHH ||
+
+4.00 UHL THU BHABHA ETO
+
+3.00
+
+Absolute Error (units)
+
+2.00
+
+1.00
+
+0.00
+
+customer had ever walked
+
+curate for 29% of thete
+
+fa ii
+
+inventory levels. Clearly store pvdeesses and customers 5 could not be blamed for
+
+these errors.
+
+The importance 6 DE,pro sses is also supported by Figure 5, which
+
+shows the average error in inventory records at stores served by each of three
+
+different DCs. Notice that stores served from DC 1 tend to have far smaller errors
+
+than those served'fitom DCs 2 and 3. We suspect that differences in DC processes
+
+explain the, différenc ybserved, even though it is possible that the differences
+
+in performance stemmed from regional differences in store management and
+
+labor,(because each DC served stores in a certain geographic region). Gamma
+
+managers pointed out that, unlike the other two DCs, DC 1 had had stable man-
+
+agement sitice its inception. Over time, the management team at DC] had estab-
+
+lished procedures for a number of activities. For example, procedures for quality
+
+1, receiving inventory returned from stores, and shelving of inventory
+
+existed’and were enforced.
+
+Interestingly, merchandise received at the stores directly from the vendor
+
+tend to have much more accurate records than those shipped from even the best
+
+C. Gamma managers believed that the superior performance obtained on ven-

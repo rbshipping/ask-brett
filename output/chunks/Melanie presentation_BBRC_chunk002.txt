@@ -1,0 +1,225 @@
+SOURCE: Melanie presentation_BBRC.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Delivery and Shipping Strategies
+SUMMARY: Analyzes customer preferences and behavior related to delivery options, free shipping, and personalized content to improve online shopping experiences.
+KEYWORDS: delivery, shipping, free shipping, personalization, customer experience
+---
+
+[Document: Melanie presentation_BBRC.pptx]
+[Presentation Topic: Omni-Channel Retail Trends]
+
+C&C baskets tend to be 25% higher than home delivery and in both cases the average basket is above the minimum
+
+13
+
+Minimum spend - to or not too?
+
+[Slide 14]
+
+Same Day demand has decreased with only 23% of customer willing to pay for this service.
+
+Delivery cost remains one  of the biggest reasons for cart abandonment!
+
+Free shipping is the biggest driver to online sales with Customers willing to wait a few days if they can receive it free. Most retailers offer free shipping over a minimum threshold
+
+Free shipping is also key reason for significant growth in C&C
+
+Other factors to improving customer experience:
+
+Clear, accurate tracking online.
+
+Informative, proactive communication (text, phone or email updates). SMS notifications can be great for this.
+
+Good levels of communication when problems (inevitably) occur. Even the best online retailers will experience delivery issues now and then
+
+14
+
+Free shipping is more important than same day
+
+Source: Morgan Stanley: Alphawise E-commerce survey 2015
+
+[Slide 15]
+
+15
+
+However customers want to have the choice
+
+[Slide 16]
+
+16
+
+Personalisation, Mobilisation and Socialisation
+
+Click and Collect
+
+Social
+
+Digital
+
+Personalisation
+
+Content
+
+[Slide 17]
+
+Personalisation
+
+Australia has experienced the fastest growth in mobile/tablet use in E-commerce (second only to China)
+
+Tablet and Mobile penetration is roughly equal
+
+Mobile/Tablet traffic is now greater than PC, however Conversion is lower on mobile/tablet
+
+Customers are more likely to utilise Mobile when they are out shopping (ie product research)
+
+17
+
+Mobile first: The most disruptive shift has been from desktop to mobile
+
+Customers experience should be the same across all platforms (e.g Nordstroms)
+
+Responsive sites  have better experience and is easier to manage with only one site required
+
+[Slide 18]
+
+18
+
+Customers are looking for personalised content and have higher affinity for brands that speak to their “wants and needs”
+
+Personalisation leads to greater engagement and ultimately site conversion
+
+Emails with personalized subject lines have 26% percent higher unique open rates
+
+74% of online consumers get frustrated with websites when content (e.g. offers, ads, promotions) appears that has nothing to do with their interests.
+
+[Slide 19]
+
+People who viewed this item also viewed
+
+People who bought this item also bought
+
+People who browsed the same products as you also browsed (reviewing title)
+
+People who viewed this bought
+
+Category best sellers
+
+More popular items from [brand]
+
+Recently viewed
+
+Where we implemented the Recommendations
+
+Personalised recommendations integrated on product pages, checkout  & emails pages
+
+[Slide 20]
+
+20
+
+Recommendations has been adopted by pure plays and is now becoming more common on B&M retailers
+
+[Slide 21]
+
+21
+
+Personalised Promos and Category content are other ways to boost conversion
+
+Home Page optimisation ensures relevant promotions  being shown to each shopper at each stage of the retail experience
+
+Provides a mechanism to target new customers from repeat customers
+
+Category page optimisation ranks products that the shopper will most likely buy ie by favourite brand, product type etc
+
+[Slide 22]
+
+Younger customers especially are influenced by consumer reviews
+
+Before ever entering a store, 62% of Millennial shoppers already know what they want to buy through prior online research
+
+Eighty-four percent of them say consumer-written content on brand sites influences what they buy.
+
+Mobile shoppers who view customer content like reviews show 133% higher conversion rate
+
+Source: BaazarVoice
+
+“They contacted me in less than 48 hours and have gone above and beyond to fix my issue,” the customer wrote afterward. “In a world that has become numbers and letters on a screen, at least one business really does care.”
+
+Positive Outcomes can be achieved from Negative Reviews
+
+[Slide 23]
+
+23
+
+Connecting the customer via Social Media is driving higher conversion
+
+Instagram usage continues to grow, while Facebook and Twitter have started to decline
+
+Social conversion rate is just ahead of email, SEM and nearly 3x higher than search and direct
+
+[Slide 24]
+
+24
+
+facebook
+
+Despite having greater number of “fans”,  it is much harder for brands to get visibility without an advertising budget
+
+Photo posts now have the least organic reach on Facebook
+
+Best performing sites create engaging content that fosters interaction and community ie it is not all about Product:
+
+XXXX Beer - XXXX island
+
+Fitbit - feel like you are part of a fitness support group
+
+Aerie - real beauty and connecting with their fans
+
+Fan pages such as Kmart Hacks, Aldi Mums
+
+[Slide 25]
+
+25
+
+Instagram is the one of the fastest growing sites due to its lifestyle appeal
+
+It’s all about engaging with the community, presenting products in fun and interesting ways, and offering a collection of images and posts that appeal to the lifestyle of your end-user
+
+[Slide 26]
+
+26
+
+Instagram’s users are more willing to engage with brands than other Social Media platforms
+
+Instagram page KmartAus Inspire has more than 67,000 followers and created a community around its brand
+
+A 'Kmart Hack' is the latest in interior design ie changes a Kmart product to suit your home's style
+
+68 percent of Instagram users engage with brands, compared to 32 percent of Facebook’s users who do the same.
+
+Instagram also has 58x more engagement per follower than Facebook
+
+[Slide 27]
+
+27
+
+To show off its new Spring collection, Banana Republic used Instagram’s carousel ads to show off four different looks.
+
+Instagram’s visual and fashion orientated appeal makes it an ideal platform to shop on
+
+Instagram is now offering users the ability to click directly through to a product, creating instant gratification
+
+[Slide 28]
+
+28
+
+Smaller fan base however very engaged
+
+Site should be Pinterest -ready
+
+Boards should create community
+
+Similarly to other Social Media sites, boards should reflect brand’s ethos to create community
+
+Lorna Jane has over 60 boards and mixes product with links, to “content curation” – ie boards with content from other sites of interest to their fans – from inspirational quotes, self-belief, food/health tips to shareable “work out” and movement/fitness workouts
+
+[Slide 29]

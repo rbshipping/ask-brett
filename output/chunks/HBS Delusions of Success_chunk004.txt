@@ -1,0 +1,142 @@
+SOURCE: HBS Delusions of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Forecasting and Optimism
+SUMMARY: The text discusses the difference between the inside view and the outside view in forecasting, with the outside view being more accurate.
+KEYWORDS: forecasting, optimism, inside view, outside view, reference-class forecasting
+---
+
+the personal and organizational sources of op- two forecasts for the same problem and arrived
+
+timism. We’ll begin our exploration of this ap- at very different answers. We call these two dis-
+
+proach with an anecdote that illustrates both tinct modes of forecasting the inside view and
+
+the traditional mode of forecasting and the the outside view. The inside view is the one that
+
+suggested alternative. the expert and all the other team members
+
+In 1976, one of us was involved in a project spontaneously adopted. They made forecasts
+
+to develop a curriculum for a new subject area by focusing tightly on the case at hand—consid-
+
+for high schools in Israel. The project was con- ering its objective, the resources they brought
+
+ducted by a small team of academics and to it, and the obstacles to its completion; con-
+
+teachers. When the team had been operating structing in their minds scenarios of their com-
+
+for about a year and had some significant ing progress; and extrapolating current trends
+
+achievements under its belt, its discussions into the future. Not surprisingly, the resulting
+
+turned to the question of how long the project forecasts, even the most conservative ones,
+
+would take. Everyone on the team was asked were exceedingly optimistic.
+
+to write on a slip of paper the number of The outside view, also known as reference-
+
+months that would be needed to finish the class forecasting, is the one that the curricu-
+
+project—defined as having a complete report lum expert was encouraged to adopt. It com-
+
+ready for submission to the Ministry of Educa- pletely ignored the details of the project at
+
+tion. The estimates ranged from 18 to 30 hand, and it involved no attempt at forecast-
+
+months. ing the events that would influence the
+
+One of the team members—a distinguished project’s future course. Instead, it examined
+
+expert in curriculum development—was then the experiences of a class of similar projects,
+
+posed a challenge by another team member: laid out a rough distribution of outcomes for
+
+“Surely, we’re not the only team to have tried this reference class, and then positioned the
+
+to develop a curriculum where none existed current project in that distribution. The result-
+
+before. Try to recall as many such projects as ing forecast, as it turned out, was much more
+
+you can. Think of them as they were in a stage accurate.
+
+comparable to ours at present. How long did it The contrast between inside and outside
+
+take them at that point to reach completion?” views has been confirmed in systematic re-
+
+After a long silence, the curriculum expert search. Recent studies have shown that when
+
+said, with some discomfort, “First, I should say people are asked simple questions requiring
+
+that not all the teams that I can think of, that them to take an outside view, their forecasts
+
+were at a comparable stage, ever did complete become significantly more objective and reli-
+
+their task. About 40% of them eventually gave able. For example, a group of students enroll-
+
+up. Of the remaining, I cannot think of any ing at a college were asked to rate their future
+
+that completed their task in less than seven academic performance relative to their peers
+
+years, nor of any that took more than ten.” He in their major. On average, these students ex-
+
+was then asked if he had reason to believe that pected to perform better than 84% of their
+
+the present team was more skilled in curricu- peers, which is logically impossible. Another
+
+lum development than the earlier ones had group of incoming students from the same
+
+been. “No,” he replied, “I cannot think of any major were asked about their entrance scores
+
+relevant factor that distinguishes us favorably and their peers’ scores before being asked
+
+from the teams I have been thinking about. In- about their expected performance. This sim-
+
+deed, my impression is that we are slightly ple detour into pertinent outside-view infor-
+
+below average in terms of resources and po- mation, which both groups of subjects were
+
+tential.” The wise decision at this point would aware of, reduced the second group’s average
+
+probably have been for the team to disband. expected performance ratings by 20%. That’s
+
+Instead, the members ignored the pessimistic still overconfident, but it’s much more realistic
+
+information and proceeded with the project. than the forecast made by the first group.
+
+They finally completed the initiative eight Most individuals and organizations are in-
+
+years later, and their efforts went largely for clined to adopt the inside view in planning
+
+naught—the resulting curriculum was rarely major initiatives. It’s not only the traditional
+
+used. approach; it’s also the intuitive one. The natu-
+
+harvard business review • july 2003 page 5 of 9
+
+Delusions of Success
+
+ral way to think about a complex project is to serious attempt to come to grips with the com-
+
+focus on the project itself—to bring to bear all plexities of a unique challenge, while the out-
+
+one knows about it, paying special attention to side view is rejected as relying on a crude anal-
+
+its unique or unusual features. The thought of ogy to superficially similar instances. Yet the
+
+going out and gathering statistics about related fact remains: The outside view is more likely
+
+cases seldom enters a planner’s mind. The cur- to produce accurate forecasts and much less
+
+riculum expert, for example, did not take the likely to deliver highly unrealistic ones.
+
+outside view until prompted—even though he Of course, choosing the right class of analo-
+
+already had all the information he needed. gous cases becomes more difficult when exec-
+
+Even when companies bring in independent utives are forecasting initiatives for which pre-
+
+consultants to assist in forecasting, they often cedents are not easily found. It’s not like in the
+
+remain stuck in the inside view. If the consult- curriculum example, where many similar ef-
+
+ants provide comparative data on other compa- forts had already been undertaken. Imagine

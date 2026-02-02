@@ -1,0 +1,212 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Business Strategy
+SUMMARY: This text discusses the strategic choice cascade, a framework for crafting winning strategies for businesses, organizations, and industries.
+KEYWORDS: strategic choice cascade, strategy framework, business strategy, winning strategy, strategic thinking
+---
+
+Introduction.indd 5 11/6/12 8:12 PM
+
+6 Playing to Win
+
+The five choices make up the strategic choice cascade, the founda-
+
+tion of our strategy work and the core of this book.
+
+To really think through strategy, though, the cascade isn’t
+
+quite enough. In chapter 7, we will provide another tool—the
+
+strategy logic flow, a framework designed to helpfully direct
+
+your thinking to the key analyses that inform your five strategy
+
+choices. Then, in chapter 8, we provide a specific methodology for
+
+making sense of conflicting strategic options, a process—called
+
+reverse e ngineering—for making strategic choices with others.
+
+Taken together, the five choices, one framework, and one process
+
+provide a playbook for crafting strategy in any organization.
+
+Our intent is to provide you with a do-it-yourself guide to
+
+strategy. We offer you the concepts, process, and practical tools
+
+you need to create and develop a winning strategy for your busi-
+
+ness, function, or organization—a strategy that serves your cus-
+
+tomers better and enables you to compete more successfully and
+
+to win.
+
+The world needs more business leaders who understand strat-
+
+egy and are capable of leading the strategy process for their com-
+
+panies. It needs strategic capabilities at all organizational levels in
+
+industries of all kinds, in government, in health care, in education,
+
+and in the social sector. Strategy needn’t be mysterious. Concep-
+
+tually, it is simple and straightforward. It requires clear and hard
+
+thinking, real creativity, courage, and personal leadership. But it
+
+can be done.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Introduction.indd 6 11/6/12 8:12 PM
+
+Chapter One
+
+Strategy Is Choice
+
+B
+
+y the late 1990s it became clear that P&G really needed to win
+
+in skin care. Skin care (including soaps, cleansers, moisturiz-
+
+ers, lotions, and other treatments) constitutes about a quarter of
+
+the total beauty industry and has the potential to be highly profit-
+
+able. When done well, it can engender intense consumer loyalty
+
+compared with other beauty categories like hair care, cosmetics,
+
+and fragrances.1 Plus, there’s significant knowledge and skill trans-
+
+fer from skin care to these other categories in terms of technol-
+
+ogy and consumer insights. To be a credible player in the beauty
+
+business, P&G needed leading hair-care and skin-care brands. Skin
+
+care was the weak link. In particular, Oil of Olay was struggling.
+
+It wasn’t P&G’s only skin-care brand, but it was by far the largest
+
+and best known.
+
+Unfortunately, the brand had baggage. Oil of Olay was seen
+
+as old-fashioned and no longer relevant. It had come to be deri-
+
+sively called “Oil of Old Lady,” a not entirely unfair character-
+
+ization, as its customer base was growing older every year. More
+
+and more, when selecting a skin-care regimen, women were pass-
+
+ing over Oil of Olay in favor of brands with more to offer. Oil of
+
+Olay’s core product (pink cream in a simple plastic bottle), sold
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch01.indd 7 11/6/12 8:13 PM
+
+8 Playing to Win
+
+mainly through drugstores at the bargain-basement price of $3.99,
+
+just wasn’t competitive against an ever-growing range of skin-care
+
+alternatives. By the late 1990s, Oil of Olay sales were clocking in
+
+below $800 million a year, nowhere close to the industry leaders in
+
+the $50 billion skin-care category.
+
+All this presented a difficult strategic choice and generated a
+
+number of possible responses. P&G could maintain status quo on
+
+Oil of Olay and launch a more relevant alternative under a differ-
+
+ent brand name to compete for a new generation of consumers. But
+
+building a skin-care brand from scratch to market leadership could
+
+take years, even decades. P&G could go for an immediate fix, buy-
+
+ing an established skin-care leader (think Estée Lauder’s Clinique
+
+or Beiersdorf’s Nivea brand) to more credibly compete in the cat-
+
+egory. But an acquisition would be both expensive and speculative.
+
+Plus, over the previous decade, P&G had actively pursued sev-
+
+eral opportunities for leading brands with no success. P&G could
+
+attempt to extend one of its leading beauty brands, like Cover Girl,
+
+into the skin-care category. This too would be highly speculative.
+
+How easily could even a leading cosmetics brand gain traction in
+
+skin care? Finally, P&G could attempt to revive a fading but still
+
+valuable Oil of Olay to compete in a new segment. This meant
+
+finding a way to reinvent the brand in the minds of consumers,
+
+a big investment with no guarantee of success. But P&G believed
+
+that the Oil of Olay brand had potential, especially with the right
+
+push behind it.
+
+The good news was that there was still widespread consumer
+
+awareness of Oil of Olay, and as every good marketer knows,
+
+awareness precedes trial. Michael Kuremsky, Oil of Olay’s North
+
+American brand manager at the time, summed up the state of
+
+affairs: “There was still a lot of promise. [But] there was really
+
+no plan.”2 The team wanted to turn the promise into a plan. The
+
+plan was to remake Oil of Olay—its brand, its business model, its
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch01.indd 8 11/6/12 8:13 PM
+
+Strategy Is Choice 9
+
+package and product, its value proposition, and even its name. Out
+
+went “Oil of,” and the brand was rechristened “Olay.”3
+
+Rethinking Olay
+
+Together with Susan Arnold, then president of global beauty, we
+
+focused on the mid- and long-term strategy for beauty, working
+
+to establish P&G as a credible contender in the sector. As P&G
+
+learned the beauty game, it could win across the categories. So,
+
+P&G invested in the SK-II brand (a super-premium Japanese skin-
+
+care line acquired when P&G bought Max Factor in 1991), Cover
+
+Girl (P&G’s leading cosmetics brand), Pantene (its biggest sham-

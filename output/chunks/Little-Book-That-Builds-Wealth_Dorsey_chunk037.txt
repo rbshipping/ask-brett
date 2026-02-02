@@ -1,0 +1,288 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Competitive Advantage and Moat Analysis
+SUMMARY: The text discusses the importance of analyzing a company's competitive advantage and moat to determine its potential for long-term success.
+KEYWORDS: Competitive Advantage, Moat, Economic Returns, Industry Dynamics, Sustainability
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+?emit
+
+trohs
+
+ylevitaler
+
+a
+
+ro
+
+oN
+
+scimonocE
+
+krowteN
+
+stsoC
+
+gnihctiwS
+
+hgiH
+
+ot
+
+ylekil
+
+erutuf
+
+s’mrif
+
+eht sI
+
+seY
+
+stessA
+
+elbignatnI
+
+noitcudorP
+
+tsoC-woL
+
+?tsap
+
+sti
+
+naht
+
+tnereffid
+
+eb
+
+gnoL
+
+trohS
+
+oN
+
+oN
+
+taoM
+
+ediW
+
+taoM
+
+worraN
+
+taoM
+
+cimonocE
+
+oN
+
+taoM
+
+cimonocE
+
+oN
+
+[146] THE LITTLE BOOK THAT BUILDS WEALTH
+
+a company from having a moat. (You can see 10 years of
+
+financial data free on M orningstar.com. )
+
+If not, and the future is not likely to be appreciably
+
+different from the past, there is no moat. After all, a com-
+
+petitive advantage should show up in the numbers, and a
+
+firm that has not yet demonstrated the ability to earn an
+
+excess economic return is not one to pin your hopes on. It
+
+is possible that a company that has posted subpar returns
+
+on capital in the past may be poised for better days going
+
+forward, but such optimism would need to be accompa-
+
+nied by a large and positive shift in the underlying eco-
+
+nomics of the business. It does happen, and you can make
+
+a lot of money by identifying companies that have struc-
+
+turally changed for the better, but companies like these
+
+are much more the exception than the rule.
+
+So no evidence of solid returns on capital generally
+
+equals no moat. But if a company has posted good returns
+
+on capital, our job becomes trickier. Step two in the pro-
+
+cess is identifying a competitive advantage—that is, figuring
+
+out why the company has been able to fend off competitors
+
+and generate excess economic returns. After all, it’s entirely
+
+possible that even a company with a record of good
+
+returns on capital might not have a moat if there’s no spe-
+
+cific reason why those returns will persist into the future.
+
+If we didn’t think about why high returns will stay high,
+
+we would just be driving by looking in the rearview mirror,
+
+cc1111..iinndddd 114466 11//2266//0088 33::1122::3355 AAMM
+
+WHERE THE RUBBER MEETS THE ROAD [147]
+
+which is rarely a good idea. Think about retailers and
+
+restaurant chains—switching costs for consumers are
+
+extremely low, so companies in these industries need scale,
+
+a well-established brand, or some other defensible advan-
+
+tage to give them a moat. Without an advantage, those high
+
+returns on capital could dissipate very quickly—h istory is
+
+full of hot retail or restaurant concepts that have flopped
+
+after a few years of early success.
+
+This second step is where we need to apply all of the
+
+tools of competitive analysis. Does the company have a
+
+brand? Patents? Is it tough for customers to switch to
+
+competing products? Does it have sustainably lower costs?
+
+Does it benefit from network economics? Is it subject to
+
+technological disruption or a shift in industry dynamics?
+
+And so forth.
+
+Assuming we’ve found some evidence of competitive
+
+advantage, step three is figuring out just how durable
+
+that advantage is likely to be. Some moats are real, but
+
+they may be easy to bridge, while some are wide enough that
+
+we can forecast high returns on capital for many years
+
+into the future with confidence. This is without question
+
+a subjective call, which is why I don’t advocate slicing
+
+things too finely. At Morningstar, we divide companies
+
+into just three categories: wide moat, narrow moat, and
+
+no moat. I’ll do the same in the examples that follow.
+
+Now, let’s put these ideas into action.
+
+cc1111..iinndddd 114477 11//2266//0088 33::1122::3355 AAMM
+
+[148] THE LITTLE BOOK THAT BUILDS WEALTH
+
+Hunting for Moats
+
+Our first example is Deere & Company, which makes the
+
+eponymous agricultural equipment and also has a fair-
+
+sized segment selling construction machinery. As you can
+
+see in Exhibit 1 1.2 , Deere has cranked out some pretty solid
+
+returns on capital over the past decade, despite a nasty
+
+downturn from 1999 to 2002. Agriculture is a cyclical
+
+business, so this shouldn’t be too much of a concern—if
+
+Deere sold something with much steadier demand, like
+
+cheese or beer, we’d want to investigate further. So, based
+
+on the numbers, it looks like Deere has a moat.
+
+Now we move on to competitive analysis—what is it about
+
+Deere that has allowed it to generate solid returns on capital,
+
+and are those returns likely to be sustained into the future?
+
+Well, the brand certainly helps. The company has been around
+
+for 170 years, and farmers are typically extremely loyal to the
+
+Deere brand. However, users of products from Deere’s com-
+
+petitors, Case Construction Equipment and New Holland,
+
+are loyal, too, so there must be more to the story.
+
+EXHIBIT 11.2 Deere & Company
+
+Deere & Company DE 97 98 99 00 01 02 03 04 05 06 TTM Avg
+
+Net Margin (%) 7.5 7.4 2.0 3.7(cid:1)0.5 2.3 4.1 7.0 6.6 7.7 7.3 —
+
+Return on Assets (%) 6.2 6.0 1.3 2.6(cid:1)0.3 1.4 2.6 5.1 4.6 5.0 4.5 3.5
+
+Financial Leverage 3.9 4.4 4.3 4.8 5.7 7.5 6.6 4.5 4.9 4.6 4.7 —
+
+Return on Equity (%) 24.9 24.8 5.9 11.6(cid:1)1.5 8.9 18.0 27.1 21.9 23.6 20.8 16.9
+
+cc1111..iinndddd 114488 11//2266//0088 33::1122::3366 AAMM
+
+WHERE THE RUBBER MEETS THE ROAD [149]
+
+The key, as it turns out, is Deere’s vast dealer network,
+
+which is much more extensive in North America than those
+
+of competitors. Dealers can quickly source parts and com-
+
+plete repairs on Deere equipment, which minimizes down-
+
+time during critical planting and harvesting seasons. The
+
+ability to get broken equipment up and running in short
+
+order is critical given that Deere’s customers are extremely
+
+time-sensitive—a farmer might use a $300,000 combine for
+
+only a few weeks out of the year, but the machine abso-
+
+lutely, positively has to be running smoothly during those
+
+few weeks. Because replicating this dealer network would
+
+be possible for a competitor, and farmers might switch
+
+brands if Deere’s quality slipped substantially, it’s hard to
+
+say that Deere has a wide economic moat. But it would
+
+take years for a competitor to be able to do this, and it’s not
+
+certain that a competitor actually will. So, I’d say Deere

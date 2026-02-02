@@ -1,0 +1,204 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Home Automation and Smart Home Management
+SUMMARY: This text discusses a smart home system that automatically cancels deliveries and manages the home while the residents are away.
+KEYWORDS: smart home, home automation, home management, delivery cancellation, home monitoring
+---
+
+last week the meal plans the house had suggested were designed to use up any food in the fridge that
+
+would have spoiled while they were away.
+
+78
+
+Eric loaded Susie’s new luggage into the trunk and was pleased to see the sunflower photo that he’d
+
+taken adorning one side. As they began their journey, Eric and Susie were able to relax and think about
+
+the upcoming visit to La Sagrada Familia in Barcelona. They didn’t have to even think about all the
+
+standing orders they had. As they sped to the airport, the house quietly cancelled all their deliveries of
+
+milk, eggs, juice and all the other regular items Eric and Susie consumed, put itself into sleep mode, and
+
+patiently awaiting their return.
+
+79
+
+10 FUTURECASTING PROCESS
+
+The futurecasting process is designed as a structured thought exercise to explore the likely changes
+
+coming to a particular sector or area of focus. In this case the focus was the retail sector in mature
+
+markets.
+
+Futurecasting uses a combination of expert consultation, science-fiction prototyping, and backcasting to
+
+come to conclusions about the likely future. During a multi-day creative workshop, participants combine
+
+a wide range of insights to build actionable models of the future.
+
+Futurecasting is not a passive exercise. The aim is not to predict the future, but to decide what future we
+
+want to build, and to define concrete initial steps we can take to begin on that journey. It also seeks to
+
+anticipate possible scenarios such that companies are able to prepare their strategic responses should
+
+these scenarios come to pass.
+
+The diagram below illustrates how insights are boiled down through the futurecasting process and
+
+turned into actionable next steps.
+
+The process starts with expert testimony spanning a broad range of disciplines. Accurately modelling the
+
+future requires the combination of a diverse range of insights. These include:
+
+ Social trends - What people love, what they are scared of, what their challenges are, what their
+
+aspirations are, how and where they derive meaning, and what their attitudes are.
+
+ Demographic trends – Shifting attitudes, habits, and values, by age, gender, location and other
+
+factors
+
+ Technology trends – Disruptive technology, influential technology trends, and timing for mass
+
+market viability and impact
+
+ Economic trends – Global earning and spending, manufacturing supply data, energy prices
+
+ Business and ecosystem trends – Retail ecosystem and broader business model trends
+
+80
+
+ Infrastructure - Consideration of existing infrastructure and other barriers to change
+
+Once experts have shared their insights on the most important and salient trends, teams synthesize
+
+what they have heard and boil it down to the most important points they think will shape the future of
+
+the subject at hand, in this case, retail.
+
+Finally, by using science-fiction prototyping, attendees build out models of the future and then use them
+
+to step backwards in time toward the present using an approach known as backcasting. This allows
+
+them to extract the main focus areas for future innovation needed to get us from today to the imagined
+
+future.
+
+10.1 PARTICIPANTS
+
+A huge thank you to all the experts that generously gave their time and passion to contribute to the
+
+three-day futurecasting session held at the Intel Jones Farm campus in Hillsboro, Oregon in July 2014.
+
+David Roth CEO WPP – The Store
+
+Jon Bird Managing Director WPP – Y&R Labstore
+
+Anne Zybowski Vice President WPP – Kantar Retail
+
+Scott Lamensdorf Vice President WPP – Kantar Retail
+
+Dick Cantwell Vice President Cisco Consulting Services
+
+Robert Pettit Client Development Director WPP - Fitch
+
+Francesco Cordua Vice President RTKL
+
+James Sorensen Senior Vice President WPP – TNS Global
+
+Herb Sorensen Scientific Advisor WPP – TNS Global
+
+Ed Halla Managing Director Eye Level
+
+Graeme Kelly Enterprise Architect Myer
+
+John Warn Regional General Manager Westfield, Scentre Group
+
+Jack Hanrahan Retailer Relations Westfield
+
+Rachel Antalek Vice President Starbucks
+
+Nicolai Gerard General Manager Pepsi Co
+
+Diane Collins Vice President Meads Johnson
+
+Ray Itaoui Owner Sanity
+
+Anthony Ritch Vice President Westfield
+
+Brett Blundy Managing Director BB Retail Capital
+
+Steve Brown Futurist, Intel Labs Intel
+
+Brian David Johnson Futurist, Intel Labs Intel
+
+Adrian Whelan Business Development Intel
+
+Maroun Ishac Business Development Intel
+
+Jose Avalos WW Director, Visual Retail Intel
+
+Ryan Lester WW Director, End user enablement Intel
+
+Jon Stine Global Director, Retail Sales Intel
+
+Megan Bednarz End User Marketing Intel
+
+Without the passion, vast experience, deep knowledge, and enthusiastic participation of every person
+
+that collaborated in the futurecasting session, this report would not have been possible. Thank you all.
+
+81
+
+Another big thank you to the experts that set the scene for the futurecasting session, grounding the
+
+attendees in the latest trends in technology, economics, retail, IT, demographics, and shopper behavior.
+
+The expert speakers for the futurecasting session:
+
+ Paul Thomas, Intel Chief Economist.
+
+ Dick Cantwell, VP of Cisco Consulting.
+
+ David Roth, CEO of WPP The Store.
+
+ Herb Sorensen, Scientific Advisor to WPP TNS Global.
+
+ Anne Zybowski VP of WPP Kantar Retail.
+
+ Jamie Gutfreund, CMO at Deep Focus.
+
+ Steve Brown, Futurist, Intel.
+
+10.2 SYNTHESIS OF KEY TRENDS
+
+The futurecasting participants first listened to a day of informed opinion and insight from a variety of
+
+domain experts spanning the retail industry, manufacturers, technologists, and beyond. Within small
+
+teams, participants then synthesized and distilled all the information they had heard, highlighting key
+
+insights and determining the factors most likely to shape the future of retail. They then considered the
+
+implications of trends to the world of retail, both positive and negative, and determined how the retail
+
+sector should respond as a result.
+
+Here are some examples of the key trends and retail imperatives that emerged from teams during the
+
+synthesis process (this is actual wording from the teams themselves):
+
+Trend Retail imperative
+
+Compute will enable us to add intelligence into Need to ensure control still remains in the hands
+
+anything and everything of the shopper and that we are solving a
+
+customer need/pain point and not just using
+
+technology for technology’s sake

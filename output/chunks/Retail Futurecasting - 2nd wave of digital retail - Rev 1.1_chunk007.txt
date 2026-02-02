@@ -1,0 +1,148 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Transformation
+SUMMARY: Retailers face challenges in unifying online and offline customer experiences, leveraging customer data, and optimizing their physical footprint.
+KEYWORDS: omnichannel, customer data, real estate optimization
+---
+
+journey. Retailer online stores typically grew up separately from the core physical store business and
+
+sometimes offer a different range of products, different pricing, and don’t share inventory. This has led
+
+to shopper confusion and frustration. Retailers will need to unify all their systems so that customers feel
+
+just one seamless experience that traverses multiple channels.
+
+Challenge: Retailers are finding they have a huge “data gap” for their brick and mortar customers. They
+
+are able to gather streams of data on shopper behavior for their online customers: purchase history,
+
+browsing history, wish lists and more. Yet in the store, there are rarely any such data-gathering
+
+mechanisms. Today, when a retailer’s biggest online customer walks into one of their stores, the store
+
+staff have no idea, and so no way to react appropriately. And retailers have no way to build a unified
+
+picture of a shopper’s profile that spans both virtual and physical space. Retailers will need to deploy IT
+
+solutions that offer a single view of the shopper across the enterprise.
+
+Challenge: Traditionally, retailers have spent a lot of time looking at the back-end of their business,
+
+deploying IT in the bones of retail to help streamline their supply chain, manage inventory, and reduce
+
+costs. This will continue, and technology still has an ongoing role to play here. But retailers also need to
+
+look at IT in a new way. They must consider how to use IT to improve the face of retail—the front-end of
+
+their stores—to improve their in-store experience, and to ignite sales with shoppers.
+
+4.2.2 Footprint
+
+Trillions of dollars of retailer’s capital is tied up in physical presence and real-estate. Increasingly
+
+retailers are finding that the spaces they occupy are too big, and in the wrong location.
+
+Urban populations are redistributing in bands around city centers as wealthy people return to the center
+
+and low-income families are moving out to first-ring suburban zones. With the stagnation or collapse of
+
+middle-class incomes, formerly affluent, high traffic malls now find themselves in trouble.
+
+Scale once offered competitive advantage. But some retailers are finding that is no longer the case.
+
+Startup retailers can take advantage of the cloud to source, market and deliver their products efficiently
+
+and easily without the need for scale. Indeed scale now comes from the cloud, not from physical
+
+presence. And pop-up stores are taking quick advantage of short-term footprint opportunities.
+
+Unused space is a burden, and long-term leases have shifted from being strategic plays to now being
+
+chains around retailers’ necks. Traditional retailers with large swathes of unproductive space will find
+
+themselves less able to invest in the customer experience or to lower prices, making them more
+
+vulnerable to newer retailers who lack this real-estate baggage.
+
+Urbanization continues apace; by the year 2050 around 2½ billion more people will be living in cities
+
+than today. As populations concentrate in mega-cities and mega-corridors, real-estate is getting more
+
+expensive and stores are getting smaller.
+
+21
+
+Challenge: Shoppers want more in-town shopping, and more local shopping, implying smaller stores.
+
+But they are still seeking choice, value, and a great shopping experience. Technology that creates virtual
+
+spaces (such as the giant touch displays of virtual shelves used by Adidas* in some of their flagship
+
+stores) or that makes more efficient use of space (such as the Hointer* store model) will enable more
+
+products to be displayed in these increasingly smaller spaces.
+
+Challenge: Smaller stores inevitably lead to the simple question of what products retailers choose NOT
+
+stock. Just in time inventory will become critical. Smart retailers will use analytics to match their
+
+inventory to customer demand, a demand that shifts both seasonally and in real-time. In a world where
+
+not having something in stock means the loss of a sale to a competitor, algorithms will increase the
+
+chances that a retailer has exactly what the increasingly time-pressed shopper is looking for.
+
+In the grocery category, these small, local stores are becoming the “communal pantry”, holding
+
+inventories of food staples for people to grab when they need it. Section 7.9 outlines a technology
+
+proposal for a networked system of smart shelves—some in the home and some in the store—that
+
+embraces and builds on the idea of the communal pantry.
+
+4.2.3 Polarization
+
+Retail stores are beginning to polarize in four interesting ways, and they are starting to polarize towards
+
+the extremes with little or no space for a position in the middle:
+
+Physical size (Big vs Small) - While many stores will get smaller, and move to be nearer to the consumer,
+
+some stores will still be very big, taking advantage of scale to create a variety of in-store experiences and
+
+abundant choice.
+
+Product type (Emotional vs Commodity) - Brick and mortar retail will focus more on highly emotional
+
+products where the buying process is highly experiential while smart homes will auto-order
+
+consumables that are then delivered.
+
+Shopping model (Shopper Value vs Efficiency focused) - Stores will either optimize to delight shoppers by
+
+exceeding their expectations and delivering increased value: high-touch, high-tech, fun shopping
+
+experiences built around the buying process. Or they will delight shoppers with stores built for shopper
+
+efficiency, reduced friction and to get the customer in and out as quickly as possible for more routine
+
+purchases. Companies like Hointer* have ably demonstrated that shopper efficiency models should not
+
+be reserved for non-emotional product categories but can also play a role in meeting shopper needs in
+
+emotional product categories like apparel.
+
+Price – Price vs Value-for-money – Stores will continue to segment based on the income of the
+
+customers they serve. As middle-class incomes continue to stagnate the polarization may continue with
+
+some brands choosing to move up-market, and some choosing to move down-market.
+
+22
+
+Challenge: Retailers will need to fit in with the new rituals and routines of the changing customer and
+
+understand the difference between ‘fast’ and ‘slow’ shopping missions. They will need to figure out how
+
+to best meet customers’ expectations for each of these missions, and then what products, services,

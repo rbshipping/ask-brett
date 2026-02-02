@@ -1,0 +1,296 @@
+SOURCE: Welch_-_Winning.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Business Leadership and Management
+SUMMARY: The introduction discusses the origins of the book, which was inspired by the author's interactions with thousands of people interested in learning about running a successful business.
+KEYWORDS: business management, leadership, GE, Jack Welch
+---
+
+Jack
+
+Welch
+
+with Suzy Welch
+
+W I N
+
+N I NG
+
+To the thousands of men and women
+
+who cared enough about business to raise their hands
+
+The authors’ profits from this book are being donated to charity.
+
+CONTENTS
+
+INTRODUCTION
+
+“Every Day,There Is a New Question” 1
+
+UNDERNEATH IT ALL
+
+1. MISSION AND VALUES
+
+So Much Hot Air About Something So Real 13
+
+2. CANDOR
+
+The Biggest Dirty Little Secret in Business 25
+
+3. DIFFERENTIATION
+
+Cruel and Darwinian? Try Fair and Effective 37
+
+4. VOICE AND DIGNITY
+
+Every Brain in the Game 53
+
+—v—
+
+CONTENTS
+
+YOUR COMPANY
+
+5. LEADERSHIP
+
+It’s Not Just About You 61
+
+6. HIRING
+
+What Winners Are Made Of 81
+
+7. PEOPLE MANAGEMENT
+
+You’ve Got the Right Players. Now What? 97
+
+8. PARTING WAYS
+
+Letting Go Is Hard to Do 119
+
+9. CHANGE
+
+Mountains Do Move 133
+
+10.CRISIS MANAGEMENT
+
+From Oh-God-No to Yes-We’re-Fine 147
+
+YOUR COMPETITION
+
+11. STRATEGY
+
+It’s All in the Sauce 165
+
+12.BUDGETING
+
+Reinventing the Ritual 189
+
+13. ORGANIC GROWTH
+
+So You Want to Start Something New 205
+
+14. MERGERS AND ACQUISITIONS
+
+Deal Heat and Other Deadly Sins 217
+
+15. SIX SIGMA
+
+Better Than a Trip to the Dentist 245
+
+— vi —
+
+CONTENTS
+
+YOUR CAREER
+
+16. THE RIGHT JOB
+
+Find It and You’ll Never Really Work Again 255
+
+17. GETTING PROMOTED
+
+Sorry, No Shortcuts 277
+
+18. HARD SPOTS
+
+That Damn Boss 299
+
+19.WORK-LIFE BALANCE
+
+Everything You Always Wanted to Know
+
+About Having It All (But Were Afraid to Hear) 313
+
+TYING UP LOOSE ENDS
+
+20.HERE, THERE, AND EVERYWHERE
+
+The Questions That Almost Got Away 339
+
+Acknowledgments 360
+
+Index 363
+
+About the Author
+
+OtherBooks by Jack Welch
+
+Credits
+
+Cover
+
+Copyright
+
+About the Publisher
+
+— vii —
+
+Introduction
+
+“EVERY DAY, THERE IS
+
+A NEW QUESTION”
+
+AFTER I FINISHED my autobiography—a fun but crazily
+
+intense grind that I wedged into the corners of my real job
+
+at the time—I swore I’d never write another book again.
+
+But I guess I did.
+
+My excuse, if there is one, is that I didn’t actually come up with
+
+the idea for this book.
+
+It was given to me.
+
+It was a retirement present, if you will, from the tens of thou-
+
+sands of terrific people I have met since I left GE—the energized,
+
+curious, gutsy, and ambitious men and women who have loved
+
+business enough to ask me every possible question you could
+
+imagine. In order to answer them, all I had to do was figure out
+
+what I knew, sort it out, codify it, and borrow their stories—and
+
+this book was off and running.
+
+The questions I’m referring to first started during the promo-
+
+tional tour for my autobiography in late 2001 and through much
+
+of 2002, when I was overwhelmed by the emotional attachment
+
+— 1 —
+
+INTRODUCTION
+
+people seemed to have to GE. From coast to coast, and in many
+
+countries around the world, people told me touching stories
+
+about their experiences working for the company, or what hap-
+
+pened when their sister, dad, aunt, or grandfather did.
+
+But with these stories, I was also surprised to hear how much
+
+more people wanted to know about getting business right.
+
+Radio call-in guests pressed me to explain GE’s system of
+
+differentiation, which separates employees into three performance
+
+categories and manages them up or out accordingly. People
+
+attending book-signing events wanted to know if I really meant it
+
+when I said the head of human resources at every company should
+
+be at least as important as the CFO. (I did!) At a visit to the
+
+University of Chicago business school, an MBA from India asked
+
+me to explain more fully what a really good performance appraisal
+
+should sound like.
+
+The questions didn’t stop after the book tour. They contin-
+
+ued—in airports, restaurants, and elevators. Once a guy swam over
+
+to me in the surf off Miami Beach to ask me what I thought about
+
+a certain franchise opportunity he was considering. But mainly
+
+they’ve come at the 150 or so Q & A sessions I have participated
+
+in over the past three years, in cities around the world from New
+
+York to Shanghai, from Milan to Mexico City. In these sessions,
+
+which have ranged from thirty to five thousand audience mem-
+
+bers, I sit on a stage with a moderator, usually a business journalist,
+
+and I try to answer anything the audience wants to throw at me.
+
+And throw they have—questions about everything from cop-
+
+ing with Chinese competition, to managing talented but difficult
+
+people, to finding the perfect job, to implementing Six Sigma, to
+
+hiring the right team, to leading in uncertain times, to surviving
+
+mergers and acquisitions, to devising a killer strategy.
+
+What should I do, I’ve heard, if I deliver great results but I work
+
+for a jerk who doesn’t seem to care, or if I’m the only person in my
+
+— 2 —
+
+INTRODUCTION
+
+company who thinks change is necessary, or if the budget process
+
+in my company is full of sandbagging, or I’m about to launch a
+
+great new product and headquarters doesn’t want to give me the
+
+autonomy and resources I need?
+
+What can I do, people have asked, if managers in my company
+
+don’t really tell it like it is, or I have to let go of an employee I
+
+really like but who just can’t hack it, or I have to help lead my orga-
+
+nization through the crisis we’ve been trying to deal with for a year?
+
+There have been questions about juggling the colliding
+
+demands of kids, career, and all that other stuff you want to do, like
+
+play golf, renovate your house, or raise money in a walkathon.
+
+There have been questions about landing the promotion of your
+
+dreams—without making any enemies. There have been ques-
+
+tions about macroeconomic trends, emerging industries, and
+
+currency fluctuations.
+
+There have been literally thousands of questions. But most of
+
+them come down to this:
+
+What does it take to win?
+
+And that is what this book is about—winning. Probably no

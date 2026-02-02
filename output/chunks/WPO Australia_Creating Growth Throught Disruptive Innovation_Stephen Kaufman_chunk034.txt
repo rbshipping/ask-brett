@@ -1,0 +1,142 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Process Management
+SUMMARY: Processes in an organization can be formal, informal, or part of the culture, and they can be capabilities or disabilities for different tasks.
+KEYWORDS: business processes, organizational culture, process flexibility, process innovation, process management
+---
+
+Processes differ not only in their purpose, but also in their visibility. Some processes are
+
+“formal,” in the sense that they are explicitly defined, documented and followed. Others are “informal,”
+
+habitual routines or ways of working that have evolved over time, which people adopt simply because
+
+“that’s the way we do things around here.” Still other methods of working and interacting have proven so
+
+effective for so long that people unconsciously follow them—and they have become part of the culture of
+
+the organization. Processes that are formal, informal, or part of the culture all define how an organization
+
+transforms inputs into outputs of greater value.
+
+Processes emerge in response to specific recurrent tasks. When people follow a process to do the
+
+task for which it was designed, it usually performs efficiently. But when the same efficient process is
+
+employed to tackle a very different task, it often seems bureaucratic. In other words, a process that
+
+becomes a capability in executing a certain task can be a disability in executing other tasks. In contrast to
+
+the flexibility of many resources, processes by their very nature are meant not to change. They are
+
+established to help employees perform recurrent tasks in a consistent way, time after time, without
+
+needing intense managerial monitoring. One reason that focused organizations perform so well is that
+
+their processes are well aligned to the tasks.‘
+
+Innovating managers within an established company often try to use established processes to
+
+execute new and different tasks because it seems simpler to have one-size-fits-all processes for doing
+
+things. But very often the cause of an innovation’s failure is that the wrong processes were used in
+
+managing its development and execution.°
+
+Sometimes the most crucial processes to examine as capabilities or disabilities aren’t the obvious
+
+value-adding processes involved in logistics, development, manufacturing, and customer service. Rather,
+
+they are the enabling or background processes that support investment decisions. These include how
+
+market research is habitually done, how such analysis is translated into financial projections, how plans
+
+and budgets are negotiated and how those numbers are delivered, the types of objectives for which
+
+managers are held accountable, and so on. These processes are where many organizations’ most serious
+
+disabilities in creating or supporting disruptive growth businesses reside.
+
+Processes are hard to observe, and it can be difficult to judge whether the mainstream
+
+organization’s processes will facilitate or impede a new-growth business. You can make a good guess,
+
+however, by asking whether the organization has faced similar situations or tasks in the past. An
+
+organization would not have developed a process for accomplishing a particular task if it has not
+
+repeatedly addressed a task like that before. For example, if an organization has repeatedly formulated
+
+strategic plans for established businesses in existing markets, then a process for formulating such plans
+
+likely will have coalesced. Managers will instinctively follow that process. Developing a strategic plan to
+
+create a new market where one does not presently exist requires a very different process, however. If the
+
+organization has not repeatedly formulated plans for competing in markets that do not yet exist, it is safe
+
+to assume that no processes for making such plans exist. When a new product or service architecture is to
+
+be developed, when a development cycle is to be accelerated significantly, or a new market is to be
+
+created, a different process almost always will be required.
+
+Priorities
+
+The third class of factors that affects what an organization can and cannot accomplish are the
+
+priorities embedded in its business model.° Employees at every level make prioritization decisions. This
+
+is most evident at the top of the corporation, where senior executives decide to fund certain proposals to
+
+invest in new products, services, and processes, and not to fund others. However, priority-setting is
+
+equally important, and perhaps even more defining, in the less visible middle and lower levels of the
+
+company, where salespeople decide every day which customers they will call on, which products to push
+
+with those customers, and which products not to emphasize; when an engineer decides which of her three
+
+assigned projects she will work on today, or makes a design choice; and when a production scheduler
+
+puts one order ahead of another.
+
+The larger and more complex a company becomes, the more important it is for senior managers
+
+to train employees at every level, acting autonomously, to make prioritization decisions that are consistent
+
+with the business or profit model of the company. Employees must prioritize those things that help the
+
+company to make money in the way that it is structured to make money if the company is to survive.
+
+Whereas resources and processes are often enablers that define what an organization can do,
+
+priorities embedded in the business model often represent constraints—they define what the organization
+
+cannot do or should not do. If, for example, the structure of a company’s overhead costs requires it to
+
+achieve gross profit margins of 40 percent, a powerful decision rule will have evolved that encourages
+
+employees not to propose, and senior managers to dismiss, ideas that promise gross margins at or below
+
+30 percent. Such an organization would be incapable of succeeding in low-margin businesses—because
+
+you can’t succeed with an endeavor that cannot be prioritized. At the same time, an organization with a
+
+very different cost structure in its business model — say overhead costs of 20% -- could embrace and
+
+accord urgency to the very same project. These differences create the asymmetries of motivation that exist
+
+between disruptors and disruptees.
+
+Over time, the priorities of successful firms evolve across two predictable dimensions. The first
+
+relates to acceptable gross margins. As companies upgrade their products and services to capture more
+
+attractive customers in premium tiers of their markets, they often add overhead cost. As a result, gross
+
+margins that at one point were quite attractive will seem unattractive at a later point. What companies can
+
+prioritize changes as they migrate up-market.
+
+The second dimension along which priorities develop and change relates to how big an

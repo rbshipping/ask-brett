@@ -1,0 +1,176 @@
+SOURCE: HBR The True Measures of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.11 HFT - Measurement
+TOPIC: Financial Performance Metrics
+SUMMARY: The article discusses the limitations of common financial performance measures, such as earnings and sales growth, in predicting shareholder returns, and emphasizes the importance of linking nonfinancial measures to value creation.
+KEYWORDS: financial performance, shareholder returns, nonfinancial measures, value creation, cause-and-effect
+---
+
+another. Earnings data may be moderately predictive of shareholder returns, but they are not
+
+persistent.
+
+Using sales growth as a gauge of value creation falls short for a different reason. While sales growth is
+
+more persistent than EPS growth, it is less strongly correlated with relative total returns to
+
+shareholders (r = 0.27). In other words, sales-growth statistics may be somewhat persistent, but
+
+they’re not very predictive.
+
+Thus the two most popular measures of performance have limited value in predicting shareholder
+
+returns because neither is both persistent and predictive.
+
+Of course, companies also use nonfinancial performance measures, such as product
+
+quality, workplace safety, customer loyalty, employee satisfaction, and a customer’s
+
+willingness to promote a product. In their 2003 HBR article, accounting professors
+
+Christopher Ittner and David Larcker wrote that “most companies have made little attempt
+
+to identify areas of nonfinancial performance that might advance their chosen strategy.
+
+Nor have they demonstrated a cause-and-effect link between improvements in those
+
+nonfinancial areas and in cash flow, profit, or stock price.” The authors’ survey of 157
+
+companies showed that only 23% had done extensive modeling to determine the causes of
+
+the effects they were measuring. The researchers suggest that at least 70% of the
+
+companies they surveyed didn’t consider a nonfinancial measure’s persistence or its
+
+predictive value. Nearly a decade later, most companies still fail to link cause and effect in
+
+their choice of nonfinancial statistics.
+
+But the news is not all bad. Ittner and Larcker did find that companies that bothered to
+
+measure a nonfinancial factor—and to verify that it had some real effect—earned returns on
+
+equity that were about 1.5 times greater than those of companies that didn’t take those
+
+steps. Just as the fast-food chain boosted its performance by determining that its key
+
+metric was store manager turnover, not overall employee turnover, companies that make
+
+proper links between nonfinancial measures and value creation stand a better chance of
+
+improving results.
+
+Companies that link nonfinancial measures
+
+and value creation stand a better chance of
+
+improving results.
+
+Picking Statistics
+
+The following is a process for choosing metrics that allow you to understand, track, and
+
+manage the cause-and-effect relationships that determine your company’s performance. I
+
+will illustrate the process in a simplified way using a retail bank that is based on an analysis
+
+of 115 banks by Venky Nagar of the University of Michigan and Madhav Rajan of Stanford.
+
+Leave aside, for the moment, which metrics you currently use or which ones Wall Street
+
+analysts or bankers say you should. Start with a blank slate and work through these four
+
+steps in sequence.
+
+1. Define your governing objective.
+
+A clear objective is essential to business success because it guides the allocation of capital.
+
+Creating economic value is a logical governing objective for a company that operates in a
+
+free market system. Companies may choose a different objective, such as maximizing the
+
+firm’s longevity. We will assume that the retail bank seeks to create economic value.
+
+2. Develop a theory of cause and effect to assess presumed drivers of the
+
+objective.
+
+The three commonly cited financial drivers of value creation are sales, costs, and
+
+investments. More-specific financial drivers vary among companies and can include
+
+earnings growth, cash flow growth, and return on invested capital.
+
+Naturally, financial metrics can’t capture all value-creating activities. You also need to
+
+assess nonfinancial measures such as customer loyalty, customer satisfaction, and product
+
+quality, and determine if they can be directly linked to the financial measures that
+
+ultimately deliver value. As we’ve discussed, the link between value creation and financial
+
+and nonfinancial measures like these is variable and must be evaluated on a case-by-case
+
+basis.
+
+In our example, the bank starts with the theory that customer satisfaction drives the use of
+
+bank services and that usage is the main driver of value. This theory links a nonfinancial
+
+and a financial driver. The bank then measures the correlations statistically to see if the
+
+theory is correct and determines that satisfied customers indeed use more services,
+
+allowing the bank to generate cash earnings growth and attractive returns on assets, both
+
+indicators of value creation. Having determined that customer satisfaction is persistently
+
+and predictively linked to returns on assets, the bank must now figure out which employee
+
+activities drive satisfaction.
+
+3. Identify the specific activities that employees can do to help achieve the
+
+governing objective.
+
+The goal is to make the link between your objective and the measures that employees can
+
+control through the application of skill. The relationship between these activities and the
+
+objective must also be persistent and predictive.
+
+In the previous step, the bank determined that customer satisfaction drives value (it is
+
+predictive). The bank now has to find reliable drivers of customer satisfaction. Statistical
+
+analysis shows that the rates consumers receive on their loans, the speed of loan
+
+processing, and low teller turnover all affect customer satisfaction. Because these are
+
+within the control of employees and management, they are persistent. The bank can use
+
+this information to, for example, make sure that its process for reviewing and approving
+
+loans is quick and efficient.
+
+4. Evaluate your statistics.
+
+Finally, you must regularly reevaluate the measures you are using to link employee
+
+activities with the governing objective. The drivers of value change over time, and so must
+
+your statistics. For example, the demographics of the retail bank’s customer base are
+
+changing, so the bank needs to review the drivers of customer satisfaction. As the customer
+
+base becomes younger and more digitally savvy, teller turnover becomes less relevant and
+
+the bank’s online interface and customer service become more so.Companies have access
+
+to a growing torrent of statistics that could improve their performance, but executives still
+
+cling to old-fashioned and often flawed methods for choosing metrics. In the past,
+
+companies could get away with going on gut and ignoring the right statistics because that’s
+
+what everyone else was doing. Today, using them is necessary to compete. More to the

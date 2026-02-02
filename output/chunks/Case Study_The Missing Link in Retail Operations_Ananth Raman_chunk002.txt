@@ -1,0 +1,256 @@
+SOURCE: Case Study_The Missing Link in Retail Operations_Ananth Raman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text discusses execution issues in retail operations, such as inventory inaccuracies and misplaced SKUs, which can impact customer experience and demand forecasting.
+KEYWORDS: retail operations, inventory accuracy, store execution, customer experience, demand forecasting
+---
+
+From a Sample of 242 Stores
+
+Frequency
+
+0.2%
+
+0.6%
+
+1.0%
+
+1.4%
+
+1.8%
+
+2.2%
+
+2.6%
+
+3.0%
+
+3.4%
+
+3.8%
+
+4.2%
+
+4.6%
+
+5,0%
+
+5.4%
+
+5.8%
+
+6.2%
+
+6.6%
+
+7.0%
+
+74%
+
+78%
+
+8.2%
+
+8.6%
+
+9.0%
+
+9A%
+
+9.8%
+
+0.2%
+
+0.6%
+
+1.0%
+
+1.4%
+
+1.8%
+
+2.2%
+
+2.6%
+
+3.0%
+
+] 23
+
+s) 23
+
+23
+
+] 35
+
+J 21
+
+Fraction of SKUs Not on Floor
+
+CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001 139
+
+Thie danimant ic otharivad far nce anh: hiv IAUAL STRANI rintit Anril 92919 Canine me nnetina ie an infrinnamant
+
+Execution: The Missing Link in Retail Operations
+
+where the system showed 42 units in inventory was, in reality, stocked out. The”
+
+error in data caused the system not to replenish the item and because the item
+
+had not sold in months due to the stockout, reduced future demand forecast to:
+
+ridiculously low levels. Similarly, with misplaced SKUs, retailers often fail to
+
+observe consumer demand accurately, and this, in turn, causes thenz-to under-
+
+estimate demand for items that were misplaced at the stores. io
+
+Moreover, the successful execution of a “bricks and clicks” strategy,”
+
+presently pursued by many retailers, requires very good store-level execution.
+
+For example, many retailers now allow consumers to purchase items on the
+
+Internet and return merchandise to their stores. Similarly,some retailers have
+
+tried, and many others have considered, allowing customers to view a store’s
+
+inventory on the web. Such a strategy allows consumers,to verify whether an
+
+item is available at a store and even to reserve the item forfutuire purchase
+
+without having to visit the store. However, offering such a service reliably re-
+
+quires inventory data to be accurate and also requires that items that are avail-
+
+able at the store can be found easily by a consumer. Imagine the impact of a
+
+consumer verifying on the web that an item was available at a particular store
+
+and traveling to that store only to find the item cked ‘cout because the infor-
+
+mation on the web was inaccurate or Be iteni had been misplaced at
+
+the store. Most retailers recognize that, th ssociated with disappointing
+
+customers after promising produ substantial. Not surprisingly,
+
+many have shied away from offe ng the tores’ inventory on the web for
+
+consumers to examin:
+
+There is, however, reasonto be optimistic; the incidence of these execu-
+
+tion problems can be reduced. Our research shows that while execution is weak
+
+on average at the chains: wejhave studied so far, pockets of excellence are
+
+present (i.e., some stores per érm better than others). Consequently, operational
+
+execution canjbe:improved quickly and dramatically if retail managers were to
+
+create awareness ‘of the magnitude and impact of execution problems in their
+
+supply chainand learndrom those stores that are currently executing well.
+
+sor Execution in Retail Operations?
+
+iscovered these execution problems by accident. A few years ago,
+
+€ started studying retail supply chains and operations in a research consor-
+
+? that included over 30 retailers. Our goal in this consortium was primarily
+
+to understand how retailers do, and recommend how they should, forecast
+
+demand and plan inventory levels and other operational variables in the supply
+
+hain.
+
+Our assumption in launching this research consortium was that retailers
+
+had plenty of sales and inventory data that was “clean” and easily accessible.
+
+Consequently, we were surprised when, early in our research, executives at a
+
+small retailer told us about problems relating to inventory record inaccuracy.
+
+We assumed that the problems were unique to this retailer and would not be
+
+140 CALIFORNIA MANAGEMENT REVIEW VOL. 43,NO.3 SPRING 2001
+
+“Thie dneimont ic aitharivad farce anh: he IAUB STRANI rentil Anril 919 Carving ar nating ie on infrinnamant
+
+Execution: The Missing Link in Retail Operations
+
+encountered by other retailers with more established systems. Subsequent field”
+
+visits to other retailers however showed that execution problems were wide-__
+
+spread. Over time, we were able to identify anecdotally the two execution pro
+
+lems described in this article at multiple retailers in food, apparel, book, music,
+
+and office product categories, :
+
+Subsequently, we launched a more intensive phase of our research, based
+
+on data obtained from physical audits conducted at the store-SKU level at Beta
+
+and Gamma. Both were frequently identified by other retailers in our study as
+
+having stellar operations and systems. At Beta and Gamma, physical audits are
+
+conducted annually or semi-annually; a team of auditors,yvisits each,store and
+
+collects data on the amount and location of various SKUs. Stores.are closed at
+
+the time of physical audit, hence execution problems are, likely to be less preva-
+
+lent during an audit than during regular store hours. For eachvof Beta’s 242
+
+stores, we were able to obtain the fraction of a store’s assortment that had been
+
+misplaced in storage areas and hence was not available in the selling area where
+
+consumers could find and purchase them. AbGamma, we obtained “physical”
+
+and “system” inventory levels and hence e in ihiventory records for roughly
+
+10,000 SKUs at 37 stores. :
+
+Our analyses revealed a numb
+
+agers, and at least a few that were,j
+
+stores measured on the two ex
+
+ably, For example, aver.
+
+year to the next. The variation’in performance among stores and the consistency
+
+of performanée,from one year to the next is summarized in Figures 3 and 4.
+
+Our statistical analysis (described briefly in Appendix 1) enabled us to
+
+identify thre@{broad ‘categories of drivers: replenishment and sales processes at
+
+stores and distribution centers (DCs), merchandising and inventory manage-
+
+: employee turnover. The stores had identical information technology
+
+and m@netary siicentive mechanisms and were part of the same corporate entity;
+
+y, these factors could not explain the differences in store
+
+Replenishment and Sales Processes at Stores and DCs
+
+: The processes followed at stores and distribution centers understandably
+
+affect the quality of execution in the stores. Consider the inventory record inac-
+
+curacy problem—it is easy to see that store processes contribute substantially to
+
+this problem. Almost all of us, when buying multiple, identically priced items at
+
+a supermarket, say a lemon yogurt and a plain yogurt, have watched the sales-

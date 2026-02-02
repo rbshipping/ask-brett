@@ -1,0 +1,160 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Innovation
+SUMMARY: The text discusses the challenges and opportunities for retailers in embracing the sharing economy and incorporating services into their business models.
+KEYWORDS: sharing economy, business model innovation, retail services, product servicification, digital transformation
+---
+
+Some retailers are already reading sharing strategies but have been reluctant to make the first move.
+
+This would indicate that once one retailer break ranks and embraces sharing, it might be a quick rush to
+
+market for everyone else.
+
+Challenge: Retailers that decide to partially or fully embrace the sharing economy will need to have a
+
+brave rethink of their current business models and look for ways to create new and compelling
+
+propositions for their customers, and new ways of defining and thinking about their own value (see
+
+section 6.5.5 for some ideas).
+
+Challenge: Retailers should consider strategies to capture newly freed discretionary consumer spending
+
+dollars if/when sharing does reduce traditional consumption and thus frees up funds. This might take
+
+the form of diversification into new businesses providing consumers with new services or experiences.
+
+51
+
+6.5.5 “Servicification” of the world
+
+As shoppers shift their spending towards services and away from buying goods, manufacturers and
+
+retailers will need to find ways to wrap services around products to grow future revenues.
+
+These services not only create opportunities for increased revenue and value creation, but also can
+
+create customer stickiness and increase loyalty. Section 6.1.2 offers a simple example of services made
+
+possible as products becoming smart, connected and sensing courtesy of the computing capabilities
+
+coming in the next decade from Moore’s Law.
+
+Often it is the combination of the sharing economy with the evolution of products to become ‘smart’
+
+that creates that biggest opportunities for both product and business innovation.
+
+Challenge: Manufacturers and retailers, many of whom have expertise in product development but who
+
+may not have a core competency in services, should start exploring service opportunities and either
+
+hire, buy or partner with appropriate expertise to build out adjacent service offerings. The nature of
+
+many products will change in the coming decade. ‘Dumb’ products will be replaced by ‘smart’ products.
+
+And smart products create a profound opportunity for the creation of new revenue streams and new
+
+business models that can boost revenue and profitability. Retailers and manufacturers that understand
+
+and harness this first will reap huge benefits.
+
+6.5.6 Conclusions on the sharing economy
+
+The sharing economy is a potentially disruptive and very scary threat to traditional retailers. On the
+
+flipside, it also presents a number of opportunities for retailers that choose to embrace it:
+
+ Retailers could experiment with leasing and rental services for a range of product categories (for
+
+example Best Buy* is shifting from selling consumer electronics components to leasing home
+
+theaters as a service).
+
+ Retailers could devote a portion of their footprint to selling lightly used products alongside new.
+
+ Retailers could serve as an indemnification service to guarantee used products they are reselling,
+
+thereby justifying higher margins by assuming some of the risk for shoppers.
+
+ Retailers could facilitate loaning, bartering and renting services and serve as a reputation
+
+management system between sellers and shoppers.
+
+ Retailers could partner with manufacturers to develop a range of smart products specifically
+
+designed for sharing. For example, Mercedes* combined GPS, mobile, web, RFID, and computing to
+
+make its Smart cars truly smart and connected when it created its Car2Go* service. This
+
+technological upgrade made it much easier for them to deliver a car as a service.
+
+6.5.7 The social economy
+
+Shoppers are increasingly more likely to trust reviews and product insights from friends on social
+
+networks than from ‘official’ reviews and tests. The use of social networks is bringing greater efficiency
+
+to shoppers as they pulse their networks for advice on purchases, or for reassurance on an impulse buy.
+
+Challenge: Retailers will need to figure out how to integrate social networking throughout the entire
+
+length of the shopper journey: from initial discovery, to the decision process, through purchase and
+
+beyond to building after-sales loyalty.
+
+52
+
+6.6 CLUBS AND MEMBERSHIPS
+
+Membership shopping clubs have proven popular with shoppers. For retailers they create customer
+
+lock-in and change shopper’s behavior to give them “first option” advantage.
+
+From Costco* to Amazon Prime*, memberships can offer great value to shoppers. Kantar retail
+
+estimates that club memberships will rise 5.6% CAGR from 2014-2019. Amazon Prime is now used by
+
+almost 1 in 5 US households and boasts over 20 million members. It is particularly popular with
+
+Millennials. Costco membership fees make up a large part of their annual profit.
+
+6.6.1 Clubs change shopper behavior
+
+The most notable thing about memberships is that they change people’s behavior. Amazon Prime
+
+members shop at Amazon at twice the rate of non-members. People often join for the free 2-day
+
+shipping that Amazon Prime offers, but stay for the additional benefits afforded by being a part of the
+
+Amazon ecosystem: free instant streaming video, the Kindle lending library, and more. Members exhibit
+
+an ‘Amazon first’ mentality whereby 49% of them report that when looking for a product they will go to
+
+Amazon first before going anywhere else. Amazon’s sales can in part be attributed to their high success
+
+rate turning these inquiries into sales. As a result of this ‘Amazon first’ behavior, 1 in 5 Amazon Prime
+
+customers say they have reduced their shopping at other retailers.
+
+Memberships and clubs could be a critical component of any strategy designed to lock in customers and
+
+increase future revenue.
+
+Challenge: To compete with Amazon Prime and other emerging membership-based ecosystems,
+
+retailers may need to make large investments to build out trusted platforms, programs, and services
+
+that deliver increasing value to shoppers. They will need to build ecosystems of value that attract
+
+members and keep them signing up year after year. Those that do will benefit from increased ability to
+
+deliver personalized value, more cross and up-selling, and enjoying much deeper insights into shoppers.
+
+See section 4.2.4 for discussion on the security and privacy implications for handling all the personal
+
+data that such membership schemes would generate.
+
+6.7 DELIVERY NETWORK DISRUPTION WILL FURTHER STRENGTHEN ONLINE
+
+High-speed delivery could totally tip the balance in the battle between traditional and online retail.

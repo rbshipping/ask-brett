@@ -1,0 +1,156 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Retail Industry Transformation
+SUMMARY: The retail industry has undergone significant changes, with specialized retailers gaining market share from broad-line department stores by offering a more focused merchandise mix and a simpler, more convenient purchasing experience.
+KEYWORDS: retail industry, specialized retailers, purchasing experience, brand value, commoditization
+---
+
+industry has changed as a consequence. Specialized retailers have stolen a significant share of
+
+market from the broad-line department stores because their focused merchandise mix allows the
+
+customers they target to find what they want more quickly and conveniently. What is not good
+
+enough in certain tiers of the apparel industry has shifted from the quality of the product to the
+
+simplicity and convenience of the purchasing experience. Much of the ability to create and
+
+maintain valuable brands, as a consequence, has migrated away from the product and to the
+
+channel because, for the present, it is the channel that addresses the piece of added value that is
+
+not yet good enough.'® We don’t even question who makes the dresses in Talbot’s, the sweaters
+
+for Abercrombie & Fitch, or the jeans at Gap and Old Navy. Much of the apparel sold in those
+
+channels carries the brand of the channel, not the manufacturer.”
+
+5-11
+
+A View of the Automobile Industry’s Future
+
+Through the Lenses of This Model
+
+Most of our examples of commoditization and de-commoditization have been drawn
+
+from the past. To show how this theory can be used to look into the future, this section discusses
+
+how this transformation is under way in the automobile industry, initiating a massive transfer of
+
+the ability to make attractive profits in the future away from automobile manufacturers and
+
+toward certain of their suppliers. Even the power to cultivate valuable brands is likely to migrate
+
+to the subsystems. This transformation will probably take a decade or two to fully accomplish,
+
+but once you know what to look for, it is easy to see that the processes already are irreversibly
+
+under way.
+
+The functionality of many automobiles has overshot what customers in the mainstream
+
+markets can utilize. Lexus, BMW, Mercedes, and Cadillac owners will probably be willing to
+
+pay premium prices for more of everything for years to come. But in market tiers populated by
+
+middle- and lower-price-point models, car makers find themselves having to add more and better
+
+features just to hang onto their market share, and they struggle to convince customers to pay
+
+higher prices for these improvements. The reliability of models such as Toyota’s Camry and
+
+Honda’s Accord is so extraordinary that the cars often go out of style long before they wear out.
+
+As aresult, the basis of competition—what is not good enough—is changing in many tiers of the
+
+auto market. Speed to market is important. Whereas it used to take five years to design a new-
+
+model car, today it takes two. Competing by customizing features and functions to the
+
+preferences of customers in smaller market niches is another fact of life. In the 1960s, it was not
+
+unusual for a single model’s sales to exceed a million units per year. Today the market is far
+
+more fragmented: Annual volumes of 200,000 units are attractive. Some makers now promise
+
+that you can walk into a dealership, custom-order a car, and have it delivered in five days—
+
+roughly the response time that Dell Computer offers.
+
+In order to compete on speed and flexibility, automakers are evolving toward modular
+
+architectures for their mainstream models. Rather than uniquely designing and knitting together
+
+individual components procured from hundreds of suppliers, most auto companies now procure
+
+subsystems from a much narrower base of “tier one” suppliers of braking, steering, suspension,
+
+and interior cockpit subsystems. Much of this consolidation in the supplier base has been driven
+
+by the cost-saving opportunities that it affords—opportunities that often were identified and
+
+quantified by analytically astute consulting firms.
+
+The integrated American automakers have been forced to dis-integrate in order to
+
+compete with the speed, flexibility, and reduced overhead cost structure that this new world
+
+demands. General Motors, for example, spun off its component operations into a separate
+
+publicly traded company, Delphi Automotive, and Ford spun off its component operations as
+
+Visteon Corporation. Hence, the same thing is happening to the auto industry that happened to
+
+computers: Overshooting has precipitated a change in the basis of competition, which
+
+5-12
+
+precipitated a change in architecture, which forced the dominant, integrated firms to dis-
+
+integrate.
+
+At the same time, the architecture is becoming progressively more interdependent within
+
+most of the subsystems. The models at lower price points in the market need improved
+
+performance from their subsystems in order to compete against higher-cost models and brands in
+
+the tiers of the market above them. If Kia and Hyundai used their low-cost Korean
+
+manufacturing base to conquer the subcompact tier of the market and then simply stayed there,
+
+competition would vaporize profits. They must move up, and once their architectures have
+
+become modular the only way to do this is to be fueled by ever-better subsystems.
+
+The newly interdependent architectures of many subsystems are forcing the tier-one
+
+suppliers to be less flexible at their external interface. The automobile designers are increasingly
+
+needing to conform their designs to the specifications of the subsystems, just as desktop
+
+computer makers need to conform the designs of their computers to the external interfaces of
+
+Intel’s microprocessor and Microsoft’s operating system. As a consequence, we would expect
+
+that the ability to earn attractive profits is likely to migrate away from the auto assemblers,
+
+toward the subsystem vendors.
+
+In chapter 4 we recounted how IBM’s PC business outsourced its microprocessor to Intel
+
+and its operating system to Microsoft, in order to be fast and flexible. In the process, IBM hung
+
+on to where the money had been—design and assembly of the computer system—-and put into
+
+business the two companies that were positioned where the money would be. General Motors
+
+and Ford, with the encouragement of their consultants and investment bankers, have just done
+
+the same thing. They had to decouple the vertical stages in their value chains in order to stay
+
+abreast of the changing basis of competition. But they have spun off the pieces of value-added
+
+activity where the money will be, in order to stay where the money has been."
+
+oR oe ok He oe ok

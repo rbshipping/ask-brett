@@ -1,0 +1,341 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The document discusses measures and processes for ensuring data integrity in inventory management, including store-level and distribution center-level initiatives.
+KEYWORDS: data integrity, inventory management, stocktakes, shrinkage reporting, ownership
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+Area / regional Manager to sign off on No Commercial Value (NCV) inventory in stores.
+
+Weekly regional Conference Call has data integrity as an agenda item for any data integrity issues identified at stores.
+
+Monthly Reports
+
+Shrinkage Reporting (Stocktake, NCV and adjustments)
+
+National / Region / Area
+
+DC Weekly Rolling Counts
+
+Online Weekly Counts of low quantity skus
+
+[Slide 153]
+
+Data Integrity Issues
+
+Customer Focus / Product Innovation / Positive Attitude / Teamwork & Leadership
+
+Previous Data Integrity Issues
+
+Shrinkage reporting
+
+Lack of training / understanding of data integrity
+
+No ownership of data integrity
+
+Christmas Product
+
+Outstanding Data Integrity Issues
+
+Old / discontinued SKU’s still able to be used in store
+
+Customer Special Order Process
+
+Store Stock Receipting - Manual Supplier Orders
+
+[Slide 154]
+
+Data Integrity
+
+Customer Focus / Product Innovation / Positive Attitude / Teamwork & Leadership
+
+Ownership
+
+Finance Department in partnership with Operations – total business responsibility.
+
+Stock Controller manages all Data Integrity Issues identified.
+
+Data Integrity / Shrinkage is a KPM for:
+
+Finance Director / Finance Manager / Stock Controller
+
+National Retail Operations / Regional & Area Managers / Store Managers
+
+DC Manager
+
+[Slide 155]
+
+Brand Questions / Discussion
+
+What measures are used?
+
+What reports are used? What happens to them?
+
+KPIs?
+
+Who’s “3 to 5” KPIs have Data Integrity as one of them? Ownership?
+
+Method of “Culturalising” Data Integrity in the business (Retail & CS)?
+
+Most significant issues? How addressed?
+
+Any unique solution you are particularly “excited” about?
+
+Single biggest existing unsolved frustration or issue?
+
+154
+
+[Slide 156]
+
+Data Integrity
+
+[Slide 157]
+
+Reporting on Data Integrity
+
+Stores
+
+Stocktakes done twice year.
+
+Full analysis of variances by stocktake team
+
+Results sent to State, Area and store manager
+
+Follow up by stocktake coordinator with every store manager with action plan put in place (follow-ups elevated to stocktake manager or LP manager if necessary
+
+This year trialling in one state a stocktake roster based on risk analysis rather then automatic twice per year
+
+DC
+
+Similar to stores but follow up with DC manager and team leaders
+
+[Slide 158]
+
+bras N things Result Measures
+
+[Slide 159]
+
+bras N things Stocktake Result Sheet
+
+[Slide 160]
+
+Stocktake Team
+
+Stocktake team are permanent in role.
+
+Not just perform stocktakes.
+
+Assist with action plans regarding data integrity.
+
+Work with state retail team for all data integrity. issues.
+
+Work with store team where high risk is identified.
+
+Rolling out programme where state stocktake coordinator spends one day with each new store manager to complete data integrity training and checklist
+
+[Slide 161]
+
+Managing poor results
+
+Example used New Zealand stocktake results
+
+2010-2011 and 2011-2012
+
+Identified many issues relating to stock management.
+
+Focus on team training by state team.
+
+Data integrity checklist completed at every store visit by AM’s and LP team.
+
+All store to store transfers manually checked. This is still continuing.
+
+Cameras installed in 3 high risk stores.
+
+Weekly counts of high risk styles. This was done for a period of 6 months
+
+Stocktake coordinator role became fulltime for six months with focus on training in every store on all operational tasks relating to stock management.
+
+Extra round of stocktakes were rostered for 10 worst performing stores.
+
+[Slide 162]
+
+Single Biggest Unsolved Issue
+
+FAULTIES!
+
+Need to reduce volume and value of stock stores send to DC as faulty. Factors that will influence this are store team training and product changes eg. To reduce “yellowing” of white bras product team have developed a new process to cover lining of cups.
+
+Need to improve handling of stock in DC eg reducing stock drop on DC floor, more care in packing pick bays.
+
+Better manage the packing of stock prior to dispatch, eg wrapping breakable bottles.
+
+Should all faulty stock be written off? In the past we have sent some faulty stock to an outlet store, cost analysis of this showed negative value
+
+[Slide 163]
+
+Management of data integrity
+
+Stocktakes, stock adjustments managed by stocktake and LP team reporting to CFO
+
+KPI’s  regarding loss apply to LP manager, stocktake team, CFO .
+
+Hall of Mirrors
+
+Score: 7 We can to do more to                         		improve intransit reports, Faulties, 		negatives, stocktake results.
+
+[Slide 164]
+
+Brand Questions / Discussion
+
+What measures are used?
+
+What reports are used? What happens to them?
+
+KPIs?
+
+Who’s “3 to 5” KPIs have Data Integrity as one of them? Ownership?
+
+Method of “Culturalising” Data Integrity in the business (Retail & CS)?
+
+Most significant issues? How addressed?
+
+Any unique solution you are particularly “excited” about?
+
+Single biggest existing unsolved frustration or issue?
+
+163
+
+[Slide 165]
+
+Data Integrity
+
+[Slide 166]
+
+Measures & Reporting
+
+Inventory Key Risk Indicators are reported to 3 sectors:
+
+Retail Store Team , Retail Management Team + Support Centre Team
+
+Store Team
+
+Weekly
+
+LP Report
+
+Monthly
+
+SWAT Report
+
+(top 30 high loss stores)
+
+KRI Scorecard
+
+6 monthly
+
+Stocktake Report
+
+Each KRI has a target set to identify exceptions or potential issues.
+
+The store aims to achieve all targets set
+
+Retail Management Team
+
+Weekly
+
+LP Report
+
+Inventory Pack
+
+Stocktake Summary
+
+Monthly
+
+KRI Scorecard
+
+6 monthly
+
+Stocktake Summary
+
+Support Centre Team
+
+Weekly
+
+LP Report
+
+Inventory Pack
+
+Stocktake Summary
+
+Stockholding Report
+
+Picking Audits
+
+Monthly
+
+Stock Reports
+
+6 monthly
+
+Stocktake Summary
+
+S/take Risk Assessment
+
+RM and SM follow up with stores where exceptions are identified. Opportunities are identified to improve
+
+SC reviews and investigates trends to mitigate risk and ensure processes do not cause loss.
+
+Opportunities are identified to improve
+
+Inventory KRIs
+
+IBTs >7 days
+
+IBTs DC
+
+Negative                             stock
+
+Known theft
+
+Faulty
+
+Stock adjustments
+
+Sales without SKU
+
+Price overrides
+
+Transaction error refunds
+
+Refunds
+
+Stocktakes
+
+Stockholding
+
+[Slide 167]
+
+Store Report
+
+Delivered to Store, Regional and State teams
+
+Inventory Pack
+
+Delivered to State Mgrs and Support Centre Team
+
+KRI Scorecard
+
+Delivered to SWAT Stores, Regional Mgrs, State & National Mgrs
+
+Measures & Reporting Examples
+
+[Slide 168]
+
+Most significant issues we had to deal with...
+
+The lack of process infrastructure, inter-department knowledge and ownership
+
+We had mini processes in every department...each department did it ‘their way’ without consultation as to the impact on other departments and the flow-on effect to data integrity.

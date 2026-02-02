@@ -1,0 +1,166 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Smart Home Integration
+SUMMARY: The text discusses a smart, connected recipe system that integrates with a tiered shelving system to suggest menus and locate ingredients in the home and nearby locations.
+KEYWORDS: smart shelf, recipe system, tiered shelving, home inventory, ingredient availability
+---
+
+know that neighbor Alice has seven and
+
+probably won’t eat them all, facilitate a
+
+request, and even handle cross-billing so that
+
+Alice got paid for her onion.
+
+A smart, connected recipe system connected
+
+into this tiered shelving system could suggest
+
+menus optimized around the ingredients
+
+available in the home, but also point out the
+
+availability of needed ingredients in other
+
+locations, including neighbor’s homes. For
+
+example, a smart, connected recipe might
+
+look something like the illustration here.
+
+65
+
+The initial idea for this tiered model was generated out of the futurecasting session where it was
+
+explored via a futurecasting scenario and a science fiction prototype. These are covered in section 10.3
+
+and section 10.5 of this report, respectively. This futurecasting scenario combines shelf intelligence in
+
+the home, an intelligent local store, and online capability to deliver an experience that puts the shopper
+
+at the center.
+
+A model like this is perhaps the ultimate integration level for the smart shelf where a network of
+
+intelligent infrastructure—spanning home, store and online—can optimize for efficiency at the system
+
+level, and also create exciting new value by delivering a set of new shopper-centric services.
+
+Note: For those in the computing business, this approach is akin to a caching architecture with a
+
+cascading storage hierarchy. In computing, memory caches are used to try and feed the processor with
+
+all the data it needs, as fast as it needs it. It does this using intelligent caching algorithms to predict what
+
+data to keep in the closest, fastest memory. If we consider retail distribution as a similar network with a
+
+storage hierarchy, we can imagine the need for predictive algorithms to analyze usage and optimize the
+
+chances of customers finding the items they need in stock, whether that be in their pantry (L1 cache)
+
+their local store (L2 cache), or at the hypermarket (L3 cache).
+
+66
+
+A solution such as this might be of particular interest to a retirement community living in an urban
+
+environment where mobility is more limited and convenience is even more prized.
+
+Challenge: Major retailers should start thinking more broadly about infrastructure deployments and
+
+partner with others to deliver much greater value to shoppers and to society at large. Rather than limit
+
+the scope of their thinking to the infrastructure in their own stores they might consider engaging in
+
+partnerships with others to imagine and deploy system-level networks of smart infrastructure that
+
+improve efficiency and deliver new experiences for people. Partners could include suppliers, architects,
+
+builders, city planners, and logistics companies.
+
+7.10 SMART SHELF BUSINESS MODELS
+
+A wide variety of different business models could be built around the smart shelf. A few sample business
+
+models that come to mind:
+
+ An integrator builds a smart shelving solution (including all the back-end data analytics
+
+capabilities) and sells it to a retailer. The retailer configures the system and deploys it in a way
+
+that delivers a highly differentiated shopper experience, boosting their revenue and margins.
+
+ The retailer leases a smart shelving solution from a supplier, who becomes their business
+
+partner. The retailer generates revenue streams by selling a range of services to manufacturers.
+
+These might include shopper analytics services (foot traffic, demographics), the provisioning of
+
+customized offers to shoppers, on-shelf advertising, dynamic pricing, and other services. The
+
+supplier and the retailer share revenue from these services as part of their business relationship.
+
+ Manufacturers fund, develop, and deploy smart shelving in their retailers’ stores. Retailers gain
+
+insight into a subset of the data gathered by the shelves to help them optimize their operations,
+
+but data is mostly gathered in service of manufacturer needs and manufacturers own the data.
+
+Some shopper-facing capabilities are paid for by the manufacturer to boost sales or their
+
+products, increasing revenue and margins for both retailers and manufacturers.
+
+Retailers may choose to own their own smart shelves (and the data that they gather), they may choose
+
+to rent ‘smart shelves as a service’, or they may choose to cede the opportunity to a third party who
+
+offers ‘free’ or subsidized hardware in return for gaining ownership of the data this infrastructure
+
+gathers. This latter approach would be similar to the model Google* offers when it gives away ‘free’
+
+Android software, or ‘free’ email services.
+
+Any number of business models could be used to bring smart shelves into retail. The key business
+
+questions are around who pays for deployment, how they pay, and why they will pay. So long as the
+
+deployment creates adequate value for those involved, business models will emerge that will fuel these
+
+installations.
+
+Challenge: Designers developing smart shelves will need to consider the best way to monetize the value
+
+that they are creating for retailers, manufacturers, and shoppers.
+
+Challenge: When determining their business strategy around smart infrastructure retailers should
+
+consider it as part of their wider data strategy. The short-term appeal of ‘free’ hardware offered by a
+
+data company may not give the retailer the long-term control over their destiny that would be afforded
+
+by maintaining ownership of shopper data gathered in the store. For more on this topic read section 5.4.
+
+67
+
+8 SUMMARY AND NEXT STEPS
+
+The Second era of Digital Retail is already here.
+
+Retailers that embrace the possibilities presented by digital retail technologies will be able to ride a
+
+sustained wave of innovation that will carry them through the coming decades. They will gain significant
+
+competitive advantage by vastly improving the customer experience, and delivering better quality
+
+insights and more targeted selling to the manufacturers they serve.
+
+As the physical and digital worlds collide in retail, the smart store and all the data it gathers will form the
+
+core of the value proposition computing brings to the shopping experience. The smart shelf will need a
+
+variety of different features and capabilities so it can handle all the different tasks and usages retailers
+
+throw its way.
+
+A decade from now, the winners in retail will be those that invest in building personalized shopping

@@ -1,0 +1,260 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Microeconomics of Industry Competition
+SUMMARY: The text analyzes the dynamics of competition in an industry, where new low-cost entrants can push down prices and make it difficult for higher-cost producers to remain profitable.
+KEYWORDS: industry competition, cost structures, pricing dynamics, new entrants, profitability
+---
+
+ing a margin of $325 per metric ton. Out of that, the mill has fixed
+
+costs to cover, which work out to about $150 per ton across its
+
+total volume. That leaves a profit of $175 per ton for mill A.
+
+Mill B also has variable costs that leave a substantial margin
+
+between costs and price, but in its case, its fixed costs (which are
+
+spread across lower output, as indicated by the width of the bar)
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 232 11/6/12 8:17 PM
+
+)not
+
+cirtem
+
+rep
+
+SU$(
+
+CCDA
+
+The Microeconomic Foundations of Strategy 233
+
+take up the entire margin; mill B barely breaks even at the end of
+
+the year. However, since the mill would have those fixed costs at
+
+least for the medium term even if it stopped producing, it is better
+
+for mill B to continue to produce paper, earning a margin that goes
+
+toward paying those fixed costs. The owners of mill B rail against
+
+the irrational dynamics of the industry, arguing that the industry
+
+has pricing levels too low for a producer to make a decent return
+
+on capital. Unfortunately for mill B, it is quite possible to make
+
+a good profit in the business, but only if you are in the bottom
+
+portion of the variable-cost curve.
+
+In a still worse position is tiny mill C. Its variable costs are high
+
+but below the price level. Unfortunately, its fixed costs per ton are
+
+so high that at the end of the year, it shows a substantial loss. Mill
+
+C stays in business, hoping that demand rises and shifts the demand
+
+curve out to cross the supply curve at the right side of the chart, which
+
+would push mill C into a profit (and mill A into obscene profits).
+
+Sadly, demand rarely rises in the way that mill C hopes.
+
+Instead, what typically happens is that new entrants look at com-
+
+petitors like mill A, see the money to be made in the industry, and
+
+then figure out a way to enter with even lower costs than those
+
+incurred by mill A. These new entrants analyze everything mill A
+
+does and then do it a bit better, investing higher levels of capital
+
+to produce a low-cost position. The entry of a new low-cost firm
+
+(firm Z in figure B-6) pushes the entire supply curve to the right,
+
+causing the demand curve to cross the supply curve at a lower price
+
+and the price to fall for all players.
+
+Whereas firm D used to be breakeven on variable costs, it is now
+
+substantially in the hole before fixed costs. Firm C is now break-
+
+even on a variable-cost basis. In the US scheduled air travel market,
+
+firm Z is Southwest Airlines, whose entry and growth has made it
+
+increasingly rough for all the traditional carriers, which argue that
+
+the market is irrational. Actually, the market is utterly rational.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 233 11/6/12 8:17 PM
+
+234 Appendix B
+
+Figure B-6
+
+evolution of commodity markets
+
+Market
+
+demand
+
+Old
+
+market
+
+price
+
+New
+
+market Firm E
+
+price
+
+Firm D
+
+Firm C
+
+Firm B
+
+Firm A
+
+Firm Z
+
+New entrant
+
+Old quantity New quantity
+
+actually sold actually sold
+
+Quantity
+
+This is what happens to commodities across the world. A
+
+new low-cost entry drives down the prices—whether by way
+
+of fast-growing Southern Hemisphere eucalyptus in pulp and
+
+paper or cheap Peruvian mines in nickel. Though some com-
+
+mentators argue that commodity prices are rising, these prices
+
+have fallen consistently over the past two hundred years on a
+
+real-price basis. Figure B-7 shows the real price of a basket of
+
+commodities (sized based on the world consumption propor-
+
+tions of these commodities) from 1801 to 1999. While there
+
+have been dramatic upticks, the long-term trend is unmistakably
+
+downward.
+
+This doesn’t mean that competing in a commodity business is
+
+bad. It just means that if you do, you need to be at the bottom of
+
+the variable-cost curve or you won’t have much fun!
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 234 11/6/12 8:17 PM
+
+ecirP
+
+The Microeconomic Foundations of Strategy 235
+
+Figure B-7
+
+Falling commodity prices
+
+Commodity price index in real US dollars, 1801–1999.
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+1800 1820 1840 1860 1880 1900 1920 1940 1960 1980 2000
+
+Source: BMO Capital Markets Economic Research.
+
+Index of 180 = 100.
+
+Competition in a Unique Product or Service
+
+When a firm offers a product or service that buyers consider unique,
+
+the pricing and profit dynamics are quite different. The firm provid-
+
+ing the unique offering is a price-setter, not a price-taker; the demand
+
+for the unique offering depends upon the price the firm sets—the
+
+higher the price, the lower the demand and vice versa. But this time,
+
+because the producer of a unique offering serves the entire market, the
+
+firm feels the shift in demand directly. Unlike in a commodity busi-
+
+ness, here price setting is one of the producer’s most important choices.
+
+In a differentiated offering, there is an optimal price: the price
+
+at which the marginal revenue is equal to the marginal cost to the
+
+producer. The marginal-revenue curve falls faster than the demand
+
+curve because the firm needs to drop the price to all customers, not
+
+just the marginal customer, when pursuing incremental demand.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 235 11/6/12 8:17 PM
+
+236 Appendix B
+
+Figure B-8
+
+Maximizing profit from a unique product
+
+Demand
+
+(price)
+
+Profit maximizing

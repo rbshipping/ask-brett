@@ -1,0 +1,142 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Customer Tracking and Analytics
+SUMMARY: The text discusses the benefits and challenges of tracking in-store customer behavior and data to build a comprehensive understanding of the customer journey.
+KEYWORDS: customer tracking, in-store analytics, shopper behavior, data privacy, personalization
+---
+
+would love to know when shoppers came through their store and bought nothing. They would love to
+
+know what shoppers looked at, considered, but didn’t place into their basket. They would love to know
+
+what they tried on. They would love to know what store elements make them happy, or unhappy. And
+
+they would love to see how they moved around the store and what caught their attention.
+
+The ideal case is that the identity of a loyal shopper is known the moment they enter the store. Opt-in
+
+schemes using personal devices or wearable technology might make this possible. But the identity of a
+
+shopper in the store will either not be known, or might only become known when they swipe a card at
+
+the checkout. Systems could be imagined that monitor and track shopper behavior in-store and label
+
+them simply as “Shopper A”, “Shopper B”, “Shopper C” and so forth. A combination of location tracking
+
+and smart shelf sensing could build a profile of each shopper as they navigate the store without them
+
+being identified. This process would link together multiple interactions at several different touch points
+
+in the store into one single profile for their visit. This would allow retailers to build a more holistic view
+
+of a shopper’s journey in the store combining their route with details of the individual interactions they
+
+had with elements of the store. At this stage, all data would be still be fully anonymous. And anonymous
+
+data still has value as part of building up a picture of overall shopper behavior in the store.
+
+36
+
+If “Shopper B” subsequently then identifies themselves at the checkout by using a loyalty card or a
+
+recognized payment system, and they have opted in to tracking, their in-store behavior could then be
+
+added to their profile and used to improve the personalization of the experience the next time they
+
+enter the store, or go online.
+
+All this will need to be managed within the constraints of respecting the privacy of shoppers, allowing
+
+them to remain anonymous if desired, and with the philosophy that any data that is gathered on a
+
+shopper is done so on an “opt in” basis, with explicit permission from the shopper.
+
+Challenge: Retailers will need to be able to clearly articulate to the shopper the value of tracking them in
+
+the store and deliver real value that encourages shoppers to opt in. Tracking that only serves the needs
+
+of manufacturers or retailers will be seen for what it is, and will probably be seen as a break of trust and
+
+the social contract.
+
+Challenge: Retailers will build the most accurate understanding of their customers if they are able to
+
+unify their customer data from both online and offline sources.
+
+Challenge: Retailers will need to build their systems in a way that respect shopper desire for privacy and
+
+that allow them to remain anonymous if they so desire.
+
+5.3 COLLABORATION VERSUS COMPETITION
+
+In this new world of big data, retailers have a couple of ways they can regard their new data assets.
+
+Firstly, retailers could jealously guard their data and leverage the insights they gain from it as a
+
+competitive advantage. This might be a great strategy for retailers that have loyal customers that they
+
+see on a weekly or even more regular basis, such as grocery stores.
+
+Alternatively, retailers could make deals to share their insights with other like-minded brands, creating a
+
+federation of value and services, perhaps targeted at a particular group of shoppers. For example, non-
+
+competing luxury brands might find value in sharing data, or brands oriented toward frequent travelers,
+
+or perhaps a group of brands focused on home improvement (a hardware store, a paint store, and a
+
+gardening store for example). This might be a great strategy for retailers with low frequency interactions
+
+with shoppers, or who only have a small number of outlets. Such retailers might find other retailers
+
+willing to share customer data on a quid pro quo basis, enabling them to gain better customer insights
+
+and deliver more personalized experiences. This may be welcomed by shoppers who value personalized
+
+services. For example, a woman’s favorite store might recommend a top that goes well with the skirt
+
+she just bought in another store.
+
+Third party data brokering services may emerge that link together retailers in “data cooperatives”. And
+
+retailers might perhaps collaborate in much the same way airlines club together in alliances to offer
+
+their customers convenient services that span across airlines. A connecting flight becomes a connecting
+
+shopping experience that spans retailers. Such alliances may make more sense if they span different
+
+sectors, or are between retailers that don’t directly compete.
+
+And of course the moment data starts to be shared between entities data security becomes paramount.
+
+37
+
+Challenge: Retailers will need to determine their strategy for sharing data with others. If they decide to
+
+share they will need to gain the consent of shoppers, build strategic partnerships with other retailers or
+
+data brokers, and determine appropriate, secure mechanisms needed to share data in a way that fully
+
+guards privacy.
+
+5.4 WHO PAYS FOR DATA: CAPEX VERSUS OPEX
+
+One major open question for the retail sector is ‘who will retain ownership of all this data?’
+
+This question can actually be simplified and reduced to: who will pay to collect all this data? Will
+
+retailers and manufacturers make the CapEx investments needed to gather and analyze their own data,
+
+or will they give it away to third parties that offer “free” or subsidized infrastructure in return for
+
+retaining ownership of the data?
+
+Different retailers will have different approaches. The answer for each retailer will be partly a
+
+philosophical and partly a business decision.
+
+Whoever collects and owns all this data will be able to refine it to create value. It boils down to an issue
+
+of control, and a discussion of whether manufacturers and retailers want to pay for this type of
+
+capability out of their CapEx or OpEx budgets. Retailers face two main options here:

@@ -1,0 +1,148 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Transformation
+SUMMARY: The rise of ubiquitous computing and smart products will have profound implications for the retail industry, enabling new business models and personalized services.
+KEYWORDS: ubiquitous computing, smart products, digital retail, business models, personalization
+---
+
+on earth in the early 1980s. Moore’s Law will continue to deliver cheaper, smaller, more powerful
+
+computers for the foreseeable future, leading to the era of ubiquitous computing. This continued
+
+change has profound implications for the products that retailers will sell, and how they will sell them.
+
+In the era of ubiquitous computing (which you may also hear referred to as the Internet of things, the
+
+Internet of Everything, or other similar terms) meaningful amounts of computing—computing that’s
+
+powerful enough to do something fairly useful—will become so small, so low cost, and consume so little
+
+energy that we can consider turning anything into a computer. Smart products, smart stores, smart
+
+delivery trucks, smart packaging….you name it, if there’s value in it being intelligent, it eventually will be.
+
+40
+
+6.1.1 Smart everything
+
+This implies that within roughly a decade, any object can be made smart. Anything in our world can
+
+have a tiny computer embedded inside it. As well as being smart, that object can become connected to
+
+the Internet, and also sense the world around it. This is a profound change for humanity. Not only will
+
+objects become smart, but so will our environment and infrastructure.
+
+Smart cars will navigate down smart streets in smart cities. Smart toys, boxed inside smart packaging,
+
+will be delivered by smart trucks to smart stores. And throughout this smart world, the smart things will
+
+be sensing and generating data that is uploaded via the Internet to giant computers that monitor and
+
+process that data to optimize efficiency and deliver valuable insights to retailers and manufacturers.
+
+Often these insights will be used to create new value and to deliver new, personalized services that
+
+generate incremental revenue.
+
+When you receive an expensive bottle of wine, it should ship in smart packaging that tells you if it has
+
+been properly handled on its way to you. Was it shipped in a container at the correct temperature and
+
+humidity? Was it dropped? If so, who dropped it and how hard did it hit the ground? Did the packaging
+
+properly protect the bottle, and how could it be better-designed in the future?
+
+Making an object smart changes its utility and potentially creates incremental value. A teddy bear that
+
+can read a book to a child is clearly worth more to some people than a dumb teddy bear that does not.
+
+And a purse that can report its location when stolen might be an attractive proposition that shoppers
+
+are willing to pay more for.
+
+Challenge: Retailers will need to embrace creative thinking as they imagine new smart, connected
+
+products. They should partner with manufacturers now to start imagining and demanding these smart
+
+products of the future.
+
+6.1.2 Smart objects enable new business models
+
+Making a product smart doesn’t just potentially make it more valuable and increase its utility. It also
+
+enables retailers and manufacturers to monetize products in new ways. Making a product smart can
+
+essentially turn it from being just a product, into being product as a service.
+
+Consider the smart teddy bear mentioned above. A toy manufacturer that develops and sells such a
+
+product a few years from now will have multiple ways to monetize the value they have created. They
+
+could sell the bear for a one time price of $79.99. Or they could sell the bear for $34.99, and then sell
+
+parents a book-reading service for $5/month.
+
+In emerging markets where incomes are low and high initial prices are a barrier to purchase,
+
+manufacturers could use this same approach to activate products for a monthly fee rather than charging
+
+an upfront price, reducing the barriers to ownership. In Africa, India, Southeast Asia and parts of Latin
+
+America, pay-as-you-go services are largely the norm and consumer expectations would be highly
+
+consistent with this product as a service approach.
+
+41
+
+Challenge: Retailers and manufacturers will need to embrace risk-taking as they brainstorm new ways to
+
+monetize the smart products they will be soon be selling. They will need to consider bold new ways to
+
+wrap revenue-generating, value-added services around these smart objects. New business models will
+
+allow retailers to target new customers in new ways and enable the creation of annuities that generate
+
+ongoing revenue streams. This will increase profitability and boost income for manufacturers and
+
+retailers alike.
+
+6.1.3 Wearables will transform customer service
+
+Tiny computers will also usher in the era of wearable computing. These hands-free, click-free computers,
+
+whether in the form of smart glasses, in-ear computers, wrist-based computing, or other form factors,
+
+could help sales assistants through the sales process and enable them to deliver improved customer
+
+service. Such sales support systems are attractive in an era of fast-changing product portfolios and high
+
+staff turnover. Hay Group reports that median retail staff turnover for part-time labor is 67%, though it
+
+varies dramatically by retailer.
+
+Wearables could use a combination of visual recognition, speech recognition, and other sensors to help
+
+assistants more efficiently assist shoppers. For example, when a shopper asks, “Which of these slow
+
+cookers has a timer function?” the sales assistant could near-instantly be presented with a filtered list
+
+and guide the shopper to the appropriate products. Or the query “Is this dress available in a size 8?”
+
+could be ‘heard’ and understood by the wearable device that then triggers an automated stock check
+
+that presents the shop assistant with the information they need to respond, for example “I have some in
+
+another store and can have it shipped and waiting for you to try on when you get home.”
+
+Challenge: Retailers should begin experimentation with wearable technology and devise strategies to
+
+complement the capabilities of their existing human sales teams with real-time, data-driven insights that
+
+help them deliver better customer service.
+
+Computing technology worn by shoppers is also an opportunity to transform the customer experience.
+
+While 80% of US consumers currently have privacy concerns over wearable technology, half of those
+
+same consumers would be willing to share personal data collected from their wearable devices with

@@ -1,0 +1,234 @@
+SOURCE: Execution_The Missing Link in Retail Ops.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The text discusses the importance of inventory management and employee training in improving execution performance in retail operations.
+KEYWORDS: inventory management, employee training, execution performance, retail operations, stockouts
+---
+
+• Benchmark performance at different
+
+available in storage).Easier for checkout
+
+stores to identify how merchandising and
+
+counter clerk or picker in DC to get two
+
+inventory management affect execution
+
+very similar items confused.
+
+o performance.
+
+• Additional inventory leads to more
+
+crowding in stores.Harder to keep track
+
+of items.
+
+C
+
+Turnover • New employees get confused more easily • Create awareness among store and
+
+human resource managers.
+
+• Store managers cannot transfer,to new
+
+managers,tacit knowledge about store • Benchmark performance at different
+
+processes and procedures. stores to quantify the impact of turnover
+
+on execution.
+
+t
+
+o
+
+annual audits, many managers at each firm were surprised by the shocking evi-
+
+dence of poor execution.
+
+Lack of awareness is often to blame for the inaccurate scanning of mer-
+
+N
+
+chandise, one cause of inventory record inaccuracy. Most checkout clerks do
+
+not realize the impact of their actions on the accuracy of inventory records. Per-
+
+haps more problematic in most organizations, store training and incentives moti-
+
+vate clerks to focus on scanning quickly rather than accurately. POS scanners
+
+should not be viewed exclusively as labor-saving devices, as has been common
+
+o in the past, but rather as critical data gathering tools. As such, employees need
+
+to be aware of the importance of the data collected and how inaccuracies can
+
+have repercussions throughout the organization, and they must be trained
+
+D accordingly.
+
+Consistent with the claim that awareness can help us better manage these
+
+execution problems, the accuracy of inventory records improves with the cost of
+
+the item. That is, inventory records are more likely to be accurate for expensive
+
+CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001 147
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 148
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+items. This is true even after controlling for other differences among expensive
+
+P
+
+and inexpensive items. The reason for this finding is that store managers and
+
+employees, because of their focus on controlling inventory shrink,5pay more
+
+attention to managing inventory of expensive items. While this focus on expen-
+
+sive items is appropriate for managing shrink, it is inappropriat e for managing
+
+execution. By focusing their attention on expensive items, retailers run the risk
+
+r
+
+of running out of items that, though inexpensive, have high stockout costs.
+
+Gamma, for example, had identified a list of 250 “never out” items that though
+
+o
+
+inexpensive were those that consumers expected the stores to have in stock.6
+
+However, since many of these items were inexpensive and also had high annual
+
+sales volumes, they were highly prone to inaccuracies in inventory records and,
+
+as a consequence, frequent stockouts.
+
+In addition, creating awareness of the yproblem is not enough; awareness
+
+of the impactof the problem is also important. At Gamma for example, quantify-
+
+ing the lost profit due to inventory record inaccuracy was a vital step in gaining
+
+p
+
+senior management commitment. Beta, on the other hand, quantified the cost
+
+associated with misplaced SKUs early in the project. Having quantified these
+
+costs, Beta managers were able to garner top-management support that led to
+
+o
+
+the creation of a cross-functional team to address the problem.
+
+Creating awareness of the problem and its impact broadly in the organiza-
+
+tion can often have immediate consequences. During the last year alone, Beta
+
+C
+
+reduced the number of SKUs that are in the store but not on the selling floor by
+
+22%, driven largely through greater awareness and training at the store level.
+
+Count and Inspect
+
+Frequent physical audits of stores can help in improving execution perfor-
+
+t
+
+mance. At Gamma, stores that were counted twice a year had substantially
+
+lower erroors.
+
+Most retail stores conduct annual physical audits or periodic “cycle
+
+counts” where a part of the store is counted every week or month. At most
+
+stoNres, physical audits are performed to ensure “financial conformance.” Hence,
+
+the auditors measure shrink carefully but do not track errors in inventory at the
+
+SKU level. For example, the auditors would conclude that there was no shrink if
+
+a store had extra units of a particular item and was short by the same number of
+
+units for another item with the same price. At many stores, system and physical
+
+inventories have not been aligned for years, even though the physical audits and
+
+o
+
+cycle counts offered excellent opportunities for doing so.
+
+To start using their inspection procedures more effectively, many compa-
+
+D nies should make some changes to their physical audit and cycle counting
+
+processes. The audit and count should be conducted at the item level, not at the
+
+dollar level alone. In other words, companies should ask their auditors to exam-
+
+ine absolute unit differences between system and physical inventory levels.
+
+148 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 149
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+Moreover, the absolute differences should be stored to enable the identification
+
+P
+
+of stores and SKUs that are executing exceptionally well or poorly. If appropri-
+
+ate, auditors should also check if the items are shelved at the right location
+
+within the store. Beta Corporation, for example, was aided by the fact that the
+
+company tracked how many units of each item were available at different loca-
+
+tions. Thus, the company tracked how muchand wherethe item was within the
+
+r
+
+store (e.g., whether an item was in the backroom or on the selling floor).
+
+A variation of cycle counting to improve inventory record accuracy can
+
+o
+
+be found at some retail chains. Employees at these companies perform a “Zero-
+
+Balance Walk” every day at their stores to identify items that are stocked out.
+
+The company verifies system inventory levels for these items and adjusts system

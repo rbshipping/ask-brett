@@ -1,0 +1,146 @@
+SOURCE: 1. HBR_Digital Physical Mash Up.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Digital Transformation
+SUMMARY: Companies must fuse their digital and physical operations to create seamless customer experiences and leverage existing strengths to gain a competitive edge.
+KEYWORDS: digital transformation, physical-digital integration, customer experience, competitive advantage, core business strengths
+---
+
+nize over whether to invest significant resources in rapidly, and advantages are copied so quickly, that
+
+digital capabilities. Those that have done so tend to companies must learn to leap continually from one
+
+run their digital operations as independent business wave of opportunity to the next—even though each
+
+units—the way companies prefer to manage them, new wave will probably be shorter, more crowded,
+
+as opposed to the way customers expect to use them. and less connected to the one before. The problem
+
+As the revolution progresses, some companies with this approach is that a company may end up
+
+will go the way of Tower Records, their businesses throwing away core advantages while pouring re-
+
+thoroughly disrupted and destroyed by digital alter- sources into risky ventures that have no competitive
+
+natives. But most will find that they must fuse the edge or right to win. To beat the odds, you have to
+
+digital and physical worlds, just as consumers are either be very lucky or find some advantage that your
+
+doing. Look at your own business: Is the physical core business can provide to the new venture and
+
+part of it really going to disappear? Wouldn’t innova- vice versa. These advantages may include propri-
+
+tions that fuse the digital and the physical open up etary customer insights, distinctive capabilities, and
+
+vast new opportunities? And even if some of these ways to capitalize on a competitor’s vulnerabilities.
+
+4 Harvard Business Review September 2014
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+
+Idea in Brief
+
+THE PROBLEM THE ANALYSIS THE GUIDANCE
+
+Too many companies run Proponents of digital A study of global industry
+
+their physical and digital disruption contend that leaders reveals five
+
+operations independently, brick-and-mortar operations practices that lead to
+
+creating disconnects that are dinosaurs. But most growth. They will help you
+
+annoy customers. companies will find that reconceive your business
+
+they need to fuse the digital and create a sustainable
+
+and physical experiences competitive advantage.
+
+to allow customers to move
+
+easily between the two.
+
+Digical fusions can leverage a company’s exist- a “core banking modernization” program budgeted
+
+ing strengths to provide just such an edge. Consider at A$580 million over four years (and later expanded
+
+the case of Commonwealth Bank of Australia (CBA), to A$1.1 billion over six years). He simultaneously
+
+which started life in 1911 and today operates with launched a program to revamp the branch network
+
+52,000 employees in a dozen countries. When Ralph to improve convenience and service levels.
+
+Norris was named CEO, in 2005, CBA had the worst These efforts produced an impressive succession
+
+customer satisfaction ranking in the industry and of digical innovations. The project Finest Online
+
+was losing market share in several important sectors. modernized CBA’s internet banking service and
+
+Like other major banks, it had been trying to reduce combined it with in-person channels to eliminate
+
+costs—and it was perhaps fearful that the internet all-too-frequent problems such as an inability to link
+
+would make branch banking obsolete. So it had personal accounts to commercial accounts. CBA’s
+
+reduced its branches from 1,756 in 1993 to 1,006 in mobile real estate app recognizes photos of proper-
+
+2005. The closures not only made it easier for online ties, shows floor plans, helps customers figure out
+
+banks to gain share but also encouraged the entry whether they can afford a given house, and starts the
+
+and expansion of new branch-based competitors, mortgage application process. The bank’s Kaching
+
+including AHL Investments (Aussie Home Loans) app was one of the first to allow multiple types of
+
+and other nonbanking lenders. These aggressive ri- payment from a smartphone, including through
+
+vals scooped up many of CBA’s old branch managers, Facebook. (The company responds in real time to
+
+loan officers, and customers. inquiries on a Facebook wall.) CBA offers online
+
+Norris began his tenure by touring the branches loan approval in 24 hours, as opposed to the 14 to
+
+and studying customer complaints. He found that 21 days previously required, and in 2013 it launched
+
+customers were criticizing virtually every touch- SmartSign, a service that allows customers to ex-
+
+point—they spoke of lousy products, long lines, in- ecute loan documents electronically using a secure
+
+ept employees, and high error rates. Norris, whose online portal. It also rolled out videoconferencing
+
+background is in IT, also scrutinized the digital infra- to its branches, enabling customers—particularly
+
+structure. He found decades-old systems that made those in rural areas—to connect more easily with the
+
+it nearly impossible for even the best employees to bank’s specialists.
+
+do the right thing by customers. CBA’s system is now so firmly embedded that it
+
+Norris’s vision was to build Australia’s finest continues to gain steam even as competitors invest
+
+financial services organization by excelling in cus- in their own systems and service improvements.
+
+tomer service. He set a goal to rise from worst to first Its fusion-based strategy helped propel the bank to
+
+in customer satisfaction, linked the compensation the highest customer-satisfaction ranking for retail
+
+of all senior executives to that metric, and focused banks in 2013. CBA’s shares rose more than 80% from
+
+on five areas for improvement: home loans, depos- mid-2006 to mid-2014, compared with a 9% gain in
+
+its, term deposits, passbooks, and customer relation- the S&P/ASX 200 index over the same period. Most
+
+ship systems. He also set out to develop the digital important, the technology platforms, customer-
+
+capabilities that would make his goal possible, hiring focused culture, and rapid-fire innovation processes
+
+and promoting top-tier IT talent that was committed that CBA developed in those eight years seem to be
+
+to his vision. He persuaded CBA’s board to undertake taking even longer for competitors to copy.
+
+September 2014 Harvard Business Review 5
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact

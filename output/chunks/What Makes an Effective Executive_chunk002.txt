@@ -1,0 +1,48 @@
+SOURCE: What Makes an Effective Executive.docx
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Decision-Making in Family Businesses
+SUMMARY: This passage discusses how effective executives in family-owned or family-run businesses make decisions about promotions and hires, prioritizing merit over family ties.
+KEYWORDS: family business, promotion decisions, meritocracy, decision-making, executive leadership
+---
+
+[Document: What Makes an Effective Executive.docx]
+
+This second practice is especially important for executives at family owned or family run businesses—the majority of businesses in every country—particularly when they’re making decisions about people. In the successful family company, a relative is promoted only if he or she is measurably superior to all nonrelatives on the same level. At DuPont, for instance, all top managers (except the controller and lawyer) were family members in the early years when the firm was run as a family business. All male descendants of the founders were entitled to entry-level jobs at the company. Beyond the entrance level, a family member got a promotion only if a panel composed primarily of nonfamily managers judged the person to be superior in ability and performance to all other employees at the same level. The same rule was observed for a century in the highly successful British family business J. Lyons & Company (now part of a major conglomerate) when it dominated the British food-service and hotel industries.
+
+Asking “What is right for the enterprise?” does not guarantee that the right decision will be made. Even the most brilliant executive is human and thus prone to mistakes and prejudices. But failure to ask the question virtually guarantees the wrong decision.
+
+Write an Action Plan
+
+Executives are doers; they execute. Knowledge is useless to executives until it has been translated into deeds. But before springing into action, the executive needs to plan his course. He needs to think about desired results, probable restraints, future revisions, check-in points, and implications for how he’ll spend his time.
+
+First, the executive defines desired results by asking: “What contributions should the enterprise expect from me over the next 18 months to two years? What results will I commit to? With what deadlines?” Then he considers the restraints on action: “Is this course of action ethical? Is it acceptable within the organization? Is it legal? Is it compatible with the mission, values, and policies of the organization?” Affirmative answers don’t guarantee that the action will be effective. But violating these restraints is certain to make it both wrong and ineffectual.
+
+The action plan is a statement of intentions rather than a commitment. It must not become a straitjacket. It should be revised often, because every success creates new opportunities. So does every failure. The same is true for changes in the business environment, in the market, and especially in people within the enterprise—all these changes demand that the plan be revised. A written plan should anticipate the need for flexibility.
+
+In addition, the action plan needs to create a system for checking the results against the expectations. Effective executives usually build two such checks into their action plans. The first check comes halfway through the plan’s time period; for example, at nine months. The second occurs at the end, before the next action plan is drawn up.
+
+Finally, the action plan has to become the basis for the executive’s time management. Time is an executive’s scarcest and most precious resource. And organizations—whether government agencies, businesses, or nonprofits—are inherently time wasters. The action plan will prove useless unless it’s allowed to determine how the executive spends his or her time.
+
+Napoleon allegedly said that no successful battle ever followed its plan. Yet Napoleon also planned every one of his battles, far more meticulously than any earlier general had done. Without an action plan, the executive becomes a prisoner of events. And without check-ins to reexamine the plan as events unfold, the executive has no way of knowing which events really matter and which are only noise.
+
+Act
+
+When they translate plans into action, executives need to pay particular attention to decision making, communication, opportunities (as opposed to problems), and meetings. I’ll consider these one at a time.
+
+Take responsibility for decisions.
+
+A decision has not been made until people know:
+
+•	the name of the person accountable for carrying it out;
+
+•	the deadline;
+
+•	the names of the people who will be affected by the decision and therefore have to know about, understand, and approve it—or at least not be strongly opposed to it—and
+
+•	the names of the people who have to be informed of the decision, even if they are not directly affected by it.
+
+An extraordinary number of organizational decisions run into trouble because these bases aren’t covered. One of my clients, 30 years ago, lost its leadership position in the fast-growing Japanese market because the company, after deciding to enter into a joint venture with a new Japanese partner, never made clear who was to inform the purchasing agents that the partner defined its specifications in meters and kilograms rather than feet and pounds—and nobody ever did relay that information.
+
+It’s just as important to review decisions periodically—at a time that’s been agreed on in advance—as it is to make them carefully in the first place. That way, a poor decision can be corrected before it does real damage. These reviews can cover anything from the results to the assumptions underlying the decision.
+
+Such a review is especially important for the most crucial and most difficult of all decisions, the ones about hiring or promoting people. Studies of decisions about people show that only one-third of such choices turn out to be truly successful. One-third are likely to be draws—neither successes nor outright failures. And one-third are failures, pure and simple. Effective executives know this and check up (six to nine months later) on the results of their people decisions. If they find that a decision has not had the desired results, they don’t conclude that the person has not performed. They conclude, instead, that they themselves made a mistake. In a well-managed enterprise, it is understood that people who fail in a new job, especially after a promotion, may not be the ones to blame.

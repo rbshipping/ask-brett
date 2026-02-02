@@ -1,0 +1,242 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Cost Advantages in Business
+SUMMARY: The text discusses the importance of cost advantages in price-sensitive industries, where using the lowest-cost inputs is crucial for staying competitive.
+KEYWORDS: cost advantages, price-sensitive industries, globalized economy, commodity industries, substitutes
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+facility to some low-cost region of the world—China, India,
+
+the Philippines, you name it. They act as if management’s
+
+collective IQ doubled the day some middle manager sug-
+
+gested that the company source low-end parts from a fac-
+
+tory with 80 percent lower labor costs.
+
+This is not genius, nor is it a sustainable competitive
+
+advantage, because those same low-cost resources are
+
+very likely available to any company that wants them. If
+
+one auto-parts supplier starts sourcing low-value-added
+
+components from China, how long will it take its competi-
+
+tors to make the same phone calls and set up similar sup-
+
+ply lines? Not very long at all, because the longer those
+
+competitors wait, the more business they are likely to lose
+
+as the high-cost producers in a commodity industry. In a
+
+globalized economy, using the lowest-cost inputs available
+
+is the only way to stay in business for companies operating
+
+in price-sensitive industries.
+
+Needless to say, cost advantages matter most in
+
+industries where price is a large portion of the customer’s
+
+purchase criteria. Although these industries are usually
+
+cc0066..iinndddd 7766 11//2266//0088 33::0088::5544 AAMM
+
+COST ADVANTAGES [77]
+
+characterized as commodity industries, that’s not strictly
+
+true. Intel, for example, has a massive cost advantage
+
+over Advanced Micro Devices (AMD), and micropro-
+
+cessors are not exactly commodities. (Technically, com-
+
+modities are products with no differentiating factor other
+
+than price.)
+
+I think a more useful way to pick out industries in
+
+which cost advantages are likely to be a big factor is to
+
+imagine whether there are easily available substitutes.
+
+Although an Intel chip is certainly different from an
+
+AMD chip, they both do pretty much the same thing
+
+from a user perspective, and whichever one has the best
+
+price-performance ratio is most likely to get the nod from
+
+buyers. Intel may have lower long-run costs, but if AMD
+
+has chips with much better performance—which has hap-
+
+pened for periods of time—users will temporarily switch
+
+to its products.
+
+Moving from a really tiny product to a really big one,
+
+the story has been largely the same for narrow-body
+
+aircraft, believe it or not. Although they are amazingly
+
+complex products, a Boeing 737 and an Airbus A320 are
+
+not all that different from an airline’s perspective—they
+
+have similar ranges, carry a similar number of passengers,
+
+and so forth. So, an airline shopping for new planes
+
+is simply going to see which manufacturer—Boeing or
+
+Airbus—will give it the better deal, and make its decision
+
+cc0066..iinndddd 7777 11//2266//0088 33::0088::5544 AAMM
+
+[78] THE LITTLE BOOK THAT BUILDS WEALTH
+
+largely on that basis. * (Airlines that use just one type of
+
+plane, such as Southwest and JetBlue, are much more
+
+the exception than the rule.)
+
+The same can be said of U.S. automakers relative to
+
+their Japanese counterparts. No one would confuse a
+
+Ford Taurus with a Honda Accord, but they serve pretty
+
+much the same function, so the vehicle that costs less
+
+(and perhaps breaks down less), is the one that wins in the
+
+marketplace. Costs matter a lot to automakers because
+
+price is a huge component of the buyer’s decision.
+
+Cost advantages can stem from four sources: cheaper
+
+processes, better locations, unique assets, and greater
+
+scale. Scale-based cost advantages themselves can come in
+
+many forms, and they are so important to understand that
+
+I devote all of Chapter 7 to helping you understand when
+
+bigger really is better. We walk through the other three
+
+types of cost advantages in this chapter.
+
+A Better Mousetrap
+
+Process advantages are fascinating because in theory they
+
+shouldn’t exist for long enough to constitute much of a
+
+competitive advantage. After all, if a company figures out
+
+a way to deliver a product or service at a lower cost,
+
+*The new Boeing 787 may change this dynamic, as it incorporates a num-
+
+ber of technological advances that Airbus has not yet been able to match.
+
+Older-model jets will still likely be sold mainly on price, though.
+
+cc0066..iinndddd 7788 11//2266//0088 33::0088::5544 AAMM
+
+COST ADVANTAGES [79]
+
+wouldn’t the logical step for its competitors be to quickly
+
+copy that process so they can match the leader’s cost
+
+structure? This generally does happen eventually, but it
+
+can take a lot longer than one might expect. It’s worth
+
+understanding why that often takes a fair amount of time,
+
+during which the originator of the low-cost process can
+
+make a lot of money.
+
+I won’t beat a very dead horse by going over the
+
+process-based cost advantages enjoyed by Dell and low-
+
+cost carriers like Southwest Airlines. We’ve all heard
+
+both stories a million times. Dell cut out distributors, sold
+
+direct to buyers, and kept inventory very low by building
+
+personal computers (PCs) to order. Southwest flew only
+
+one type of jet, minimized expensive ground time (fast
+
+turns, in airline jargon), and cultivated an employee cul-
+
+ture that rewarded thrift.
+
+What’s interesting is not as much h ow Dell and South-
+
+west sold PCs and airline seats at far lower costs than
+
+the competition, but w hy they were allowed to essentially
+
+run away with their respective markets when their low-
+
+cost processes were a matter of public record. The
+
+answers are different in each case, but they are instructive
+
+nonetheless.
+
+In Southwest’s case, the incumbent airlines (the majors)
+
+didn’t copy its low-cost process for a number of reasons.
+
+First, a rigid union structure meant that pilots weren’t about
+
+cc0066..iinndddd 7799 11//2266//0088 33::0088::5544 AAMM
+
+[80] THE LITTLE BOOK THAT BUILDS WEALTH
+
+to start helping clean planes at the incumbents. Second,
+
+Southwest’s point-to-point route structure would have
+
+made it hard for the majors to feed profitable business
+
+and international passengers through their expensively
+
+maintained hubs. Third, Southwest was an aggressively
+
+egalitarian airline—no separate classes, no assigned
+
+seats—in an industry that made a lot of money by treat-
+
+ing some passengers like royalty and charging them
+
+for the privilege. In short, the majors would have had to
+
+figuratively blow up their businesses to gain South-
+
+west’s cost advantage, and it’s hard to blow up your own
+
+business.

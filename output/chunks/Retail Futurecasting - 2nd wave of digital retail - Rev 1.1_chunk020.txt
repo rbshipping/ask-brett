@@ -1,0 +1,150 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Transformation in Retail
+SUMMARY: The text discusses how the sharing economy and technological innovations are transforming production, distribution, and consumption in the retail industry.
+KEYWORDS: sharing economy, digital transformation, retail industry, business models, efficiency
+---
+
+consumption itself is becoming more efficient. This could obviously have profound implications for
+
+retailers and manufacturers.
+
+The sharing economy is creating extraordinary new value at lightning speed, and disrupting whole
+
+industries segments in the process. Consider Uber*, Lyft*, Car2Go*, Sidecar* and RelayRides* versus the
+
+traditional taxi, town car, and limousine industry as a primary example. A wide range of startups are
+
+taking aim at the rapidly emerging market for renting, bartering, loaning and sharing products and
+
+resources of all kinds. And they are finding plenty of VC money. These companies are building new
+
+business models that take products and turn them into services. Why buy clothing when you can have a
+
+‘wardrobe as a service’? Many of us are already comfortable with ‘music as a service’, and in some cases
+
+a ‘car as a service’. Why not everything else?
+
+To understand how big this looming change might be it’s helpful to look back and consider the impact
+
+that technological and business innovation has historically had upon production and distribution.
+
+6.5.1 Massive efficiency already applied to production and distribution
+
+Starting in the 18th century, the industrial revolution brought incredible efficiencies to production. Major
+
+technological breakthroughs included mechanization, steam engines, automation, electricity, hydraulics,
+
+and ultimately robotics. These made manufacturing vastly more efficient, boosted productivity, and
+
+massively reduced the cost of goods. Parallel business process innovations like mass production
+
+techniques, outsourcing, and specialization boosted production efficiency even further.
+
+The late 19th century saw the beginning of a major revolution in retail as innovation in both technology
+
+and business processes brought huge efficiency to the distribution of goods. The emergence of branding
+
+and packaged goods shifted stores from a full-service to a mostly self-service model: Grabbing a bag of
+
+ground coffee from a supermarket shelf is more efficient than waiting for a shopkeeper to climb a ladder,
+
+find the coffee drawer, and then weigh out and bag a pound of coffee for you. Logistics networks now
+
+speed goods between manufacturers and retailers, and ultimately to consumers. And more recently the
+
+48
+
+Internet, mobile technology, and e-commerce have proven very efficient as new tools to connect
+
+manufacturers with shoppers. Supply chains and inventory have been streamlined using successive
+
+waves of automation and information technology.
+
+With serious efficiencies brought to production and distribution, we are now starting to see technology
+
+and business innovation applied to improving the efficiency of consumption itself. Hey presto, the
+
+sharing economy, where high-value or rarely used items are used in much more efficient and sustainable
+
+ways, and products are being turned into services. However, the sharing economy is unlikely to stop
+
+here, but could spread to many other sectors of the economy, including lower-value and more common
+
+items.
+
+This sharing economy is made possible by an underlying root of trust founded in digital technology. For
+
+sharing to work strangers must be able to find each other and then come together successfully as buyers
+
+and sellers (or renters and loaners) to conduct safe, secure transactions. Underpinning this revolution is
+
+the digitization of both trust and reputation itself.
+
+6.5.2 Digital reputation and trust
+
+A person using the AirBNB* room and house sharing service isn’t going to want to stay in the home of a
+
+known murderer of tenants. Similarly, someone sharing a room in their home via AirBNB wants to have
+
+some level of confidence that their guest will be respectful, pay their bill, and not cause any damage.
+
+Trust and reputation are vital to the smooth function of marketplaces. Companies like EBay* recognized
+
+this early on and created reputation management systems that enabled buyers and sellers to earn a
+
+digital reputation on their site. Similarly, companies building businesses around the sharing economy are
+
+using digital reputation and trust to help their customers feel confident about using their services.
+
+By digitizing trust, computing technology is acting as the vital economic lubricant needed to enable the
+
+sharing economy where people share, barter, rent, or loan products in a peer-to-peer manner,
+
+bypassing traditional retail and distribution networks. The result: the sharing economy has already
+
+brought huge efficiencies to consumption.
+
+Sharing is particularly attractive to Millennials, not just because it gives them a potentially better deal on
+
+a product, but because they feel it make more efficient use of expensive resources—this could be
+
+financial expense, environmental expense, or both.
+
+For example, most cars in America are driven just 54 minutes per day. That means they spend over 23
+
+hours out of every day doing nothing. Why own a car if you could easily just rent one whenever you
+
+need one? Companies already exist serving this need in some markets: Zipcar* rents cars by the hour
+
+and companies like Mercedes* Car2Go* event rent cars by the minute. For car owners, companies exist
+
+that allow you to monetize your expensive resource when you’re not using it yourself. For example,
+
+FlightCar* allows people to rent their car to others when they leave it at the airport for a trip.
+
+According to The Cassandra Report, 37% of US Millennials say that they want to rent expensive items
+
+rather than buy them. The big open question: is this an economic reality of Millennials’ current
+
+economic status and buying power, or a more savvy consumption ethos that will translate to long term
+
+changes in shopper behavior? And are retailers willing to bet their businesses on one outcome versus
+
+the other?
+
+49
+
+6.5.3 From ownership to access
+
+Some shoppers are now more interested in merely having access to a product rather than ever owning it.
+
+Consider the tectonic shift underway in music consumption, from ownership (CDs and iTunes*) to access
+
+(streaming music services like Spotify*, Rdio*, and iTunes Radio*). In a survey by The Cassandra Report,
+
+over a third of US Millennials reported that they would prefer to pay full price to access a product,
+
+rather than own it. For older readers of this report, this finding may be jarring or perhaps even sound
+
+unbelievable. But it illustrates a fundamental difference in attitudes around ownership between

@@ -1,0 +1,156 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Interactive Retail Experiences
+SUMMARY: Retailers can create memorable experiences for shoppers by using interactive technologies and embracing natural interfaces to increase brand and product interaction.
+KEYWORDS: interactive technologies, brand interaction, product interaction, memorable experiences, retail experiences
+---
+
+emotional relationships with shoppers by increasing brand and product interaction. Interactive
+
+technologies that embrace natural interfaces and that span several of the five senses can create
+
+memorable experiences for shoppers that create deeper relationships with brands. For example,
+
+McCormick Spices created an interactive Guess That Spice machine. The system dispenses a variety of
+
+spice scents and shoppers attempt to identify the spice correctly from a list using a large touch screen.
+
+Spice connoisseurs earn discount coupons depending on their performance.
+
+4.3.3 Choice and control
+
+Shoppers have an expectation of abundance. They seek retailers that can offer a plethora of products
+
+that are always available and in stock. And shoppers favor retailers that allow them to shop whenever
+
+they want to shop (which is anytime). Savvy retailers will not just offer shoppers choice, but also help
+
+them choose.
+
+Challenge: As store footprints diminish (section 4.2.2), retailers will need to find ways to offer maximum
+
+product choice within the small physical spaces they have available. They will need to display and
+
+merchandize products as efficiently as possible. Technology that creates virtual spaces, combined with
+
+systems that increase store automation could offer a helpful solution. See section 7.3.4 for more detail.
+
+4.3.4 Transparency
+
+Shoppers are demanding increased transparency into pricing, retail operations, and the products they
+
+buy. This is particularly true for Millennials who now see a purchase as a ‘vote’ for a brand. In their
+
+minds, they are what they buy. They want to know ahead of time that buying a product or brand will
+
+reflect well on them, and their own personal brand, ‘Brand Me’. Consumers want to understand your
+
+company, your manufacturing policies, how your products are made, and how seriously you take
+
+corporate social responsibility before they reach for their wallet. Mobile apps like Buycott*, and
+
+BuyPartisan* make it easy for shoppers to quickly research a product or brand as an aid to their
+
+purchase decision.
+
+Transparency also extends to shoppers’ expectations of connectivity in the store: if you’re resisting their
+
+efforts to use their devices to check the competitiveness of your prices, read reviews on your products,
+
+or get information on your operations, they may conclude that perhaps you have something to hide.
+
+28
+
+Challenge: Retailers will need to consider proactively increasing the transparency of their operations.
+
+This might include being able to provide shoppers (or more accurately prospective shoppers) details on
+
+labor practices, the origin of products, and even political donations. For some retailers this will imply
+
+cleaning up some of their operational policies and practices and placing more emphasis on supply chain
+
+ethics and supplier management. In an era where savvy shoppers are empowered with information that
+
+is available at the speed of the Internet, transparency cannot be faked. The “green-washing”
+
+phenomenon of the last decade quickly revealed some organizations as being less sincere than others as
+
+they responded to consumers’ demands to operate more sustainably. Companies like apparel retailer
+
+Everlane* are already staking out leadership positions in this space and embracing radical transparency.
+
+Opportunity: As the provenance of products becomes more important to consumers, manufacturers
+
+and retailers may be able to differentiate by wrapping origin stories around their products.
+
+Challenge: Retailers that don’t already provide in-store connectivity as a service to shoppers will need to
+
+continually reevaluate their decision in light of shifting shopper demands for transparency.
+
+4.3.5 Brand interaction
+
+Millennial shoppers now have the mindset that they are voting for or investing in a brand when they
+
+make a purchase. These shoppers are demanding an increased say in how a product is developed and
+
+sold, much the way activist shareholders might demand some say in the way their portfolio companies
+
+are run.
+
+Shoppers expect to be both creators and consumers, and favor brands that make them feel included in
+
+the product development, merchandizing and sales processes.
+
+Challenge: Retailers will need to explore ways to involve their customers in two-way conversations
+
+about the future of their business, the suppliers they use, the development of their products, and the
+
+way that they operate. Social networking and other platforms can be used to engage shoppers in this
+
+dialog and do so in a way that strengthens the relationship and the emotional connection between
+
+consumers and brands. These conversations need to be authentic and transparent to be successful.
+
+These efforts should reward retailers with increased customer loyalty and keep them relevant in a fast-
+
+moving marketplace.
+
+4.3.6 Personalized/customized
+
+Shoppers are increasingly looking for products and experiences that have been customized to meet their
+
+individual needs. This is particularly true of Millennials. In a survey by The Cassandra Report, 80% of US
+
+Millennials said they would prefer to have a customized product.
+
+The continued rise of 3D printing and other local, just-in-time manufacturing technologies will likely
+
+accelerate this trend and make mass customization a reality. See section 6.2 for more information.
+
+Shoppers are also interested in products that they can take home and customize. Manufacturers would
+
+be well served to create products that can easily be customized by the consumer, either at time of
+
+purchase, or after purchase. All people have a fundamental need for creative expression and to express
+
+individuality, whether it be in the clothing choices they make, the case that covers their phone, or the
+
+color of their car.
+
+29
+
+Challenge: Retailers will need to examine their businesses and look for areas where it is appropriate to
+
+offer customization as an option. They will need to push suppliers to deliver products with
+
+customization options and look for ways to sell-up to a customized option in the store.
+
+Beyond customized products and services, shoppers are seeking personalized shopping experiences.
+
+Challenge: In order to personalize experiences for their customers, retailers will need to understand
+
+each shopper as best they can and have the intelligence and analytics capabilities in place to enable
+
+them to make every experience in the store both personal and relevant. See section 5 for more detail.
+
+4.3.7 Ownership to access and association

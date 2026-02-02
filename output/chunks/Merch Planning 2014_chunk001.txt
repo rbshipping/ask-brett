@@ -1,0 +1,319 @@
+SOURCE: Merch Planning 2014.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Merchandise Planning
+SUMMARY: A comprehensive overview of the key aspects of merchandise planning, including formula vs. outcome driven, pull vs. push systems, allocations, stock smoothing, and product lifestyles.
+KEYWORDS: merchandise planning, allocation, stock smoothing, product lifecycle, pull vs push
+---
+
+[Document: Merch Planning 2014.pptx]
+[Presentation Topic: Merchandise Planning]
+
+[Slide 2]
+
+Merchandise Planning
+
+27 March 2014
+
+[Slide 3]
+
+Topics we will cover in today’s session
+
+Formula versus outcome driven
+
+Our ‘pull’ system and what that means
+
+Allocations - how they work
+
+DNR (do not reorder) - methodology
+
+Stock smoothing/transferring
+
+MIN/MAX management
+
+Product lifestyles
+
+Markdowns - clearance store methodology
+
+Online
+
+Ongoing & Repeats
+
+2
+
+[Slide 4]
+
+Opening Truths
+
+3
+
+The bra business is unique
+
+Size range is unique
+
+Requires different disciplines
+
+Longer life
+
+Wide customer base
+
+Has a unique cost versus benefit threshold
+
+Must be a focus
+
+Merchandise planning
+
+Operational excellence
+
+Data integrity
+
+One SKU, one store, one sale at a time
+
+Then repeat in multiple stores
+
+One in one out
+
+Keep it simple
+
+[Slide 5]
+
+Formula versus outcome driven
+
+4
+
+Issue we have to focus on: outcome driven as opposed to formula driven
+
+See example on following slide
+
+Sweet spot between efficiency and effectiveness
+
+Being outcome driven means having stock
+
+In the right store
+
+In the right quantities
+
+...and at the right time
+
+[Slide 6]
+
+Briefs examples
+
+5
+
+Outcome driven
+
+Formula driven
+
+Ideal SOH
+
+BRIEFS 10 – 12 units
+
+[Slide 7]
+
+Pull vs PushDiscussion and commitment to our ‘pull’ system and what that means for Bras N Things, when it's appropriate to push
+
+6
+
+Go to RECAPS WEEK 36
+
+Line 600
+
+“New Lines” tab
+
+ITEM CODE: 11299304
+
+[Slide 8]
+
+Notes for slide 6 and 7
+
+Deep dive
+
+Allocations by grade – sense check
+
+Where do we have zero stock?
+
+What is our % in stock?
+
+Sales by store
+
+Look at A stores and online vs D grade
+
+Look at each grading
+
+What ratio is it selling at/what ratio did we order it in?
+
+What lessons and adjustments?
+
+Sizes should we discontinue/add
+
+Have we reordered?  Should we reorder?
+
+Ongoing
+
+95% in stock at location by SKU
+
+Min Max online must be A+ on its own
+
+Pick some random on orders and work through methodology
+
+7
+
+[Slide 9]
+
+AllocationsOrder allocationStore gradingStore turnoversCategory grading within store grading
+
+8
+
+Go to RECAPS WEEK 36
+
+“New Lines” tab
+
+Line 1109
+
+ITEM CODE: 217401
+
+[Slide 10]
+
+Stock smoothing/transferring up
+
+9
+
+Go to RECAPS WEEK 36
+
+“New Lines” tab
+
+Line 733
+
+ITEM CODE: 218801
+
+The very last SKU of any style should be sold through the location with the highest probability of selling
+
+Review of the current process of stock smoothing
+
+Progressively discontinue product
+
+Min units to transfer
+
+Frequency and rhythm
+
+Do we stock smooth ongoing lines?
+
+Do we stock smooth ‘sell out’ lines?
+
+[Slide 11]
+
+Product lifestyles –  birth until death
+
+10
+
+Methodology
+
+Trending - up and down
+
+Whole style vs stepped approach - by size and store gradings
+
+Add or delete sizes
+
+Timing/frequency
+
+Sign offs/ approvals
+
+Importantly, never zero model/Min Max fringe sizing or style until zero stock in DC
+
+Go to RECAPS WEEK 36
+
+“ONGOINGS” tab
+
+Line 126
+
+ITEM CODE: 85601
+
+[Slide 12]
+
+Product lifestyles –  birth until death
+
+11
+
+Go to RECAPS WEEK 36
+
+“New Lines” tab
+
+Line 606
+
+ITEM CODE: 11299408
+
+Go to RECAPS WEEK 36
+
+“Ongoings” tab
+
+Line 5 & 35 & 121
+
+ITEM CODES: 10034401, 11273201 & 86902
+
+[Slide 13]
+
+Markdowns
+
+Weeks cover is the only criteria to determine the markdown price. Ignore margin
+
+Clearance store methodology and transferring
+
+Online clearance methodology and transferring process
+
+Diligence is essential in sale periods for stock smoothing
+
+12
+
+[Slide 14]
+
+General discussion
+
+13
+
+Go to RECAPS WEEK 36
+
+“ONGOINGS” tab
+
+Line 184 & 186
+
+ITEM CODE: 87902 & 82901
+
+[Slide 15]
+
+Ongoing and basics reorders
+
+Methodology
+
+Minimums
+
+Frequency
+
+Forecasting
+
+Random check
+
+Regular and often…    don’t over order
+
+See hand out example
+
+14
+
+[Slide 16]
+
+General
+
+Confirmation that online is the last place to hold the very last SKU in a style and how that occurs
+
+Ongoing: 95% in stock by location by SKU
+
+Grading - online AAA stands alone
+
+15
+
+[Slide 17]
+
+Curvessence
+
+What will we do with learnings from today to support best outcomes for Curvessence
+
+16

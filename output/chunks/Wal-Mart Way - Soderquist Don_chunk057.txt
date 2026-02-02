@@ -1,0 +1,188 @@
+SOURCE: Wal-Mart Way - Soderquist Don.pdf
+SUBFOLDER: Additional\HFT
+TOPIC: Data-Based Retail Management
+SUMMARY: Wal-Mart utilizes advanced computer systems and data analysis to optimize its supply chain, inventory management, and merchandise selection for each store.
+KEYWORDS: inventory management, supply chain optimization, data-driven merchandising, retail technology, community-based retail
+---
+
+[Document: Wal-Mart Way - Soderquist Don.pdf]
+
+used the network to transmit the stores’ merchandise orders directly into our
+
+main computer for processing. After processing, the order-filling documents
+
+were sent to the specific distribution center that evening for filling and
+
+shipping the next day. Simultaneously, the computer adjusted and maintained
+
+the store inventories for every item in the store.
+
+Later on, we used the satellite network to speed up credit-card approval
+
+and transactions for the stores and clubs. We also used this system for many
+
+other types of communication, including transmission of training programs to
+
+the stores and clubs as well as messages from senior management directly to
+
+the associates in the field.
+
+Currently,Wal-Mart is leading the way once again. ISD is at the forefront
+
+of encouraging the retail industry to invest in radio-frequency identification
+
+(RFID) as a means of better identifying and controlling the flow of freight
+
+through the entire supply chain. As a benefit to both retailer and supplier
+
+alike, RFID literally opens a whole new window to the supply chain that
+
+makes it possible to identify and trace the exact location of every single
+
+carton of freight and what’s in that particular carton at any moment in time. It
+
+makes it possible to inventory an entire store electronically and accurately
+
+without having to count the merchandise. I am convinced that RFID, too, will
+
+become a major breakthrough technology in the years ahead. And Wal-Mart
+
+is out in front.
+
+Data-Based Management: Merchandising to America from Bentonville,
+
+Arkansas
+
+Wal-Mart’s computer system houses the largest commercial or private
+
+database in the world. It is an incredible accumulation of information that is
+
+the storehouse for all Wal-Mart systems. One of the many unique uses for
+
+this extensive database is to capture 104 weeks of sales history by week for
+
+every item in every store in the world. That information can be so powerful
+
+and useful for determining merchandise sales trends, forecasting individual
+
+item sales, capturing the seasonality of many items, and managing the
+
+replenishment of each store’s inventory.
+
+It would seem to be impossible for any group of buyers to merchandise
+
+every store in the world from Bentonville, Arkansas. But this database makes
+
+it possible to accurately determine what items each store sells best and allows
+
+Wal-Mart to merchandise each store according to the specific needs of the
+
+customers who shop in that particular store. We call this the Store of the
+
+Community. Our overall objective of this program is to have the right
+
+merchandise, at the right price, in the right store, at the right time. One size
+
+does not fit all in the retail business. The computer develops a profile of the
+
+customers’ merchandising needs and seasonal fluctuations that are unique to
+
+each store.
+
+Based on local and regional profiling, the computer automatically
+
+replenishes everyday staple merchandise items in each store. But it also
+
+determines the anticipated demand on discretionary items for each store
+
+based on that store’s sales history, checks the inventory of that item in that
+
+store daily, and then automatically creates an order and immediately
+
+transmits it to the nearest distribution center. The order is filled in the
+
+distribution center the next day, loaded onto a truck, and then shipped
+
+directly to the store. On a continuing basis, department managers in each
+
+store review their item movement and inventory reports and can revise the
+
+way the computer is ordering any of their items and update all the data in the
+
+system. While the replenishment of the items in each store is virtually
+
+automatic, there is always the provision for human initiative to override or
+
+refine the process.
+
+The computer also checks the inventory of each item that is stocked in
+
+each Wal-Mart distribution center on a daily basis. Based on the anticipated
+
+demand of those items, the computer will create purchase orders and transmit
+
+them directly to the suppliers’ computers overnight. On new items and
+
+strictly seasonal categories, the computer develops suggested orders for the
+
+buyers’ review, based on each store’s unique profile. This review is done on
+
+an exception basis. Orders are then transmitted directly to the suppliers for
+
+their shipments to our distribution centers.
+
+This automated process has made it possible for Wal-Mart stores to be in
+
+stock consistently and minimize the dollars invested in inventory at the same
+
+time—that equals superior service for the customers and reduced capital
+
+commitment from the company. The Wal-Mart Way has always been true to
+
+our vision of satisfying our customers and maximizing the impact of our
+
+assets through excellence.
+
+Suppliers’ Access to Our Data
+
+Our database is a crucial component of our business, and in 1991, our
+
+Information Systems Division developed a next-generation database system
+
+called Retail Link. (A more detailed explanation of the development of this
+
+unique system and the rationale for it is in chapter 9,“Reinventing the Supply
+
+Chain.”) Retail Link gives our suppliers access to the Wal-Mart database in
+
+Bentonville from their own offices and on their own PCs. They can pull up
+
+any item they sell to us and monitor retail sales of that item by day, by week,
+
+by month, or by year. They have the further capability of seeing any of their
+
+items’ sales by store, by district, by state, by region—or the entire company.
+
+The data is updated eight times a day, making the information current and
+
+accurate whenever they look at it. Our store associates, our buyers, and our
+
+suppliers share exactly the same data, and that makes it possible for all of us
+
+to maximize our overall performance.
+
+The system is password-protected and has other safeguards so that each
+
+manufacturer and supplier is limited to—and protected by—studying only his
+
+or her own merchandise. Though Wal-Mart standards for merchandise sell-
+
+through are tough, we provide our suppliers with state-of-the-art feedback to
+
+improve their product development. No one wants to create merchandise that
+
+customers don’t want!
+
+This is perhaps the most beautiful time in human history; it is really pregnant with all kinds
+
+of creative possibilities made possible by science and technology which now constitute the

@@ -1,0 +1,228 @@
+SOURCE: Know Yourself-Know The Others-Know The Situation.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Decision Making Under Uncertainty
+SUMMARY: The text discusses people's risk preferences in decision-making under uncertainty, where they exhibit risk aversion for gains and risk-seeking for losses.
+KEYWORDS: risk aversion, framing effect, gains and losses, decision-making
+---
+
+2. lf Program B is adopted, there is a one-third probably that all will
+
+be saved and a two-thirds probability that none will be saved.
+
+Problem 6: The U. S. is preparing for the outbreak of a deadly disease that is
+
+expected to kill 600 people. Two alternative programs are being considered. Which
+
+would you favor?
+
+1. If Program A is adopted, 400 people will die.
+
+2. If Program B is adopted, there is a one-third probability that no
+
+one will die and a two-thirds probability that all will die.
+
+Typical pattern of responses and analysis:
+
+Strategy A is preferred in the first version; Strategy B is preferred in the second.
+
+We are risk averse to gains and risk seeking to losses.
+
+Framing - Getting a "Good Deal"
+
+Problem 7: Imagine that you are about to purchase a calculator
+
+for $50. The calculator salesperson informs you that the
+
+calculator that you wish to buy is on sale at the other branch of
+
+the store, located a 20 minute drive away. How much of a
+
+discount in the price of the calculator would lead you to be willing
+
+to travel to the other branch to buy it?
+
+Problem 7: Imagine that you are about to purchase a television
+
+for $500. The television salesperson informs you that this
+
+television is on sale at the other branch of the store, located a 20
+
+minute drive from where you are now. How much of a discount
+
+in the price of the TV would lead you to be willing to travel to the
+
+other branch to buy it?
+
+Typical pattern of responses and analysis: Respondents
+
+require a much higher discount on the more expensive
+
+commodity. We seek transactional utility (getting a good deal) in
+
+our purchasing behavior.
+
+14
+
+Framing - Gains and Losses
+
+Problem 4: Which would you rather have? (Circle one)
+
+$800 for sure OR an 85% chance for $1000 and a 15% chance for $0
+
+Problem 8: Which would you rather do? (Circle one)
+
+pay $800 for sure OR take an 85% chance of paying $1000
+
+and a 15% chance of paying $0
+
+Typical pattern of responses and analysis: People are risk averse
+
+in problem 4: they tend to choose the $800 for sure, rather than
+
+taking the risk. But they tend to be risky in problem 8, taking the
+
+chance to either pay $1000 or pay nothing. People would be
+
+consistent if they took the certain choice in both problems or if they
+
+took the lottery in both problems. They would be rational if they
+
+maximized their expected values in both problems [by taking the
+
+lottery in problem 4 (expected value = $850) and paying $800 in
+
+problem 8 (lottery expected value = -$850)]. Most people are neither
+
+consistent nor rational.
+
+The Number Sequence Task
+
+1. Your Goal: To determine the rule (the logic) that | used
+
+when | created this sequence of three numbers.
+
+2. How You Can Get Information: You can propose other
+
+sequences of three numbers. If they conform to my rule
+
+(my logic), | will say “Yes.” If they don’t, | will say “No.”
+
+You can do this (i.e., propose sequences) as many times
+
+as you like.
+
+3. What To Do When You Think You Know the Rule:
+
+Make a Guess. If you are correct, we will all applaud.
+
+If you aren't, someone else will go back to step 2 and
+
+propose some sequences until they want to make a
+
+guess. We will repeat this until someone identifies my rule
+
+(my logic).
+
+Amarillo Slim
+
+The Greatest Gambler Who Ever Lived
+
+Some quotes from his autobiography
+
+You might ask, “Is all of this true?”
+
+There may be a bit of hyperbole here.
+
+In fact, you can probably bet on it.
+
+But see if you don’t discover some wisdom, too.
+
+“| learned from Minnesota Fats that the more
+
+you can get someone to want to beat you,
+
+the more likely you are to make him emotional,
+
+so that his ego gets in the way of his brain.”
+
+“| also decided that I’d better get me a
+
+nickname fast, and since some of my friends
+
+called me Slim anyway, | took a page from
+
+Fats’s book, and from that day forward, |
+
+became known as Amarillo Slim.”
+
+13
+
+The way sports booking works is that when
+
+you place a bet, you lay 11 to 10 —
+
+pay 11 if you lose and get paid 10 if you win.
+
+“It’s a myth that bookies want to balance
+
+their books- that they want the same number
+
+of people on both sides of the ledger
+
+so that they can just collect the vig
+
+and not have any risk. ...
+
+Their goal is to take as much action as they
+
+can, knowing that the bettor is going to lose
+
+in the long run.”
+
+The rich oilman, a Notre Dame grad
+
+Slim told him that Notre Dame was favored by 34
+
+points over Purdue, even though the actual line
+
+was 30. “I knew this man well enough that | could
+
+put the odds in my favor. ... you see, if you've
+
+ever met an Notre Dame fan, you know that
+
+they're rabid ... You see, | knew that the oilman
+
+might not bet on Notre Dame minus 34, but you
+
+couldn't have put a machine gun on him to make
+
+him take Purdue at plus 34. He wouldn’t dare bet
+
+against his beloved alma mater.
+
+“| Know that you’re waiting for me to tell you
+
+that Purdue ended up losing by 33, but the
+
+truth is, | couldn’t tell you, and it don’t matter
+
+either way.
+
+The point is that in gambling, you need to
+
+put your odds in your favor. The result of
+
+one game doesn’t mean a damn thing, and
+
+that’s why one of my mantras has always
+
+been ‘Decisions, not results.’
+
+Do the right thing enough times and
+
+the results will take care of
+
+themselves in the long run.”
+
+“See, when | bet on sports, | don't like

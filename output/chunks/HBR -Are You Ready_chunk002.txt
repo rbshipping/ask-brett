@@ -1,0 +1,124 @@
+SOURCE: HBR -Are You Ready.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Demand Forecasting and Inventory Management
+SUMMARY: The text discusses how early sales data can help predict demand and improve inventory management, with examples of retailers like World Company, Zara, and CompUSA using this approach.
+KEYWORDS: demand forecasting, inventory management, early sales data, product lifecycle, retail practices
+---
+
+[Document: HBR -Are You Ready.pdf]
+
+and music.
+
+No Need for a Crystal Ball
+
+Early sales data can help to predict demand for the life cycle of a product—particularly a fashion item. The information at right
+
+is from an apparel catalog company. The graph on the left plots actual life cycle demand against the forecasts made by a
+
+committee of four merchandisers. The graph on the right plots actual life cycle demand against forecasts based on sales
+
+observed during the product’s first two weeks on the market, which accounted for 11% of the season’s demand. The latter
+
+results in a forecast margin of error that is significantly less than the experts’ forecast.
+
+But despite the potentially high payoff—and a commonly accepted belief among retailers that early sales are a good indicator of
+
+future sales—many of the companies we surveyed had no systems in place to exploit early sales data. One retailer, for
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012
+
+Are You Ready? - Harvard Business Review Page 3of 8
+
+example, ordered garments and committed specific quantities of each stock-keeping unit (SKU) to each of its stores 11 months
+
+before the product was even available to the public. Even retailers that paid attention to their early sales data updated their
+
+forecasts in an ad hoc manner when sales greatly exceeded or fell far short of original predictions.
+
+Several companies have retailing practices worth emulating, however. Japan-based World Company and Spain-based Zara
+
+are fashion retailers whose merchants systematically examine early sales data to estimate future demand for various products.
+
+They conduct this analysis for every product at predetermined periods in its sales cycle. And the merchants follow through,
+
+immediately reordering items that look as though they may end up in short supply. Not surprisingly, World Company has
+
+achieved a gross-margin return on inventory investments of more than 300%—a substantially higher return than any other
+
+retailer we are aware of.
+
+Dallas-based CompUSA, which sells computers and associated merchandise, has found that even one or two days of early
+
+sales data can be very useful to predict sales and replenish its inventory for PCs. Buyers monitor the sales of a certain product
+
+line soon after it is launched and update their forecasts based on those observations. They expedite orders for PCs that are
+
+selling better than expected and, when possible, they decline items that have not been shipped. This process of reading and
+
+reacting to market signals has improved CompUSA’s ability to match supply with demand.
+
+Finally, book and music retailer Borders Group uses historical sales data to customize the product assortment in each of its
+
+stores. Borders tracks sales at each store by product category. It uses its merchandise planning system to automatically adjust
+
+the inventory at a store based on sales in each product category. Thus, a store in Anchorage, Alaska, would carry a wide
+
+assortment of books about small planes because sales for such books tend to be high at that outlet, while the Boston store
+
+might stock relatively few items in this category because demand is lower there. Why don’t more retailers customize their
+
+inventories? The answer, as we explain later on, lies in slow supply chains, inadequate or inaccurate data, the inability to
+
+measure stockouts and forecast error, and planning software that is inappropriate for the retailer.
+
+Track and predict forecast accuracy.
+
+Only nine of the 32 retailers in our study said they analyzed the accuracy of their forecasts. And yet, tracking forecast errors,
+
+and understanding when and why they occur, is fundamental to improving accuracy. Even more important, knowing the margin
+
+of error on a forecast is vital to being able to react when the forecast is wrong. For example, if past forecasts for a certain
+
+product have been wrong by plus or minus 50%, when a merchant says you’ll sell 10,000 of that item, that really means you’ll
+
+sell between 5,000 and 15,000 units. Instead of buying 10,000, it might be smarter to buy 5,000 finished units and materials for
+
+an additional 10,000 units to be assembled quickly if early sales are strong.
+
+World Company tracks and predicts forecast accuracy by item using the “Obermeyer method”: new products are displayed in a
+
+room at corporate headquarters just as they would be in a retail store, and about 30 store employees, who are chosen to
+
+represent the company’s target customers, estimate the likely success of each product. World has found that the products that
+
+generate greater disagreement among the employees are likely to have less-accurate forecasts.
+
+Get the product testing right.
+
+An impressive 78% of the retailers in our study test new products in a few stores before the actual product launch. But almost
+
+all the buyers said their test methods are highly unscientific and that any results that indicate that certain products will be
+
+unsuccessful are often ignored. Merchants often believe their products will sell well despite unfavorable test results; they blame
+
+the weather (bad or good), the poor choice of test sites, the inferior execution of tests, and other factors for suboptimal sales.
+
+When a product testing method is developed with care and refined on a regular basis, the results can substantially improve
+
+forecasts. We helped develop a testing method at one apparel retailer that predicts the sales of a product based on the early
+
+sales at a few carefully selected test stores. We found that the selection of stores greatly affected the quality of the forecasts.
+
+By using historical sales data to pick a diverse group of test stores that matched varying customer preferences, we reduced
+
+forecast errors for each style and color from 30% to 9%.
+
+Use a variety of forecasting approaches.
+
+Most companies we surveyed limit themselves to just one type of forecasting. Generally, a single forecast for each item is
+
+generated by the buyer or by a small group from merchandising. But generating multiple forecasts can be very valuable
+
+because in seeking to understand the differences in those forecasts, managers can explore the assumptions implicit in their
+
+forecasting techniques.

@@ -1,0 +1,168 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Data and Analytics in Retail
+SUMMARY: This text discusses the importance of data and analytics in the retail industry, including the need for data talent, data-driven strategies, and robust data security measures.
+KEYWORDS: data analytics, retail technology, customer data, data security, business strategy
+---
+
+purchase decision.
+
+ Find ways to market the value of ownership to shoppers.
+
+ Experiment with leasing, loaning, bartering and rental services and dedicate a portion of your
+
+footprint to selling lightly used products in a few stores. Look for ways to upsell to new products.
+
+ Understand the potential margins you are able to make selling new versus pre-owned goods, by
+
+category.
+
+ Be ready to move quickly in the event that a first-mover in your sector jumps into the sharing
+
+economy triggering an avalanche of entrants. Know what you’ll do now if this happens
+
+tomorrow.
+
+Data and analytics
+
+ Boost your organization’s data acumen and acquire data engineering and data analytics talent.
+
+Be prepared to pay for good talent; it’s in high demand.
+
+ Understand how to use insights derived from data can be used to increase loyalty, build brand
+
+connections, improve efficiency, and increase profits. Make this a central component of your
+
+business strategy. Retail businesses run purely on gut instinct and the experience of formerly-
+
+hallowed industry sages will quickly become uncompetitive.
+
+ Build strategic partnerships with experts in data management, network and data architecture,
+
+security and encryption, privacy, analytics, data hosting, cloud, and storage. Most retailers won’t
+
+want to go it alone and will need help. Outsource with pride where it makes sense. And decide
+
+what you need to bring in-house for competitive advantage. You may be able to buy most things
+
+off the shelf and need little to no in-house development. Or you may need a lot. That’s why your
+
+CIO earns the big bucks.
+
+ Embrace robust end-to-end security measures for all your data, including data related to
+
+financial transactions, loyalty program systems, and personal data gathered on shoppers.
+
+Tokenized security systems with high encryption and hardware-based security will significantly
+
+outperform software-only security solutions. Don’t be the next Target* or Sony*. If you don’t
+
+already have one, institute a regimen of regular internal security audits to catch issues early on
+
+and assure data integrity. Make data security a corporate priority.
+
+ Build systems that fully respect and guard shopper privacy, that give them opt-in control over
+
+how their data is used, and that allow them to remain anonymous if they so desire. Violate the
+
+social contract at your peril.
+
+ Clearly articulate value to the shopper in tracking their behavior and be sure you deliver real
+
+value in return that gives shoppers a clear reason to opt in. Quid pro quo strategies will win.
+
+72
+
+ Consider adding identity theft indemnification to your offering as a way to boost and sustain
+
+trust with shoppers. As personal data gathering becomes more commonplace, brands that stand
+
+behind an indemnification and remediation guarantee will probably benefit from increased
+
+customer loyalty and trust.
+
+ Determine your data sharing strategy. If it makes sense to your business, build strategic
+
+partnerships with other retailers or data brokers, and determine appropriate, secure
+
+mechanisms needed to share data in a way that fully guards privacy. And before you share
+
+anything with anyone else, ensure you have shopper’s consent. Again, helping them understand
+
+the value of sharing their data may be a good strategy here.
+
+ Determine your strategy for data ownership – philosophically and practically, should you own it,
+
+or should some other provider gather and own your data? In some ways, data is destiny. There
+
+are legitimate arguments for and against allowing others to gather and own shopper data in
+
+return for you having a reduced upfront CapEx outlay. But be sure you know what you’re doing
+
+before you make that leap. It may be the smartest business move you make, or you may be
+
+signing a deal with the devil.
+
+ Determine your strategy for data retention – how long will you keep customer records? This will
+
+be determined by local regulations in some markets, notably the European Union.
+
+Shopper of one
+
+ Unify your in-store and online shopping experiences and align all your systems so that
+
+customers feel one seamless experience that traverses multiple channels. This includes having a
+
+single unified inventory.
+
+ Make your life easier: Deploy IT solutions that offer a single view of the shopper across the
+
+enterprise. Build an accurate understanding of shoppers and unify customer data from both
+
+online and offline sources.
+
+ Deliver consistent messages and maintain two-way conversations with your shoppers that
+
+seamlessly span the shopper journey: physical store and all digital device types (PC, tablet,
+
+phone, wearables) without creating any friction for shoppers.
+
+Above all, be bold. Retail is exciting, it’s competitive, and it’s ever-changing. And the technology
+
+available to you in the next decade, indeed in the next year, is going to provide you with incredible
+
+opportunity. But that same technology will also be available to your competitors.
+
+If you need something to help you remember the main things to enact to get you started on the next leg
+
+of the retailer’s journey it’s this:
+
+Be ready to sell smart products AND services, in smart stores, that gather vital data you need
+
+to improve operations, deliver a competitive shopping experience, and maximize your profits.
+
+And be ready for the sharing economy to come to your door, tomorrow.
+
+And if you feel in need of a little further inspiration please take a peek at the more distant future in our
+
+next section.
+
+Above all, good luck.
+
+73
+
+9 RETAIL 2030: A VISION FOR THE FUTURE OF SHOPPING
+
+The ideas explored in the retail futurecasting session illuminated an exciting array of possibilities for the
+
+future of retail. In isolation, each idea is compelling. But put them together and the opportunities to
+
+create incredible new value, amazing new experiences for shoppers, and to totally remake the face of
+
+retail are truly compelling.
+
+Imagine the world in 2030. Billions of people are living in busy, vibrant, crowded cities. Many people still
+
+living in more rural areas but they are increasingly connected to the wider world through technology.
+
+What will the retail landscape in this world look like? What will it feel like?

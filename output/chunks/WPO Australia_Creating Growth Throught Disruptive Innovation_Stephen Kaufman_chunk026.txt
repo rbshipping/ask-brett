@@ -1,0 +1,164 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Product Architecture and Competitive Advantage
+SUMMARY: Companies are more likely to succeed when they match their product architecture to their competitive circumstances, especially when product functionality and reliability are not yet good enough.
+KEYWORDS: product architecture, interdependence, performance gap, competitive advantage, sustaining technologies
+---
+
+the sacrifice of performance.
+
+Pure modularity and interdependence are the ends of a spectrum: Most products fall
+
+somewhere between these extremes. As we shall see, companies are more likely to succeed when
+
+they match product architecture to their competitive circumstances.
+
+Competing with Interdependent Architecture in a Not-Good-Enough World
+
+The left side of figure 4-1 indicates that when there is a performance gap—-when product
+
+functionality and reliability are not yet good enough to address the needs of customers in a given
+
+tier of the market--companies must compete by making the best possible products. In the race to
+
+do this, firms that build their products around proprietary, interdependent architectures enjoy an
+
+important competitive advantage against competitors whose product architectures are modular,
+
+because the standardization inherent in modularity takes too many degrees of design freedom
+
+away from engineers, and they cannot optimize performance.
+
+To close the performance gap with each new product generation, competitive forces
+
+compel engineers to fit the pieces of their systems together in ever-more-efficient ways in order
+
+to wring the most performance possible out of the technology that is available. When firms must
+
+compete by making the best possible products, they cannot simply assemble standardized
+
+components, because from an engineering point of view, standardization of interfaces (meaning
+
+fewer degrees of design freedom) would force them to back away from the frontier of what is
+
+4-3
+
+technologically possible. When the product is not good enough, backing off from the best that
+
+can be done means that you’ !l fall behind.
+
+Companies that compete with proprietary, interdependent architectures must be
+
+integrated: They must control the design and manufacture of every critical component of the
+
+system in order to make any piece of the system. As an illustration, during the early days of the
+
+mainframe computer industry, when functionality and reliability were not yet good enough to
+
+satisfy the needs of mainstream customers, you could not have existed as an independent
+
+contract manufacturer of mainframe computers because the way the machines were designed
+
+depended on the art that would be used in manufacturing, and vice versa. There was no clean
+
+interface between design and manufacturing. Similarly, you could not have existed as an
+
+independent supplier of operating systems, core memory, or logic circuitry to the mainframe
+
+industry because these key subsystems had to be interdependently and iteratively designed, too."
+
+New, immature technologies are often drafted into use as sustaining improvements when
+
+functionality is not good enough. One reason why entrant companies rarely succeed in
+
+commercializing a radically new technology is that breakthrough sustaining technologies are
+
+rarely plug-compatible with existing systems of use.” There are just too many interdependencies
+
+that mandate change in other elements of the system before a viable product that incorporates a
+
+radically new technology can be sold, that the new product development cycle is tortuously long.
+
+The use of advanced ceramics materials in engines, the deployment of high-bandwidth DSL lines
+
+at the “last mile” of the telecommunications infrastructure, the building of superconducting
+
+electric motors for ship propulsion, and the transition from analog to digital to all-optical
+
+telecommunications networks could all only be accomplished by extensively integrated
+
+companies whose scope could encompass all of the interdependencies that needed to be
+
+managed. This is treacherous terrain for entrants.
+
+For these reasons it wasn’t just IBM the integrated giant that dominated its industry. Ford
+
+and General Motors, as the most integrated companies, were the dominant competitors during
+
+the not-good-enough era of the automobile industry’s history. For the same reasons, RCA,
+
+Xerox, AT&T, Standard Oil, and US Steel dominated their industries at similar stages. These
+
+firms enjoyed near-monopoly power. Their market dominance was the result of the not-good-
+
+enough circumstance, which mandated interdependent product or value chain architectures and
+
+vertical integration.’ But their hegemony proved only temporary, because ultimately, companies
+
+that have excelled in the race to make the best possible products find themselves making
+
+products that are too good. When that happens, the intricate fabric of success of integrated
+
+companies like these begins to unravel.
+
+Overshooting and Modularization
+
+One symptom that these changes are afoot—that the functionality and reliability of a
+
+product have become too good—is that salespeople will return to the office cursing a customer:
+
+“Why can’t they see that our product is better than the competition? They’re treating it like a
+
+commodity!” This is evidence of overshooting. Such companies find themselves on the right side
+
+of figure 4-1, where there is a performance surplus. Customers are happy to accept improved
+
+products, but they’re unwilling to pay a premium price to get them.’
+
+Overshooting does not mean that customers will no longer pay for improvements. It just
+
+means that the 4pe of improvement for which they will pay a premium price will change. Once
+
+their requirements for functionality and reliability have been met, customers begin to redefine
+
+what is not good enough. What becomes not good enough is that customers can’t get exactly
+
+what they want exactly when they need it, as conveniently as possible. Customers become
+
+willing to pay premium prices for improved performance along this new trajectory of innovation
+
+in speed, convenience, and customization. When this happens, we say that the basis of
+
+competition in a tier of the market has changed.
+
+The pressure of competing along this new trajectory of improvement forces a gradual
+
+evolution in product architecture, as depicted in figure 4-l—away from the interdependent,
+
+proprietary architectures that had the advantage in the not-good-enough era toward modular
+
+designs in the era of performance surplus. Modular architectures help companies to compete on
+
+the dimensions that matter in the lower-right portions of the disruption diagram. Companies can
+
+introduce new products faster because they can upgrade individual subsystems without having to
+
+redesign everything. Although standard interfaces invariably force compromise in system
+
+performance, firms have the slack to trade away some performance with these customers because
+
+functionality is more than good enough.
+
+Modularity has a profound impact on industry structure because it enables independent,
+
+nonintegrated organizations to sell, buy, and assemble components and subsystems.® Whereas in

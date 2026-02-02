@@ -1,0 +1,166 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Modular Failures in Interdependent Circumstances
+SUMMARY: The text discusses how modularity often fails in the early stages of disruptive innovations when product performance is not good enough and there are complex, unpredictable interdependencies in the system.
+KEYWORDS: modularity, interdependencies, disruptive innovation, CLEC, DSL
+---
+
+reliability are inadequate. Modularity often is not technologically or competitively possible
+
+during the early stages of many disruptions.
+
+To succeed with a nonintegrated, specialist strategy, you need to be certain you’re
+
+competing in a modular world. Three conditions must be met in order for a firm to procure
+
+something from a supplier or partner, or to sell it to a customer. First, both suppliers and
+
+customers need to know what to specify—which attributes of the component are crucial to the
+
+operation of the product system, and which are not. Second, they must be able to measure those
+
+attributes so that they can verify that the specifications have been met. Third, there cannot be any
+
+poorly understood or unpredictable interdependencies across the customer-supplier interface.
+
+The customer needs to understand how the subsystem will interact with the performance of other
+
+pieces of the system so that it can be used with predictable effect. These three conditions—
+
+specifiability, verifiability, and predictability—constitute an effective modular interface.
+
+When product performance is not good enough—when competition forces companies to
+
+use new technologies in nonstandard product architectures to stretch performance as far as
+
+4-9
+
+possible—these three conditions often are mot met. When there are complex, reciprocal,
+
+unpredictable interdependencies in the system, a single organization’s boundaries must span
+
+those interfaces. People cannot efficiently resolve interdependent problems while working at
+
+arm’s length across an organizational boundary."
+
+Modular Failures in Interdependent Circumstances
+
+In 1996 the United States government passed legislation to stimulate competition in local
+
+telecommunication services. The law mandated that independent companies be allowed to sell
+
+services to residential and business customers and then to plug into the switching infrastructure
+
+of the incumbent telephone companies. In response, many nonintegrated competitive local
+
+exchange carriers (CLECs) such as Northpoint Communications attempted to offer high-speed
+
+DSL access to the Internet. Corporations and venture capitalists funneled billions of dollars into
+
+these companies.
+
+The vast majority of CLECs failed. This is because DSL service was in the
+
+interdependent realm of figure 4-1. There were too many subtle and unpredictable
+
+interdependencies between what the CLECs did when they installed service on a customer’s
+
+premises and what the telephone company had to do in response. It wasn’t necessarily the
+
+technical interface that was the problem. The architecture of the telephone companies’ billing
+
+system software, for example, was interdependent — making it very difficult to account and bill
+
+for the cost of a “plugged-in” CLEC customer. The fact that the telephone companies were
+
+integrated across these interdependent interfaces gave them a powerful advantage. They
+
+understood their own network and IT system architectures and could consequently deploy their
+
+offerings more quickly with fewer concerns about the unintended consequences of reconfiguring
+
+their own central office facilities.’
+
+Similarly, in the eagerly anticipated wireless-access-to-data-over-the-Internet industry,
+
+most European and North American competitors tried to enter as nonintegrated specialists,
+
+providing one element of the system. They relied prematurely on industry standards such as
+
+WAP (Wireless Applications Protocol) to define the interfaces between the handset device, the
+
+network, and the new content being developed. Companies within each link in the value chain
+
+were left to their own devices to determine how best to exploit the wireless Internet. Almost no
+
+revenues and billions in losses have resulted. The “partnering” theology that had become de
+
+rigueur among telecommunications investors and entrepreneurs who had watched Cisco succeed
+
+by partnering turned out to be misapplied in a different circumstance in which it couldn’t work—
+
+with tragic consequences.
+
+Appropriate Integration
+
+In contrast, Japan’s NTT DoCoMo and J-Phone have approached the new-market
+
+disruptive opportunity of the wireless Internet with far greater integration across stages of the
+
+value chain. These growth ventures already claim tens of millions of customers and billions in
+
+revenue.'® Although they do not own every upstream or downstream connection in the value
+
+chain, DoCoMo and J-Phone carefully manage the interfaces with their content providers and
+
+handset manufacturers. Their interdependent approach allows them to surmount the
+
+technological limitations of wireless data and to create user interfaces, a revenue model, and a
+
+billing infrastructure that make the customer experience as seamless as possible.'”
+
+The DoCoMo and J-Phone networks comprise competing, proprietary systems. Isn’t this
+
+inefficient? Executives and investors indeed are often eager to hammer out the standards before
+
+they invest their money, to preempt wasteful duplication of competing standards and the
+
+possibility that a competitor’s approach might emerge as the industry’s standard. This works
+
+when functionality and reliability and the consequent competitive conditions permit it. But when
+
+they do not, then having competing proprietary systems is not wasteful.'® Far more is wasted
+
+when huge sums are spent on an architectural approach that does not fit the basis of competition.
+
+True, one system ultimately may define the standard, and those whose standards do not prevail
+
+may fall by the wayside after their initial success, or they may become niche players.
+
+Competition of this sort inspired Adam Smith and Charles Darwin to write their books.
+
+Parenthetically, we note that in some of its ventures abroad, such as in its partnership
+
+with AT&T Wireless in the United States, DoCoMo has followed its partners’ strategy of
+
+adopting industry standards with less vertical integration and has stumbled badly, just like its
+
+American and European counterparts. It’s not DoCoMo that makes the difference. It’s employing
+
+the right strategy in the right circumstances that makes the difference,
+
+Being in the Right Place at the Right Time
+
+We noted earlier that the pure forms of interdependence and modularity are the extremes
+
+on a continuum, and companies may choose strategies anywhere along the spectrum at any point
+
+in time. A company may not necessarily fail if it starts with a prematurely modular architecture
+
+when the basis of competition is functionality and reliability. It will simply suffer from an
+
+important competitive disadvantage until the basis of competition shifts and modularity becomes
+
+the predominant architectural form. This was the experience of IBM and its clones in the
+
+personal computer industry. The superior performance of Apple’s computers did not preclude

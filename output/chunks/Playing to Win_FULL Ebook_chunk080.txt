@@ -1,0 +1,224 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Product Pricing Strategy
+SUMMARY: This text discusses the two fundamental ways for a firm to win: offering a similar or unique product, and the corresponding strategies of cost leadership or price premium.
+KEYWORDS: product differentiation, pricing strategy, cost leadership, price premium
+---
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 235 11/6/12 8:17 PM
+
+236 Appendix B
+
+Figure B-8
+
+Maximizing profit from a unique product
+
+Demand
+
+(price)
+
+Profit maximizing
+
+Price price and quantity
+
+per
+
+unit
+
+Marginal
+
+cost
+
+Marginal
+
+revenue
+
+Quantity
+
+Demand Price
+
+Total too low too low
+
+profit
+
+Quantity
+
+As a consequence, marginal revenue doesn’t increase by the price
+
+of the incremental unit. It increases by that amount less the rev-
+
+enue lost on each prior unit. At some point, the marginal revenue is
+
+lower than the marginal cost and the firm has pushed price too far,
+
+as shown in figure B-8.
+
+The Two Fundamental Ways to Win
+
+The foregoing gives rise to the two fundamental ways to win. A firm
+
+can choose to offer a similar offering or a unique offering, and each
+
+offering has one and only one form of strategy associated with it.
+
+In the case of a similar offering, a firm does not attempt to con-
+
+vince the customer that its offering is unique. The offering may not
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 236 11/6/12 8:17 PM
+
+The Microeconomic Foundations of Strategy 237
+
+be a pure commodity like an ounce of gold, but it might be a sixty-
+
+watt light bulb or a sheet of drywall or even a standard “Wintel”
+
+PC. The distinction is that the firm does not attempt to position its
+
+offering as sufficiently unique to warrant a price premium of any
+
+sort. Once that decision has been made, the only strategy to follow
+
+for competitive advantage is a low-cost one—that is, a strategy of
+
+being in the bottom quarter to third of the cost curve. If a firm is a
+
+price-taker, that is the only way to achieve a sustainable competitive
+
+advantage. It needs to focus its primary energies on defending its
+
+place in the lower third of the industry cost curve, even against new
+
+entrants that may come to the market with new techniques or tech-
+
+nologies. Note that while being in the lower third of the cost curve
+
+tends to ensure strong profitability at least in the short to medium
+
+term, a firm is vulnerable to the potential actions of the very lowest-
+
+cost player. There is only one truly lowest-cost player, and if that
+
+player wishes to grow faster or punish other competitors higher up
+
+on the cost curve, it can start a price war that drives prices down for
+
+all competitors. And because it has the very lowest-cost position,
+
+the firm can weather the price war better than all other competitors.
+
+In the case of a unique offering, the firm needs to differenti-
+
+ate in a way that the customer values sufficiently to pay a price
+
+premium, enabling the firm to earn an attractive return. This
+
+is a differentiation strategy. In essence, for a particular group
+
+of customers, the firm is a monopoly supplier. The custom-
+
+ers don’t think that they have a choice of an identical offering;
+
+they would have to switch to a different sort of offering if they
+
+choose not to buy from this firm. In a differentiation strategy,
+
+the firm needs to focus its energies on maintaining its unique-
+
+ness in the eyes of the customers. Only if its offerings seem
+
+unique to the customers will a firm continue to earn a price pre-
+
+mium over nonunique competitors and hence maintain its com-
+
+petitive advantage.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 237 11/6/12 8:17 PM
+
+238 Appendix B
+
+Regardless of the industry, firms can play as the low-cost com-
+
+petitor. Even if the product in an industry is a commodity (e.g.,
+
+uncoated free sheet), the offering of a firm in that industry need
+
+not be undifferentiated. The firm could differentiate its offering by
+
+providing better customer service, more consistent delivery, bet-
+
+ter integration with the downstream buyer’s operations, and so
+
+on. And even in industries dominated by branded, differentiated
+
+players, there can be nonunique players that win through a low-
+
+cost strategy. Certainly the store-controlled brands in the food and
+
+consumer packaged goods businesses are excellent examples of this
+
+approach.
+
+So firms can always choose to win as either a cost leader or a
+
+differentiator. What they can’t do is win any other way. Due to
+
+the fundamental microeconomics of business, there are only two
+
+ways to win: higher margin through lower cost or higher margin
+
+through differentiation.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Appendix_B.indd 238 11/6/12 8:17 PM
+
+Notes
+
+Introduction
+
+1. Michael Porter, Competitive Strategy: Techniques for Analyzing
+
+Industries and Competitors (New York: Simon & Schuster, 1980).
+
+2. In 2007, I (R. M.) wrote a book about integrative thinking
+
+(Roger Martin, The Opposable Mind: How Successful Leaders Win
+
+Through Integrative Thinking [Boston: Harvard Business School
+
+Press]). In the book, I argue that when highly successful leaders are faced
+
+with a difficult choice between opposing models, neither of which is
+
+particularly attractive, rather than choose, the leaders generally build a
+
+new model that is superior to both models but contains elements of each.
+
+Because I also write frequently about strategy as choice, as we do in this
+
+book, some readers have suggested that I am internally inconsistent:
+
+successful leaders either don’t choose (per The Opposable Mind) or do
+
+choose (per Playing to Win). I would offer a different perspective. All the
+
+integrative thinkers that I chronicled in The Opposable Mind, from Bob
+
+Young of Red Hat to Isadore Sharp of Four Seasons Hotels and Resorts
+
+to Victoria Hale of the Institute for One World Health to A.G. Lafley,

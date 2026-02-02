@@ -1,0 +1,156 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: The text discusses the distinction between sustaining and disruptive innovations, and how disruptive innovations can ultimately disrupt and crush industry incumbents.
+KEYWORDS: sustaining innovation, disruptive innovation, industry disruption, innovator's dilemma, minimills
+---
+
+up. As depicted at the left side of figure 1-1, the technology was not good enough. But today’s
+
+processors offer much more speed than mainstream customers can use—although there are still a
+
+few unsatisfied customers in the most demanding tiers of the market who need even-faster chips.
+
+The third critical element of the model is the distinction between sustaining and
+
+disruptive innovation. A sustaining innovation targets demanding, high-end customers with
+
+better performance than what was previously available. Some sustaining innovations are the
+
+incremental year-by-year improvements that all good companies grind out. Other sustaining
+
+innovations are breakthrough, leapfrog-beyond-the-competition products. It doesn’t matter how
+
+technologically difficult the innovation is, however: The established competitors almost always
+
+win the battles of sustaining technology. Because this strategy entails making a better product
+
+that they can sell for higher profit margins to their best customers, the established competitors
+
+have powerful motivations to fight sustaining battles. And they have the resources to win.
+
+Disruptive innovations, in contrast, don’t attempt to bring better products to established
+
+customers in existing markets. Rather, they disrupt and redefine that trajectory by introducing
+
+products and services that are not as good as currently available products. But disruptive
+
+technologies offer other benefits—typically, they are simpler, more convenient, and less
+
+expensive products that appeal to new or less-demanding customers.
+
+Once the disruptive product gains a foothold in new or low-end markets, the
+
+improvement cycle begins. And because the pace of technological progress outstrips customers’
+
+abilities to use it, the previously not-good-enough technology eventually improves enough to
+
+intersect with the needs of more demanding customers. When that happens, the disruptors are on
+
+a path that will ultimately crush the incumbents. This distinction is important for innovators
+
+" seeking to create new-growth businesses. Whereas the current leaders of the industry almost
+
+always triumph in battles of sustaining innovation, the odds at disruptive innovation heavily
+
+favor entrant companies.
+
+Disruption has a paralyzing effect on industry leaders. With resource allocation processes
+
+designed and perfected to support sustaining innovations, they are constitutionally unable to
+
+respond. They are always motivated to go up-market, and almost never motivated to defend the
+
+new or low-end markets that the disruptors find attractive. We call this phenomenon asymmetric
+
+motivation. It is the core of the innovator’s dilemma, and the beginning of the innovator’s
+
+solution.
+
+1-3
+
+Disruption at Work: How Minimills Upended Integrated Steel Companies
+
+The disruption of integrated steel mills by minimills, which is reviewed briefly in The
+
+Innovator’s Dilemma, offers a classic example of why established leaders are so much easier to
+
+beat if the idea for a new product or business is shaped into a disruption.
+
+Historically, most of the world’s steel has come from massive integrated mills that do
+
+everything from reacting iron ore, coke, and limestone in blast furnaces to rolling finished
+
+products at the other end. It costs about $8 billion to build a huge new integrated mill today.
+
+Minimills, in contrast, melt scrap steel in electric arc furnaces—cylinders that are approximately
+
+twenty meters in diameter and ten meters tall. Because they can produce molten steel cost-
+
+effectively in such a small chamber, minimills don’t need the massive-scale rolling and finishing
+
+operations that are required to handle the output of efficient blast furnaces—which is why they
+
+are called minimills. Most important, though, minimills’ straightforward technology can make
+
+steel of any given quality for 20 percent lower cost than an integrated mill.
+
+Steel is a commodity. You would think that every integrated steel company in the world
+
+would have aggressively adopted the straightforward, lower-cost minimill technology. Yet as of
+
+2000 not a single integrated steel company had successfully invested in a minimill, even as the
+
+minimills had grown to account for nearly half of North America’s steel production and a
+
+significant share of other markets as well.>
+
+We can explain why something that makes so much sense has been so difficult for the
+
+integrated mills. Minimills first became technologically viable in the mid-1960s. Because they
+
+melt scrap of uncertain and varying chemistry in their electric arc furnaces, the quality of the
+
+steel that minimills initially could produce was poor. In fact, the only market that would accept
+
+the output of minimills was the concrete reinforcing bar (rebar) market. The specifications for
+
+rebar are loose, so this was an ideal market for products of low and variable quality.
+
+As the minimills attacked the rebar market, the integrated mills were happy to be rid of
+
+that dog-eat-dog commodity business. Because of the differences in their cost structures and the
+
+opportunities for investment that they each faced, the rebar market looked very different to the
+
+disruptee and the disruptor. For integrated producers, gross profit margins on rebar often hovered
+
+near 7 percent, and the entire product category accounted for only 4 percent of the industry’s “
+
+tonnage. It was the least attractive of any tier of the market in which they might invest to grow.
+
+So as the minimills established a foothold in the rebar market, the integrated mills reconfigured
+
+their rebar lines to make more profitable products.
+
+In contrast, with a 20 percent cost advantage, the minimills enjoyed attractive profits in
+
+competition against the integrated mills for rebar—until 1979, when the minimills finally
+
+succeeded in driving the last integrated mill out of the rebar market. Historical pricing statistics
+
+show that the price of rebar then collapsed by 20 percent. As long as the minimills could
+
+compete against higher-cost integrated mills, the game was profitable for them. But as soon as
+
+low-cost minimill was pitted against low-cost minimill in a commodity market, the reward for
+
+victory was that none of them could earn attractive profits in rebar.° Worse, as they all sought
+
+profitability by becoming more efficient producers, they discovered that cost reductions meant
+
+survival, but not profitability, in a commodity such as rebar.’
+
+Soon, however, the minimills looked up-market, and what they saw there spelled relief. If
+
+they could just figure out how to make bigger and better steel—shapes like angle iron and thicker

@@ -1,0 +1,142 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Mergers and Acquisitions
+SUMMARY: The text discusses the importance of aligning an acquired company's resources, processes, and business model with the parent company's capabilities to achieve successful integration.
+KEYWORDS: mergers, acquisitions, integration, capabilities, business model
+---
+
+business model. This truly constitutes the acquisition of new capabilities.
+
+If, on the other hand, the company’s resources (e.g., plant capacity, product platforms,
+
+geographic position, intellectual property) were the primary rationale for the acquisition, then integrating
+
+the firm into the parent makes a lot of sense — essentially plugging the acquired people, products,
+
+technology, and customers into the parent’s processes as a way of leveraging the parent’s existing
+
+capabilities.
+
+Consider, in this light, Daimler-Benz’s acquisition of Chrysler and its subsequent efforts to
+
+integrate the two organizations. Chrysler had few resources that could be considered unique. Much of its
+
+success in the 1990s was rooted in its product design process, which could create classy new designs in
+
+twenty-four months. Chrysler’s profit model was also worth a lot, because it could get a car to market
+
+with one-fifth as many overhead employees as Daimler. What would have been the best way for Daimler
+
+to leverage the capabilities it acquired in Chrysler? By keeping it independent and infusing Daimler’s
+
+resources (cash, advanced technologies, purchasing clout) into Chrysler’s processes and its cost structure.
+
+Instead, as Wall Street began its demanding drumbeat for cost savings, Daimler management consolidated
+
+the two organizations to cut costs. Integration compromised many of the key processes and the cost
+
+structure that had made Chrysler such an attractive acquisition.
+
+In contrast, many of Cisco Systems’ acquisitions have worked well — because, we would argue, it
+
+has kept resources, processes, and business models in the right perspective. Most of the companies that
+
+Cisco has acquired have been small firms less than two years old: early-stage organizations whose market
+
+value was based upon their resources — particularly their engineers, technologies and products. Cisco has
+
+a well-defined, deliberate process by which it essentially plugs these resources into the parent’s processes
+
+and systems, and it has a carefully cultivated method of keeping the engineers of the acquired company
+
+happily on the Cisco payroll."" In the process of integration, Cisco throws away whatever nascent
+
+processes and priorities came with the acquisition, because those weren’t what Cisco paid for. On a
+
+couple of occasions when the company acquired a larger, more mature organization—notably its 1996
+
+acquisition of StrataCom and its 2003 purchase of Linksys — Cisco did nof integrate. Rather, it let them
+
+stand alone - even retaining their own separate brand in the case of Linksys -- and infused its substantial
+
+resources into those organizations’ processes and business models to help them grow at a more rapid rate.
+
+Cr
+
+Managers whose organizations are confronting change must first determine whether they have the
+
+resources required to succeed. They then need to ask a separate question: Does the organization have the
+
+processes and business model priorities it needs to succeed in this new situation? Asking this second
+
+question is not as instinctive for most managers because the processes by which work is done and the
+
+priorities by which employees make their decisions have served them well in the past. What we hope this
+
+framework introduces into managers’ thinking is the idea that the very capabilities that make their
+
+organizations effective also define their disabilities. In that regard, a little time spent soul-searching for
+
+honest answers to the following questions will pay off handsomely: Are the processes by which work
+
+habitually gets done in the organization appropriate for this new problem? And will the embedded
+
+business model of the organization cause this initiative to get high priority or to languish?
+
+If the answers to these questions are no, it’s okay. Understanding a problem is the most crucial
+
+step in solving it. Wishful thinking about these issues can set teams that need to innovate on a course
+
+fraught with roadblocks, second-guessing, and frustration. The reason that innovation often seems to be
+
+so difficult for established companies is that they employ highly capable people and then set them to work
+
+within organizational structures whose processes and priorities weren’t designed for the task at hand.
+
+Ensuring that capable people are ensconced in capable organizations is a major responsibility of
+
+management in a transformational age such as ours.
+
+' One of the most important studies on this topic is summarized in Dorothy Leonard-Barton, “Core Capabilities and
+
+Core Rigidities: A Paradox in Managing New Product Development,” Strategic Management Journal 13 (1992):
+
+111-125.
+
+? The theory presented in this paper was initially published in Clayton Christensen and Michael Overdorf, “Meeting
+
+the Challenge of Disruptive Change,” Harvard Business Review, March~April 2000.
+
+3? The most comprehensive characterization of processes that we have seen is in David Garvin, “The Processes of
+
+Organization and Management,” Sloan Management Review, Summer 1998. When we use the term processes, we
+
+mean for it to include all of the types of processes that Garvin has defined.
+
+4 See C. Wickham Skinner, “The Focused Factory,” Harvard Business Review, | May 1974.
+
+5 This was a key finding of the landmark research summarized in Henderson, Rebecca M. & Kim B. Clark (1991),
+
+“Architectural Innovation: The reconfiguration of Existing Systems and the Failure of Established Firms,”
+
+Administrative Science Quarterly (35), pp. 9-30.
+
+® The concept of priorities, as we define the term here, is similar to the constructs of “structural context” and
+
+“strategic context” that have emerged in scholarly work about the resource allocation process. Important works in
+
+this tradition include J. L. Bower, Managing the Resource Allocation Process (Homewood, IL: Richard D, Irwin,
+
+1972), and R. Burgelman, “Corporate Entrepreneurship and Strategic Management: Insights from a Process Study,”
+
+Management Science 29, no, 12 (1983): 1349-1364.
+
+7 The pharmaceutical industry is a case in point. Twenty years ago most pharmaceutical companies considered a
+
+drug that generated $100 million in revenue per year to be significant. As they grew organically and through
+
+acquisition, $100 million drugs lost their luster; and $1 billion drugs became the benchmark blockbusters. As Pfizer
+
+and Glaxo Smith-Kline (GSK) have continued to merge to grow, the blockbuster benchmark has inflated to $3-$5
+
+billion. Paltry $1 billion drugs are losing their luster. At the time of this writing (2006) the business press

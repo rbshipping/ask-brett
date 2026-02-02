@@ -1,0 +1,342 @@
+SOURCE: Execution_The Missing Link in Retail Ops.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Operations Management
+SUMMARY: The document discusses the impact of inventory record inaccuracy and misplaced SKUs on retail operations, which can lead to stockouts and inaccurate demand forecasting.
+KEYWORDS: inventory accuracy, replenishment systems, demand forecasting, retail operations, stockouts
+---
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 138
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+FIGURE 1. Histogram of the Absolute Value Difference Between System and Actual
+
+Inventory Measured in Units P
+
+% of SKUs (n=369,592)
+
+0 35%
+
+r
+
+1 22%
+
+o
+
+2 10%
+
+3 6%
+
+4 4%
+
+y
+
+5 3%
+
+6 3%
+
+p
+
+7 2%
+
+8 2% o
+
+9 1%
+
+10 1%C
+
+11-50 9%
+
+51-100 1%
+
+101-200
+
+t
+
+201-400
+
+o
+
+N
+
+reinforced by the personal experiences senior managers recount. At Gamma, the
+
+CEO on a store visit noted that many items in a certain category with few substi-
+
+tutes had stocked out. Subsequently, a limited and careful audit on 42 items that
+
+he specified at eight stores revealed that 34 of the 336 store-SKU combinations
+
+were stocked out on the shelves. However, 28 of these 34 combinations were
+
+o reported as “in stock” according to the company’s replenishment systems.
+
+The impact of inventory record inaccuracy and misplaced SKUs can be
+
+severe for retailers like Gamma and Beta that rely on computerized replenish-
+
+D ment systems for managing store inventory. At these retailers, when an out-of-
+
+stock is reported as in stock, the item may never be reordered. What’s worse,
+
+when demand forecasts for that item are updated by the automatic replenish-
+
+ment system, the new forecast may be so low (zero, in fact), that the retailer
+
+decides to drop what is actually a popular item. At Gamma, one item at a store
+
+138 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+)stinu(
+
+rorrE
+
+etulosbA
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 139
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+FIGURE 2. Histogram for the Fraction of SKUs That Are Not Available on the Sales Floor,
+
+From a Sample of 242 Stores P
+
+Frequency
+
+0.2%
+
+r
+
+0.6% 6
+
+1.0% 6 o
+
+1.4% 23
+
+1.8% 16
+
+2.2% 23
+
+2.6% 16y
+
+3.0% 23
+
+3.4% 35
+
+p
+
+3.8% 21
+
+4.2% 13
+
+4.6% 8 o
+
+5.0% 12
+
+5.4% 11
+
+5.8% C8
+
+6.2% 5
+
+6.6% 6
+
+7.0% 4
+
+7.4%
+
+t 7.8% 2
+
+8.2% o
+
+8.6% 1
+
+9.0%
+
+N9.4%
+
+9.8% 2
+
+10.2%
+
+10.6% 1
+
+11.0%
+
+o 11.4%
+
+11.8%
+
+12.2%
+
+D
+
+12.6%
+
+13.0%
+
+CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001 139
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+roolF
+
+no
+
+toN
+
+sUKS
+
+fo
+
+noitcarF
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 140
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+where the system showed 42 units in inventory was, in reality, stocked out. The
+
+P
+
+error in data caused the system not to replenish the item and because the item
+
+had not sold in months due to the stockout, reduced future demand forecast to
+
+ridiculously low levels. Similarly, with misplaced SKUs, retailers often fail to
+
+observe consumer demand accurately, and this, in turn, causes them to under-
+
+estimate demand for items that were misplaced at the stores.
+
+r
+
+Moreover, the successful execution of a “bricks and clicks” strategy,
+
+presently pursued by many retailers, requires very good store-level execution.
+
+o
+
+For example, many retailers now allow consumers to purchase items on the
+
+Internet and return merchandise to their stores. Similarly, some retailers have
+
+tried, and many others have considered, allowing customers to view a store’s
+
+inventory on the web. Such a strategy allows consumers to verify whether an
+
+item is available at a store and even to reservye the item for future purchase
+
+without having to visit the store. However, offering such a service reliably re-
+
+quires inventory data to be accurate and also requires that items that are avail-
+
+p
+
+able at the store can be found easily by a consumer. Imagine the impact of a
+
+consumer verifying on the web that an item was available at a particular store
+
+and traveling to that store only to find the item stocked out because the infor-
+
+o
+
+mation on the web was inaccurate or because the item had been misplaced at
+
+the store. Most retailers recognize that the cost associated with disappointing
+
+customers after promising product availability is substantial. Not surprisingly,
+
+C
+
+many have shied away from offering their stores’ inventory on the web for
+
+consumers to examine.
+
+There is, however, reason to be optimistic; the incidence of these execu-
+
+tion problems can be reduced. Our research shows that while execution is weak
+
+on average at the chains that we have studied so far, pockets of excellence are
+
+present (i.e., tsome stores perform better than others). Consequently, operational
+
+execution can be improved quickly and dramatically if retail managers were to
+
+o
+
+create awareness of the magnitude and impact of execution problems in their
+
+supply chain and learn from those stores that are currently executing well.
+
+N
+
+What Drives Poor Execution in Retail Operations?
+
+We discovered these execution problems by accident. A few years ago,
+
+we started studying retail supply chains and operations in a research consor-
+
+tium2that included over 30 retailers. Our goal in this consortium was primarily
+
+o
+
+to understand how retailers do, and recommend how they should, forecast
+
+demand and plan inventory levels and other operational variables in the supply
+
+chain.
+
+D
+
+Our assumption in launching this research consortium was that retailers
+
+had plenty of sales and inventory data that was “clean” and easily accessible.
+
+Consequently, we were surprised when, early in our research, executives at a
+
+small retailer told us about problems relating to inventory record inaccuracy.
+
+We assumed that the problems were unique to this retailer and would not be
+
+140 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 141
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o

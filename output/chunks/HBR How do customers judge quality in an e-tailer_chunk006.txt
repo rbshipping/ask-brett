@@ -1,0 +1,96 @@
+SOURCE: HBR How do customers judge quality in an e-tailer.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Online Retail Quality Perception
+SUMMARY: Customers judge online retailers based on trust, service quality, and delivery timeliness, and will continue to patronize high-quality retailers they trust.
+KEYWORDS: online retail, service quality, customer trust, delivery timeliness, customer satisfaction
+---
+
+revenue stream from a dissatisfied customer. Finally, our findings imply that although indicators of trust in
+
+Though many customers may be satisfied with an apology an online retail environment may be somewhat unique due to the
+
+for the service failure, some service failures and some customers physical separation of buyer and seller, the fundamental nature of
+
+require compensation, financial or otherwise. For example, if a trust remains the same. Customers will continue to patronize
+
+customer places an order with a retailer, requests a seven- to high-quality online retailers that they trust.
+
+10-day delivery and fails to receive the order in the requested
+
+time period, the customer should not be penalized for the re-
+
+REFERENCES
+
+tailer’s mistake. Many online retailers will resend an item that
+
+failed to be delivered, but will make the customer wait another 1. N. Koiso-Kanttila, “Time, Attention, Authenticity and Consumer Bene-
+
+fits of the Web,” Business Horizons 48, no. 1 (2005): 63-70.
+
+seven to 10 days before the item arrives. The customer could
+
+2. E. Brynjolfsson and M.D. Smith, “Frictionless Commerce? A Compari-
+
+therefore be waiting more than 20 days to receive the order. Very
+
+son of Internet and Conventional Retailers,” Management Science 46,
+
+few customers would initiate a transaction with an online re- no. 4 (2000): 563-585.
+
+tailer if they knew it would take three weeks to receive the item. 3. F.D. Davis, R.P. Bagozzi and P.R. Warshaw, “User Acceptance of
+
+Online retailers need to be mindful of the extended waiting that Computer Technology: A Comparison of Two Theoretical Models,”
+
+Management Science 35, no. 8 (August 1989): 982-1003.
+
+has already occurred and provide express delivery of an item
+
+4. J. Wind and A. Rangaswamy, “Customerization: The Next Revolution
+
+that failed to reach the customer the first time. This especially
+
+in Mass Customization,” Journal of Interactive Marketing 15, no. 1 (win-
+
+applies to customers who have paid a premium price for a short ter 2001): 13-32.
+
+delivery time. Another form of compensation might be for the 5. M.D. Odom, A. Kumar and L. Saunders, “Web Assurance Seals: How
+
+online retailer to provide merchandise discounts or free ship- and Why They Influence Consumers’ Decisions,” Journal of Information
+
+Systems 16, no. 2 (fall 2002): 231-250.
+
+ping on future orders.
+
+6. T.L. Esper, T.D. Jensen, F.L. Turnipseed and S. Burton, “The Last Mile:
+
+An Examination of Effects of Online Retail Delivery Strategies on Con-
+
+SEVERAL IMPLICATIONS FOR THE FUTURE of e-tailing can be drawn sumers,” Journal of Business Logistics 24, no. 2 (2003): 177-203.
+
+from our findings. First, because of the overwhelming impor- 7. C.C. Bienstock, J.T. Mentzer and M.M. Bird, “Measuring Physical Dis-
+
+tance of the outcome of an online retail transaction to customers, tribution Service Quality,” Journal of the Academy of Marketing Science
+
+25, no. 1 (winter 1996): 31-44.
+
+it is not necessarily a question of e-tailing versus brick-and-mor-
+
+8. B.B. Holloway and S.E. Beatty, “Service Failure in Online Retailing: A
+
+tar retailing. Instead, in the case of retailers that maintain both
+
+Recovery Opportunity,” Journal of Service Research 6, no. 1 (August
+
+online and brick-and-mortar retail environments, in order to 2003): 92-105.
+
+enhance customers’ perceptions of quality, these two environ-
+
+ments must be managed so that they are seamless to the retail
+
+Reprint48109. For ordering information, see page 1.
+
+customer. For example, a customer who purchases a microwave Copyright© Massachusetts Institute of Technology, 2006. All rights reserved.
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+40 MIT SLOAN MANAGEMENT REVIEW FALL 2006

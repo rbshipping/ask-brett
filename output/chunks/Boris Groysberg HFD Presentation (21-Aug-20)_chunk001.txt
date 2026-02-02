@@ -1,0 +1,100 @@
+SOURCE: Boris Groysberg HFD Presentation (21-Aug-20).docx
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Exploration Strategy
+SUMMARY: This text analyzes the contrasting approaches of two explorers, Scott and Shackleton, in their race to reach the South Pole in 1911.
+KEYWORDS: Exploration, Strategy, Expedition Planning
+---
+
+[Document: Boris Groysberg HFD Presentation (21-Aug-20).docx]
+
+Boris Groysberg – “Going to Extremes: Prove Impossible Wrong”
+
+High Focus Day, 21 August 2020
+
+In 1911, the only unexplored place on earth was the South Pole, which created a race between two teams (UK and Norway).
+
+Captain Robert Scott (UK)
+
+Enlisted in the Navy aged 13. Started exploring as a means of promotion through the Navy, which refused to promote officers unless they had fought in war.
+
+Talented individual who was passionate about science and a gifted speaker/writer.
+
+Conducted his first expedition to the South Pole in 1901 (with Ernest Shackleton) and got to 82 degrees (one third of the way). Scott later wrote a book about the experience and blamed Shackleton for the failed expedition, suggesting that the expedition would have succeeded if Shackleton were tougher.
+
+Shackleton conducted his own South Pole expedition in 1907. He almost succeeded, travelling 700 miles (100 miles from the pole). However, he had a weak team and needed to turn back: “A live donkey is better than a dead lion, isn’t it?”
+
+Shackleton’s expedition prompted Scott to re-attempt the South Pole.
+
+Scott’s key constraints:
+
+Scott’s expedition was funded by the Royal Geographic Society, which made him undertake scientific studies on the journey as a condition of funding. This required him to travel with scientists and their equipment.
+
+Expeditions could only be conducted in the summer months (October to March). The 1,600 mile journey typically took four to five months.
+
+Scott needed to select among the available transport methods:
+
+“Manhauling” (walking while dragging a sled). The method works, but is slow.
+
+Manhauling with skis (cross-country skiing in a small group while dragging a sled). Requires a team to ski in sync, which can be difficult. There’s also equipment risk from broken skis. Fast method, but hard to learn.
+
+Siberian dogs. Dogs require careful training and dedicated dog handlers. Fast method, but wild (dogs are hard to control).
+
+Siberian ponies. Tough animals but they sweat, requiring special covers to ensure they don’t freeze. Strong method, but sweat requires extra equipment and adds risk.
+
+Motor sledges. New technology which was relatively untested. Required an engineer to maintain the equipment. Strongest method but still unproven.
+
+Scott’s first challenge – how to pick his strategy?
+
+To hedge his bets, Scott decided to pick all five methods.
+
+This choice was influenced by Shackleton, who also used all five methods and nearly succeeded. Shackleton’s approach represented current “best practice”.
+
+To give himself an extra chance of success, Scott increased his team relative to Shackleton:
+
+65 men (vs 14 for Shackleton).
+
+19 ponies (vs 15).
+
+33 dogs (vs 9).
+
+3 motor sledges (vs 1).
+
+Scott’s choice prompts the question: when is the time to learn from best practice and when is the time to evolve?
+
+Scott’s next challenge – how to pick his team?
+
+Scott posted a job advertisement, receiving 8,000 applications. He picked 65 people.
+
+Many people have written about Scott’s hiring process.
+
+Challenges during the journey:
+
+Scott landed on 4 January 1911 and set out on an initial expedition to lay supply depots for the South Pole attempt (scheduled to begin in October 1911). However, Scott had chosen the wrong person to pick the ponies (using a dog expert, not a pony expert) so the ponies were weak and lacked the proper covering coats to prevent them from freezing.
+
+Scott had to choose between killing the ponies and continuing to set up the intended supply depot, or turning back and setting up the supply depot at a closer location (30 miles short of the original location). Scott decided to save the ponies, turn around, and set up the supply depot at the closer location.
+
+Scott’s choice of five transport methods required his team to travel in separate groups at different paces (motor sledges, ponies and dogs). The motor sledges soon broke down, requiring the team to manhaul. The different speeds meant faster groups were required to wait for slower groups to catch up.
+
+Scott showed flexibility during the journey by abandoning his original plan and keeping the dogs for several extra days to support a push through difficult terrain.
+
+Scott also abandoned his plan to attempt the final section with a core group of four men, adding a fifth person (Bowers) at the last minute. Bowers was a good navigator and a highly likeable team member but was a drain on supplies. Scott made the decision after Bowers pressed him to be included.
+
+Scott showed tactical flexibility in his plans by changing his supply depot location to save the ponies, keeping the dogs for an extra two days, and including Bowers in the final team. These choices had mixed outcomes (keeping the dogs made the team faster, but moving the supply depot had tragic consequences – see below.)
+
+Roald Amundsen (Norway)
+
+In the early 20th century, Norway was the opposite of the UK (only recently independent and very poor).
+
+Amundsen was born in well-to-do family and always wanted to reach the North Pole. His mother refused to let him become an explorer, so he went to medical school, but she died before he graduated. He dropped out and used his inheritance to buy a boat to use for exploring.
+
+To gain experience, Amundsen applied for entry-level jobs on expeditions, writing in his application: “I want no salary, and am prepared to submit to anything whatsoever.”
+
+Amundsen put himself through years of training for his arctic journey:
+
+Experienced skier who experimented with ski technology.
+
+Cycled 2,000 miles from Norway to Spain.
+
+Trained himself to eat dolphin meat.
+
+Used his boat to become the first person to chart the Northwest Passage between Canada and Russia. During the journey, he spent time with Eskimo communities who taught him survival skills.

@@ -1,0 +1,240 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Switching Costs in Business
+SUMMARY: This text discusses the competitive advantage and pricing power that companies can gain from switching costs faced by their customers.
+KEYWORDS: switching costs, competitive advantage, pricing power, customer loyalty, risk aversion
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+customers like General Electric when they design new
+
+products. Look at the cost/benefit balance. The only ben-
+
+efit of GE switching to a new supplier would likely be
+
+monetary, as long as Precision keeps up its quality stan-
+
+dards. So, by dumping Precision for someone else, GE
+
+might be able to build turbines and jet engines for less
+
+cc0044..iinndddd 5500 11//2266//0088 33::0077::4455 AAMM
+
+SWITCHING COSTS [51]
+
+money, which might help it make a larger profit margin
+
+when it sells those products.
+
+What about the cost? Well, the explicit cost is mean-
+
+ingful—the new company would need to spend time get-
+
+ting to know GE’s products as intimately as Precision
+
+already does—but the real cost in this case is risk. Given
+
+the incredibly low tolerance for failure on a turbine or jet
+
+engine, it doesn’t make sense for GE to try to shave the
+
+production cost if it increases the risk of product failure.
+
+It would take only one high-profile crack-up caused by a
+
+metal component failure to seriously damage GE’s repu-
+
+tation, after all, which would definitely hurt future sales.
+
+The result is that Precision can earn some pretty fat
+
+margins on the components it sells, partly because its cus-
+
+tomers would need to find a supplier of similar reliability
+
+if they wanted to save money by switching. (The company
+
+also does a good job controlling costs.) That switching
+
+cost, created by years of delivering high-quality parts to
+
+its customers, is what gives Precision a competitive
+
+advantage.
+
+S witching Costs Are Everywhere
+
+The beautiful thing about switching costs is that they
+
+show up in all kinds of industries. Circling back to soft-
+
+ware, Adobe’s moat is also based on switching costs. Its
+
+Photoshop and Illustrator programs are taught to b udding
+
+cc0044..iinndddd 5511 11//2266//0088 33::0077::4455 AAMM
+
+[52] THE LITTLE BOOK THAT BUILDS WEALTH
+
+designers in school, and they’re complex enough that
+
+switching to another program would mean significant
+
+retraining. Another software company, Autodesk, which
+
+makes the AutoCAD digital-design software that is used
+
+to spec out everything from bridges to buildings, is in an
+
+analogous position. Most engineers learn AutoCAD in
+
+college, and their future employers have no desire to incur
+
+the loss of productivity that would result from retraining
+
+them on new software.
+
+Back in financial services, asset managers have switch-
+
+ing costs that are somewhat analogous to those of banks.
+
+Money that flows into a mutual fund or wealth-manage-
+
+ment account tends to stay there—we call these sticky
+
+assets—and that money generates fees for many years.
+
+For example, during the market-timing scandals in the
+
+mutual fund world, even when some asset management
+
+firms were caught doing blatantly illegal things, most
+
+retained enough assets to remain solidly profitable, despite
+
+legal costs and investor redemptions.
+
+Although the explicit cost of moving a mutual fund
+
+account from Firm A to Firm B is arguably even lower
+
+than moving a bank account, most people perceive the
+
+benefits as uncertain. They have to convince themselves
+
+that the new and less familiar manager will be better than
+
+the manager they have been using, which essentially means
+
+admitting they made a mistake choosing their current
+
+cc0044..iinndddd 5522 11//2266//0088 33::0077::4455 AAMM
+
+SWITCHING COSTS [53]
+
+manager in the first place. This is psychologically tough
+
+for most people, so assets tend to stay where they are. The
+
+switching costs may not be explicitly large, but the benefits
+
+of switching are so uncertain that most people take the
+
+path of least resistance and just stay where they are.
+
+Over in the energy sector, the mundane business of
+
+propane distribution has fairly high switching costs. In
+
+many rural parts of the United States, people aren’t
+
+hooked up to a distribution grid for natural gas, so they
+
+get their heat and cooking gas from tanks of propane
+
+sited near their houses. Generally speaking, these tanks
+
+aren’t owned by the customer but rather leased from the
+
+company that supplies the propane. So, if a competing
+
+propane distributor comes along with a better price and a
+
+customer calls up the existing supplier to cancel the ser-
+
+vice, the current supplier has to swap tanks with the new
+
+supplier, which is a big hassle.
+
+Needless to say, people don’t switch propane distribu-
+
+tors very often, especially because the existing distributor
+
+usually charges a fee if you switch to a competitor. This
+
+gives the distributors a decent amount of pricing power,
+
+and their high returns on capital are financial proof.
+
+In health care, firms that manufacture laboratory
+
+equipment often benefit from switching costs. Waters
+
+Corporation, for example, makes sophisticated and
+
+expensive machines that perform a process called liquid
+
+cc0044..iinndddd 5533 11//2266//0088 33::0077::4455 AAMM
+
+[54] THE LITTLE BOOK THAT BUILDS WEALTH
+
+chromatography (LC), which separates compounds into
+
+their chemical components for purification and quality
+
+control. For example, an LC machine might test water for
+
+contaminants or oil for impurities. A firm that wanted to
+
+switch from a Waters LC machine to a competitor not
+
+only would need to fork out the substantial cost of a new
+
+LC machine—in the neighborhood of $50,000 to
+
+$100,000—but also would need to retrain a small army of
+
+lab technicians to use the new machine, which results in
+
+lost time and decreased productivity. Because the LC pro-
+
+cess requires the constant use of consumables that are
+
+extremely profitable for Waters, you can see how these
+
+switching costs help Waters achieve remarkable returns
+
+on invested capital north of 30 percent.
+
+You’ll notice I haven’t mentioned many consumer-ori-
+
+ented firms, such as retailers, restaurants, packaged-goods
+
+companies, and the like. That’s because low switching costs
+
+are the main weakness of these kinds of companies. You can
+
+walk from one clothing store to another, or choose a differ-
+
+ent brand of toothpaste at the grocery store, with almost no
+
+effort whatsoever. That makes it very hard for retailers and
+
+restaurants to create moats around their businesses. Some,
+
+like Wal-Mart and Home Depot, can do it through econo-
+
+mies of scale, and some, like Coach, can create moats by
+
+building strong brands—but in general, consumer-oriented

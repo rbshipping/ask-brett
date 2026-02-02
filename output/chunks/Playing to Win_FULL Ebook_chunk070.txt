@@ -1,0 +1,202 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Strategic Decision Making
+SUMMARY: The text describes a step-by-step process for systematically evaluating and selecting strategic choices by framing options, exploring possibilities, and testing key assumptions.
+KEYWORDS: strategic decision-making, reverse engineering, possibility exploration, assumption testing
+---
+
+obvious choice.
+
+That, in sum, is the process for choosing between possibilities
+
+for where to play and how to win. First, frame a choice. Second,
+
+explore possibilities to broaden the set of mutually exclusive possi-
+
+bilities. Third, for each possibility, ask, what would have to be true
+
+for this to be a great idea, using the logic flow framework to struc-
+
+ture your thinking. Fourth, determine which of the conditions is
+
+the least likely to actually hold true. Fifth, design tests against those
+
+crucial barriers to choice. Six, conduct tests. Finally, in light of the
+
+outcome of the tests and how those outcomes stack up against pre-
+
+determined standards of proof, select the best strategic choice pos-
+
+sibility. This process broadens the possibilities up front and then
+
+systematically narrows the field. It leverages different perspectives
+
+to enrich the discussion, rather than bogging it down.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch08.indd 200 11/6/12 8:22 PM
+
+Shorten Your Odds 201
+
+ReveRse-engineeRing Dos anD Don’ts
+
+✓ ✓ Don’t spend a lot of time up front analyzing everything
+
+you can; instead, use reverse engineering to pinpoint only
+
+what you really need to know.
+
+✓ ✓ Do frame a clear and important choice up front; make it
+
+real and significant.
+
+✓ ✓ Do explore a wide range of where-to-play and how-to-win
+
+possibilities, rather than narrowing the list early on to
+
+those that feel realistic; unexpected possibilities often
+
+have interesting and helpful elements that can otherwise
+
+be dismissed out of hand. Learn from them.
+
+✓ ✓ Do stay focused on the most important question (what
+
+would have to be true for this to be a winning possibility?),
+
+listing the conditions under which this possibility would be
+
+a really good one.
+
+✓ ✓ Don’t forget to go back and eliminate any nice-to-have
+
+conditions; every condition should be truly binding—if it
+
+weren’t true, you wouldn’t pursue the possibility.
+
+✓ ✓ Do encourage skeptics to express concerns at the specify-
+
+barriers stage; have them articulate the precise nature of
+
+their concerns about specific conditions.
+
+✓ ✓ Don’t have proponents of a given possibility set and per-
+
+form the tests; ask the skeptics to do it. If the skeptics
+
+are satisfied in the end, everyone else will be too.
+
+✓ ✓ Do test the biggest barrier first. Start with the condition
+
+the group feels is least likely to be true. If it isn’t true, the
+
+conditions required do not hold and you can stop testing.
+
+✓ ✓ Do use a facilitator to run the reverse-engineering pro-
+
+cess; it helps to have someone to attend to process and
+
+group dynamics as you work through the thinking tasks.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch08.indd 201 11/6/12 8:22 PM
+
+202 Playing to Win
+
+the Most iMpoRtant Question in stRategy
+
+Roger L. Martin
+
+The biggest lessons can come from the biggest mistakes. In the
+
+realm of strategy, mine sure did. The most demoralizing experi-
+
+ence in my consulting career became my most important lesson.
+
+In 1990, I was working with the newly appointed CEO of a
+
+regional consumer products company. The firm (unnamed here,
+
+for obvious reasons) had dominant market share in its relatively
+
+small market. During the engagement, an investment bank
+
+approached the CEO with a chance to bid for the leading compet-
+
+itor in a contiguous region. The target had been acquired several
+
+years earlier in a leveraged buy-out for a price of $180 million.
+
+The company was now being offered at $120 million. Intrigued,
+
+the CEO asked me to conduct an analysis of the opportunity.
+
+My team performed a detailed analysis and came to the
+
+conclusion that the acquisition was a bad idea. The competi-
+
+tive dynamics of the target’s regional market suggested a bleak
+
+future for the offered firm. While the target did have the leading
+
+share, its position was being rapidly eroded by a new low-cost
+
+entrant that had turned a happy duopoly into a tough three-way
+
+battle. This was an industry in which only the top two players
+
+tended to make decent returns, because of the scale economies
+
+of distribution, and the target was arguably the most vulnerable
+
+of the three players. No wonder the buy-out firm was attempting
+
+to unload it at a substantial loss. My client was tempted by the
+
+discounted price tag, but even at $120 million, this was clearly a
+
+very bad idea—and we told him so in our presentation.
+
+The CEO acted on our analysis and told the investment bank-
+
+ers that he’d pass on the opportunity. So far, so good. However,
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch08.indd 202 11/6/12 8:22 PM
+
+Shorten Your Odds 203
+
+about a year later, the CEO called to inform me that he could now
+
+acquire the target for a pittance—just $20 million. I begged him
+
+not to do it until I updated the analysis, and he agreed to give
+
+me the weekend. I dived back in. One more year of market share
+
+and financial information confirmed to me that the target was in
+
+a death spiral. While it had made a profit in 1990, I projected
+
+that by 1992, it would be in a loss position. I couldn’t see any
+
+way that the end could be stopped or even slowed.
+
+I came back with a deck of about a hundred slides. The cover
+
+note was succinct and to the point: “Your answer should be ‘no’
+
+at any price. If you buy this, you will destroy the company and
+
+your career. Please don’t do it. Please just say no.”
+
+He said yes. He bought the company at $20 million. At that

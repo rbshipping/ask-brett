@@ -1,0 +1,701 @@
+SOURCE: Strategic Retail Integrated Framework BBRC March 2014.ppt
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Margin Management
+SUMMARY: The text analyzes various metrics and ratios related to managing retail margins, including gross margin, net margin, inventory, sales, and labor productivity.
+KEYWORDS: retail margin management, gross margin, net margin, inventory turnover, productivity
+---
+
+[Document: Strategic Retail Integrated Framework BBRC March 2014.ppt]
+[Presentation Topic: Integrated Strategic Retail Management]
+
+(-) Reductions
+
+Shrink
+
+Pilferage
+
+Damage
+
+Errors ...
+
+(=) Final Retail Price
+
+Gross Margin
+
+(-) Operating Expenses
+
+(=) Net Operating Margin
+
+Gross Margin
+
+(-) Direct Expenses
+
+(=) Contribution Margin
+
+Gross Margin
+
+(-) Direct Expenses
+
+(=) Contribution Margin
+
+(-) Allocable Expenses
+
+(=) Direct Product Profit
+
+Gross
+
+Margin
+
+Margin Management In Retailing
+
+[Slide 25]
+
+Net Sales
+
+Inventory
+
+Gross Margin
+
+Inventory
+
+Gross Margin
+
+Net Sales
+
+Net Sales
+
+Selling Meters
+
+Gross Margin
+
+Selling Meters
+
+x
+
+=
+
+Net Sales
+
+FTE Employees
+
+Gross Margin
+
+FTE Employees
+
+=
+
+Inventory
+
+Selling Meters
+
+Selling Meters
+
+FTE Employees
+
+x
+
+=
+
+=
+
+=
+
+x
+
+x
+
+x
+
+*Also cited as GMROS
+
+GMROI
+
+GMROM*
+
+GMROL
+
+Strategic Resource Management Model
+
+[Slide 26]
+
+Net Sales
+
+Inventory
+
+Gross Margin
+
+Inventory
+
+Gross Margin
+
+Net Sales
+
+Net Sales
+
+Selling Meters
+
+Gross Margin
+
+Selling Meters
+
+x
+
+=
+
+Net Sales
+
+FTE Employees
+
+Gross Margin
+
+FTE Employees
+
+=
+
+Inventory
+
+Selling Meters
+
+Selling Meters
+
+FTE Employees
+
+x
+
+=
+
+=
+
+=
+
+x
+
+x
+
+x
+
+*Also cited as GMROS
+
+GMROI
+
+GMROM
+
+GMROL
+
+Strategic Resource Management Model
+
+(adaptations)
+
+Hours?
+
+Running meters?
+
+Wall Bay?
+
+Sq cm?
+
+[Slide 27]
+
+x
+
+=
+
+=
+
+x
+
+=
+
+=
+
+=
+
+x
+
+x
+
+x
+
+GMROI
+
+GMROF
+
+GMROL
+
+SRM Ratios For Wal-Mart and K-Mart
+
+20.5% v. 23.5%
+
+$300 v. $180
+
+$62 v. $42
+
+$46 v. $39
+
+$1.35 v.$1.08
+
+565 v. 775
+
+$170K v. $140K
+
+$35K v. $33K
+
+Note: Ratios May Not Multiply Through Exactly Due To Rounding
+
+6.6x v. 4.6x
+
+Sales/Stock
+
+Inventory / sq ft
+
+GM %
+
+Sales / sq ft
+
+Sq ft / FTE
+
+Sales / FTE
+
+[Slide 28]
+
+x
+
+=
+
+=
+
+x
+
+=
+
+=
+
+=
+
+x
+
+x
+
+x
+
+Note: Ratios May Not Multiply Through Exactly Due To Rounding
+
+Performance Gaps at an Apparel Specialist
+
+48% v. 43%
+
+$450 v. $175
+
+$215 v. $75
+
+8x v. 5x
+
+$3.85 v $2.15
+
+450 v. 1200
+
+$202K v.
+
+$210K
+
+$100K v. $90K
+
+$55 v. $35
+
+Top v. Bottom
+
+Quartile Shops
+
+GM %
+
+Sales/Stock
+
+Inventory / sq ft
+
+Sales / sq ft
+
+Sq ft / FTE
+
+Sales / FTE
+
+GMROI
+
+GMROF
+
+GMROL
+
+[Slide 29]
+
+Net Sales
+
+Inventory
+
+Gross Margin
+
+Inventory
+
+Gross Margin
+
+Net Sales
+
+Net Sales
+
+Selling Feet
+
+Gross Margin
+
+Selling Feet
+
+x
+
+=
+
+Net Sales
+
+FTE Employees
+
+Gross Margin
+
+FTE Employees
+
+=
+
+Inventory
+
+Selling Feet
+
+Selling Feet
+
+FTE Employees
+
+x
+
+=
+
+=
+
+=
+
+x
+
+x
+
+x
+
+Operating Exp.
+
+Inventory
+
+Operating Exp.
+
+Selling Feet
+
+-
+
+Operating Exp.
+
+FTE Employees
+
+-
+
+-
+
+=
+
+=
+
+=
+
+Net Margin
+
+Inventory
+
+Net Margin
+
+Selling Feet
+
+Net Margin
+
+FTE Employees
+
+NMROL
+
+NMROF
+
+NMROI
+
+GMROI
+
+GMROF
+
+GMROL
+
+Level 1, Tool #4:  The Profit Wedge
+
+(Strategic Resource Model’s Expansion To Net Margin)
+
+[Slide 30]
+
+x
+
+=
+
+=
+
+x
+
+=
+
+=
+
+=
+
+x
+
+x
+
+x
+
+15.1x v.15.6x
+
+23 v. 27
+
+974  v. 931
+
+Note:  AUD; in sqm; avg AUD/USD = 0.95)
+
+25.7% v. 25.3%
+
+14672 v. 14548
+
+3.86 v. 3.95
+
+339k v. 386k
+
+3764 v. 3681
+
+87k v. 98k
+
+3.30 v. 3.40
+
+3214 v. 3170
+
+74k v. 84k
+
+0.56 v. 0.55
+
+550 v. 511
+
+13k v 14k
+
+NMROI
+
+NMROM
+
+NMROL
+
+[Slide 31]
+
+Level 2Tool #5:  The Master Matrix
+
+For decision making purposes on:
+
+Space re-allocation
+
+Service re-allocation
+
+Changing gross margin requirements
+
+New inventory turnover targets
+
+Merchandise intensity targets
+
+Changing the assortment mix
+
+Analyzing Large Stores by Department by Store Using the Full Productivity Model
+
+[Slide 32]
+
+Sporting Goods Productivity by Category
+
+[Slide 33]
+
+Sporting Goods Hardlines by Sub-Dept
+
+Note: Hardlines average GMROS = $44 ; GMROI = $0.51
+
+[Slide 34]
+
+L/H
+
+H/L
+
+H/H
+
+L/L
+
+Hi
+
+Lo
+
+Hi
+
+Lo
+
+GMROF
+
+GMROI
+
+x
+
+x
+
+Classifying Departments in One or All Stores
+
+[Slide 35]
+
+Performance Grid
+
+The H/H quadrant:
+
+Superstars which deliver both high space and high inventory productivity
+
+The job here is to add both additional space and additional inventory and assortment
+
+The H/L quadrant:
+
+Produces high inventory productivity, but low space productivity
+
+Here we keep or reduce the space and increase the merchandise intensity
+
+Master Matrix Roles and Measurements
+
+[Slide 36]
+
+Performance Grid
+
+The L/H quadrant:
+
+Produces high space productivity, but low inventory productivity
+
+Here we will increase the space while reviewing the merchandise mix
+
+The L/L quadrant:
+
+Produces both low space  and low inventory productivity
+
+Here we are broken and must fix it, reduce the space and reduce the inventory or change the mix, or we must close it
+
+In all cases where one or both components are low, we should also consider a market scoping exercise
+
+Master Matrix Roles and Measurements
+
+[Slide 37]
+
+Merchandise Management
+
+[Slide 38]
+
+Level 3, Tool 6:Understanding Category Roles
+
+[Slide 42]
+
+Category Management and Assortment Planning: Pull Weeds and Feed Flowers
+
+[Slide 43]
+
+Line Reviews:Fashion and Apparel Categories
+
+[Slide 44]
+
+Fashion Forecasting & Planning
+
+Cost of markdowns & stock-outs can be > mfg cost
+
+Markdowns now more than 25% of dollar sales in some sectors
+
+Estimate costs (and reasons for) stock-outs and markdowns (stock accuracy)
+
+Core versus fashion/trend
+
+Basics
+
+Strategic mix for retailers
+
+Profiles by store, by product and customer segments
+
+[Slide 45]
+
+Fashion Forecasting & Planning
+
+Merchandise planning
+
+Relatively predictable vs. relatively unpredictable
+
+Make in advance vs. reserve for replenishment
+
+Postpone decisions until some market signals (early sales or orders)
+
+Demand uncertainty
+
+Obermyer/Columbia:  errors from 15% to 200% of forecast
+
+Individual vs. consensus forecasts
+
+Hold-backs as safety stocks
+
+[Slide 46]
+
+Department Store: Women’s Handbags
+
+[Slide 47]
+
+Department Store: Women’s Handbags
+
+[Slide 48]
+
+Level 3, Tool #7:Line Reviews & Category Scorecards
+
+Data Requirements (minimum)
+
+SKU (UPC) number
+
+Text description
+
+Size (and color for fashion items)
+
+Sub-category
+
+Brand
+
+Full retail price; Actual (realized) retail price achieved
+
+Retail sales $
+
+Gross margin $
+
+Unit volume
+
+Using a Category Scorecard
+
+[Slide 49]
+
+Category Roles
+
+Drive customer traffic through the store… look at unit volume
+
+Put money into the bank… look at gross margin dollars
+
+Other roles???
+
+Category Roles and Measurements
+
+[Slide 50]
+
+DESCRIPTION		VENDOR	Avg Retail Price	SALES $	GM $	GM %	UNIT SLS	%TOT GM$	%CUM GM$
+
+DEWARS WHITE LABEL 175   00029742	UDV/PLAINFIELD	$32.09	$460,171	$107,420	23.34%	15,583	7.42%	7.42%
+
+CHIVAS REGAL 750   00005166	SEAGRAM AMERICA $23.28	$312,892	$97,541	31.17%	14,566	6.74%	14.15%
+
+CHIVAS REGAL 175   00005186	SEAGRAM AMERIC	$51.12	$207,969	$60,802	29.24%	4,388	4.20%	18.35%

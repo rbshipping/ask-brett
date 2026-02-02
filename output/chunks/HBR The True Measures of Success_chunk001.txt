@@ -1,0 +1,178 @@
+SOURCE: HBR The True Measures of Success.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.11 HFT - Measurement
+TOPIC: Business Analytics and Performance Measurement
+SUMMARY: The text discusses how businesses often measure the wrong metrics, leading to poor strategic and resource allocation decisions, and the importance of using the right statistics to assess performance.
+KEYWORDS: business analytics, performance measurement, metrics, statistics, decision-making
+---
+
+ANALYTICS
+
+The True Measures of Success
+
+by Michael J. Mauboussin
+
+FROM THE OCTOBER 2012 ISSUE
+
+A
+
+bout a dozen years ago, when I was working for a large financial services firm,
+
+one of the senior executives asked me to take on a project to better understand
+
+the company’s profitability. I was in the equity division, which generated fees
+
+and commissions by catering to investment managers and sought to maximize revenues by
+
+providing high-quality research, responsive trading, and coveted initial public offerings.
+
+While we had hundreds of clients, one mutual fund company was our largest. We shuttled
+
+our researchers to visit with its analysts and portfolio managers, dedicated capital to
+
+ensure that its trades were executed smoothly, and recognized its importance in the
+
+allocation of IPOs. We were committed to keeping the 800-pound gorilla happy.
+
+Part of my charge was to understand the division’s profitability by customer. So we
+
+estimated the cost we incurred servicing each major client. The results were striking and
+
+counterintuitive: Our largest customer was among our least profitable. Indeed, customers
+
+in the middle of the pack, which didn’t demand substantial resources, were more
+
+profitable than the giant we fawned over.
+
+What happened? We made a mistake that’s exceedingly common in business: We
+
+measured the wrong thing. The statistic we relied on to assess our performance—revenues
+
+—was disconnected from our overall objective of profitability. As a result, our strategic and
+
+resource allocation decisions didn’t support that goal. This article will reveal how this
+
+mistake permeates businesses—probably even yours—driving poor decisions and
+
+undermining performance. And it will show you how to choose the best statistics for your
+
+business goals.
+
+Ignoring Moneyball’s Message
+
+Ignoring Moneyball’s Message
+
+Moneyball, the best seller by Michael Lewis, describes how the Oakland Athletics used
+
+carefully chosen statistics to build a winning baseball team on the cheap. The book was
+
+published nearly a decade ago, and its business implications have been thoroughly
+
+dissected. Still, the key lesson hasn’t sunk in. Businesses continue to use the wrong
+
+statistics.
+
+Before the A’s adopted the methods Lewis describes, the team relied on the opinion of
+
+talent scouts, who assessed players primarily by looking at their ability to run, throw, field,
+
+hit, and hit with power. Most scouts had been around the game nearly all their lives and
+
+had developed an intuitive sense of a player’s potential and of which statistics mattered
+
+most. But their measures and intuition often failed to single out players who were effective
+
+but didn’t look the role. Looks might have nothing to do with the statistics that are actually
+
+important: those that reliably predict performance.
+
+Baseball managers used to focus on a basic number—team batting average—when they
+
+talked about scoring runs. But after doing a proper statistical analysis, the A’s front office
+
+recognized that a player’s ability to get on base was a much better predictor of how many
+
+runs he would score. Moreover, on-base percentage was underpriced relative to other
+
+abilities in the market for talent. So the A’s looked for players with high on-base
+
+percentages, paid less attention to batting averages, and discounted their gut sense. This
+
+allowed the team to recruit winning players without breaking the bank.
+
+Many business executives seeking to create shareholder value also rely on intuition in
+
+selecting statistics. The metrics companies use most often to measure, manage, and
+
+communicate results—often called key performance indicators—include financial measures
+
+such as sales growth and earnings per share (EPS) growth in addition to nonfinancial
+
+measures such as loyalty and product quality. Yet, as we’ll see, these have only a loose
+
+connection to the objective of creating value. Most executives continue to lean heavily on
+
+poorly chosen statistics, the equivalent of using batting averages to predict runs. Like
+
+leather-skinned baseball scouts, they have a gut sense of what metrics are most relevant to
+
+their businesses, but they don’t realize that their intuition may be flawed and their
+
+decision making may be skewed by cognitive biases. Through my work, teaching, and
+
+research on these biases, I have identified three that seem particularly relevant in this
+
+context: the overconfidence bias, the availability heuristic, and the status quo bias.
+
+Overconfidence.
+
+People’s deep confidence in their judgments and abilities is often at odds with reality. Most
+
+people, for example, regard themselves as better-than-average drivers. The tendency
+
+toward overconfidence readily extends to business. Consider this case from Stanford
+
+professors David Larcker and Brian Tayan: The managers of a fast-food chain, recognizing
+
+that customer satisfaction was important to profitability, believed that low employee
+
+turnover would keep customers happy. “We just know this is the key driver,” one
+
+executive explained. Confident in their intuition, the executives focused on reducing
+
+turnover as a way to improve customer satisfaction and, presumably, profitability.
+
+People’s deep confidence in their
+
+judgments and abilities is often at odds
+
+with reality.
+
+As the turnover data rolled in, the executives were surprised to discover that they were
+
+wrong: Some stores with high turnover were extremely profitable, while others with low
+
+turnover struggled. Only through proper statistical analysis of a host of factors that could
+
+drive customer satisfaction did the company discover that turnover among store managers,
+
+not in the overall employee population, made the difference. As a result, the firm shifted
+
+its focus to retaining managers, a tactic that ultimately boosted satisfaction and profits.
+
+Availability.
+
+The availability heuristic is a strategy we use to assess the cause or probability of an event
+
+on the basis of how readily similar examples come to mind—that is, how “available” they
+
+are to us. One consequence is that we tend to overestimate the importance of information
+
+that we’ve encountered recently, that is frequently repeated, or that is top of mind for
+
+other reasons. For example, executives generally believe that EPS is the most important
+
+measure of value creation in large part because of vivid examples of companies whose
+
+stock rose after they exceeded EPS estimates or fell abruptly after coming up short. To
+
+many executives, earnings growth seems like a reliable cause of stock-price increases

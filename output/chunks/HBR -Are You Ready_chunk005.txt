@@ -1,0 +1,128 @@
+SOURCE: HBR -Are You Ready.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Retail Data Accuracy
+SUMMARY: Inaccurate inventory and sales data in retail stores due to various causes, and strategies to improve data accuracy.
+KEYWORDS: retail data, inventory accuracy, point-of-sale data, data verification, stock-out management
+---
+
+[Document: HBR -Are You Ready.pdf]
+
+one of these items multiple times. Clearly, this would cause the inventories of both the lemon and the vanilla yogurt to be
+
+inaccurate. One grocery chain found that sales of medium tomatoes have consistently been 25% higher than the actual
+
+shipment of medium tomatoes to their stores. Checkout clerks frequently entered into their registers the price lookup (PLU)
+
+code for “medium tomato” even if the customer was buying organic, vine-ripe, or other specialty tomatoes. “If it’s red and soft,
+
+it’s a medium tomato at the checkout counter,” remarks the CIO at this supermarket chain. Most checkout clerks are reluctant
+
+to spend extra time to check the PLU code accurately and risk upsetting the customer and their manager, who, in many cases,
+
+is tracking the average rate at which the checkout clerks scan units.
+
+Not all data inaccuracy is caused at the checkout register, of course. One retailer in our study found that inventory records
+
+were inaccurate for 29% of the items at a store that had been stocked but that had not yet opened for customers. The retailer
+
+traced the problem back to its distribution systems; warehouse employees often shipped the wrong item (for instance, sending
+
+small shirts instead of medium shirts, or sending one flavor of yogurt instead of another). Similarly, errors were caused when
+
+changes in vendor case-packs—the number of items shipped per box—weren’t promptly entered in the retailer’s merchandise
+
+replenishment system. In one instance, a vendor changed the dimensions of its case-pack from 144 units to 12 units; the
+
+merchandise replenishment system, unaware of the change, asked the warehouse to ship only one case-pack.
+
+Many retailers don’t know if their information is inaccurate because they don’t track data accuracy. Other retailers track data
+
+accuracy, but the information discovered is not widely disseminated. At one apparel retailer, the merchandisers and planners
+
+had no idea their POS data were inaccurate even though the vice president of planning had, through periodic audits, concluded
+
+that the error in inventory data was close to 30% at the store level.
+
+Some retailers have taken steps to ensure the accuracy of sales and inventory data. One interesting approach, the “zero
+
+balance walk,” is practiced at office-supply superstore Staples. In this system, an employee walks through the store each day
+
+looking for SKUs that are out of stock. For each item that is out of stock, a stockout card is generated and a sticker is placed in
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012
+
+Are You Ready? - Harvard Business Review Page 6of 8
+
+the space reserved for the item. Other employees verify the events—sudden surges in consumer demand, computer data
+
+error, merchandise stocked in the wrong aisle, and so on—that caused the sellout. If the stockout was due to faulty data in the
+
+computer, the inventory level in the computer system is corrected. Performing the zero balance walk each day helps measure
+
+and improve data accuracy at Staples.
+
+Now let’s consider the availability of data. The retailers we surveyed varied in their ability to store and access their sales data.
+
+The median retailer in our study kept two years of sales data accessible on-line. One company kept only six weeks of data for
+
+its employees to use; at the other extreme, another company kept ten years of sales data accessible on-line.
+
+Research Methods
+
+Our formal research on rocket science retailing began after discussions with retailers that had collected large amounts of
+
+consumer and sales data but were struggling to use them effectively. We decided to launch a study to document current
+
+merchandising and supply-chain practices among retailers. We felt that once we understood the retailers’ supply chains well,
+
+we could identify ways in which they could be improved.
+
+Our vision of scientific or rocket-science retailing was shared by the Sloan Foundation, a large number of retailers that
+
+supported the study, and numerous students and academics at various schools who contributed substantially to the project.
+
+For our survey, we selected mostly retailers of innovative, short-life-cycle products such as fashion apparel, shoes, toys,
+
+jewelry, books, music, entertainment software, consumer electronics, and PCs. We thought the unpredictable demand of
+
+these products would make them the hardest cases for retailers. We interacted with the retailers through site visits, written
+
+surveys, and annual conferences to understand their processes for forecasting and managing supply. The following retailers
+
+participated.
+
+Apparel and Footwear—David’s Bridal, Footstar, Gap, G.H. Bass, Maurice’s, Nine West, the Limited, World Company, and
+
+Zara.
+
+Consumer Electronics and PCs—CompUSA, Office Depot, Radio Shack, Staples, the Good Guys, and Tweeter etc.
+
+Books, CDs, Jewelry, Toys, Theme Stores—Borders Group, Bulgari, the Disney Store, Tiffany & Company, TransWorld,
+
+Warner Brothers, and Zany Brainy.
+
+Other Product Categories and Multiple Product Categories—Ahold, Christmas Tree Shops, CVS, Federated Group, HE
+
+Butt Grocery Company, Iceland Frozen Foods, JC Penney, Marks & Spencer, QVC, and Sears.
+
+People often wonder why it’s valuable to keep a history of sales for so many years given how quickly trends change. In fact, the
+
+data contain some useful information about sales patterns that remain stable from year to year, such as seasonality, consumer
+
+reaction to a promotion, and differences in sales patterns at different stores. We have also found that the average forecast
+
+error tends to be reasonably similar from year to year, even if the products have changed almost entirely.
+
+Forecasting product sales is much more difficult for the merchants at companies that lack sufficient on-line data. At the retailer
+
+with only six weeks’ worth of on-line data, merchants referred to heavy stacks of paper copies of sales data from previous
+
+years when estimating future product sales. Given that the cost of computer storage space has fallen sharply, there’s no
+
+reason for retailers not to store sales data electronically and make it easily accessible to their merchants. Those who don’t
+
+either don’t see how the data could be useful in their decision making or made the decision several years ago when computer
+
+storage space was extremely expensive.
+
+Some retailers don’t make even recent sales data available at the detailed level. For example, some apparel retailers track

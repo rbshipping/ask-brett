@@ -1,0 +1,236 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Strategic Planning
+SUMMARY: The text provides an introduction to a book on business strategy, written by a former CEO and a business school dean, exploring how strategy really works.
+KEYWORDS: strategic planning, business strategy, winning, P&G
+---
+
+Massachusetts 02163.
+
+Library of Congress Cataloging-in-Publication Data
+
+Lafley, A.G. (Alan G.)
+
+Playing to win : how strategy really works / A.G. Lafley and Roger L. Martin.
+
+p. cm.
+
+ISBN 978-1-4221-8739-5 (alk. paper)
+
+1. Strategic planning. 2. Success in business. 3. Organizational change. 4. Procter &
+
+Gamble Company. I. Martin, Roger L. II. Title.
+
+HD30. 28. L34 2013
+
+658.4’012—dc23
+
+The web addresses referenced in this book were live and correct at the time of the
+
+book’s publication but may be subject to change.
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FM.indd 4 11/6/12 8:07 PM
+
+Inspired by Peter Drucker (1909–2005),
+
+mentor and friend
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FM.indd 5 11/6/12 8:07 PM
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FM.indd 6 11/6/12 8:07 PM
+
+Contents
+
+Introduction How Strategy Really Works 1
+
+One Strategy Is Choice 7
+
+Two What Is Winning 35
+
+Three Where to Play 51
+
+Four How to Win 75
+
+Five Play to Your Strengths 105
+
+Six Manage What Matters 129
+
+Seven Think Through Strategy 159
+
+Eight Shorten Your Odds 183
+
+Conclusion The Endless Pursuit of Winning 211
+
+Acknowledgments 217
+
+Appendix A: P&G’s Performance 223
+
+Appendix B: The Microeconomic Foundations of Strategy
+
+and the Two Ways to Win 227
+
+Notes 239
+
+Index 245
+
+About the Authors 259
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FM.indd 7 11/6/12 8:07 PM
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FM.indd 8 11/6/12 8:07 PM
+
+Introduction
+
+How Strategy Really Works
+
+T
+
+his is a book about strategy, written by a former CEO and a
+
+business school dean. When we met, we were neither of those
+
+things. More than twenty years ago, when we first worked together
+
+on a study of P&G’s distribution channels, it was as a category
+
+manager in P&G’s laundry business and an outside consultant
+
+from a small but growing strategy firm called Monitor Company.
+
+Working on that assignment, we formed the basis of a very produc-
+
+tive and very long friendship. By the time we became, respectively,
+
+CEO of P&G and dean of the Rotman School of Management,
+
+we were true thinking partners on strategy and worked together
+
+in earnest on the transformation of P&G between 2000 and 2009.
+
+This book is the story of that transformation and the approach to
+
+strategy that informed it. (Details on the results of the transforma-
+
+tion may be found in appendix A.)
+
+This approach grew out of the strategy practice at Moni-
+
+tor Company and subsequently became the standard process at
+
+P&G. Over the course of our careers, we worked to develop a
+
+robust framework around our strategic approach, a way to teach
+
+the concepts to others, and a methodology for bringing it to life
+
+in an organization. Within Monitor, Michael Porter, Mark Fuller,
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Introduction.indd 1 11/6/12 8:12 PM
+
+2 Playing to Win
+
+Sandi Pocharski, and Jonathan Goodman played important roles
+
+in advancing this thinking. At P&G, Tom Laco, Steve Donovan,
+
+Clayt Daley, Gil Cloyd, and dozens of other business and func-
+
+tional leaders (including those whose stories are told in this book)
+
+all contributed substantially to the work of sharpening the strat-
+
+egy of the company. Along with Michael Porter, academics Peter
+
+Drucker and Chris Argyris were seminal influences who shaped
+
+our thinking and work.
+
+Ultimately, this is a story about choices, including the choice to
+
+create a discipline of strategic thinking and strategic practice within
+
+an organization. Though we use P&G as our main example, this
+
+doesn’t mean that our approach to strategy can only be effective in
+
+a global consumer goods company. We’ve seen it powerfully used
+
+in all manner of industries and all sizes of organizations, including
+
+start-ups, not-for-profits, and government agencies. But it was at
+
+P&G that we were really able to use this approach across a wide
+
+range of businesses, geographies, and functions and over a decade
+
+(and to see where it worked and didn’t work)—so that is the story
+
+we have chosen to tell. We will use P&G brand, category, sector,
+
+function, and company examples to illustrate the strategy concepts
+
+and tools throughout the book. Of course, not all companies look
+
+like P&G. But it is our hope that through examples from across
+
+P&G’s diverse businesses, organizations, and levels, the lessons for
+
+your organization will become clear.
+
+What Is Strategy?
+
+Strategy is a relatively young discipline. Until the middle of the last
+
+century, much of what people now think of as strategy was catego-
+
+rized simply as management. So it is really no wonder that many
+
+organizations struggle to define what a strategy is and how to cre-
+
+ate a useful one; there is no single, clear, and pervasive definition
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Introduction.indd 2 11/6/12 8:12 PM
+
+How Strategy Really Works 3
+
+of strategy and even less consensus on how to build one. When
+
+a strategy succeeds, it seems a little like magic, unknowable and
+
+unexplainable in advance but obvious in retrospect.
+
+It isn’t. Really, strategy is about making specific choices to win
+
+in the marketplace. According to Mike Porter, author of Competi-
+
+tive Strategy, perhaps the most widely respected book on strategy
+
+ever written, a firm creates a sustainable competitive advantage

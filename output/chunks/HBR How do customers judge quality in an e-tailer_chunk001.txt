@@ -1,0 +1,208 @@
+SOURCE: HBR How do customers judge quality in an e-tailer.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: E-commerce Customer Experience
+SUMMARY: This article discusses how online retailers can distinguish themselves by focusing on customer interaction with the website, delivery of the product, and ability to address problems.
+KEYWORDS: E-commerce, Customer experience, Online retail, Quality in e-tailing, Heterogeneity in retail
+---
+
+FALL 2006 VOL.48 NO.1
+
+SMR222
+
+Joel E. Collier and Carol C. Bienstock
+
+How Do Customers
+
+Judge Quality in an
+
+E-tailer?
+
+Please note that gray areas reflect artwork that has
+
+been intentionally removed.The substantive content
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+of the article appears as originally published.
+
+REPRINT NUMBER 48109
+
+PDFs■ Reprints ■ Permission to Copy ■ Back Issues
+
+Electronic copies of MIT Sloan Management Review
+
+articles as well as traditional reprints and back issues can
+
+be purchased on our Web site: www.sloanreview.mit.edu
+
+or you may order through our Business Service Center
+
+(9 a.m.-5 p.m. ET) at the phone numbers listed below.
+
+To reproduce or transmit one or more MIT Sloan
+
+Management Review articles by electronic or mechanical
+
+means (including photocopying or archiving in any
+
+information storage or retrieval system) requires written
+
+permission. To request permission, use our Web site
+
+(www.sloanreview.mit.edu), call or e-mail:
+
+Toll-free in U.S. and Canada: 877-727-7170
+
+International: 617-253-7170
+
+e-mail: smrpermissions@mit.edu
+
+To request a free copy of our article catalog,
+
+please contact:
+
+MIT Sloan Management Review
+
+77 Massachusetts Ave., E60-100
+
+Cambridge, MA 02139-4307
+
+Toll-free in U.S. and Canada: 877-727-7170
+
+International: 617-253-7170
+
+Fax: 617-258-9739
+
+e-mail: smr-orders@mit.edu
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+How Do Customers Judge
+
+Quality in an E-tailer?
+
+Online retailers must
+
+distinguish themselves C onsumers’ ability to go online to search for and purchase products has dramati-
+
+in three aspects of a cally changed the way organizations are managing customer relationships.
+
+E-commerce has effectively minimized two of the biggest hurdles to providing a
+
+transaction: customer
+
+quality experience in a retailing environment. First, it has minimized “heteroge-
+
+interaction with the neity” by providing a far more consistent experience to every customer. Unlike a service
+
+Web site, delivery of employee, a Web site never arrives late to work, and it is never in a bad mood or inattentive.
+
+A Web site never forgets to sell related products or keep records of previous purchases along
+
+the product and ability
+
+with customers’ purchase preferences. (Though e-commerce has reduced some of the hetero-
+
+to address problems geneity in retail experiences, it has not eradicated it. Web sites can lose server connections and
+
+when they occur. experience technical problems that can have a negative impact on customers.) E-commerce
+
+has also reduced “perishability” in the retail experience by allowing shopping and product
+
+purchases 24 hours a day, seven days a week. With so many customers who consider them-
+
+Joel E. Collier and selves to be “time starved,”1 online organizations are now allowing the customer to decide
+
+Carol C. Bienstock when a transaction will occur.
+
+E-commerce clearly has some advantages over brick-and-mortar retailing, but how does
+
+one online retailer distinguish itself from another? Early research in e-commerce projected
+
+that online retailing would spiral into a never-ending price
+
+war, while recent researchers have discovered that cus-
+
+tomers are more likely to pay higher prices to online
+
+retailers of high quality that they trust.2 We must ask,
+
+How do customers evaluate quality with online re-
+
+tailing? What are the specific aspects of an online
+
+transaction that customers value and use to distin-
+
+guish one Web site from another? We explored these
+
+issues by surveying customers who had recently en-
+
+gaged in an online retail transaction to determine
+
+how they evaluate the quality of their experiences
+
+with online retailers. The results demonstrated that
+
+customers’ perceptions of quality and satisfaction
+
+with online purchases depend upon three things: in-
+
+teraction with the Web site, delivery of the product and
+
+how prepared retailers are to address problems
+
+Joel E. Collier is an assistant professor at Mississippi State
+
+University’s College of Business and Industry in the Depart-
+
+ment of Marketing, Quantitative Analysis and Business Law.
+
+Carol C. Bienstock is an assistant professor of marketing at
+
+Radford University. Contact the authors at jcollier@cobilan.
+
+msstate.edu and cbienstoc@radford.edu.
+
+Purchased by: Paul Grosmann GROZY@HOTMAIL.COM on June 03, 2014
+
+FALL 2006 MIT SLOAN MANAGEMENT REVIEW 35
+
+when they occur. Of the three, product delivery has the strongest and credit card numbers and then can purchase items through
+
+influence on customers’ satisfaction and future purchase inten- sponsored retailers. Google initiates the transaction but does not
+
+tions. (See “About the Research.”) share customer information with the retailer’s Web site, thus add-
+
+ing further security to online purchases by limiting the exposure
+
+Interaction with the Web site of sensitive information to retailers.
+
+A retailer’s Web site is the primary contact point in an online Not only are customers concerned about privacy issues from
+
+transaction, where customers can ascertain a great deal of infor- outside threats such as hackers, but they are also concerned about
+
+mation about an organization’s attention to detail and emphasis online retailers sharing their personal information. There is no
+
+on customer satisfaction. If a Web site is hard to use and visually quicker way for a retailer to raise the ire of online customers than
+
+distracting, customers will often switch to another retailer that to sell e-mail address information to other companies that use
+
+makes the shopping experience easier. Five attributes influence these addresses to send spam. Customers generally feel there is an
+
+how customers evaluate the quality of their Web site interactions. implicit agreement with online retailers that transaction and
+
+profile information will be protected and will not be shared. This
+
+Ease of Use When customers access a retailer’s Web site, they often implicit agreement is the foundation of trust between online re-
+
+find that no formal instructions are provided. Instead, online tailers and potential customers.
+
+retail settings frequently require customers to learn by doing.
+
+This means that a Web site must be extremely intuitive and easy Simple Design The design of the Web site — text, format, style and
+
+to use, regardless of how much computer experience a customer colors — is extremely important in the facilitation of an online
+
+has. In an online setting, customers associate ease of use with transaction. It is equivalent to the atmospherics in a brick-and-
+
+freedom from significant mental effort.3 mortar store. Customers want a Web site that is visually pleasing

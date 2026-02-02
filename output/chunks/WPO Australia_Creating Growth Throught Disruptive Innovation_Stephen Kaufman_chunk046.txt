@@ -1,0 +1,168 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation and Business Strategy
+SUMMARY: The text discusses how companies should adapt to changing competitive landscapes and capture attractive profits by identifying and exploiting not-good-enough interfaces in the value chain.
+KEYWORDS: disruptive innovation, value chain, commoditization, differentiation, new growth opportunities
+---
+
+abreast of the changing basis of competition. But they have spun off the pieces of value-added
+
+activity where the money will be, in order to stay where the money has been."
+
+oR oe ok He oe ok
+
+These findings have pervasive implications for managers seeking to build
+
+successful new-growth businesses and for those seeking to keep current
+
+businesses robust. The power to capture attractive profits will shift to those
+
+activities in the value chain where the immediate customer is not yet satisfied with
+
+the performance of available products. It is in these stages that complex,
+
+interdependent integration occurs—activities that create steeper scale economics
+
+and enable greater differentiability. Attractive returns shift away from activities
+
+where the immediate customer is more than satisfied, because it is there that
+
+standard, modular integration occurs. We hope that in describing this process in
+
+these terms, we might help managers to predict more accurately where new
+
+opportunities for profitable growth through proprietary products will emerge.
+
+These transitions begin on the trajectories of improvement where disruptors are
+
+at work, and proceed up-market tier by tier. This process creates opportunities for
+
+5-13
+
+new companies that are integrated across these not-good-enough interfaces to
+
+thrive, and to grow by “eating their way up” from the back end of an end-use
+
+system. Managers of industry-leading businesses need to watch vigilantly in the
+
+right places to spot these trends as they begin, because the processes of
+
+commoditization and de-commoditization both begin at the periphery, not the
+
+core.
+
+Appendix: The Law of Conservation of Attractive Profits
+
+Having described these cycles of commoditization and de-commoditization in terms of
+
+products, we can now make a more general statement concerning the existence of a general
+
+phenomenon that we call the law of conservation of attractive profits. Our friend Chris Rowen,
+
+CEO of Tensilica, pointed out to us the existence of this law, whose appellation was inspired by
+
+the laws of conservation of energy and matter that we so fondly remember studying in physics
+
+class. Formally, the law of conservation of attractive profits states that in the value chain there is
+
+a requisite juxtaposition of modular and interdependent architectures, and of reciprocal processes
+
+of commoditization and de-commoditization, that exists in order to optimize the performance of
+
+what is not good enough. The law states that when modularity and commoditization cause
+
+attractive profits to disappear at one stage in the value chain, the opportunity to earn attractive
+
+profits with proprietary products will usually emerge at an adjacent stage.”°
+
+We’ll first illustrate how this law operates by examining handheld devices such as the
+
+RIM BlackBerry and the Palm Pilot, which constitute the latest wave of disruption in the
+
+computing industry. The functionality of these products is not yet adequate, and as a
+
+consequence their architectures are interdependent. This is especially true for the BlackBerry,
+
+because its “always on” capability mandates extraordinarily efficient use of power. Because of
+
+this, the BlackBerry engineers cannot incorporate a one-size-fits-all Intel microprocessor into
+
+their device. It has far more capability than is needed. Rather, they need a modular
+
+microprocessor design—a system-on-a-chip that is custom-configured for the BlackBerry—so
+
+that they do not have to waste space, power, or cost on functionality that is not needed.
+
+The microprocessor must be modular and conformable in order to permit engineers to
+
+optimize the performance of what is not good enough, which is the device itself. Note that this is
+
+the opposite situation from that of a desktop computer, where it is the microprocessor that is not
+
+good enough. The architecture of the computer must therefore be modular and conformable in
+
+order to allow engineers to optimize the performance of the microprocessor. Thus, one side or
+
+the other must be modular and conformable to allow for optimization of what is not good enough
+
+through an interdependent architecture.
+
+In similar ways, application software programs that are written to run on Microsoft’s
+
+Windows operating systems need to be conformed to Windows’ external interface; the Linux
+
+operating system, on the other hand, is modular and conformable to optimize the performance of
+
+software that runs on it.
+
+5-14
+
+We have found this “law” to be a useful way to visualize where the money will migrate
+
+in the value chain in a number of industries. It is explored in greater depth in a forthcoming book
+
+by Clayton Christensen, Scott Anthony, and Erik Roth, Seeing What's Next (Boston: Harvard
+
+Business School Press, 2004).
+
+This law also has helped us understand the juxtaposition of modular products with
+
+interdependent services, because services provided with the products can go through similar
+
+cycles of commoditization and de-commoditization, with consequent implications for where
+
+attractive profitability will migrate.
+
+We noted previously that when the functionality and reliability of a product become more
+
+than good enough, the basis of competition changes. What becomes not good enough are speed
+
+to market and the rapid and responsive ability to configure products to the specific needs of
+
+customers in ever-more-targeted market segments. The customer interface is the place in the
+
+value chain where the ability to excel on this new dimension of competition is determined.
+
+Hence, companies that are integrated in a proprietary way across the interface to the customer
+
+can compete on these not-good-enough dimensions more effectively (and be rewarded with
+
+better margins) than can those firms that interface with their customers only in an arm’s-length,
+
+“modular” manner. Companies that integrate across the retail interface to the customer, in this
+
+circumstance, can also earn above-average profits.
+
+We would therefore not say that Dell Computer is a nonintegrated company, for example.
+
+Rather, Dell is integrated across the not-good-enough interface with the customer. The company
+
+is not integrated across the more-than-good-enough modular interfaces among the components
+
+within its computers. Figure 5-2 summarizes in a simplified way how the profitable points of
+
+proprietary integration have migrated in the personal computer industry.
+
+On the left side of the diagram, which represents the earliest years of the desktop
+
+computer industry when product functionality was extremely limited, Apple Computer, with its

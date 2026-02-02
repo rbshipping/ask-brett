@@ -1,0 +1,150 @@
+SOURCE: HBR_Showrooming at Best Buy.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Technology
+SUMMARY: Amazon introduced mobile apps like Flow and Prime that enabled showrooming and price comparison, leading to Amazon's dominance in online product search.
+KEYWORDS: mobile apps, price comparison, showrooming, Amazon, online shopping
+---
+
+at a lower price (see Exhibit 1). To increase new customer adoption, Amazon offered a promotional
+
+deal of a $15 discount to anyone who used the app to buy online while in a physical retail store.14
+
+In early 2014, Amazon came out with a newer, simpler app called Flow, which used computer-
+
+vision and instant object-recognition software to allow users to simply hold an item in front of their
+
+phone’s camera—no need to type lengthy serial numbers or upload photos of products or barcodes.
+
+Flow also kept a record of past purchases, making it easy for customers to automatically order
+
+products that required replenishing, such as coffee machine pods. These apps made it possible to
+
+look for better prices and more selection online while examining the actual products in stores.
+
+For those consumers who may have been dissuaded from shopping online due to additional
+
+shipping costs, Amazon designed a solution for that, too. For an annual Prime membership fee of just
+
+$79, shoppers could get unlimited free two-day shipping on millions of items of almost any weight
+
+and size.15 This, in effect, made incremental shipping costs a non-issue. By combining transparent
+
+(and often lower) prices with free shipping with a Prime subscription, Amazon soon dominated how
+
+customers searched for all products online. For instance, in 2009 only 18% of shoppers began their
+
+online product search on Amazon, whereas 24% of shoppers began on Google. By the end of 2011,
+
+30% of shoppers began their search on Amazon versus just 13% with Google16 (see Exhibit 2).
+
+Other price-comparison apps
+
+Amazon wasn’t the only company developing price-comparison mobile apps. Soon after Flow
+
+was rolled out, a flood of similar apps entered the market from retailers and third-party companies.
+
+These apps varied in their complexity and the number of features they offered to users.
+
+2
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Showrooming at Best Buy 515-019
+
+Some online retailers followed Amazon’s lead and released simple apps that scanned barcodes
+
+and then looked for the product in their own online offerings. RedLaser, developed by a small start-
+
+up called Occipital17 and purchased by eBay in 2010, used this type of simple barcode scanner.
+
+Shoppers could search for competing prices at many retailers, both online and offline.
+
+Other third-party app companies like Loopt used mobile phones’ GPS sensors to let users press a
+
+button to “check in” at store locations, and then be directed to related products and local discounts
+
+both for that store and for stores in the vicinity. Shoppers could access a variety of coupons on an as-
+
+need basis. Loopt also integrated social features from platforms like Facebook, where shoppers could
+
+see what their friends were purchasing and where they were checking in.
+
+Other apps went further and combined geolocation with loyalty programs: Shopkick allowed for
+
+physical and online shopping by turning the physical shopping experience into a game with a points
+
+system. Unlike Loopt, Shopkick did not use the GPS sensors built into mobile phones, but instead
+
+used sensors placed inside stores to detect when a shopper had physically entered, a process called
+
+geofencing. The app then rewarded points to the shopper for entering the store.18 This required
+
+shoppers to actually walk into the store to earn points—they couldn’t just check in from other
+
+locations. Shoppers earned additional points when they scanned or searched for items inside the
+
+store. These points could then be redeemed for iTunes credits, restaurant meals, and retail gift cards.
+
+People were visiting stores just to get coupons, accumulate reward points, and try out products
+
+which they often just ordered online at a cheaper price. Traffic to physical stores was increasing
+
+without an accompanying increase in in-store dollar sales.
+
+The Rise of Showrooming
+
+Shoppers very quickly integrated mobile price-comparison apps into their shopping habits. By
+
+2012, 37% of customers had engaged in showrooming19. Consumer electronics retailer Best Buy,
+
+home goods retailer Bed, Bath, and Beyond, pet supplies retailer PetSmart, and toy retailer Toys “R”
+
+Us were among the retailers that Amazon showroomers visited the most20 (see Exhibit 3). Shoppers
+
+surveyed said their top three reasons for showrooming were better online prices, the desire to see the
+
+product in person before ordering online, and because the item was out of stock at the retail store. By
+
+the first quarter of 2012, online sales of consumer electronics had begun to rise sharply. A survey
+
+among all shoppers who showroom cited consumer electronics as their top product type for
+
+showrooming21 (see Exhibit 4 for a chart of the top product categories for showrooming).
+
+Smartphone price-matching apps gave shoppers the best of both offline and online shopping.
+
+They could use traditional stores as a showroom to check out the newest gadgets and then make their
+
+purchases on their phones, often with a better price and selection. Shoppers valued the combination
+
+of physical shopping with online prices particularly when they did not have to worry about paying
+
+for shipping.
+
+Mobile shopping apps were quickly displacing the computer as the go-to device for online
+
+shopping. For the first time, technology presented what former Best Buy Chief Marketing Officer
+
+Barry Judge called “an opportunity [for a competitor] to steal a sale right when someone is in the
+
+throes of making a decision. That is what makes mobile so powerful.”22
+
+3
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+515-019 Showrooming at Best Buy
+
+Brick-and-Mortar Stores Fight Back
+
+By the end of 2012, traditional stores began to fight the effects of showrooming in various ways.
+
+Some stores chose to fight fire with fire by building their own apps or partnering with third-party
+
+app companies. Others invested in their store selection by offering exclusive products not sold online.
+
+Others hoped to entice customers back into stores by expanding their loyalty programs and discounts

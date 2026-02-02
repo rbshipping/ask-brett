@@ -1,0 +1,48 @@
+SOURCE: kotter_bookshelf_leading-change.txt
+SUBFOLDER: Additional\Kotter Change Management
+TOPIC: Change Management
+SUMMARY: A practical guide to leading organizational change through an 8-step framework, focusing on leadership rather than management.
+KEYWORDS: change management, organizational change, leadership, eight-step process, business transformation
+---
+
+[Document: kotter_bookshelf_leading-change.txt]
+
+TITLE: Leading Change
+
+SOURCE: https://www.kotterinc.com/bookshelf/leading-change/
+
+============================================================
+
+# Leading Change
+
+#### by Dr. John Kotter
+
+Dr. Kotter offers a practical approach to an organized means of leading, not managing, change. He presents an eight-stage process of change with useful examples that show how to go about implementing it. Based on experience with numerous companies, his sound advice gets directly at the reasons why organizations fail to change – reasons that concern primarily the leader.
+
+# Buy The Book
+
+# Testimonials
+
+> "”“Harvard Business School professor Kotter (A Force for Change) breaks from the mold of M.B.A. jargon-filled texts to produce a truly accessible, clear and visionary guide to the business world’s buzzword for the late ’90s–change. In this excellent business manual, Kotter emphasizes a comprehensive eight-step framework that can be followed by executives at all levels.” Publishers Weekly"
+
+”“Harvard Business School professor Kotter (A Force for Change) breaks from the mold of M.B.A. jargon-filled texts to produce a truly accessible, clear and visionary guide to the business world’s buzzword for the late ’90s–change. In this excellent business manual, Kotter emphasizes a comprehensive eight-step framework that can be followed by executives at all levels.”
+
+> "”“John Kotter’s book Leading Change offers practical suggestions for making real changes in business organizations and having them stick. His book is a must read for leaders and managers in captive organizations and alternative insurance service providers. Kotter offers a tantalizing thesis of why organizations fail: (1) too much complacency, (2) lack of a powerful guiding coalition, (3) underestimating the power of vision, (4) under-communicating the vision, (5) permitting obstacles to block the vision, (6) failing to create short-term wins, (7) declaring victory too soon, (8) neglecting to anchor changes firmly in the culture. This book should encourage you to make a commitment to leap into the future as well as help yourself and others develop leadership skills.” Captive (International Risk Management Institute)"
+
+”“John Kotter’s book Leading Change offers practical suggestions for making real changes in business organizations and having them stick. His book is a must read for leaders and managers in captive organizations and alternative insurance service providers. Kotter offers a tantalizing thesis of why organizations fail: (1) too much complacency, (2) lack of a powerful guiding coalition, (3) underestimating the power of vision, (4) under-communicating the vision, (5) permitting obstacles to block the vision, (6) failing to create short-term wins, (7) declaring victory too soon, (8) neglecting to anchor changes firmly in the culture. This book should encourage you to make a commitment to leap into the future as well as help yourself and others develop leadership skills.”
+
+> "”“Change is a constant in the business world. Change is not something that will go away but it is increasing in the rate of occurrences. You can put it together with death and taxes. For anyone involved in business or with dealing with people in general, it is highly recommended that you find this book at your local book store and read it over a quiet Sunday afternoon. It is a book that I can foresee myself referring to in the future on a constant basis.” Kevin MacDonaldCMA, Business Coach"
+
+”“Change is a constant in the business world. Change is not something that will go away but it is increasing in the rate of occurrences. You can put it together with death and taxes. For anyone involved in business or with dealing with people in general, it is highly recommended that you find this book at your local book store and read it over a quiet Sunday afternoon. It is a book that I can foresee myself referring to in the future on a constant basis.”
+
+> "”“In 1996 John Kotter wrote Leading Change which looked at what people did to transform their organizations. Kotter introduced an 8-step change model for helping managers deal with transformational change. I wholeheartedly recommend this book to anyone leading change who wants to motivate people and overcome obstacles to achieve great results.” Martin WebsterLeadership Thoughts"
+
+”“In 1996 John Kotter wrote Leading Change which looked at what people did to transform their organizations. Kotter introduced an 8-step change model for helping managers deal with transformational change. I wholeheartedly recommend this book to anyone leading change who wants to motivate people and overcome obstacles to achieve great results.”
+
+> "”“Leading change requires vision. It is proactive instead of reactive. I knew a company vice president who was fond of saying, “You can lead change or be changed.” By leading change, you can empower yourself and your organization in ways that might not have seemed possible. You can often control your own destiny and that of your group. A source that I have found useful is a book (recommended by CIDM and highlighted at the Best Practices conference last fall) titled Leading Change by John P. Kotter. In this book, Kotter, a Harvard professor, provides an eight-stage process for leading change in your organization. The type of change Kotter envisions is large, sweeping change that transforms organizations from mediocrity to greatness and keeps them competitive in a rapidly changing world economy.” JoCarol GauBMC Software, Inc."
+
+”“Leading change requires vision. It is proactive instead of reactive. I knew a company vice president who was fond of saying, “You can lead change or be changed.” By leading change, you can empower yourself and your organization in ways that might not have seemed possible. You can often control your own destiny and that of your group. A source that I have found useful is a book (recommended by CIDM and highlighted at the Best Practices conference last fall) titled Leading Change by John P. Kotter. In this book, Kotter, a Harvard professor, provides an eight-stage process for leading change in your organization. The type of change Kotter envisions is large, sweeping change that transforms organizations from mediocrity to greatness and keeps them competitive in a rapidly changing world economy.”
+
+# Looking for more on this topic?
+
+• View the original Harvard Business Review Article

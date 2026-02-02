@@ -1,0 +1,295 @@
+SOURCE: 2013.02.07 Buyers Training Academy - MK Slides.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Performance Analysis
+SUMMARY: This text discusses how to conduct a tail analysis to understand the individual SKU performance within a product range and identify products to focus on or exit.
+KEYWORDS: tail analysis, SKU performance, product portfolio optimization
+---
+
+[Document: 2013.02.07 Buyers Training Academy - MK Slides.pptx]
+[Presentation Topic: Range Reviews]
+
+What do these charts tell you?
+
+Why run a tail analysis:
+
+It will help you understand the individual SKU performance of a range and help you which products to exit and which to maximise
+
+GM%
+
+GM%
+
+References
+
+References
+
+[Slide 11]
+
+Tail analysis “how-to” Step 2: Map each SKU on a chart
+
+The Y-axis is GM$ totals to 100%
+
+The X-axis is each individual SKU
+
+The top GM$ item brought in ~7% of the total GM$ for the range
+
+The slope shows that the bottom 1/3 of SKUs only contributed ~15% of total GM$ to the range
+
+diva data
+
+[Slide 12]
+
+Pictorial example of diva range: Several best GM$ contributors very similar
+
+[Slide 13]
+
+Pictorial example of diva range: Several worst GM$ contributors with stock outs (red clips)
+
+[Slide 14]
+
+Tail analysis “how-to”
+
+Some “mechanical” (boring, but critical!) notes when creating a tail analysis:
+
+Separate tray stock (if applicable) from prong stock. Run a separate analysis on these
+
+Identify any stock-outs, which will definitely influence results
+
+Identify styles that were in the range for differing periods of time during range review period. Note them or take the average by week to smooth out results
+
+Note any products in mark-down within the range
+
+Practical tips:
+
+Represent your curve pictorially: Even hang/line them up so you can SEE the product… and don’t ignore the steep part of the curve!
+
+For ongoing products, review change in position along the curve. If an item has been in the front part of the curve (i.e. out of the tail), in prior reviews, but is in the tail in this review, what might it tell you?
+
+Nothing in isolation! Sell-through: If an item is a high GM contributor, but you’re not meeting sell-through targets, what might it tell you?
+
+Check best and worst performers to see if there are similar styles in other ranges to understand if I was style or colour (or something else?) influencing SKU performance
+
+[Slide 15]
+
+Individual item review: Review of best/worst sellers - Many retailers find it difficult to define this!
+
+Key questions:
+
+How do you define a BEST seller?
+
+Sell-through?
+
+Sales$?
+
+Volume/units sold?
+
+ROS?
+
+GM$?
+
+GMROI?
+
+How do you define a WORST performer?
+
+Sell-through?
+
+Sales$?
+
+Volume/units sold?
+
+ROS?
+
+GM$?
+
+GMROI?
+
+Each has its strengths and weaknesses
+
+[Slide 16]
+
+Individual item review: No one measure is perfect... so what do you do?
+
+Need a combination of measures to tell you the whole story
+
+[Slide 17]
+
+Post semi-regular range reviews: Document findings
+
+Practical tips:
+
+Save tail analysis (photos of range ordered from top GM$ contributor to worst and/or the excel file with rankings and photos of the product)
+
+Save planograms from the range electronically
+
+Save notes made during range review (make sure they are electronic)
+
+Circulate decisions made to Buying and Merch Planning team
+
+And most important: Make sure files from range review are saved in a place that makes sense and can be figured out/find by another buyer (somewhere within the Buying folder)
+
+[Slide 18]
+
+Practical tips for all 3 levels of review
+
+Practical tips:
+
+If possible, have entire range on hand for discussion, or at minimum, best and worst sellers (top 10). It is also worthwhile to highlight how newness performed if reviewing an ongoing range (either separately, or via colour coded stickers on product/tag)
+
+Standardise analyses in order to make them easy to run and read. Unless there are some peculiarities to a range, all ranges should have the same analyses and use the same format
+
+Know your costs, volumes, sell-through, and prices: Know EVERYTHING about your range, even if it means studying! YOUR range is YOUR business
+
+Make decisions AHEAD OF TIME with your Merch Planner on what you will do differently going forward. The range review meeting is for the CEO and Head of Buying to challenge and ensure the decisions make sense
+
+Document all decisions after the meeting and ensure CEO and Head of Buying sign off on them
+
+[Slide 19]
+
+Semi-annual reviews: Purpose
+
+Review shifts by category
+
+GMROI, sales vs. stock on hand, GMROM: all compared to LY
+
+Review shifts by category attributes (e.g. metal, colour), sizes, price architecture
+
+Run same analysis as above
+
+Potentially, review volatility of category
+
+E.g., in wrist wear, what were sales and GMROI variance between each range?
+
+Potentially, review store grading performance
+
+Segment certain ranges/product attributes by store segmentation
+
+Potentially, integrate customer research
+
+[Slide 20]
+
+Semi-annual range reviews: Attendees
+
+Attendees:
+
+Head of Buying
+
+Buying team (how deep down depends on organisation structure/size)
+
+Merch Planning
+
+CEO
+
+Head of Retail (may not be required)
+
+Tips:
+
+Heavy lifting analytics need to be done ahead of time
+
+All ranges and categories should be reviewed IN DETAIL by Head of Buying and relevant buyers before meeting
+
+Make sure it is action oriented – these can tends towards the “information sharing” rather than “decision making” meetings if they’re not tightly facilitated
+
+Nominate a “secretary” to take down key points/decisions to circulate after the range review; it can be a long session and it can be useful for recall
+
+If org is big, do not bring whole Buying team; focus tends to get lost. All Planners at category head level should attend
+
+Core, but highly
+
+driven by Merch
+
+[Slide 21]
+
+Range reviews: Tail analysis also informative for semi-annual reviews to make category investment shifts
+
+$20 M
+
+0
+
+Number of SKUs ranked by top selling
+
+1000
+
+900
+
+800
+
+700
+
+600
+
+Cumulative sales
+
+500
+
+$60 M
+
+$40 M
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Cumulative sales
+
+600
+
+0
+
+Number of SKUs ranked by top selling
+
+1000
+
+900
+
+800
+
+700
+
+500
+
+400
+
+300
+
+200
+
+100
+
+$20M
+
+0
+
+$40
+
+$60M
+
+$80M
+
+Category 1
+
+Category 2
+
+Low selling
+
+Low turns, poor GMROI
+
+High risk of aged inventory that stuffs up your OTB
+
+Hopefully, via systematic reviews, you understand why some product is not moving
+
+Assumes that any additional SKU follows a predictable pattern
+
+Also need to look at:
+
+Category growth
+
+Target GM
+
+etc.
+
+The more fashion-oriented the category, the longer the tail tends to be… but some items might be important for brand image

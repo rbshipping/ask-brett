@@ -1,0 +1,168 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Digital Retail Transformation
+SUMMARY: The retail industry is being disrupted by technology and business forces, requiring retailers to embrace digital transformation and new customer-centric strategies to survive and thrive.
+KEYWORDS: digital retail, online shopping, customer experience, data-driven decisions, disruptive forces
+---
+
+8
+
+The shift to online sales has remade the retail landscape and the availability of high-speed delivery
+
+services will probably accelerate the rise of mobile and online shopping. “Next hour” delivery capability
+
+is emerging and will eventually become widespread, removing the immediacy advantage for traditional
+
+retailers. Autonomous delivery vehicles, drones, and robots will slowly emerge and boost online delivery
+
+speed and convenience even further. Traditional retail will need to focus on highly emotional products
+
+where the buying process is highly experiential. Most consumables will eventually be automatically
+
+ordered by smart homes and scheduled for delivery.
+
+Membership shopping clubs are becoming wildly popular with shoppers. For retailers they alter
+
+shopper’s behavior and create lock-in. Shoppers love the added value they derive from a broader
+
+ecosystem offering and reward retailers by giving them “first option” selling advantage. Retailers that
+
+earn this right will enjoy deeper customer insight and will be able to sell across and up as they delight
+
+customers with a broad ecosystem of personalized value.
+
+The retail sector is about to be disrupted by a set of technology and business forces that will reshape the
+
+retail landscape in the next decade. Winners in this era will partner broadly and make the short term
+
+and long term investments necessary to embrace these disruptive forces and create new value for their
+
+customers, their suppliers, and their shareholders. Losers will fight or ignore these unstoppable trends
+
+and ultimately will disappear from the high street.
+
+We will see a speedy transition from retailing led by traditional merchants schooled in the traditional
+
+4P’s of traditional retailing (price-product-place-promotion) to retailing led by smart, informed retailers
+
+that make swift, data-based decisions based on deep insight into retail operations and the ever-
+
+changing customer journey. This is the true power of the second era of digital retail: vast amounts of
+
+data gathered by smart infrastructure and analyzed by powerful computing installations to help retailers
+
+grow profitable, responsive retail businesses that shoppers love.
+
+Retailers that want not just to survive but to thrive through this period of transformation will find a set
+
+of highly actionable next steps and recommendations throughout this document. For convenience they
+
+are also summarized together in chapter 8.
+
+Welcome to the Second era of digital retail. Let’s jump in.
+
+9
+
+10
+
+2 INTRODUCTION
+
+The $15 trillion retail sector is now evolving at the speed of the Internet. To thrive and survive in retail,
+
+companies now need to innovate at that same pace. That means businesses increasingly need to be
+
+virtual, not just physical. By digitizing the entire business flow, retail will become more responsive to
+
+customer needs, able to personalize the shopping experience for each and every customer, and be able
+
+to continually tune and optimize their businesses operations over time.
+
+2.1 WHY NOW? A PERFECT STORM IN RETAIL
+
+Why is retail bracing for major change? And why is this avalanche of change coming now? The answer is
+
+that retail is about to experience a perfect storm of change fueled by a wide set of powerful
+
+technological, social, demographic, ecosystem, business, and economic forces.
+
+In the next decade, this perfect storm will drive a massive reimagining of retail. This will present both
+
+huge opportunities and huge challenges to all the players in retail, across all sectors. This report explores
+
+these forces and reviews specific actions retailers need to begin planning for now. These actions will be
+
+the difference between sustained, profitable growth and being consigned to the retail graveyard.
+
+The major forces on the future of retail are:
+
+
+
+Customer expectations – Changing shopper demographics, increased choice, and exposure to
+
+new technology mean that customers now have rapidly evolving attitudes towards shopping.
+
+Shoppers have a new set of expectations related to omni-channel shopping, customization,
+
+efficiency, transparency, and the quality of the experience itself.
+
+11
+
+
+
+Manufacturer expectations – Suppliers want increased visibility into retail operations and
+
+expect new services from retailers including shopper analytics, targeted advertising, and other
+
+analytics and insights.
+
+
+
+Disruptive technology - Moore’s Law is now delivering amounts of computing capability at costs
+
+and physical sizes that will soon disrupt retail and other sectors.
+
+
+
+Global economic slowdown – Retailers are operating in an increasingly over-saturated and
+
+highly competitive retail sector. They are playing a zero-sum game where an increase in sales for
+
+one retailer comes at the loss of a competitor. Competitive forces are therefore on the rise.
+
+
+
+Online explosion – The shift to online sales has remade the retail landscape forever and
+
+requires totally new thinking in the omni-channel, 24/7 shopping landscape. While 90% of sales
+
+remain in brick-and-mortar stores, many shoppers are researching and making decisions using
+
+online channels. The shift towards online will continue to disrupt retail as increased delivery
+
+speeds remove immediacy as a channel advantage for traditional retail.
+
+The resulting combination of these forces is leading to one of the biggest transformations in retail in
+
+decades and is ushering in the Second era of Digital Retail.
+
+2.2 THE FACE, BONES, AND BRAINS OF RETAIL
+
+A helpful way to think about the future of retail is to consider the face, the bones, and the brains of
+
+retail. These constructs will occasionally be referenced throughout this report.
+
+The Face – All the customer-facing elements of the store used to maximize the shopper experience in a
+
+way that makes mission shopping more efficient, and experience shopping more enjoyable. These
+
+include merchandising, signage, and other look and feel elements of the store. Future advances in this
+
+area might include interactive brand experiences, virtual shopping assistants, and spectacular
+
+holographic displays. The face is also the place that data is gathered on the shopper and fed to the brain.
+
+The Bones – All the retail elements that sit behind the face to feed the store and shopping experiences.
+
+Today these include things like fixtures and fittings, the supply chain, inventory management systems,
+
+loyalty card and reward systems, and point of sale terminals. Future advances in the bones of the store

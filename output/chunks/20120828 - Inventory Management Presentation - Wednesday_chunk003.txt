@@ -1,0 +1,213 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: The text discusses various aspects of inventory management, including information/resource investment, creating a cross-functional team, and maximizing sales and margin from the least amount of inventory.
+KEYWORDS: inventory management, sales and margin, cross-functional team, forecasting, product life cycle
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+Invest in Information / Resource and Capability.
+
+Where ever there is a Sales and Margin budget or KPI, add Inventory.
+
+Can the stores make a difference, let them.
+
+Have a cross functional team without the Silo’s (Accountability)
+
+Create interest, competition and achievable goals of improvement.
+
+Don’t just make it a project embed it culture.
+
+Make it a cultural thing
+
+[Slide 51]
+
+With the right planning & Culture
+
+Maximising our sales & margin from the least amount of inventory possible!!!
+
+[Slide 52]
+
+Thank You….
+
+Inventory Management
+
+…Sounds simple, but not always easy
+
+[Slide 53]
+
+Time
+
+Topic
+
+52
+
+Inventory Management ConferenceWednesday  29th August 2012
+
+[Slide 54]
+
+Forecasting and Product Life Cycles
+
+I
+
+[Slide 55]
+
+Points for discussion
+
+Sign off process
+
+Planning our ranges
+
+Analysis per sku
+
+Forecasting
+
+Reporting
+
+Life cycle of our products
+
+Reaction to sales once in store
+
+[Slide 56]
+
+The Key To It All:Getting To Know Your ProductIntimately
+
+[Slide 57]
+
+The Sign Off Process
+
+Before an item hits the shelves, each sku goes through a process of approvals with CEO/GM, Merch Planning and Buying (Marketing & VM present where needed)
+
+Average timeline is 3-5 months from first concept to in store launch, with key decision makers looking at each piece a number of times.
+
+These meetings cover all aspects of the product (and range) – from approving the physical  piece, it’s price, how and where the range will be displayed in store, and how many pieces will be ordered by sku
+
+This process creates buy in from key decision makers..........the  key is robust discussion
+
+[Slide 58]
+
+The Range Plan
+
+The “life cycle” of each product has typically been pre-planned to our ‘best guess’ ,so we plan for when it will launch, where the product will be merchandised, how long it will remain as a range  and what the exit strategy will most likely be
+
+[Slide 59]
+
+The Line Print
+
+One of our key success factors is knowing and reviewing every sku from when it is placed
+
+Report by sku (“Line Print”) is generated at least every Monday, showing sales and stock information
+
+Each Monday we look at each sku one at a time, decisions are made regarding;
+
+Re-ordering
+
+DNR’s
+
+Markdowns
+
+Allocations and “pushes”
+
+Min/Max settings
+
+Pricing
+
+Merchandising
+
+Promotions
+
+Late orders
+
+[Slide 60]
+
+Add pic of report
+
+The Line Print
+
+[Slide 61]
+
+Benefits of Living and Breathing The Line Print
+
+We know at all times what is and is NOT selling..........a best sellers list only talks to the top 5% of sku’s.
+
+We can react quickly to a style that is strong.
+
+We can abort styles that may be coming in other ranges that haven’t performed.
+
+We identify and act on poor sellers early.
+
+We pick up anomalies with allocations and stock levels in stores and DC.
+
+Ultimately gives you detailed knowledge of “what’s going on”
+
+[Slide 62]
+
+Forecasting
+
+FORECASTING
+
+[Slide 63]
+
+Benefits of the Sign Off Process
+
+We are forecasting sales of new pieces one piece at a time to order as accurately as possible.  To do this, we take into account things such as;
+
+The historical sales for similar ranges and categories at the time of year the new product will be active in store
+
+The uplift expected due to any marketing / promotion around the product
+
+The Rate Of Sale (ROS) expected for each piece – this is taken using known rates of sale for the same sub-category and price bracket (e.g. Short neckwear at $16.99) and we then use some “gut feel” based on the individual styling and Customer appeal of the piece as to whether we feel it will under- or over- achieve on ROS
+
+The exact number of stores the piece will be allocated to (including international territories)
+
+Acheiving a minimum of 50% sell through once product has been in store for 6 weeks.
+
+[Slide 64]
+
+History (usually) Repeats
+
+What has happened in the past is the best starting point for what will probably happen again in the future
+
+For ongoing or replenishable lines, history is invaluable and should be a very strong indicator of what you will expect going forward.  However, it is important to look at any variance to patterns over time to see if there is a gradual change in performance.  Once an uplift or decline is indentified this can be applied to your curve.
+
+The correct information needs to be available in the first place for us to accurately analyse the events of the past, reporting should be completed weekly, monthly and stored.  Formal reviews are also invaluable (e.g. 6 Week Review)
+
+[Slide 66]
+
+History (usually) Repeats
+
+Two examples of using history for forecasting are;
+
+We use FLOWLINES to forecast sales by week for our top selling ongoing lines.  This allows us to predict future stock needs and have regular orders hit the DC to keep stock levels where they need to be without over-committing
+
+We track at a top line and range level the historical uplift in total full price unit sales by week so that we are able to anticipate the expected unit sales for any given period in time.  For example;
+
+1,000 pieces of Youth Silver sold week 1 August last year
+
+2,300 pieces of Youth Silver sold week 1 December last year (2.3x week 1 August)
+
+220 pieces of a particular YouthSilver  style sold week 1 August this year
+
+As this is going to be an ongoing line, we would anticipate based on this uplift sales in December week 1 this year of (220 x 2.3 =) 506 units
+
+By performing these calculations in advance we can forecast with reasonable accuracy expected sales by range, place our orders in advance and save on freight etc. while ensuring we will be adequately stocked for peak trade
+
+[Slide 67]
+
+Regular Reporting
+
+On a regular basis we are reviewing reports such as;
+
+Category sales and stock mix
+
+Range sales and stock mix
+
+Colour sales and stock mix
+
+Sub-category sales and stock mix
+
+DC vs In Store stock vs sales
+
+Shrink by category

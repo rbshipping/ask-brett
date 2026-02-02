@@ -1,0 +1,120 @@
+SOURCE: HBR -Are You Ready.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Inventory Planning
+SUMMARY: The text discusses the challenges of inventory planning for retailers, including the lack of tracking for stockouts and lost sales, and a method to estimate lost sales.
+KEYWORDS: inventory planning, stockouts, lost sales, supply chain responsiveness, forecasting
+---
+
+[Document: HBR -Are You Ready.pdf]
+
+needed. The video also showed how much longer it took the warehouse staffers to collect the orders when the size mix for
+
+each store varied according to its need. The distribution manager and his peers were confident that the few-seconds-per-
+
+garment time savings would convince store managers that all reorders should be shipped in identical size mixes. Which
+
+begged our question to the manager: “How long does it take you to process garments that come back from the stores unsold
+
+because you haven’t shipped what they need?”
+
+Many retailers fall into a vicious cycle. Logistics and procurement officials argue that reducing lead times for products won’t
+
+help the retailer because the company lacks good sales data and the tools to analyze that data. Merchandise-planning officials
+
+argue that being able to store and analyze sales data won’t help the retailer since logistics and procurement can’t respond fast
+
+enough to those signals. The problem is that companies can’t quantify the value of a short lead time in reducing stockouts and
+
+markdowns. But as retailers adopt new software tools for forecasting and planning supply, they can use these tools to measure
+
+the impact of a shorter lead time and to better match supply with demand.
+
+Inventory Planning
+
+Inventory planning involves deciding when and how much to order, or how much to produce, of various raw materials,
+
+components, and finished goods. Inventory planning differs from forecasting because a planner might find it beneficial to stock
+
+more or less than predicted demand. In planning inventory for a household, for example, you might decide to stock far more
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012
+
+Are You Ready? - Harvard Business Review Page 5of 8
+
+medicine than you anticipate needing in case you become sick. Or you might buy certain items—batteries, for instance—many
+
+months’ demand at a time while other items—bread and milk, for instance—might be ordered every week. Inventory planning
+
+at most retailers suffers from several shortcomings. One of the most glaring is that many retailers don’t track stockouts and the
+
+resulting lost sales. Only 13 of the 32 companies in our study said they track stockouts, and 11 of the 13 used this information
+
+to estimate the resulting lost sales.
+
+Lost sales are endemic among retailers, especially for products with short life cycles. Tracking stock-outs could help retailers
+
+set optimal inventory levels and could help them see the value in improving supply-chain responsiveness. So why aren’t these
+
+metrics studied carefully? One reason is that it’s hard to know how much of a product would have sold if supply had been
+
+plentiful. The figure can be estimated using sophisticated statistical techniques, but retailers generally can’t find such
+
+capabilities in commercial software, especially in the case of short-life-cycle products.
+
+There is a way over that hurdle. We developed a method to estimate lost sales. Our procedure works in two steps. First, it
+
+calculates the underlying demand rate for a product based on the sales patterns that occurred when the product was in stock.
+
+Second, it combines the estimated demand rate with the duration of the product stockout at a particular store to derive the lost
+
+sales. To estimate demand rate and lost sales, the technique has to be modified for factors such as the variation of demand on
+
+different days and at different times within a day. In our experiments with real retail data, our technique estimated lost sales to
+
+within 2% at the store level and with higher accuracy at the chain level or for a category of products.
+
+The benefits of tracking lost sales, and increasing inventory levels systematically to reduce those losses, can be substantial.
+
+One retailer found that sales could be improved by roughly 10% simply by increasing inventory at the stores, suggesting that
+
+lost sales—before the inventory boost—would have accounted for at least 10% of sales. At Rome-based jewelry manufacturer
+
+Bulgari, stockouts on a single item at one store had been high enough to reduce the store’s revenue by 3.5%. As a result,
+
+Bulgari is seeking ways to improve its planning processes.
+
+Accurate, Available Data
+
+All the retailers in our study have point-of-sale (POS) systems and have used them to capture sales data electronically. But
+
+contrary to popular perception, most retailers have considerable difficulty capturing and maintaining sales data that are
+
+accurate and accessible to their employees.
+
+First, let’s consider the accuracy of the data that retailers collect. Store-level sales data are often inaccurate for several
+
+reasons. In the apparel industry, a common source of data inaccuracy arises from improper handling of returns. When a
+
+customer buys a medium sweater and then wants to exchange it for a small, the returned garment should be scanned into the
+
+register as a return, and the requested garment should be scanned in as a new purchase. In reality, the salesperson, trying not
+
+to inconvenience the customer, exchanges the medium garment for the small garment without scanning both items into the
+
+POS system. As a result, the inventory levels of both items are inaccurate.
+
+In the grocery business, the sheer volume of transactions confounds the grocer’s ability to maintain accurate sales and
+
+inventory information. Most consumers can recount a situation in which they bought multiple units with the same price (for
+
+example, a container of lemon yogurt and a container of vanilla yogurt, both the same brand) and the checkout clerk scanned
+
+one of these items multiple times. Clearly, this would cause the inventories of both the lemon and the vanilla yogurt to be
+
+inaccurate. One grocery chain found that sales of medium tomatoes have consistently been 25% higher than the actual
+
+shipment of medium tomatoes to their stores. Checkout clerks frequently entered into their registers the price lookup (PLU)
+
+code for “medium tomato” even if the customer was buying organic, vine-ripe, or other specialty tomatoes. “If it’s red and soft,
+
+it’s a medium tomato at the checkout counter,” remarks the CIO at this supermarket chain. Most checkout clerks are reluctant

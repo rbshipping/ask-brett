@@ -1,0 +1,384 @@
+SOURCE: 3b. Ampersand-Retail-Matrix RANKING.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Sector Ranking
+SUMMARY: A ranking of various retailers across different sectors based on a scoring system.
+KEYWORDS: retail, sector, ranking, department stores, fashion, sports, outdoors
+---
+
+RANK RETAILER SECTOR SCORE
+
+1 House of Fraser Department 83
+
+2 Marks and Spencer Department 79
+
+3 Selfridges Department 79
+
+4 Coast Fashion 76
+
+5 JD Sports Sports & Outdoors 76
+
+6 John Lewis Department 76
+
+7 Wiggle Sports & Outdoors 76
+
+8 Asda Direct Department 72
+
+9 BHS Department 72
+
+10 JJB Sports Sports & Outdoors 72
+
+11 Maplin Electricals 72
+
+12 New Look Fashion 72
+
+13 Tesco Direct Department 72
+
+14 American Golf Sports & Outdoors 69
+
+15 Argos Department 69
+
+16 Debenhams Department 69
+
+17 Dunelm Home & DIY 69
+
+18 Hobbycraft Group Stationery & Gifts 69
+
+19 Top Shop Fashion 69
+
+20 Whittard of Chelsea Food 69
+
+21 Ann Summers Fashion 66
+
+22 B&Q Home & DIY 66
+
+23 Bathstore.com Home & DIY 66
+
+24 Crew Clothing Fashion 66
+
+25 Dune Fashion 66
+
+26 Early Learning
+
+Centre Children 66
+
+27 Evans Cycles Sports & Outdoors 66
+
+28 Homebase Home & DIY 66
+
+29 Jaeger Fashion (Luxury) 66
+
+30 Mothercare Children 66
+
+31 Paperchase Stationery & Gifts 66
+
+32 Screwfix Home & DIY 66
+
+33 Simply Be Fashion 66
+
+34 TK Maxx Fashion 66
+
+35 Whistles Fashion (Luxury) 66
+
+36 Barbour Fashion (Luxury) 62
+
+37 Boots Health & Beauty 62
+
+38 Burberry Fashion (Luxury) 62
+
+39 Fred Perry Fashion 62
+
+40 Go Outdoors Sports & Outdoors 62
+
+41 Hughes Electrical Electricals 62
+
+42 Menkind Stationery & Gifts 62
+
+43 Nike Sports & Outdoors 62
+
+44 O2 UK Electricals 62
+
+45 Schuh Fashion 62
+
+46 Superdrug Health & Beauty 62
+
+47 Wickes Home & DIY 62
+
+48 Carphone
+
+Warehouse Electricals 59
+
+49 Estee Lauder Health & Beauty 59
+
+50 Harrods Department 59
+
+51 Hobbs Fashion (Luxury) 59
+
+52 Ikea Home & DIY 59
+
+53 Jigsaw Fashion (Luxury) 59
+
+54 Jimmy Choo Fashion (Luxury) 59
+
+55 L'Occitane Health & Beauty 59
+
+56 Laura Ashley Fashion 59
+
+57 Paul Smith Fashion (Luxury) 59
+
+58 Robert Dyas Home & DIY 59
+
+59 Space NK Health & Beauty 59
+
+60 Staples Stationery & Gifts 59
+
+61 The Body Shop Health & Beauty 59
+
+62 The Pen Shop Ltd Stationery & Gifts 59
+
+63 The Perfume Shop Health & Beauty 59
+
+64 Waitrose Food 59
+
+65 Adidas Sports & Outdoors 55
+
+66 Asda Food 55
+
+67 Beales Department 55
+
+68 Bensons for Beds Home & DIY 55
+
+69 Blacks Outdoor
+
+Division Sports & Outdoors 55
+
+70 Clarks Fashion 55
+
+71 Cotswold Outdoor Sports & Outdoors 55
+
+72 Craghoppers Sports & Outdoors 55
+
+73 Currys Electricals 55
+
+74 Dell Electricals 55
+
+75 French Connection Fashion 55
+
+76 Gap Fashion 55
+
+77 Habitat Home & DIY 55
+
+78 Halfords Sports & Outdoors 55
+
+79 Harvey Nichols Department 55
+
+80 Karen Millen Fashion (Luxury) 55
+
+81 Lush Retail Health & Beauty 55
+
+82 Matalan Department 55
+
+83 Reebok Sports & Outdoors 55
+
+84 Snow & Rock Group
+
+Holdings Ltd Sports & Outdoors 55
+
+85 The Entertainer Children 55
+
+86 TJ Hughes Department 55
+
+87 Zara Fashion 55
+
+88 Anya Hindmarch Fashion (Luxury) 52
+
+89 Field & Trek Sports & Outdoors 52
+
+90 Flannels Fashion (Luxury) 52
+
+91 Gucci Fashion (Luxury) 52
+
+92 Hawkin's Bazaar Stationery & Gifts 52
+
+93 HP Electricals 52
+
+94 Jessops Electricals 52
+
+95 Majestic Wine Food 52
+
+96 River Island Fashion 52
+
+97 Ryman Stationery & Gifts 52
+
+98 Sainsburys Food 52
+
+99 Scribbler Stationery & Gifts 52
+
+100 SCS Home & DIY 52
+
+101 Tesco Food 52
+
+102 The Fragrance Shop Health & Beauty 52
+
+103 The Whisky Shop Food 52
+
+104 Waterstone's Stationery & Gifts 52
+
+105 WH Smith Stationery & Gifts 52
+
+106 Mint Velvet Fashion 52
+
+107 Chain Reaction
+
+Cycles Sports & Outdoors 48
+
+108 Dunnes Stores Department 48
+
+109 Fat Face Fashion 48
+
+110 H&M Fashion 48
+
+111 Holland & Barrett Health & Beauty 48
+
+112 Hornby Children 48
+
+113 Lego Children 48
+
+114 Liberty Department 48
+
+115 Links of London Fashion (Luxury) 48
+
+116 Michael Kors Fashion (Luxury) 48
+
+117 Morrisons Food 48
+
+118 Multiyork Furniture Home & DIY 48
+
+119 ao.com Electricals 45
+
+120 Apple Electricals 45
+
+121 Asics Sports & Outdoors 45
+
+122 Corgi (Hornby) Children 45
+
+123 Crabtree & Evelyn Health & Beauty 45
+
+124 F Hinds Fashion 45
+
+125 Fortnum & Mason Food 45
+
+126 Game Electricals 45
+
+127 Interflora Stationery & Gifts 45
+
+128 Kurt Geiger Fashion 45
+
+129 Molton Brown Health & Beauty 45
+
+130 Richer Sounds Electricals 45
+
+131 Smyths Children 45
+
+132 Specsavers Health & Beauty 45
+
+133 Speedo Sports & Outdoors 45
+
+134 Vodafone Electricals 45
+
+135 Apollo 2000 Electricals 41
+
+136 Aquascutum Fashion (Luxury) 41
+
+137 Armani Fashion (Luxury) 41
+
+138 Clinton Cards Stationery & Gifts 41
+
+139 Diesel Fashion 41
+
+140 Dior Fashion (Luxury) 41
+
+141 Euronics Electricals 41
+
+142 Furniture Village Home & DIY 41
+
+143 Harveys Furniture Home & DIY 41
+
+144 Hermes (GB) Fashion (Luxury) 41
+
+145 Hotel Chocolat Food 41
+
+146 Marc Jacobs Fashion (Luxury) 41
+
+147 Oak Furnitureland Home & DIY 41
+
+148 Optical Express Health & Beauty 41
+
+149 Smythson Stationery & Gifts 41
+
+150 Thorntons Food 41
+
+151 Toys R Us Children 41
+
+152 D&G Fashion (Luxury) 38
+
+153 Lloyds Pharmacy Health & Beauty 38
+
+154 Next Fashion 38
+
+155 Cameraworld Electricals 34
+
+156 Disney Store Children 34
+
+157 Foyles (W&G Foyle) Stationery & Gifts 34
+
+158
+
+Haskins Furniture
+
+(JH Haskins & Sons) Home & DIY 34
+
+159 Hillarys Blinds
+
+Limited (WEB
+
+BLINDS) Home & DIY 34
+
+160 Build A Bear Children 31
+
+161 Iceland Food 31
+
+162 Mamas & Papas Children 31
+
+163 Mulberry Fashion (Luxury) 31
+
+164 Thomas Pink Fashion (Luxury) 31
+
+165 COS Fashion 28
+
+166 Hamleys Children 28
+
+167 Kiddicare Children 28
+
+168 Laithwaites Food 28
+
+169 Manor Pharmacy Health & Beauty 28
+
+170 Russell Hobbs Electricals 28
+
+171 Nespresso UK Ltd Food 24
+
+172 Rohan Sports & Outdoors 21
+
+173 Hoopers Department 17
+
+174 Miu Miu Fashion (Luxury) 17
+
+175 Prada Fashion (Luxury) 17
+
+176
+
+Rowlands Pharmacy Health & Beauty 17
+
+177 Cotton Traders Fashion 14
+
+178 HI Weldricks Health & Beauty 14

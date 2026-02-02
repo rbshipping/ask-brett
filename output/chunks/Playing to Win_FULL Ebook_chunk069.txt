@@ -1,0 +1,206 @@
+SOURCE: Playing to Win_FULL Ebook.PDF
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Strategic Decision Making
+SUMMARY: The text discusses a reverse-engineering process for gaining buy-in on strategic choices by addressing concerns and testing the most skeptical conditions first.
+KEYWORDS: strategic decision-making, buy-in, reverse-engineering, testing, skepticism
+---
+
+sibility. This could theoretically happen. However, empirically,
+
+it does not happen, for two reasons. First, people demonstrate
+
+extremes of skepticism largely because they don’t feel heard. In a
+
+typical buy-in process, concerns are roadblocks to be pushed out
+
+of the way as quickly and thoroughly as possible. The reverse-
+
+engineering process, by contrast, makes sure that individuals
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch08.indd 197 11/6/12 8:22 PM
+
+198 Playing to Win
+
+with concerns feel heard and actually are heard. Second, there is
+
+the specter of mutually assured destruction. Though I may have
+
+serious doubts about possibility A, I quite like possibility B. You,
+
+on the other hand, have few doubts about possibility A, but seri-
+
+ous barriers to choosing possibility B. I get to set the tests for the
+
+barrier conditions for possibility A, but I do so in the knowl-
+
+edge that you will get to set the tests for possibility B. If I set
+
+an unrealistically high bar for the tests for A, you will surely do
+
+the same for B. Being fair is the smartest approach to ensure the
+
+best outcome for the organization—something all participants
+
+both desire.
+
+The ultimate goal is to design tests that will enable each mem-
+
+ber of the group to put hand on heart and commit to making a
+
+choice, and to supporting it thereafter, if the possibility passes
+
+the test. Team members may have quite different and incompat-
+
+ible tests that they view as valid, meaning that multiple tests may
+
+need to be applied for a given condition. However, in practice,
+
+groups tend to find themselves coalescing around a single acid test,
+
+especially if they take their cue from the most skeptical member of
+
+the team.
+
+6. Conduct Tests
+
+The test design process leads to the actual testing phase and the
+
+analysis of results. Here, we recommend taking what we some-
+
+times call the lazy person’s approach to strategy. Simply put, first
+
+test the things you’re most dubious about. Take the condition
+
+the team feels is the least likely to hold up, and test it first. If the
+
+team’s suspicion is right, that possibility will be eliminated with-
+
+out the need to test any of the other conditions. The possibility
+
+has already failed an essential test, so no more tests are necessary.
+
+If, on the other hand, the possibility passes the first test, move
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch08.indd 198 11/6/12 8:22 PM
+
+Shorten Your Odds 199
+
+on to the condition with the next-lowest confidence level, and so
+
+on. Since testing is often the most expensive and time- consuming
+
+part of the choice process, this approach can save enormous
+
+amounts of resources, reducing the number of tests that must
+
+be performed in total, as possibilities fall away after just one or
+
+two tests.
+
+This is an important feature by which the reverse-engineering
+
+process diverges profoundly from the process used in most strategy
+
+efforts. The typical process, whether internal or outsourced to
+
+consultants, features a relatively standard suite of analyses. Rather
+
+than frame the choice, understand the conditions, order the bar-
+
+riers, and analyze only the binding constraints—as the team does
+
+in reverse engineering—the typical approach analyzes everything
+
+in parallel. That means, in practice, a whole lot of analysis, much
+
+of which is not essential to making the decision. Furthermore,
+
+because of the wide scope of analysis, the standard process tends
+
+to accidentally sacrifice depth for breadth (i.e., analyses are a mile
+
+wide and an inch deep because the time and financial costs to do a
+
+deep analysis across the board would be prohibitive). To generate
+
+choice and commitment, companies actually need analysis that is
+
+an inch wide and a mile deep—focused precisely on the concerns
+
+that prevent the team from choosing and going deep enough in that
+
+particular area to meet the team’s standard of proof. That is what
+
+reverse engineering enables you to do: probe precisely and deeply
+
+into the barriers to choice.
+
+With Olay, for example, the price test came first. When tests
+
+showed that Olay could command a price in the $20 range, the
+
+team tested the retailer condition: would retailers partner with
+
+P&G on this initiative? Detailed conversations with a core group
+
+of P&G’s most important retailers suggested that they would.
+
+Then P&G needed to convince itself that it would be able to create
+
+This document is authorized for use only by Brett Blundy (bb@bbretailcapital.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Ch08.indd 199 11/6/12 8:22 PM
+
+200 Playing to Win
+
+that holistic masstige user experience in conjunction with its key
+
+retail partners. It did so by designing, prototyping, and testing that
+
+experience.
+
+7. Choose
+
+In a standard process, choosing is difficult, acrimonious, and
+
+time-consuming. At an off-site meeting, participants are pre-
+
+sented with binders full of analyses. They are asked to frame
+
+and make choices in one fell swoop on the basis of that data.
+
+With the stakes high and the logic poorly articulated, these
+
+meetings and the resultant choices rarely work out terribly
+
+well. In this reverse-engineering process, on the other hand, the
+
+choice-making step becomes simple and even anticlimactic. The
+
+team needs only to review the test results and make the choice
+
+dictated by the pattern of results. In essence, the choice makes
+
+itself; there is no need for serious debate at this late juncture.
+
+So it was with Olay; the masstige option became the clear and
+
+obvious choice.
+
+That, in sum, is the process for choosing between possibilities
+
+for where to play and how to win. First, frame a choice. Second,
+
+explore possibilities to broaden the set of mutually exclusive possi-
+
+bilities. Third, for each possibility, ask, what would have to be true

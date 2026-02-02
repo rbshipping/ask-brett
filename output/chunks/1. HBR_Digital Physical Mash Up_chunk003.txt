@@ -1,0 +1,190 @@
+SOURCE: 1. HBR_Digital Physical Mash Up.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Digital-Physical Integration
+SUMMARY: The text discusses how Commonwealth Bank of Australia (CBA) integrated digital and physical elements to enhance the customer experience and drive business success.
+KEYWORDS: digital-physical integration, customer experience, business strategy
+---
+
+to his vision. He persuaded CBA’s board to undertake taking even longer for competitors to copy.
+
+September 2014 Harvard Business Review 5
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+DIGITAL-PHYSICAL MASHUPS
+
+Rule #2 Runners could see data about their time, distance,
+
+calories burned, and pace on the Nano’s screen or
+
+Add links and strengthen linkages hear it through their headphones. After a workout
+
+in the customer experience. they could sync the Nano with a computer and
+
+Thomas Edison is thought to have invented the chart their progress. They could even get personal-
+
+lightbulb, but his carbon-filament bulb actually just ized coaching.
+
+improved on existing models. Edison’s real contribu- Today more than 30 million customers use Nike+,
+
+tion was to create a system of electric-power genera- tracking and sharing runs, workouts, and fitness
+
+tion and distribution that made lightbulbs work. He goals—and providing the company with invaluable
+
+figured out every element of the system, set up a data about who its customers are and what they
+
+kind of idea factory to develop innovations for each value most. Nike+ FuelBand SE electronic bracelets
+
+one, and commercialized one after another. The re- take postsale involvement further, measuring all a
+
+sults transformed daily life. user’s movements throughout the day and recording
+
+indicators such as steps taken and calories burned.
+
+COMMONWEALTH BANK OF
+
+As with Nike+, users can capture this data, track and
+
+AUSTRALIA’S FUSION-BASED record their level of activity, and share the informa-
+
+tion through social media.
+
+STRATEGY HELPED PROPEL
+
+The results of all this innovation have been dra-
+
+THE BANK FROM THE LOWEST matic. Nike enjoys the highest social media engage-
+
+ment with customers in its industry. It has recorded
+
+CUSTOMER-SATISFACTION RANKING
+
+an increased market share in key areas (including
+
+FOR RETAIL BANKS TO THE HIGHEST. Western Europe and soccer—both once dominated
+
+by Adidas), a 42% increase in e-commerce sales from
+
+ITS SHARES ROSE MORE THAN 80%
+
+FY 2013 to FY 2014, and an overall growth rate that
+
+FROM MID-2006 TO MID-2014. significantly outpaces that of key rivals. And it may
+
+be just warming up. “Digital sport is incredibly im-
+
+portant to us,” Nike’s CEO, Mark Parker, told CNBC in
+
+Digical innovations are similar. They don’t just April 2014. “You’re going to see digital be more and
+
+change a company’s existing products or services, as more integrated into other products that we have.”
+
+at CBA. They allow companies to identify adjacen- Through its partnerships with Apple and others, he
+
+cies that strengthen the base business and create said, the company hopes to expand the reach of the
+
+new revenue streams. Like Edison, a digical-savvy NIKE Fuel system and other applications to 100 mil-
+
+company thinks systematically about each piece lion users worldwide.
+
+of the customer experience. It develops innovative
+
+components and weaves them into a holistic system Rule #3
+
+that extends competitive advantages and acceler-
+
+ates growth. Transform the way you
+
+Nike illustrates this approach. For many years approach innovation.
+
+it was as firmly rooted in the physical world as any When traditional companies add digital features to
+
+company could be, producing shoes, apparel, and innovation programs, their approach typically re-
+
+sports equipment to be sold through retail stores. sembles a waterfall. Marketers and product design-
+
+It put up a website in 1996 but declined to sell any ers create ideas, build prototypes, and then throw
+
+merchandise online for three years. In 1999 things the ideas downstream to IT, with instructions to
+
+began to change, starting with the NIKEiD program. develop specific digital features. “We’re launching a
+
+Buyers could visit nike.com and customize certain new product and marketing campaign. We want the
+
+Nike shoes, choosing their base and accent colors mobile app to help us push out marketing messages
+
+and adding a “personal I.D.” to the product. Nike and coupons and to make it easier for customers to
+
+then began introducing digical innovations at other send us e-mails when they have service questions.
+
+points in the customer experience chain. In 2006 it The CEO says she needs it in four weeks.”
+
+unveiled the Nike+ app, which connects a shoe that But another way to fuse the digital with the phys-
+
+has a built-in sensor and receiver to an iPod Nano. ical is to start by creating a team of complementary
+
+6 Harvard Business Review September 2014
+
+This document is authorized for use only by CHRIS PARKER (CHRISPARKER@WOOLWORTHS.COM.AU). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+
+experts. Teams of this sort are not new, but digical in-
+
+novation requires dramatically deeper and broader
+
+integration. Leaders engage digital experts at every
+
+stage, from idea generation to development, test-
+
+ing, and launching, and assemble teams for every
+
+possible type of innovation project. Their approach
+
+generates more wide-ranging, innovative, and inte-
+
+grated solutions, because team members’ combined
+
+expertise can fuse the best of the digital and physical
+
+worlds in every aspect of the project.
+
+Disney has followed this course since the design
+
+of Disneyland began, in 1952. But even Disney’s
+
+prodigious digical skills were stretched when the
+
+company launched a revolutionary project in 2009.
+
+The goals were to create a “more immersive, more
+
+seamless, and more personal experience” for Disney
+
+guests and to gather real-time data on guest behav-
+
+iors that would help the company analyze traffic pat-
+
+terns and spending habits, manage labor efficien-
+
+cies, and optimize the company’s future investment
+
+spending. The project would span the entire theme
+
+park experience and take in just about every cus-
+
+tomer touchpoint. Disney decided that the $1 billion-
+
+plus vision was so much bigger than anything its cel-
+
+ebrated Imagineering team of designers and product
+
+developers had ever undertaken that it required a
+
+new kind of organization. It set up an entrepreneur-
+
+ial unit dubbed Next Generation Experience, which

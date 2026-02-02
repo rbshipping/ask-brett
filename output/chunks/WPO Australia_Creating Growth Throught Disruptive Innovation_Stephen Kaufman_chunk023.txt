@@ -1,0 +1,144 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Business Model Disruption
+SUMMARY: The text discusses how disruptive innovations can shift industries across business model categories, such as from solution shops to value-adding processes or facilitated networks.
+KEYWORDS: disruptive innovation, business model transformation, industry disruption
+---
+
+anew population of people to own and use a product, the disruption occurs within a type of business
+
+model. The Boston Consulting Group, for example, disrupted McKinsey within the solution shop
+
+class of business models.® Within the class of value-adding process business models Toyota has
+
+disrupted General Motors, and Medco is disrupting retail pharmacies. Traditional wire-line
+
+telephone companies, which are network facilitators, are being disrupted by other network
+
+facilitators—the wireless carriers, which in turn are being disrupted by Skype, whose network uses
+
+voice over Internet protocol (VoIP).
+
+When the enabling technology makes it affordable and simple for a new population of people to
+
+produce or provide a product or service, then the disruption shifts the industry across the category
+
+boundary, to a different type of business model. For example, Geek Squad is changing the IT services
+
+4 Christensen, Grossman and Hwang note in The Innovator’s Prescription (New York: McGraw Hill, 2009) that a core reason why
+
+the care provided in hospitals is so costly is that they are conflations of solution shop and value-adding process activities,
+
+which are fundamentally incompatible.
+
+5 See, for example, Michael Porter (1985), Competitive Advantage. New York: the Free Press.
+
+6 The reason why BCG was disruptive relative to McKinsey was that the vertical axis of the disruption diagram in the
+
+consulting business is the size of the client project. Moving “up-market” in consulting entails migrating towards larger and
+
+larger projects. The strategy projects that BCG originally engaged in where such small-ticket projects relative to the larger
+
+organizational effectiveness, organizational design, and post-merger integration projects that constituted McKinsey’s bread
+
+and butter, that McKinsey’s partners simply werent financially motivated to pursue the strategy consulting business.
+
+8
+
+Module Note—What Are Business Models, and How Are They Built? 610-019
+
+business from a solution shop business model to a value-adding process model. E-Bay is disrupting
+
+certain retail and distribution channels that historically were configured as value-adding process
+
+businesses, transforming those retailing sectors into facilitated network businesses. Software
+
+platforms that enable students to create tutorial tools to teach each other (peer-to-peer teaching) are
+
+disruptively shifting the instructional materials industry from a value-adding process business
+
+(textbooks and on-line courses) into a facilitated network business.” YouTube is transforming video
+
+entertainment from a value-adding process business to a facilitated network business; and so on.
+
+The Relationship between Business Models, Integration and Competition
+
+Integration is defined by the way that processes link resources together within a business model.
+
+Centering the value proposition of a business model on a job-to-be-done typically makes clear the
+
+type and extent of integration that is required to do the job well. Because most organizations are
+
+structured in ways that mirror product or customer categories, they typically find it difficult to
+
+respond to a competitor whose mode of integration is defined by a job to be done. For example,
+
+FedEx organized itself around a job-to-be-done, which is, “I need to get this from here to there with
+
+minimal effort and perfect certainty, as quickly as possible.” Doing this job well entailed integrating
+
+ground transportation, billing systems, and aircraft whose routes were knit together in a Memphis
+
+trans-shipment hub. For nearly a decade the established freight companies such as Emery and United
+
+Parcel Service were left flat-footed as FedEx grew its business—-because they were organized around
+
+product and service categories. In a similar way, Ikea has been rolling out across North America for
+
+over 30 years in a deliberate, open way—and yet nobody has copied Ikea. A plausible explanation is
+
+that other furniture stores are organized around product categories like “low-priced furniture,”
+
+“colonial furniture,” and so on—whereas Ikea is integrated uniquely to do a specific job: “I need to
+
+furnish this apartment or room today. Ikea’s resources and processes are integrated together in very
+
+unique ways that make it as easy as possible to get this job done.
+
+When firms integrate around customer categories rather than jobs to be done, expensive failure
+
+often is the result. A long series of financial services companies, for example—ranging from Sears,
+
+Roebuck in the 1970s to American Express in the 1990s and to Citigroup most recently—conceived
+
+that because their customers needed checking accounts, life insurance, home mortgages, credit cards,
+
+stock brokerage and investment advisory services, they would become “financial supermarkets”——a
+
+one-stop shopping destination for all financial services that their customers would use. It has never
+
+worked. The reason is that the job for which life insurance needs to be “hired” arises at a different
+
+point in time and space than the job for which checking accounts need to be hired; and so on. We
+
+would term such integration destructive integration because the overhead and inefficiency resulting
+
+from attempts to force-fit or cross-sell multiple services that are unrelated to jobs that customers are
+
+trying to do when they are trying to do them, typically destroys much value.
+
+There are two types of productive integration. The first arises when two different products compete
+
+to be hired to do the same job. When this occurs we would expect the two products ultimately to be
+
+combined when it is technologically possible. For instance, we wrote in 2000 that because the mobile
+
+telephone and personal digital assistants such as the RIM Blackberry are hired to do the same job
+
+(which is “Help me to be productive in this snippet of idle time) the two products would become
+
+integrated into a single product. This has occurred.
+
+7 See Christensen, Horn and Johnson, Disrupting Class, New York: McGraw Hill, 2008, for a more complete explanation of this
+
+phenomenon.
+
+610-019 Module Note—What Are Business Models, and How Are They Built?
+
+The second type of productive integration occurs when the need to do two different jobs arises at
+
+the same point in time and space in the customer's life. In such instances we would expect the
+
+services or products that might be hired to do these jobs to be integrated. By illustration, stand-alone
+
+gasoline stations and convenience food stores are giving way to integrated facilities that sell both.

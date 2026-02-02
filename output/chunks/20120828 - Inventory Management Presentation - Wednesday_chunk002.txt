@@ -1,0 +1,391 @@
+SOURCE: 20120828 - Inventory Management Presentation - Wednesday.pptx
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Inventory Management
+SUMMARY: Effective inventory management is crucial for maximizing sales, margins, and operational efficiency, while minimizing risks and costs.
+KEYWORDS: inventory, forecasting, supply chain, sales, margins
+---
+
+[Document: 20120828 - Inventory Management Presentation - Wednesday.pptx]
+[Presentation Topic: Inventory Management]
+
+It drives our sales & margin!!!!
+
+It affects our customers shopping experience!!
+
+It devalues; sometimes very fast!!
+
+It takes owners equity and or business lending to fund it!!
+
+&
+
+[Slide 25]
+
+We spend most our day on it!!
+
+Designing
+
+Forecasting
+
+Ordering
+
+Manufacturing
+
+Packaging
+
+Shipping
+
+Receiving
+
+Displaying
+
+Advertising
+
+Loss Prevention
+
+Training Staff
+
+Selling
+
+[Slide 26]
+
+Inventory Management. What do we mean?
+
+Maximising our sales & margin from the least amount of inventory possible!!!
+
+[Slide 27]
+
+The Easiest Way Fuel Sales
+
+[Slide 28]
+
+But
+
+We are introducing future downside risk through
+
+Decreased margins due to clearance
+
+Increased operational costs to process
+
+Cannibalisation of shelf space
+
+Cash-Flow “Lock-Up” affecting ability to respond to new opportunities
+
+Refill
+
+New Ranges
+
+New Stores
+
+New Business
+
+Diminishing Return on Capital
+
+[Slide 29]
+
+And the Easiest Way Kill Sales
+
+[Slide 30]
+
+Getting it more right!!
+
+[Slide 31]
+
+Establishing LY’s Base & Trend
+
+Store Growth
+
+Store age profile (grow at different rates)
+
+The real comp store growth
+
+Inv, Product & Pricing
+
+Were Range transitions as planned
+
+Was first and final margin in line with plan
+
+Was there anything that “flew”
+
+Is closing inventory in line
+
+Clearance Activity & OOS
+
+What was impact of clearance on Sales & Margin. Keep in mind use of floor space.
+
+What was reason for over buying and has that been addressed.
+
+Were there key out of stocks that impacted on sales and has that been addressed.
+
+Promotional Activity
+
+Yours
+
+Competitors
+
+Suppliers
+
+[Slide 32]
+
+Macro & Micro Drivers
+
+Store Growth
+
+Is there any reason why the like store trends shouldn’t continue.
+
+New Store Openings (Supply Chain)
+
+Inv, Product & Pricing
+
+Where do want Inv to be at year end
+
+Opening – Closing = !!
+
+Are there any changes to Mix
+
+Have the mix changes been sense checked with Store Ops
+
+What are the missing links from LY and how do we address
+
+Opportunity & Flexibility
+
+Clearance Activity
+
+How much do we need to clear and what are avenues we can investigate.
+
+Promotional Activity
+
+Yours, Competitors & Suppliers
+
+[Slide 33]
+
+Measurement & Adjustment
+
+Constant Communication
+
+Ensure everyone is constantly aligned and aware of progress.
+
+“League” Tables
+
+What are we measuring
+
+Sales, Margin & Inventory
+
+Margin (First & Final)
+
+Inventory (Stock turns & Aging Profile)
+
+Supplier, Dept, Class, Sub-Class, SKU
+
+Region, State, Area, Store, Salesperson
+
+When do we measure
+
+Depends on supply chain demands
+
+Often enough to ensure you avoid OOS and excess holdings
+
+When do we adjust
+
+Sometimes adjusting slow movers will also assist the risk of OOS on similar lines.
+
+Adjust could be price might also be focus (display / Incentive / communication)
+
+[Slide 34]
+
+Forecasting
+
+Processes
+
+Supply Chain
+
+Communication
+
+Information
+
+“Ownership”
+
+How do we rate?
+
+[Slide 35]
+
+How do we rate?
+
+[Slide 36]
+
+You think it’s retail but sometimes it feels like a bloody war!!!!!
+
+It’s War?
+
+[Slide 37]
+
+Even the best thought out battle plans usually fall apart when you come face to face with the enemy!!!
+
+It’s War?
+
+[Slide 38]
+
+Know your market
+
+Know your business, store & customer
+
+Don’t let your suppliers run your business
+
+Transparency of Supply Chain
+
+Sales People, knowledge & commission
+
+Shelving & Product Placement
+
+I.T Size and Colour attributes, Lifecycle & Clearance Management
+
+Are your best sellers doing you best
+
+Access to information and time to analyse it
+
+Integrity of data
+
+Balancing the data against your model
+
+The CFO and OTB
+
+Taking in the enemy out to dinner!
+
+Identifying the owner
+
+Who the bloody hell owns the problem??
+
+[Slide 39]
+
+Who owns it?
+
+[Slide 40]
+
+Who owns it?
+
+Where can it go wrong?
+
+[Slide 41]
+
+The Buyer said;
+
+“I just negotiate the price and buy it, whatever happens to it after that is not my problem”
+
+Who owns it?
+
+[Slide 42]
+
+The Merchandise Planner said;
+
+“I do my best to get the quantities right, but I don’t negotiate the prices or control the margins”
+
+Who owns it?
+
+[Slide 43]
+
+The Store Manager said;
+
+“It’s not selling because the advertising is not working”
+
+Who owns it?
+
+[Slide 44]
+
+The Advertising Manager said;
+
+“It’s not selling because the quality of the visual displays and salespeople is poor”
+
+Who owns it?
+
+[Slide 45]
+
+The Buyer said;
+
+“I could sell a lot more and make more GP$ if I could reduce the price but if I don’t make my margin percentages I’ll miss my KPI’s and risk my bonus”
+
+Who owns it?
+
+[Slide 46]
+
+The Salesperson said;
+
+“When I sell clearance product it effects my ability to get my margin budget and reduces my commission”
+
+Who owns it?
+
+[Slide 47]
+
+The Store Manager said;
+
+“I could increase my stores sales and profit if only Buyers would listen to me and give me more of what sells in my market”
+
+Who owns it?
+
+[Slide 48]
+
+The C.F.O said;
+
+“We’ll write that stock off if it hasn’t sold by the end of the year”
+
+Who owns it?
+
+[Slide 49]
+
+Who owns it?
+
+……If you buy it, you own it until it is sold!!!!
+
+Steering Committee
+
+&
+
+Service Providers
+
+[Slide 50]
+
+Ensure you have a basic ROI metric to balance the Sales / Margin / Inventory relationship e.g GMROI.
+
+Key Sales & Margin Reports should include Inventory and it should be measurable and transparent throughout the merchandise and location hierarchy.
+
+Don’t talk about Sales and Margin without Inventory.
+
+Measure and Report on aged inventory in the mix.
+
+Measure first and final margins.
+
+Inventory write-downs need to be captured in the category reports.
+
+Invest in Information / Resource and Capability.
+
+Where ever there is a Sales and Margin budget or KPI, add Inventory.
+
+Can the stores make a difference, let them.
+
+Have a cross functional team without the Silo’s (Accountability)
+
+Create interest, competition and achievable goals of improvement.
+
+Don’t just make it a project embed it culture.
+
+Make it a cultural thing
+
+[Slide 51]
+
+With the right planning & Culture
+
+Maximising our sales & margin from the least amount of inventory possible!!!
+
+[Slide 52]
+
+Thank You….
+
+Inventory Management
+
+…Sounds simple, but not always easy
+
+[Slide 53]
+
+Time
+
+Topic
+
+52

@@ -1,0 +1,36 @@
+SOURCE: Boris Article - Protect the Core.docx
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Business Process Optimization
+SUMMARY: The text discusses using the 'clean sheet of paper' exercise to rethink company processes and improve efficiency, especially during the COVID-19 crisis.
+KEYWORDS: business process, optimization, clean sheet exercise, efficiency, cross-functional teams
+---
+
+[Document: Boris Article - Protect the Core.docx]
+
+Use the “Clean Sheet of Paper” Exercise to Think Creativity about Company Processes
+
+Another best practice is to do the “clean sheet of paper” exercise with your executive team, meaning to have conversations about how you would organize the operations of the company if you were just starting out and there was no such thing as “but that’s always the way it’s been done”. As explained by Team Strength, Inc.:
+
+Start [the clean sheet of paper exercise] by questioning assumptions. The question is simple: Why? Why do you do this? Why do you do things in this way? Just keep asking “why?” – every subsequent “why?” will go deeper. Asking “why?” five times is a strategy pioneered by Toyota to track down the root cause of mistakes. Consider the elements and processes are there for a reason, and then try to understand it. When you thoroughly examine the assumptions behind their current use, you will likely make surprising discoveries with a capacity for large changes. When you get to the root cause, you are not only solving this symptom, but a whole family of similar problems that did not –but very well might have– occurred.x
+
+Perry Evans, President of ThriveHive, stated in the New York Times, “In any transformation I’ve seen, the winner is always the one who takes out a clean sheet of paper and says, ‘This is how you would do it if you didn’t have the drag of your traditional business.’”xi This exercise may greatly help illuminate opportunities to improve effectiveness and efficiency.
+
+Keep People Accountable and Adjust Their Deliverables
+
+The COVID-19 outbreak presents us all with an unpresented amount of uncertainty. We do not know how long the crisis will last, when and how restrictions on the public will be lifted, how customers will behave in the aftermath, and how the once-familiar environments in which your company operated will have been impacted for the long-term, if not permanently. As a result, it is nearly impossible to plan for the next six months—there simply is not enough data and information to do so. Plans, and the corresponding KPIs and other metrics that will empower your team to execute them, should be adjusted to address the company’s immediate needs and short-term goals, and communicated continually. This will enable you to hold people accountable for performance while ensuring that their limited energy and processing capacity is being spent on truly mission-critical tasks.
+
+Paying attention to your core business and the efficiency of your operations is critical because, even if you are not prioritizing it, your competition is. In addition, your competition may also be operating with 10-20% less real estate needs post-pandemic due to a long-term increase in remote work. Do not be satisfied until you achieve greater efficiency, as it will benefit your organization now and after the crisis has subsided.
+
+Again, Look to Cross-Functional Teams
+
+Again, a cross-functional team assigned to this challenge would be one practice to consider. Ask this team, with their diversity of experiences and perspectives, to focus on what opportunities exist outside the core business. Ask them to think about new revenue streams for the short-term and the long- term. Challenge them to think outside the box. You may also want to consider monitoring the team for burnout, given the intensity of their work, and perhaps rotating people off and on the team in predetermined intervals. This could both prevent burnout and provide a pipeline of fresh perspectives.
+
+Create an Agile Enterprise from the Top Down
+
+We recommend building agile leadership teams to support an agile enterprise. Building such an enterprise means striking a balance between standardizing operations and pursuing innovations. Bain & Company’s Darrell Rigby, Sarah Elk and Steve Berez elaborate on the role of the agile leadership team:
+
+To find the optimal balance, the agile leadership team typically begins by creating new metrics to help determine how agile the company is, how agile it should be, whether it is moving in the right direction at the right speed, and which constraints are impeding progress. Surveys of internal and external stakeholders to obtain their subjective views of business processes combined with objective measures—such as innovation cycle times, flow efficiency (work time versus wait time), and market share changes—are useful for determining the existing state of the operating system components. The team then develops a sequenced list of activities aimed at achieving an optimal balance for each component. The agile process forces leaders to get out of their silos and work together as a multidisciplinary group, breaking through impediments and pivoting when necessary. By rebalancing whichever of the components are out of alignment, they will, over time, create an operating system for an agile enterprise.xviii
+
+An agile leadership team includes some or all executive team members. They do not dedicate all of their time to a single, specific initiative, as that would just not be possible. They must balance establishing an agile enterprise with the more traditional duties of their roles. As such, they act as sponsors of the specific initiatives that are most closely connected to their areas of expertise, letting assigned “initiative owners” take full-time responsibility for their projects. The central project of any agile leadership team is creating an agile enterprise in which all other initiatives are undertaken. Rigby, Elk and Berez state:
+
+An agile leadership team views development of the agile system as an agile initiative—in fact, as the most vital of all agile initiatives. Senior executives learn to manage the transition as an agile team. They view it as a continuous improvement program, not as a project with predictable end points or fixed completion dates. They realize that going too slowly may fail to achieve escape velocity, and that changing too fast will create chaos. So they sequence and balance all the components, recognize the value of role-modeling agile behaviors, and appreciate that how they make decisions will be as important as the decisions themselves.xix

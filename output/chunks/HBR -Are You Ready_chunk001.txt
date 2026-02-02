@@ -1,0 +1,136 @@
+SOURCE: HBR -Are You Ready.pdf
+SUBFOLDER: Additional\HFT\2012
+TOPIC: Retail Forecasting and Supply Chain
+SUMMARY: The article discusses the challenges retailers face in matching supply with demand, and the potential of using data-driven 'rocket science retailing' to improve forecasting and supply chain flexibility.
+KEYWORDS: retail forecasting, supply chain management, data-driven decision making, inventory management, demand-supply matching
+---
+
+[Document: HBR -Are You Ready.pdf]
+
+Are You Ready? - Harvard Business Review Page 1of 8
+
+Are You Ready?
+
+by Marshall L. Fisher, Ananth Raman, and Anna Sheen McClelland
+
+The holy grail of retailing—being able to offer the right product in the right place at the right time for the right price—remains
+
+frustratingly elusive. You would think we’d have captured it by now, particularly given the enormous amount of data that
+
+retailers and e-tailers can gather about points of purchase, buying patterns, and customers’ tastes. But many retailers still have
+
+a long way to go.
+
+Witness the much-publicized problems that e-tailers have had delivering the products that customers order on their Web sites.
+
+And who hasn’t gone to a store only to find that it doesn’t have the right item—even though the place is loaded with inventory,
+
+mostly discounted goods? Department store markdowns have grown from 8% of store sales in 1971 to 33% in 1995. These
+
+numbers include promotional markdowns as well as the forced markdowns that are the result of manufacturers’ oversupply. But
+
+the increase is so large that most observers take it as a sign that retailers are having a hard time matching supply with
+
+demand.
+
+That’s not to say progress hasn’t been made. Some retailers (we’ll refer to retailers and e-tailers henceforth with the broader
+
+term) have dramatically improved their performance in ordering, distribution, and merchandising. But those companies are still
+
+a small, elite rank. The next step? An industrywide move toward something we call rocket science retailing—the act of blending
+
+traditional forecasting systems, which are largely based on the intuition of a handful of employees, with the prowess of
+
+information technology. Rocket science retailing fuses data and instinct with computer models and analysis to create a high-
+
+tech forecasting system supported by a flexible supply chain.
+
+The model is not as far-fetched as you might think. Wall Street went through just such a transformation in the 1970s. (See the
+
+sidebar “It Happened on Wall Street.”) And we’ve seen many retailers come quite close to achieving rocket science status
+
+during the past three years, as we’ve studied how they gather and process information, how they forecast demand, and how
+
+they manage their supplier relationships.
+
+It Happened on Wall Street
+
+To those immersed in the day-to-day operations of a retail organization, the movement toward rocket science retailing may
+
+seem overwhelming and the challenges insurmountable. But consider a similar movement on Wall Street in the late 1970s,
+
+when several ingredients came together to transform the act of investing from an art to a science.
+
+The first ingredient was information technology that had the power to capture, store, and analyze trade data, even to the
+
+point of programmed trading in which computers traded against other computers to exploit any arbitrage opportunities that
+
+might remain open for just a few seconds. The second ingredient was new models and concepts from academia that
+
+provided a framework for analyzing all these data. And third was a new breed of Wall Street employee, who left behind a
+
+career in science and man the burgeoning science optimized investing. Today these same ingredients are poised to form
+
+retailing.
+
+It may seem like a stretch to draw a parallel between a retailer and a Wall Street investment firm, but consider that both must
+
+analyze transaction data—be they stock trades or product sales—to predict the next high-flying stock or hot product. (If you
+
+think predicting the performance of stocks is fundamentally different from predicting the sales of fashion products, ask
+
+yourself whether the lofty valuation of Internet stocks has been any less a fad than consumers’ infatuation with Pokemon
+
+toys.) Both must invest resources—either stocks or product inventory—in the face of risk and uncertainty. And both need to
+
+react quickly to signals from the marketplace.
+
+These elements—accurate, available data; forecasting; risk-based inventory planning; and supply-chain speed—are the
+
+foundation of retailing. The pyramid illus-depicts how these capabilities retail’s supply challenge of the right product in the
+
+right at the right time and for the right price.
+
+http://hbr.org/2000/07/are-you-ready/ar/pr 18/07/2012
+
+Are You Ready? - Harvard Business Review Page 2of 8
+
+We recently completed an in-depth, multiyear survey of 32 generally cutting-edge companies in which we tracked their
+
+practices and progress in four areas critical to achieving rocket science retailing: forecasting, supply-chain speed, inventory
+
+planning, and gathering accurate, available data. In this article, we’ll illustrate what some companies are doing best in these
+
+four areas, with the hope that other retailers can use their insights and practices to gain ground on the grail.
+
+Forecasting
+
+For many of the retailers in our study, forecasting product demand is a right-brain function that relies on the gut feel of a few
+
+individuals and not on the systematic use of sales data. But it’s a big mistake to overlook the opportunity to mix art and science.
+
+Retailers can significantly improve forecast accuracy simply by updating their predictions based on early sales data, tracking
+
+the accuracy of their forecasts, getting product testing right, and using a variety of forecasting approaches. Let’s discuss each
+
+of these practices.
+
+Update forecasts based on early sales data.
+
+Early product sales, appropriately adjusted for variations in price and availability, are an excellent predictor of overall sales (see
+
+the exhibit “No Need for a Crystal Ball”). In fact, retailers that exploit these data for production and inventory planning can more
+
+than double their profits—especially retailers of products with short life cycles, such as clothing, consumer electronics, books,
+
+and music.
+
+No Need for a Crystal Ball
+
+Early sales data can help to predict demand for the life cycle of a product—particularly a fashion item. The information at right
+
+is from an apparel catalog company. The graph on the left plots actual life cycle demand against the forecasts made by a
+
+committee of four merchandisers. The graph on the right plots actual life cycle demand against forecasts based on sales
+
+observed during the product’s first two weeks on the market, which accounted for 11% of the season’s demand. The latter

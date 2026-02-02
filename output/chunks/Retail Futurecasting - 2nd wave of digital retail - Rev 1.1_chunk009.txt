@@ -1,0 +1,148 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Automation and Customer Experience
+SUMMARY: Retailers need to invest in staff and automate processes to improve customer experience and gain a competitive advantage.
+KEYWORDS: retail automation, customer experience, staff investment, process optimization, data-driven decision making
+---
+
+be more customer-facing, further improving the customer experience and differentiating retailers versus
+
+their competition. This implies that retailers will need to invest in the quality of their staff as retail labor
+
+is more focused towards delivering highly-differentiated customer service.
+
+For example, Chili’s* restaurant chain has deployed the Ziosk* table-side menu and ordering system in
+
+many of its restaurants. This system automates the process of getting the customer’s order to the
+
+kitchens—a process formerly conducted using paper, pen, and paying a person to walk that piece of
+
+paper physically from A to B. Chili’s made the conscious decision not to use the Ziosk deployment as a
+
+way to reduce staff headcount. Instead, they focused their wait staff on building better human
+
+connections with customers. The Ziosk system acts as a point of sale terminal, taking all the friction out
+
+of bill payment. Time waiting for the bill is the number one customer complaint in hospitality. As a result
+
+of the Ziosk deployment, customer satisfaction went up, tips increased, Chili’s staff satisfaction
+
+increased, and everyone was happy.
+
+Smart retailers will need to examine existing processes and determine where humans add true value,
+
+and where automation can remove manual, low value, or tedious activities, freeing in-store labor to do
+
+24
+
+what they do best…building relationships with customers, improving customer experience, and guiding
+
+them towards a purchase. Retailers that innovate quickly and make the first move to automate
+
+appropriate business elements will create differentiation and wield a clear competitive advantage.
+
+Challenge: Retailers will need to understand the right mix of human and digital investment needed at
+
+each customer touch point to ensure they meet and exceed customer expectations. Sometimes money
+
+saved through automation may be best invested back into lower prices or better returns. Sometimes it
+
+will be best to invest it back into creating new value for shoppers. The answer will depend on shopper
+
+expectations, and these will vary by sector, and by brand. Retailers will need to invest in the quality of
+
+their staff as retail labor becomes more focused on delivering highly differentiated customer service.
+
+Data analytics will provide retailers with operational insight that enables the streamlining of processes,
+
+and the development of retail strategies and tactics based on a deep understanding of the efficiency of
+
+store layout, shopper traffic, store labor effectiveness, customer behavior, and customer needs and
+
+wants. Retailers willing to invest in technology will reap huge advantages. These insights will take the
+
+guesswork and trial-and-error experimentation out of operational improvement and innovation efforts.
+
+Decisions will be made based on a true data-driven understanding of every aspect of retail operations.
+
+Visualization tools will enable merchandisers to understand at a glance how to optimize the
+
+effectiveness of displays, where to place higher value items to gain maximum traffic and attention,
+
+which products experience the highest and lowest churn rates, and which parts of a display attract the
+
+shopper’s gaze. Sophisticated analytics combined with at-the-shelf pricing will enable marketers to
+
+understand which offers work best with each demographic group and thus optimize both sales and
+
+margins.
+
+Detailed profiles of in-store labor will enable managers to understand which store assistants are
+
+delivering the best levels of customer service. Analytics will crunch reams of data read from RFID tags to
+
+understand product movement through the store. For example, a clothing store might notice that a
+
+particular garment is regularly making its way to the changing room but rarely to the checkout implying
+
+a fit issue.
+
+Data, data, data, everywhere. The retailers that learn to harness its power and use it to constantly
+
+improve the way they do business will win. Plain and simple.
+
+Challenge: Retailers should consider in-store data gathering and analysis as a priority. Those that make
+
+early investments to gather in-store operational and shopper data will reap huge competitive advantage
+
+in the form of operational efficiency advantages, and an ability to target innovation efforts based on a
+
+better understanding of shopper needs and wants.
+
+25
+
+4.3 SHOPPER TRENDS
+
+Shoppers have a new and maturing set of expectations of retail. Above all shoppers expect to be put at
+
+the very center of the shopping experience, and to be fully in control throughout.
+
+Shoppers see one shopping experience that just happens to spread across multiple channels. They want
+
+those channels to be as integrated and seamless as possible—one unified shopping experience. They
+
+want to order products online, and return them to physical stores. They expect stores to have the same
+
+online and physical inventory and the same prices, regardless of channel. The number of touch points on
+
+this cross-channel journey is increasing, bringing additional complexity for retailers to manage.
+
+Retailers that obsess over what’s right for the customer, rather than what best serves them or their
+
+suppliers, will succeed in the long term. Back in 1997, Amazon CEO, Jeff Bezos, was quoted as saying,
+
+“From the beginning, our focus has been on offering customers compelling value.”
+
+Putting customers at the center means retailers will need to tailor solutions by channel, by shopper
+
+mode, and even by geography: in Asia they will need to embrace a model that is more focused on
+
+mobile, consumer to consumer, and ownership. In the US they will need to embrace the shift towards
+
+access over ownership, and in Europe they will need to put added emphasis on home delivery.
+
+Many of the shifting attitudes of shoppers are being led by the Millennial generation. There are two
+
+billion Millennials (people currently between the age of 18 and 34) and according to The Cassandra
+
+Report they will represent $2.5 trillion in spending by the year 2020. Millennials expect to have a much
+
+more active relationship with brands and retailers than previous generations—more of a two-way
+
+conversation. They have a low tolerance for inefficiency and are looking to more sustainable modes of
+
+consumption. You will see Millennials reflected broadly in the shopper trends below.
+
+The main changes in shopper expectations are summarized below, in no particular order:
+
+4.3.1 Convenience, efficiency and speed

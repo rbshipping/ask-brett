@@ -1,0 +1,190 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation in Supply Chains
+SUMMARY: Describes the process of de-commoditization in supply chains as a result of modular product assembly and performance-defining subsystems.
+KEYWORDS: commoditization, de-commoditization, modular products, performance-defining subsystems, value chain
+---
+
+improvements in performance-defining components, as a result, throws the suppliers of those
+
+components back to the not-good-enough side of the disruption diagram.
+
+5-3
+
+Competitive forces consequently compel suppliers of these performance-defining
+
+components to create architectures that, within the subsystems, are increasingly interdependent
+
+and proprietary. Hence, the performance-defining subsystems become de-commoditized as the
+
+result of the end-use products becoming modular and commoditized.
+
+Let us summarize the steps in this reciprocal process of de-commoditization:
+
+1. The low-cost strategy of modular product assemblers is only viable as long as they
+
+are competing against higher-cost opponents. This means that as soon as they drive
+
+the high-cost suppliers of proprietary products out of a tier of the market, they must
+
+move up-market to take them on again in order to continue to earn attractive profits.
+
+2. Because the mechanisms that constrain or determine how rapidly they can move up-
+
+market are the performance-defining subsystems, these elements become not good
+
+enough and are flipped to the left side of the disruption diagram.
+
+3. Competition among subsystem suppliers causes their engineers to devise designs
+
+that are increasingly proprietary and interdependent. They must do this as they
+
+strive to enable their customers to deliver better performance in their end-use
+
+products than the customers could if they used competitors’ subsystems.
+
+4. The leading providers of these subsystems therefore find themselves selling
+
+differentiated, proprietary products with attractive profitability.
+
+5. This creation of a profitable, proprietary product is the beginning, of course, of the
+
+next cycle of commoditization and de-commoditization.
+
+Figure 5-1 illustrates more generally how this worked in the product value chain of the
+
+personal computer industry in the 1990s. Starting at the top of the diagram, money flowed from
+
+the customer to the companies that designed and assembled computers; as the decade progressed,
+
+however, less and less of the total potential profit stayed with the computer makers—most of it
+
+flowed right through these companies to their suppliers.’
+
+As a result, quite a bit of the money that the assemblers got from their customers flowed
+
+over to Microsoft and lodged there. Another chunk flowed to Intel and stopped there. Money
+
+also flowed to the makers of dynamic random access memory (DRAM), such as Samsung and
+
+Micron, but not much of it stopped at those stages in the value chain in the form of profit. It
+
+flowed through and accumulated instead at firms like Applied Materials, which supplied the
+
+manufacturing equipment that the DRAM makers used. Similarly, money flowed right through
+
+the assemblers of modular disk drives, such as Maxtor and Quantum, and tended to lodge at the
+
+stage of value added where heads and disks were made.
+
+Figure 5.1: Where the Money Was Made in the PC Industry’s Product Value Chain
+
+3 Desktop personal
+
+\ # computer companies
+
+~ |
+
+t
+
+8
+
+$15 $8
+
+ete’ nate fe
+
+Disk drive"
+
+Operating Microprocessor makers makers
+
+System (Intel) 8 S$)
+
+(Microsoft) |
+
+BS BG
+
+S.$)8 EIS
+
+Manufacturing Head & disk design
+
+equipment & manufacturing
+
+(Applied Materials)
+
+What is different about the baskets in the diagram that held money, versus those through
+
+which the money seemed to leak? The tight baskets in which profit accumulated for most of this
+
+period were products that were not yet good enough for what their immediate customers in the
+
+value chain needed. The architectures of those products therefore tended to be interdependent
+
+and proprietary. Firms in the leaky-basket situation could only hang onto subsistence profits
+
+because the functionality of their products tended to be more than good enough. Their (
+
+architectures therefore were modular. fh s the yealoyy oun ‘a ulonse y :
+
+If a company supplies a performance-defining but not-yet-good-enough input for its
+
+customers’ products or processes, it has the power to capture attractive profit. Consider the
+
+DRAM industry as an example. While the architecture of their own chips was modular, DRAM
+
+makers could not be satisfied even with the very best manufacturing equipment available. In
+
+order to succeed, DRAM makers needed to make their products at ever-higher yields and ever-
+
+lower costs. This rendered the functionality of equipment made by firms such as Applied
+
+Materials not good enough. The architecture of this equipment became interdependent and
+
+proprietary as a consequence, as the equipment makers strove to inch closer to the functionality
+
+that their customers needed.
+
+It is important never to conclude that an industry such as disk drives or DRAMs is
+
+inherently unprofitable, whereas others such as microprocessors or semiconductor manufacturing
+
+equipment are inherently profitable. “Industry” is usually a faulty categorization scheme.* What
+
+makes an industry appear to be attractively profitable is the circumstance in which its companies
+
+happen to be at a particular point in time, at each point in the value-added chain, because the law
+
+5-5
+
+L »
+
+ec
+
+of conservation of attractive profits is almost always at work (see the appendix to this chapter).
+
+Let’s take a deeper look at the disk drive industry to see why this is so.
+
+For most of the 1990s, in the market tiers where disk drives were sold to makers of
+
+desktop personal computers, the capacity and access times of the drives were more than
+
+adequate. The drives’ architectures consequently became modular, and the gross margins that the
+
+nonintegrated assemblers of 3.5-inch drives could eke out in the desktop PC segment declined to
+
+around 12 percent. Nonintegrated disk drive assemblers such as Maxtor and Quantum dominated
+
+this market (their collective market share exceeded 90 percent) because integrated manufacturers
+
+such as IBM could not survive on such razor-thin margins.
+
+The drives had adequate capacity, but the assemblers could not be satisfied even with the
+
+very best heads and disks available, because if they maximized the amount of data they could
+
+store per square inch of disk space, they could use fewer disks and heads in the drives-—-which
+
+was a powerful driver of cost. The heads and disks, consequently, became not good enough and
+
+evolved toward complex, interdependent subassemblies. Head and disk manufacturing became
+
+so profitable, in fact, that many major drive makers integrated backward into making their own

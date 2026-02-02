@@ -1,0 +1,184 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Industry Structure and Integration
+SUMMARY: The text discusses the factors that influence the integration or disintegration of industries, with a focus on transaction cost economics and the role of modularity.
+KEYWORDS: Industry structure, Disintegration, Transaction cost economics, Modularity, Organizational integration
+---
+
+largely dis-integrated. Specialist non-bank companies have emerged to provide each slice
+
+of added value in these tiers of the lending industry. Whereas integration is a big
+
+advantage in the most complex tiers of the market, in overserved tiers it is a
+
+disadvantage.
+
+Our conclusions support those of Stan J. Liebowitz and Stephen E. Margolis in Winners,
+
+Losers & Microsoft: Competition and Antitrust in High Technology (Oakland, CA:
+
+Independent Institute, 1999).
+
+Specifiability, measurability, and predictability constitute what an economist would term
+
+“sufficient information” for an efficient market to emerge at an interface, allowing
+
+organizations to deal with each other at arm’s length. A fundamental tenet of capitalism
+
+is that the invisible hand of market competition is superior to that of managerial oversight
+
+as a coordinating mechanism between actors in a market. This is why, when a modular
+
+interface becomes defined, an industry will dis-integrate at that interface. However, when
+
+specifiability, measurability, and predictability do not exist, efficient markets cannot
+
+function. It is under these circumstances that managerial oversight and coordination
+
+perform better than market competition as a coordinating mechanism.
+
+This is an important underpinning of the award-winning findings of Professor
+
+Tarun Khanna and his colleagues, which show that in developing economies, diversified
+
+business conglomerates outperform focused, independent companies, whereas the reverse
+
+is true in developed economies. See, for example, Tarun Khanna and Krishna G. Palepu,
+
+“Why Focused Strategies May Be Wrong for Emerging Markets,” Harvard Business
+
+Review, July-August 1997, 41-51; and Tarun Khanna and Jan Rivkin, “Estimating the
+
+Performance Effects of Business Groups in Emerging Markets,” Strategic Management
+
+Journal 22 (2001): 45-74.
+
+A bedrock set of concepts is understanding why organizational integration is
+
+critical when the conditions of modularity are not met is developed in the “transaction
+
+cost economics” (TCE) school of thought, which traces its origins to the work of Ronald
+
+Coase (Coase, R. H., "The Nature of the Firm." Econometrica IV, 1937, pp. 386-405.)
+
+Coase argued that firms were created when it got “too expensive” to negotiate and
+
+enforce contracts between otherwise “independent” parties. More recently, the work of
+
+Oliver Williamson has proven seminal in the exploration of transaction costs as a
+
+determinant of firm boundaries (See, for example, Williamson, O. E., Markets and
+
+Hierarchies. New York: The Free Press, 1975; Williamson, O. E., "Transaction Cost
+
+Economics," in The Economic Institutions of Capitalism. O. E. Williamson. New York:
+
+The Free Press, 1985, pp. 15-42; and Williamson, O. E., "Transaction-Cost Economics:
+
+The Governance of Contractual Relations," in Barney, J.B. and W. G. Ouchi, eds.,
+
+Organizational Economics. San Francisco: Jossey-Bass, 1986). In particular, TCE has
+
+been used to explain the various ways in which firms might expand their operating scope:
+
+4-15
+
+16.
+
+18.
+
+19.
+
+20.
+
+either through unrelated diversification (Hill, C. W. L., M. A. Hitt, et al., "Cooperative
+
+Versus Competitive Structures in Related and Unrelated Diversified Firms."
+
+Organization Science 3(4), 1992, pp. 501-521.), related diversification (Teece, D. J.
+
+"Economics of Scope and the Scope of the Enterprise." Journal of Economic Behavior
+
+and Organization 1, 1980, pp. 223-247; and Teece, D. J., "Toward an Economic Theory
+
+of the Multiproduct Firm." Journal of Economic Behavior and Organization 3, 1982, pp.
+
+39-63), or vertical integration (Arrow, K., The Limits of Organization, W. Norton 1974;
+
+Klein, B., R. G., Crawford, et al., "Vertical Integration, Appropriable Rents, and the
+
+Competitive Contracting Process." Journal of Law and Economics (21), 1978, pp. 297-
+
+326; and Harrigan, K. R., "Vertical Integration and Corporate Strategy." Academy of
+
+Management Journal (28, 2), 1985, pp. 397-425). More generally, this line of research is
+
+known as the “market failures” paradigm for explaining changes in firm scope (Dundas,
+
+K. N. M. and P. R. Richardson, "Corporate Strategy and the Concept of Market Failure."
+
+Strategic Management Journal (1, 2), 1980, pp. 177-188). Our hope is that we have
+
+advanced this line of thinking by elaborating more precisely the considerations that give
+
+rise to the contracting difficulties that lie at the heart of the TCE school.
+
+Even if the incumbent local exchange carriers (ILECs) didn’t understand all the
+
+complexities and unintended consequences better than CLEC engineers, organizationally
+
+they were much better positioned to resolve any difficulties, since they could appeal to
+
+organizational mechanisms rather than have to rely on cumbersome and necessarily
+
+incomplete ex ante contracts.
+
+Another good illustration of this is the push being made by Apple Computer, at the time
+
+of this writing, to be the gateway to the consumer for multi-media entertainment.
+
+Apple’s interdependent integration of the operating system and applications creates
+
+convenience, which customers value at this point because convenience is not yet good
+
+enough.
+
+See “Integrate to Innovate,” a Deloitte Research study by Michael E. Raynor and Clayton
+
+M. Christensen. Available at www.de.com/vci, or upon request from
+
+delresearch@dc.com.
+
+See Jeffrey Lee Funk, The Mobile Internet: How Japan Dialed Up and the West
+
+Disconnected (Hong Kong: ISI Publications, 2001). This really is an extraordinarily
+
+insightful study from which a host of insights can be gleaned. In his own language, Funk
+
+shows that another important reason why DoCoMo and J-Phone were so successful in
+
+Japan is that they followed the pattern that we describe in chapters 2 and 3 of this book.
+
+They initially targeted customers who were largely non-Internet users (teenaged girls)
+
+and helped them get done better a job that they had already been trying to do: have fun
+
+with their friends. Western entrants into this market, in contrast, envisioned sophisticated
+
+offerings to be sold to current customers of mobile phones (who primarily used them for
+
+business) and current users of the wireline Internet. An internal perspective on this
+
+development can be found in Mari Matsunaga, The Birth of I-Mode: An Analogue
+
+Account of the Mobile Internet (Singapore: Chuang Yi Publishing, 2001). Matsunaga was
+
+one of the key players in the development of i-mode at DoCoMo.
+
+Some readers who are familiar with the different experiences of the European and
+
+American mobile telephony industries may take issue with this paragraph. Very early on,
+
+4-16
+
+the Europeans coalesced around a pre-negotiated standard called GSM, which enabled

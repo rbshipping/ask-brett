@@ -1,0 +1,232 @@
+SOURCE: Know Yourself-Know The Others-Know The Situation.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Racing Strategy
+SUMMARY: The text discusses the racing team's dilemma of whether to run and risk losing a sponsorship or not race at all.
+KEYWORDS: racing strategy, sponsorship risk, engine problems
+---
+
+can get back half the $15,000 entry. We will lose
+
+Goodstone, they'll want $25,000 of their money back
+
+and we’ll end up the season $50,000 in the hole. If we
+
+run and finish in the top five; we have Goodstone in
+
+our pocket and can add another car next season. You
+
+know as well as I do, however, that if we run and lose
+
+another engine, we are back at square one next
+
+season. We will lose the tire sponsorship, and a
+
+blown engine is going to lose us the oil contract for
+
+sure, No oil company wants a national TV audience
+
+to see a smoker being dragged off the track with their
+
+SfSe0
+
+name plastered all over it. The oil sponsorship is
+
+$500,000 that we cannot live without. Think about it -
+
+- call Paul and Tom if you want -- but I need a
+
+decision in an hour,"
+
+eee
+
+John hung up the phone and looked out the
+
+window at the crisp fall sky. The temperature sign
+
+across the street flashed "40 DEGREES AT 9:23
+
+AM."
+
+Part B
+
+"Get Paul Edwards for me." John was calling to get
+
+his engine mechanic's opinion on whether they should
+
+run today or not. The data Tom put together indicated
+
+that temperature was not the problem, but John
+
+wanted to get Paul's direct assessment.
+
+Paul Edwards was a classic "gas station
+
+mechanic," with fingernails permanently blackened
+
+by grease and clean coveralls for the first two minutes
+
+on Saturday mornings. He had been knocking around
+
+the professional circuit for ten years after dropping
+
+out of school at sixteen to follow drag racing. He
+
+lacked the sophisticated engineering training that was
+
+getting more common in racing, but he did know
+
+racing engines,
+
+John had discussed the gasket problem with Paul
+
+two days ago, and as he waited he reflected on the
+
+conversation they had. Paul was a man of few words,
+
+and not given to overstatement. "The way I see it, the
+
+turbo-pressure during warm-up -- in conjunction with
+
+the different expansion rates for the head and block --
+
+is doing a number on us," was about the extent of
+
+what he would say on the problem. It was his opinion
+
+about the cause of the problem, and he would not
+
+represent it as anything else.
+
+It was the same story John had heard twenty
+
+times, but it just did not match Tom's data. "Paul, we
+
+have chewed this over before, but how do you know
+
+this is the problem? When we ran at Riverside the
+
+temperature was 75 degrees and we still lost the
+
+gasket and engine."
+
+"| am not sure what happened at Riverside," Paul
+
+had replied. "I am not sure that temperature is the
+
+problem, but it is the only thing I can figure out. It is
+
+definitely the gaskets that are blowing out and
+
+causing the engine to go."
+
+Part of Carter Racing's success was due to a
+
+unique turbo-charging system that Tom and John had
+
+developed. They had come up with a new head design
+
+that allowed them to get more turbo pressure to the
+
+engine while maintaining fuel consumption at a fairly
+
+constant level. By casting the head and turbo bodies
+
+in a high-strength aircraft alloy, they had also saved
+
+almost fifty pounds of weight. The alloy they were
+
+using was not as temperature sensitive as the material
+
+in the engine block, but the head gasket should be
+
+able to handle the differences,
+
+John could hear the sounds of race day in the
+
+background as Paul approached the phone. “Hello
+
+John," he said, obviously excited. "The Goodstone
+
+coveralls just got here. We are talking some fine
+
+threads, and no sew-on patches from these guys. The
+
+logo on the back and our names are stitched right into
+
+the material. I guess this means we get to keep ‘em.
+
+Course, I got some grease on mine already, so they
+
+probably won't want 'em back anyway.”
+
+"That is great,” John said. "Look, I want to find
+
+out what we are doing about the gasket failure
+
+business.”
+
+"The car is set to go. We have been using a different
+
+seating procedure since Slippery Rock, and had no
+
+problems for two races. Tom says the Goodstone deal
+
+is set as long as we finish in the money today. The
+
+guys in the shop want this bad. Goodstone is a class
+
+act; they can make us the number one team on the
+
+circuit if we do well."
+
+Exhibit 1: Note from Tom Burns
+
+John,
+
+I got the data on the gasket failure problem from Paul. We have run 24 races this season, with temperatures at
+
+race time ranging from 53 to 82 degrees. Paul had a good idea in suggesting we look into this, but as you can see,
+
+this is not our problem. I tested the data for a correlation between temperature and gasket failures, and found no
+
+relationship.
+
+Relationship Between Temperature and Gasket Failures
+
+Head
+
+Gasket
+
+Failures
+
+Ambient Air Temperature (in degrees)
+
+In comparison with some of the other teams, we have done extremely well this season. We have finished 62.5%
+
+of the races, and when we finished we were in the top five 80% of the time. Our rate of blown engines is 29%, but
+
+we are running fast, so we have to expect some difficulties. I am not happy with the engine problems, but I will take
+
+the four first-place finishes and 50% rate of finishing in the money over seven engines any day. If we continue to run
+
+like this, we will have our pick of sponsors.
+
+Tom
+
+Two things to keep in mind
+
+during your deliberations
+
+1 - The oil company sponsorship is forthcoming; it
+
+amounts to $500,000 and will only be withheld if the team
+
+blows an engine in this race
+
+2 - Goodstone Tire has already committed to a
+
+sponsorship of the car for $40,000.
+
+A top five finish will mean a full season sponsorship next
+
+year to the tune of $1 million plus incentives.

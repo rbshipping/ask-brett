@@ -1,0 +1,178 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Trends and Innovations
+SUMMARY: Retail industry must adapt to changing customer needs, leverage technology, and build trust to remain competitive.
+KEYWORDS: retail trends, customer-centric, technology innovation, trust and data, customization
+---
+
+Trend Retail imperative
+
+Compute will enable us to add intelligence into Need to ensure control still remains in the hands
+
+anything and everything of the shopper and that we are solving a
+
+customer need/pain point and not just using
+
+technology for technology’s sake
+
+Trust is becoming digitized and value is being Retailers must build and protect trust with
+
+created by refining data into wisdom shoppers
+
+Shoppers, particularly Millennials, want more Retailers will need to offer customized or
+
+customized products customizable solutions, accessed via easy
+
+interfaces, and use them to upsell customers
+
+Some shoppers prefer access to things rather Retailers can lease as well as sell things, they
+
+than to purchase them could act as a reputation management system for
+
+resold goods, and could provide an
+
+indemnification service as a value add
+
+Millennials have a strong desire for efficiency Retailers should build experimental stores with
+
+no checkouts, or totally automated stores using
+
+RFID or vision data to manage inventory and
+
+perform automatic checkout
+
+Shift from supplier control to customer focus Retailers must put the customer at the center
+
+and obsess over what’s right for customers, not
+
+what serves suppliers best
+
+82
+
+Technology can make a bricks and mortar store Innovate internally and outsource for speed
+
+more efficient
+
+Routine shopping is primarily done on autopilot; Better understand value proposition and needs
+
+shoppers don’t want to be bothered while across categories; enhance the shopping
+
+shopping experience for more engaging categories and
+
+automate the “commodity” categories
+
+Product proliferation in bricks & mortar has made Pursue a long-term strategy to “get off the drug”
+
+making choices very difficult and have greater focus on the shopper
+
+Stores are polarizing their business models: Understand the customer using data, build
+
+efficient on one end, experiential on the other responsive stores, invest in frictionless
+
+experiences, and invest in quality of staff
+
+You will see these trends, and others like them from the futurecasting process, show up throughout the
+
+body of this futurecasting report.
+
+10.3 FUTURECASTING – MODELING THE FUTURE AROUND PEOPLE
+
+As a vehicle to building out models of the future, teams then created imagined personas of people living
+
+in the year 2024. These personas spanned a range of ages, socio-economic backgrounds, outlooks,
+
+lifestyles and geographic locations. Each team then brainstormed a set of new shopping experiences
+
+that might be of interest to their persona, using the trend synthesis as a basis for exploration.
+
+A sample scenario is listed below as an example of a set of experiences being imagined by one of the
+
+futurecasting teams:
+
+ In a dense urban environment of the future, circa 2025, Alexandria and her husband live in a
+
+newly-constructed smart apartment building in Mexico City.
+
+ Intelligent shelves are deployed in their home pantry that use a combination of RFID and visual
+
+recognition technology to identify items. The shelf can measure and securely report inventory of
+
+products stored in each home. An intelligent fridge is fitted with similar capabilities.
+
+ Alexandria’s personal home inventory feeds into a recipe recommendation system. It offers
+
+meal choices and also suggests shopping lists.
+
+ Real-time inventory rolls up to provide an overall picture of neighborhood inventory levels. A
+
+“Friendly neighbor” service helps Alexandria get the ingredients needed for her next meal. It
+
+alerts her to ingredients she doesn’t have but that a neighbor does have and hasn’t used, and
+
+facilitates the request to move an item from their home to hers (and handles cross-billing).
+
+ Intelligent shelves in Alexandria’s local store (which is conveniently built into the base of her
+
+tower block) are able to determine when a product is removed, and who removed it (and then
+
+bill appropriately) providing a frictionless way for Alexandria and her husband to purchase items
+
+they need.
+
+ A membership program for the local store securely stores people’s consumption information
+
+and uses analytics to predict future consumption of members based on real-time usage
+
+(gathered from the store, the pantry, and the fridge) and ensures desired items, even if they are
+
+what would formerly have been considered unusual purchases, are in stock as often as possible.
+
+Alexandria is delighted as this means her local store nearly always has the particular brand of
+
+cured meat her Colombian husband likes so much.
+
+83
+
+ Secure links into Alexandria and her husbands’ calendars improve the accuracy of the
+
+neighborhood consumption prediction analytics by knowing when they are away.
+
+ Alongside physical products, the local store includes attractive and interactive virtual spaces that
+
+enable Alexandria to browse online services and products she can order easily for delivery. The
+
+online shopping experience is seamlessly integrated alongside the physical product displays to
+
+create a fluid shopping experience where the physical and virtual blur.
+
+ The local store acts as an aggregation hub for packages Alexandria has ordered and that are
+
+delivered next day or sometimes next hour by online vendors. Her neighbor has invested in a
+
+butler’s hatch for their apartment and has the store deliver packages and goods directly into her
+
+home but Alexandria hasn’t got around to that yet.
+
+ The store has embraced the sharing economy and manages a set of shared community items
+
+including a carpet cleaner, toolbox, and a couple of cars. It has both an online and in-store
+
+dashboard showing availability of these shared items and enabling shoppers to make
+
+reservations.
+
+ In addition to renting “do it yourself” community items like tools and cleaning equipment,
+
+Alexandria’s local store has a portal that enables her to schedule a range of household services
+
+such as cleaning, repairs, and babysitting. As a member of her local store club she has access to
+
+a broad ecosystem of local service providers who give her preferred rates and service levels
+
+negotiated through group bargaining.
+
+10.4 BACKCASTING
+
+The backcasting process is a way to figure out the interim steps that are needed in order for an imagined
+
+future to become true. The result is a set of concrete actions that need to be taken at various times

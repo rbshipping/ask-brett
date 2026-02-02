@@ -1,0 +1,222 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Business Valuation
+SUMMARY: The text discusses the challenges of accurately valuing a company and the importance of focusing on the likelihood of future financial performance rather than precise business value.
+KEYWORDS: business valuation, competitive advantage, financial performance, growth rate, market price
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+into two hurdles.
+
+First, every company is slightly different, which makes
+
+comparisons tough. Growth rates, returns on capital,
+
+strength of competitive advantage, and a host of other
+
+factors all affect the value of a business, so comparing two
+
+companies with each other is likely to be a difficult exercise.
+
+cc1122..iinndddd 116600 11//2288//0088 77::2277::0033 PPMM
+
+WHAT’S A MOAT WORTH? [161]
+
+(It is useful in some cases—more on that later in this chapter.)
+
+Second, the value of a company is directly tied to its
+
+future financial performance, which is unknown, though
+
+we can obviously make some educated guesses. For these
+
+reasons, most people focus on the information that is eas-
+
+ily attainable about stocks (their market prices) rather than
+
+the information that is harder to obtain (their business
+
+values).
+
+That’s the bad news. The good news is that you don’t
+
+need to know the precise value of a company before buy-
+
+ing its shares. All you need to know is that the current
+
+price is l ower than the most likely value of the business. That
+
+may sound confusing, so let me give you an example.
+
+In the summer of 2007, I noticed that a company I’d
+
+had on my radar screen for some years, called Corporate
+
+Executive Board, had dropped in price by about half over
+
+the previous year. The company had been growing sales
+
+and earnings at a blistering pace of over 30 percent per
+
+year for a few years, and for a variety of reasons, things
+
+hit a wall—sales growth slowed considerably, and earnings
+
+growth dropped to about 10 percent. I did some research,
+
+and I was convinced that the company had plenty of room
+
+left to grow in its market. I was also confident that Cor-
+
+porate Executive Board’s competitive position was still
+
+very strong. Would the company return to its 30 percent
+
+growth rate, or would future growth be lower, say 15 percent?
+
+cc1122..iinndddd 116611 11//2288//0088 77::2277::0033 PPMM
+
+[162] THE LITTLE BOOK THAT BUILDS WEALTH
+
+I really didn’t know, and the valuation of the shares was
+
+very different under those two scenarios.
+
+So why did I buy the stock? Because while I did not
+
+know exactly what Corporate Executive Board’s shares
+
+were worth, I did know that the stock price at the time
+
+implied that the market was assuming a 10 percent growth
+
+rate. So, my task was simply to decide how likely it was
+
+that the company would never grow faster than 10 percent.
+
+Based on my research, I thought that was a very unlikely
+
+outcome, and so I bought the stock. If the company
+
+returned to a 15 percent growth rate, my investment
+
+would do pretty well, and if the company returned to a
+
+20(cid:1) percent growth rate, I’d have a home run. Only if
+
+the company decelerated to a single-digit growth rate
+
+would I lose money, and I thought the odds of that hap-
+
+pening were acceptably low.
+
+In this example, I reverse-engineered the price of the
+
+shares to see what kinds of growth expectations were
+
+baked in. The key takeaway is that I didn’t have to know
+
+exactly what the future would bring; I just had to know that
+
+the future was very likely going to brighter than the share
+
+price implied. In the case of Corporate Executive Board,
+
+I thought the stock could be worth anywhere from $85 to
+
+$130, but I was confident that the stock would not be
+
+worth much less than its $65 share price. (Time will tell if
+
+I was right.)
+
+cc1122..iinndddd 116622 11//2288//0088 77::2277::0044 PPMM
+
+WHAT’S A MOAT WORTH? [163]
+
+The simple exercise of estimating the value of a share of
+
+a company is the key to buying stocks for less than their
+
+potential value, because in order to buy the shares for less
+
+than their value, you need to have some idea of what that
+
+value is. (It sounds simple, but you’d be amazed at how many
+
+investors have never tried to value the stocks they buy.)
+
+W hat Is a Company Worth, Anyway?
+
+It’s a simple question, so here’s a simple answer: A stock
+
+is worth the present value of all the cash it will generate in
+
+the future. That’s it.
+
+Let’s pick this idea apart a bit. Companies create
+
+value by investing capital and generating a return on that
+
+investment. Some of the cash that a company generates
+
+pays operating expenses, some gets reinvested back in the
+
+business, and the remainder is what’s called “free cash
+
+flow.” Free cash flow is often called “owner earnings,”
+
+because that’s really what it is—the amount of money that
+
+could be extracted from a business every year by the firm’s
+
+owners without harming the company’s operations.
+
+Think of free cash flow like the money a landlord
+
+clears at the end of every year. The owner of an apart-
+
+ment building gets rent (sales), pays for the mortgage and
+
+some annual upkeep (operating expenses), and occasion-
+
+ally spends some money for major repairs like a new roof
+
+or new windows (capital expenditures). What’s left over
+
+cc1122..iinndddd 116633 11//2288//0088 77::2277::0044 PPMM
+
+[164] THE LITTLE BOOK THAT BUILDS WEALTH
+
+is his or her personal free cash flow, which can be
+
+tucked away in a bank account, spent on a nice Florida
+
+vacation, or used to buy another apartment building. But
+
+whatever the landlord uses it for, it’s not money that is
+
+needed to keep the apartment building functioning as a
+
+cash- generating enterprise.
+
+Sticking with the landlord example, let’s think about
+
+what would make a building full of rental apartments worth
+
+more or less to a prospective purchaser. Growth would
+
+certainly push the value up—if a building had an adjacent
+
+patch of land on which a landlord could build more apart-
+
+ments, it would be worth more than a building without that
+
+land, as the stream of potential future rental income would
+
+be larger. The same goes for the riskiness of the rental
+
+income—a building full of seasoned wage-earners would be
+
+worth more than the same building full of college students,

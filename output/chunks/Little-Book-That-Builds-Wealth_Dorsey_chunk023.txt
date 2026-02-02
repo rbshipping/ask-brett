@@ -1,0 +1,238 @@
+SOURCE: Little-Book-That-Builds-Wealth_Dorsey.pdf
+SUBFOLDER: Additional\HFT\2019
+TOPIC: Steel Industry Competition
+SUMMARY: Mini-mills in the steel industry are facing increasing competition from global firms with access to low-cost steel operations in developing countries.
+KEYWORDS: steel industry, competition, mini-mills, global firms, low-cost operations
+---
+
+[Document: Little-Book-That-Builds-Wealth_Dorsey.pdf]
+
+Finally, the mini-mills are facing serious competition
+
+from global firms like Arcelor Mittal, which have access
+
+to very low-cost steel operations in various corners of the
+
+developing world. (Labor costs in Kazakhstan—to name one
+
+Arcelor Mittal mill—are pretty darn low.) As trade barri-
+
+ers have declined and new competition with massive scale
+
+economies has emerged, the mini-mills’ cost advantage has
+
+lessened.
+
+cc0066..iinndddd 8833 11//2266//0088 33::0088::5555 AAMM
+
+[84] THE LITTLE BOOK THAT BUILDS WEALTH
+
+The upshot of all these cases is that process-based
+
+cost advantages can create a temporary moat if incum-
+
+bents are unlikely to replicate them immediately, and if
+
+new entrants either can’t copy the process or doing so is
+
+likely to destroy the industry’s economics. But notice that
+
+the success of two of our examples—Dell and Southwest—
+
+was partly based on the inaction (or bad strategy, in Gate-
+
+way’s case) of potential competitors. A moat that is built
+
+on lazy or stumbling competitors is not a terribly strong
+
+one. So, process-based moats are worth watching closely,
+
+because the cost advantage often slips away as competi-
+
+tors either copy the low-cost process or invent one of
+
+their own.
+
+L ocation, Location, Location
+
+A second type of cost advantage stems from having an
+
+advantageous location. This type of cost advantage is
+
+more durable than one based on process because loca-
+
+tions are much harder to duplicate. This advantage occurs
+
+most frequently in commodity products that are heavy
+
+and cheap—the ratio of value to weight is low—and that
+
+are consumed close to where they’re produced.
+
+First, let’s return to waste haulers and aggregate pro-
+
+ducers, those pedestrian-but-profitable businesses intro-
+
+duced in Chapter 3 . In addition to having regulatory
+
+moats, because few communities want a new landfill or
+
+cc0066..iinndddd 8844 11//2266//0088 33::0088::5555 AAMM
+
+COST ADVANTAGES [85]
+
+gravel quarry in their neighborhood, these types of busi-
+
+nesses have a solid location-based cost advantage as well.
+
+The further that a garbage truck has to travel to a land-
+
+fill, or that a dump truck full of gravel has to travel to a
+
+construction site, the more it costs to dump the garbage
+
+or deliver the gravel. So, companies with landfills and
+
+quarries located closer to their customers almost invari-
+
+ably have lower costs, which means competitors have a
+
+hard time cracking their markets.
+
+We can look at the quarry-level economics of an
+
+aggregate company and see this clearly. Stone, sand, and
+
+gravel cost roughly $7 per ton at the quarry site, and an
+
+additional $0.10 to $0.15 per ton for every mile spent on
+
+the back of a truck getting to the delivery site. So, just
+
+five to seven miles of transport increase costs by 10 per-
+
+cent, which is passed on to the customer. In practice,
+
+these costs mean that aggregate companies have basically
+
+a mini-monopoly on construction customers located fairly
+
+close to the quarry, and relatively little competition within
+
+the 50-mile radius that is roughly a quarry’s addressable
+
+market.
+
+Cement plants have similar economics, and similar pric-
+
+ing power within a given cement plant’s radius. Ever wonder
+
+why you frequently see an old cement plant near a city cen-
+
+ter or in some other incongruous place? It’s because that
+
+plant is likely the lowest-cost supplier of cement by far to
+
+cc0066..iinndddd 8855 11//2266//0088 33::0088::5566 AAMM
+
+[86] THE LITTLE BOOK THAT BUILDS WEALTH
+
+construction projects in that area, and is probably incredibly
+
+profitable—which means it pays a lot of taxes, which helps
+
+its owner to fend off local politicians who might want to put
+
+up condos on the site. Like quarries, cement plants often
+
+create mini-monopolies in their immediate vicinity.
+
+Some—though not all—steel companies also have
+
+cheaper costs based on a tough-to-replicate location. For
+
+example, formerly state-owned Posco dominates the
+
+Korean steel market, controlling an estimated 75 percent
+
+of the country’s production. Although Posco has to import
+
+raw materials, which hurts costs, its location on the same
+
+small Korean peninsula as that country’s massive automo-
+
+bile and shipbuilding industries gives it an advantage with
+
+regard to transportation costs. Also, Posco is located only
+
+a day’s shipping time from China, which means it can sup-
+
+ply Chinese customers at a lower cost than Brazilian or
+
+Russian mills with lower input costs but much higher trans-
+
+portation costs. As Chinese steel producers climb up the
+
+quality chain and are able to produce larger quantities of
+
+high-grade steel, this advantage could erode somewhat,
+
+but it has been a powerful one in the recent past.
+
+I t’s Mine, All Mine
+
+A third type of cost advantage that is generally limited to
+
+commodity producers is access to a unique, world-class asset.
+
+If a company is lucky enough to own a resource deposit with
+
+cc0066..iinndddd 8866 11//2266//0088 33::0088::5566 AAMM
+
+COST ADVANTAGES [87]
+
+lower extraction costs than any other comparable resource
+
+producer, it can often have a competitive advantage.
+
+Ultra Petroleum, for example, is a midsize energy firm
+
+that can produce and sell natural gas at an incredibly low
+
+cost due to some advantageous properties in a part of
+
+Wyoming. The company locked up land at a very cheap
+
+price before its potential was widely recognized, and as a
+
+result it is about twice as profitable as the average North
+
+American natural-gas producer. For example, most of
+
+Ultra’s wells cost around $7 million to drill, whereas wells
+
+with comparable reserves elsewhere in North America cost
+
+other companies in the neighborhood of $17 million to
+
+$25 million to drill. That’s a massive cost advantage that
+
+lets Ultra generate some of the highest returns on capital
+
+among the energy companies we cover at Morningstar.
+
+Another firm with this type of cost advantage is an
+
+unusual little company that Morningstar has covered for
+
+a few years called Compass Minerals, which operates in
+
+the truly exciting rock-salt industry. (Think highway deic-
+
+ing, not seasoning french fries.) Compass happens to own
+
+a mine in Ontario called Goderich that produces rock salt
+
+at some of the lowest costs on the globe due to its unique
+
+geology—the vein it is currently mining is more than 100

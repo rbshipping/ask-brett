@@ -1,0 +1,156 @@
+SOURCE: Retail Futurecasting - 2nd wave of digital retail - Rev 1.1.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices\2015.04 HFT - Futurecasting
+TOPIC: Retail Technology and Innovation
+SUMMARY: The text discusses the evolving role of shelves in the retail experience, with the introduction of 'smart shelves' that can enhance the shopping experience and provide data-driven insights.
+KEYWORDS: smart shelves, retail technology, shopper experience, data analytics, personalization
+---
+
+the shopper to discover and experience the product, and often to see that product within the broader
+
+context of other products and offers. And they help the manufacturer to move the customer towards a
+
+purchase.
+
+7.2 REDEFINING THE ROLE OF THE SHELF
+
+As discussed in section 6.1, within the next decade anything in our world can become smart, connected,
+
+and sensing. In this timeframe, computing will become so low cost, consume so little energy, and be so
+
+physically small that we can think of ‘smart’ as an ingredient for anything. Even the shelf.
+
+The opportunity for the smart shelf is to change the shelf’s role within the selling process. Today the
+
+shelf is plays a passive role in selling. But a smart shelf could fulfill a much more active role in this
+
+process where it understands shopper needs, knows the product or products it is showcasing, and uses
+
+enhanced capabilities to participate more fully in the business of actively selling. And it could even
+
+deliver personalized offers and promotions.
+
+Fundamentally, the shelf can improve the shopper experience in two fundamental ways: making
+
+shopping easier, and making shopping more enjoyable. And for manufacturers, a smart shelf can create
+
+data-led sales and marketing opportunities and help them better understand who is buying their
+
+products, and who is not buying their products. It can also maximize profit for the retailer by optimizing
+
+pricing dynamically, and enable manufacturers and retailers to reward shopper loyalty, all at the shelf
+
+edge.
+
+56
+
+7.3 EXPECT A BROAD, DIVERSE FAMILY OF SMART SHELVES
+
+There will not be a “one shelf fits all” solution. Smart shelves will come in all shapes and sizes, and all
+
+levels of sophistication.
+
+Shelf capabilities will vary widely, and will improve over time as computing capabilities increase and
+
+costs reduce. The diversity of smart shelves will match the multiplicity of different tasks they will be
+
+asked to perform. This diversity is captured in a potential good, better, best definition:
+
+“Good” shelves - will have basic sensing capabilities such as proximity and pressure sensors, no
+
+display, and no natural communication capabilities. They will gather data on shopper activity
+
+that can be fed into analytics systems to generate insight into shopper behavior and that will
+
+enable retailers to improve operational efficiency.
+
+“Better” shelves - will be characterized by having more sophisticated sensors, more local
+
+intelligence, and better cloud connectivity and services. These shelves will include the ability to
+
+see and understand something about the world around them: they will not only know what
+
+products they have loaded on them (using cameras, RFID readers, or other technology), but also
+
+understand and interact intelligently with the shopper that is stood in front of them. ‘Natural’
+
+shelves would be able to ‘see’ shoppers and converse with them using natural language. Section
+
+7.7 explores this idea in more detail. Such shelves will require a combination of sensors (3D
+
+cameras, microphones, proximity, touch) and powerful computing capability so they can interact
+
+with the shopper in a way that is natural, comfortable, and that is fully respectful of privacy. For
+
+example, the shelf should process all shopper image data locally at the shelf and not transmit
+
+any images to the cloud for privacy reasons.
+
+“Best” shelves - will be include all the capabilities of the “better” shelves, and also will tap into
+
+cloud-based data sources to deliver bespoke wisdom and guidance to the shopper. These
+
+premium shelves may have additional sensors able to smell, feel, understand, and intuit the
+
+world around them. Such shelves will be able to determine the emotional state of shoppers and
+
+act accordingly – see section 7.6 for more information. The shelf may have a built-in shop
+
+assistant capability able to guide the shopper towards making a decision and moving them to
+
+purchase. Section 7.5 explores the types of conversations these types of shelves might have with
+
+shoppers to help them move through the shopper journey.
+
+Some of these capabilities may, at least initially, be leveraged from the shopper’s personal device. For
+
+example, the display, touch capabilities, and even the microphone of a smartphone might be used by
+
+the shelf for shopper interaction.
+
+As cooperative, heterogeneous compute architectures evolve, the shelf may even use some of the local
+
+computing capability of devices to perform its function.
+
+57
+
+The bottom line is that smart shelves will come in a wide range of different types and capabilities. The
+
+main dimensions of this diversity are shown in the diagram below:
+
+7.3.1 Smart shelves – Manufacturer-facing vs Shopper-facing
+
+Different retailers will make different business decisions on whether the smart shelves they deploy are
+
+focused toward the provision of manufacturer-facing services, shopper-facing services, or both.
+
+Manufacturer-facing services are typically a one-way sensing effort targeting the shopper. These
+
+services might include gathering insight on traffic, linger times, churn, customer demographics, and the
+
+success of offers and advertising. Such shelves would not require any type of display. More sophisticated
+
+manufacturer-facing functions could require a two-way conversation with shoppers, for example to
+
+enable the delivery of dynamic or personalized pricing and promotions. These types of shelves would
+
+either require a display or the capability to use the display on a shopper’s personal device.
+
+Shopper-facing services are more likely to facilitate a two-way interactive conversation with the shopper.
+
+These might include providing product information, social media reviews, discounts, and personalized
+
+shopping guidance. For example, the shelf might display or say, “Alice, this product contains gluten”, or
+
+“Alejandro, this product is on your daughter’s birthday wish list”.
+
+Challenge: Retailers will need to decide how to focus their smart shelf deployments. Some will focus
+
+them on offering a differentiated shopper experience, some will be more focused on data gathering as a
+
+service for their manufacturers. Many will deploy shelving infrastructure that does both.
+
+58
+
+7.3.2 Shelves will sport a range of different displays, or no display at all
+
+Shelves will vary in their display capabilities. Many will have no display. Some will have glorious high-end,

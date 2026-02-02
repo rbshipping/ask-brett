@@ -1,0 +1,46 @@
+SOURCE: CODB & Office Use.docx
+SUBFOLDER: Additional\HFT\2020
+TOPIC: Business Management Innovation
+SUMMARY: A Japanese company, Disco Corp., has implemented a radical approach to business management, where employees are charged for using resources and operate as one-person startups, leading to improved profitability but also facing challenges in cultural adaptation.
+KEYWORDS: business management, corporate culture, resource utilization, employee autonomy, profitability
+---
+
+[Document: CODB & Office Use.docx]
+
+Technology
+
+This Japanese Company Charges Its Staff $100 an Hour to Use Conference Rooms
+
+Everything has a price, which helps keep workers focused on the bottom line.
+
+By
+
+Yuji Nakamura
+
+and
+
+Yuki Furukawa
+
+June 20, 2019, 11:00 PM GMT+2
+
+Hiroyuki Suzuki couldn’t be happier that his company is charging him and all other employees about $100 an hour to use meeting rooms. “People really cut back on useless meetings,” says Suzuki, 37, who works at chip-equipment maker Disco Corp. and is one of the company’s 5,000 employees taking part in a radical experiment in business management.
+
+At Disco, everything has a price, from office desks and PCs to a spot for your wet umbrella. Teams bill each other for their work, while individuals operate as one-person startups, with daily auctions of work assignments and battles for the best ideas in the aptly named “Colosseum.” Payments are settled in a virtual currency called “Will,” with balances paid in yen at the end of each quarter. “We’ve created a free economic zone, just like what exists outside the company,” says Toshio Naito, who designed the program and has continued to work on it since its implementation in 2011. “Work should be about freedom, not orders.”
+
+The approach has so far paid off. Disco’s operating margin has risen to 26% from 16% since the experiment was implemented eight years ago, and its profitability is the envy of the industry. Its share price has almost quadrupled in that period, to roughly 16,000 yen ($148), giving the company a $5 billion market value. Thanks to bonuses, worker pay is more than double the national average of 4.7 million yen, and in 2017, Disco was the first to win a new government award for creating an ideal workplace.
+
+Yet despite its proven success and dozens of inquiries and training sessions with other companies, none have adopted the idea so far. Engineers have quit, complaining the approach detracts from their ability to focus purely on research. Others have been driven away by the never-ending pressure to perform to get a bonus. And big payouts aren’t guaranteed, which means enduring a high-pressure work environment without much of a benefit. The relentless focus on quarterly profits can encourage short-term thinking, says Takashi Shimizu, a professor at Waseda University in Tokyo who studies accounting and management systems. “Senior management must not get trapped in a short-term loop,” he says. There’s also a cultural challenge. It took about five years for staff in Japan to adjust, and workers in the U.S. and China still haven’t fully embraced the approach, Naito says.
+
+But those who adapt emphasize the freedom to shape their own day and the value placed on their efforts and their own time in particular. They say the ruthlessness of a hardcore free-market approach is diluted in a setting where people work side-by-side. “It’s become like second nature,” says Naoki Sakamoto, a Disco factory worker in Hiroshima. “Being able to measure everything creates more interest and confidence.”
+
+Disco, founded in 1937 as Dai-Ichi Seitosho Co., began by supplying cutting tools to the Japanese military prior to World War II. Its saws and diamond blades have since been used to cut everything, even moon rocks brought back from the Apollo 11 mission. Today, it’s the world’s largest maker of equipment that slices and dices silicon ingots and wafers before they’re converted into electronic chips. Like many manufacturers, Disco spent decades looking for ways to boost efficiency, settling on an approach based on Kyocera Corp.’s Amoeba Management, which operates its thousands of internal teams as individual companies (amoebas). Disco, under Naito’s guidance, extended that autonomy to individual employees and called it “Personal Will” (from which the virtual currency’s name is derived).
+
+“He wanted a system like in Final Fantasy or Dragon Quest that would make work fun but also strengthen the company”
+
+At the heart of the program is a compensation system that meticulously tracks how much every person and team contributes to earnings. Workers receive a base salary, which they augment by earning Will for completing tasks. Quarterly bonuses can rival a year’s pay for top performers, says Naito. “It’s enough to buy a foreign-brand car every year,” he says. “We call it the ‘Will Dream.’ ”
+
+Earning virtual currency begins at the team level, where bosses allocate a portion of the group’s Will budget to each task they must complete. Team members then use an app to bid in an auction for those jobs. Assignments that don’t attract any bids often turn out to be unnecessary, Naito says. And managers who’ve misused or abused the system have been abandoned by their workers, who are free to move to other teams.
+
+Groups pay each other to complete tasks. Sales teams pay factory workers to produce goods, who in turn pay engineers to design products. Once a sale is made, it generates a certain amount of Will that trickles through to everyone in the supply chain, including human resources and IT support staff. “For example, today I paid Will for this meeting room and also for Naito to come in and spend his time to talk to you,” Sumio Masuchi, head of Disco’s press team, tells Bloomberg reporters. “But once your article is published, I’ll get Will for generating publicity.”
+
+There’s a penalty system for inefficient behavior, which includes piling up unnecessary inventory or even working late. Overtime hours have fallen 9% since penalties were implemented in 2015, aligning with the Japanese government’s goal to improve work-life balance. “Economic forces are doing all the things managers used to spend time on,” says Naito. Employees can earn extra Will by helping each other: A parent who wants to see a kid’s baseball game can pay a colleague in the currency to finish a report. A software engineer can earn extra by offering coding skills to another team. Creating Excel macros or translation work are typical requests.

@@ -1,0 +1,170 @@
+SOURCE: WPO Australia_Creating Growth Throught Disruptive Innovation_Stephen Kaufman.pdf
+SUBFOLDER: Brenton - NCS\0126 - Leadership & Management Best Practices
+TOPIC: Disruptive Innovation
+SUMMARY: The text discusses examples of disruptive innovations that have disrupted traditional industries, such as department stores, animation, and regional jet manufacturing.
+KEYWORDS: disruptive innovation, department stores, digital animation, regional jets
+---
+
+doctoral stipend money to buy a Dell rather than a computer with a more reputable brand. Today Dell
+
+Department stores like Z.C.M.I. in Salt Lake City, Marshall Field in Chicago, and R.H. Macy in New York,
+
+disrupted small shopkeepers. The department stores made money by accelerating inventory turns to 3x per
+
+year, which enabled them to earn attractive profit with 40% gross margins. Because their salespeople were
+
+much less knowledgeable about products, at the outset department stores had to start at the simplest end of
+
+the merchandise mix, with products that were so familiar in use that they “sold themselves.”
+
+Digital
+
+animation
+
+The fixed cost and skill required to make a full-length animated movie historically was so high that almost
+
+nobody could do it except Disney. Digital animation technology now enables far more companies (Such as
+
+Pixar) to compete against Disney.
+
+Discount
+
+department
+
+stores
+
+Department stores like Korvette’s in New York, K-Mart in Detroit, and later Wal-Mart and Target disrupted
+
+full-service department stores. The discount stores made money by accelerating inventory turns to 5x per
+
+year, which enabled them to earn attractive profit with 23% gross margins. Because their salespeople were
+
+1-20
+
+much less knowledgeable about products, at the outset the discount department stores had to start at the
+
+simplest end of the merchandise mix, with branded hard goods that were so familiar in use that they “sold
+
+themselves.” They subsequently have moved up-market into soft goods such as clothing.
+
+E-Bay Most of the Internet start-ups of the late 1990s attempted to use the Internet as a sustaining innovation
+
+relative to the business models of established companies. E-Bay was a notable exception, as it pursued a
+
+new-market disruptive strategy - enabling owners of collectibles that could never turn the head of auction
+
+house executives, now to be able to sell off things that they no longer needed.
+
+ECNs Electronic clearing networks (ECNs) allow buyers and sellers of equities to exchange them over a computer,
+
+at a fraction of the cost of doing it on a formal stock exchange. Island, one of the leading ECNs, can handle
+
+on one workstation volume amounting to 20% of the NASDAQ's volume.
+
+E-mail E-mail is disrupting postal services around the globe. The volume of personal communication that is done by
+
+letter is dropping precipitously, leaving postal services with magazines, bills and junk mail.
+
+Embraer & The regional passenger jet business is booming, as their capacity over the past 15 years has stretched from 30
+
+Canadair to 50, 70 and now 106, As Boeing and Airbus struggle to make bigger, faster jets for transcontinental and
+
+regional jets
+
+transoceanic travel, their growth has stagnated; the industry has consolidated (Lockheed and McDonnell
+
+Douglas have been folded in); and the growth is at the bottom of the market.
+
+Endoscopic
+
+Minimally invasive surgery was actively disregarded by leading surgeons because the technique could only
+
+Surgery address the simplest procedures. But it has improved to the point that even certain relatively complicated
+
+heart procedures are done through a small port. The disruptive impact has primarily been on equipment
+
+makers and hospitals.
+
+Fidelity Created “self-service” personal financial management through its easy-to-buy families of mutual funds, 401k
+
+management accounts, insurance products, etc. Fidelity was founded a few years after WWII; but began its disruptive
+
+movements in the 1970s, as best we can tell.
+
+Flat panel We normally think of disruptive technologies as being inexpensive, and many people are puzzled at how we
+
+displays (Sharp | could call flat panel displays disruptive. Haven’t they come from the high end? Actually, no. Flat panel
+
+et.al.) LCD displays took root in digital watches; and then moved to calculators, notebook computers and small
+
+Ford
+
+Galanz
+
+portable televisions. These were applications that historically had no electronic displays at all, and LCD
+
+displays were much cheaper than alternative means of bringing imaging to those applications. Flat screens
+
+have now begun invading the mainstream market of computer monitors and in-home television screens,
+
+disrupting the cathode ray tube. They are able to sustain substantial premium prices because of their 2-D
+
+character,
+
+Henry Ford’s Model T was so inexpensive that he enabled a much larger population of people who
+
+historically could not afford cars, now to own one.
+
+China’s Galanz captured nearly 40% of the world microwave oven market in the 1990s, While the company
+
+could have followed a strategy of low-end disruption ~ using low-cost Chinese labor to make appliances for
+
+export, it instead chose to be a new-market disruptor, making ovens that were small enough and consumed
+
+little-enough power to be used in cramped Chinese apartments; and were cheap enough for non-microwave
+
+oven owners to afford. Once they had built a business model that could make market-enabling price points
+
+for the domestic Chinese market, then taking on the rest of the world was as casy as egg-drop soup.
+
+GE Capital Has disrupted major portions of the commercial banks’ historical markets, primarily through low-end
+
+disruptive strategies.
+
+Google Google and its competing Intermet search engines are disrupting directories of many sorts, including the
+
+Yellow Pages.
+
+Honda Honda’s Supercub, introduced in the late 1950s, disrupted makers of big, thunderous motorcycles such as
+
+motorcycles Harley Davidson, Triumph, BMW and many others. It took root as an off-road recreational motorized
+
+bicycle, and then improved. Honda was joined by Yamaha, Kawasaki and Suzuki,
+
+Ink jet printers
+
+These were a disruption to the laser jet printer, and a sustaining technology relative to the dot-matrix printer.
+
+We put ink jet printers toward the “new market” end of the disruption spectrum, because their compact size,
+
+light weight and low initial cost enabled a whole population of computer owners — primarily students — each
+
+to own and use a printer. While they were slow and produced fuzzy images at the outset, ink jet printers are
+
+now the mainstream printer of choice, having pushed laser jets to the high end. Hewlett Packard stayed atop
+
+this industry by setting up an autonomous ink jet business unit to compete against its laser jet printer
+
+business.
+
+Inte] micro-
+
+processor
+
+Intuit’s
+
+QuickBooks
+
+accounting
+
+software

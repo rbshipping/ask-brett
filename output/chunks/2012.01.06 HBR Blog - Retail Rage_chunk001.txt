@@ -1,0 +1,102 @@
+SOURCE: 2012.01.06 HBR Blog - Retail Rage.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Supply Chain Management
+SUMMARY: The text discusses the challenges of poor in-store execution and its impact on customer experience and employee morale in the retail industry.
+KEYWORDS: retail supply chain, customer experience, employee morale, in-store execution, business-school thinking
+---
+
+Retail Rage - Marshall Fisher - Harvard Business Review Page 1of 2
+
+HBR Blog Network
+
+Retail Rage
+
+by Marshall Fisher | 3:10 PM January 6, 2012
+
+I teach a course on retail supply-chain management that includes several classes on store execution. I began by
+
+asking the students: "Who's had a bad experience in a store?" Every hand goes up. Then I ask: "Who's had an
+
+experience so bad that it made you viscerally angry?" Every hand up goes up again.
+
+I let a few students tell their tales of woe: How they walked into a store, intending to buy something, and couldn't
+
+because they couldn't find the product and a store associate to help them... Or when they found a store
+
+associate, he or she was unhelpful or rude... Or when they finally found the product they wanted to buy, there
+
+was a long line at the checkout or no line but a problem with the POS terminal... The list goes on and on.
+
+Sometimes I do this exercise when retail executives are visiting the class to support a case we're discussing
+
+about his or her company. They point out that these experiences are no fun for the store associate either,
+
+because usually the problem is not their fault yet they bear the brunt of the blame. No wonder they're rude.
+
+A Mega-Problem for Retailers
+
+Losing immediate sales when customers can't accomplish their shopping missions because of the problems
+
+listed above is a huge issue for retailers. It makes customers unhappy, so they're more likely to go to a
+
+competitor the next time they need to buy something. And it's bad for employee morale, leading to a downward
+
+spiral of unhappy customers creating demoralized employees, making customers still more unhappy, and the
+
+beat goes on. And it's especially bad these days, when retailers have little capital or confidence to open new
+
+stores, so they need to get more out of existing stores through better execution.
+
+Why is this happening and how can retailers fix it?
+
+I think the root cause is business-school thinking gone wrong. We teach our students to be rigorous and manage
+
+by the numbers. Not a bad idea, except that it leads to over-weighting the measurable and under-weighting
+
+what's hard to measure. In a store, what's measurable is the payroll checks a retailer writes every week to its
+
+stores' staffs. What's hard to measure is the impact that stores' staffs have on revenue.
+
+This opens the door to self-delusion. Retailers can convince themselves that they can cut payroll by 5% in the
+
+last three weeks of a quarter to meet their profit promise to Wall Street and it really won't impact customer
+
+service, because there's probably people in the stores not doing anything anyway. But over time, it does matter
+
+and leads to the problems listed above.
+
+The Remedy
+
+The cure is not to give up managing by the numbers, but to manage by the right numbers. That was the finding of
+
+a study I conducted with my colleagues Serguei Nettesine and Jayanth Krishnan. We used two years of store
+
+level data for a retailer on monthly sales, staffing levels, and customer-satisfaction-survey responses to measure
+
+the impact of store-staffing levels on sales and customer satisfaction.
+
+Our finding: The impact on revenue of increased store staffing was incredibly high. On average, revenue
+
+increased by $10 for every additional dollar of payroll added to a store, and for some stores that were particularly
+
+understaffed, the revenue lift was as high as $28. At the 40% gross margins this retailer was earning on revenue,
+
+adding payroll was highly profitable, and fully supported by the numbers, once you had the right numbers. (For
+
+http://blogs.hbr.org/cs/2012/01/retail_rage.html 18/07/2012
+
+Retail Rage - Marshall Fisher - Harvard Business Review Page 2of 2
+
+more on our study see "Out of Stock? It Might Be Your Employee Payroll — Not Your Supply Chain — That's to
+
+Blame" and Chapter 6 of The New Science of Retailing, a book I wrote with Ananth Raman of Harvard Business
+
+School.)
+
+And let's not overlook the power of management by common sense. As a recent HBR article by my friend and
+
+colleague Zeynep Ton points out, retailers such as QuikTrip, Mercadona, Trader Joe's, and Costco that treat
+
+their workers fairly and with respect also end up being highly profitable.
+
+http://blogs.hbr.org/cs/2012/01/retail_rage.html 18/07/2012

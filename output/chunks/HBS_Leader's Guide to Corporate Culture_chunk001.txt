@@ -1,0 +1,178 @@
+SOURCE: HBS_Leader's Guide to Corporate Culture.pdf
+SUBFOLDER: Brenton - NCS\0126 - Culture
+TOPIC: Organizational Culture Management
+SUMMARY: The article discusses how leaders can effectively manage and shape their organization's corporate culture to improve performance.
+KEYWORDS: corporate culture, organizational change, cultural profile, cultural alignment
+---
+
+REPRINT R1801B
+
+PUBLISHED IN HBR
+
+JANUARY–FEBRUARY 2018
+
+ARTICLE COLLECTION
+
+The Leader’s Guide to
+
+Corporate Culture
+
+Changing your organization’s culture can improve its
+
+performance. Here’s how to do that.
+
+by Boris Groysberg, Jeremiah Lee, Jesse Price, and J. Yo-Jud Cheng
+
+What’s Your Organization’s Cultural Profile?
+
+A worksheet and questions to get you started
+
+How to Shape Your Culture
+
+Steps for setting an aspirational target
+
+Convergence Matters
+
+When employees’ views of the culture align, engagement and customer
+
+orientation benefit.
+
+Context, Conditions, and Culture
+
+Geographic region and industry are key external factors to consider;
+
+strategy, leadership, and organizational design are key internal ones.
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+SPOTLIGHT THE LEADER’S GUIDE TO CORPORATE CULTURE
+
+The Leader’s
+
+Guide to
+
+Corporate
+
+Culture
+
+HOW TO MANAGE THE EIGHT CRITICAL
+
+ELEMENTS OF ORGANIZATIONAL LIFE
+
+BY BORIS GROYSBERG, JEREMIAH LEE,
+
+JESSE PRICE, AND J. YO-JUD CHENG
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+2 HARVARD BUSINESS REVIEW JANUARY–FEBRcUuAstRoYm e2r0s1e8rvice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+FOR ARTICLE REPRINTS CALL 800-988-0886 OR 617-783-7500, OR VISIT HBR.ORG
+
+Strategy and culture are among
+
+the primary levers at top leaders’
+
+disposal in their never-ending quest to
+
+maintain organizational viability and
+
+effectiveness. Strategy offers a formal
+
+logic for the company’s goals and
+
+orients people around them. Culture
+
+expresses goals through values and
+
+beliefs and guides activity through
+
+shared assumptions and group norms.
+
+This document is authorized for use only by Ryan Benner (RYAN@BBRCWORLD.COM). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additiJoAnNalU cAopRiYe–sF.EBRUARY 2018 HARVARD BUSINESS REVIEW 3
+
+SPOTLIGHT THE LEADER’S GUIDE TO CORPORATE CULTURE
+
+Strategy provides clarity and focus for achieve change and build organizations that by Edgar Schein, Shalom Schwartz, Geert
+
+collective action and decision making. It re- thrive in even the most trying times. Hofstede, and other leading scholars, we have
+
+lies on plans and sets of choices to mobilize identified four generally accepted attrib utes:
+
+people and can often be enforced by both Shared. Culture is a group phenomenon.
+
+DEFINING CULTURE
+
+concrete rewards for achieving goals and It cannot exist solely within a single person,
+
+consequences for failing to do so. Ideally, Culture is the tacit social order of an orga- nor is it simply the average of individual char-
+
+it also incorporates adaptive elements that nization: It shapes attitudes and behaviors acteristics. It resides in shared behaviors, val-
+
+can scan and analyze the external envi- in wide-ranging and durable ways. Cultural ues, and assumptions and is most commonly
+
+ronment and sense when changes are re- norms define what is encouraged, discour- experienced through the norms and expecta-
+
+quired to maintain continuity and growth. aged, accepted, or rejected within a group. tions of a group—that is, the unwritten rules.
+
+Leadership goes hand-in-hand with strat- When properly aligned with personal val- Pervasive. Culture permeates multiple
+
+egy formation, and most leaders under- ues, drives, and needs, culture can unleash levels and applies very broadly in an organi-
+
+stand the fundamentals. Culture, however, tremendous amounts of energy toward a zation; sometimes it is even conflated with
+
+is a more elusive lever, because much of it is shared purpose and foster an organization’s the organization itself. It is manifest in col-
+
+anchored in unspoken behaviors, mindsets, capacity to thrive. lective behaviors, physical environments,
+
+and social patterns. Culture can also evolve flexibly and au- group rituals, visible symbols, stories, and
+
+For better and worse, culture and leader- tonomously in response to changing oppor- legends. Other aspects of culture are un-
+
+ship are inextricably linked. Founders and tunities and demands. Whereas strategy is seen, such as mindsets, motivations, un-
+
+influential leaders often set new cultures typically determined by the C-suite, culture spoken assumptions, and what David Rooke
+
+in motion and imprint values and assump- can fluidly blend the intentions of top lead- and William Torbert refer to as “action log-
+
+tions that persist for decades. Over time an ers with the knowledge and experiences of ics” (mental models of how to interpret and
+
+organization’s leaders can also shape cul- frontline employees. respond to the world around you).
+
+ture, through both conscious and uncon- The academic literature on the subject is Enduring. Culture can direct the thoughts
+
+scious actions (sometimes with unintended vast. Our review of it revealed many formal and actions of group members over the long
+
+consequences). The best leaders we have definitions of organizational culture and a term. It develops through critical events in
+
+observed are fully aware of the multiple variety of models and methods for assessing the collective life and learning of a group. Its
+
+cultures within which they are embedded, it. Numerous processes exist for creating and endurance is explained in part by the attrac-
+
+can sense when change is required, and can changing it. Agreement on specifics is sparse tion-selection-attrition model first introduced
+
+deftly influence the process. across these definitions, models, and meth- by Benjamin Schneider: People are drawn to
+
+Unfortunately, in our experience it is far ods, but through a synthesis of seminal work organizations with characteristics similar to
+
+more common for leaders seeking to build their own; organizations are more likely
+
+high-performing organizations to be con- to select individuals who seem to “fit in”; and
+
+founded by culture. Indeed, many either over time those who don’t fit in tend to leave.
+
+let it go unmanaged or relegate it to the HR Thus culture becomes a self-reinforcing so-
+
+function, where it becomes a secondary con- cial pattern that grows increasingly resistant
+
+cern for the business. They may lay out de- to change and outside influences.
+
+tailed, thoughtful plans for strategy and ex- Implicit. An important and often over-
+
+ecution, but because they don’t understand looked aspect of culture is that despite its
+
+culture’s power and dynamics, their plans go subliminal nature, people are effectively

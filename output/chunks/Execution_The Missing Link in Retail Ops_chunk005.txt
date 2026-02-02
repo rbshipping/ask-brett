@@ -1,0 +1,248 @@
+SOURCE: Execution_The Missing Link in Retail Ops.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Inventory Management
+SUMMARY: The text discusses challenges in retail operations, including misplaced inventory, employee turnover, and the impact of store manager departures on inventory execution.
+KEYWORDS: inventory management, retail operations, employee turnover, store management, assortment planning
+---
+
+C
+
+misplaced, or identify items that are in the backroom but should be on the sell-
+
+ing floor, when there are more SKUs in a store. In a bookstore, for instance,
+
+associates find it extremely hard to identify titles that are missing from the sales
+
+floor and available in the backroom as assortment increases. As another exam-
+
+ple, one bread manufacturer described the problem of “lost facings” that his firm
+
+encountered twhen dealing with supermarkets that rely on manual reordering at
+
+stores. Increasing bread assortment led to associates simply forgetting to reorder
+
+o
+
+some bread SKUs for a few days, which eventually led to the item being dropped
+
+from the store’s assortment entirely.
+
+NAdditional inventory leads to more crowded stores, and hence, makes it
+
+harder to keep track of the number of units available. It is easy to count inven-
+
+tory if few units are available per SKU but hard to do so accurately when each
+
+SKU has many units. Moreover, additional inventory also leads to multiple loca-
+
+tions for the same item, which also leads to greater difficulty in counting and
+
+ensuring that items are not missing from the sales floor.
+
+o
+
+Employee Turnover
+
+At Beta Corporation, two aspects of employee turnover were associated
+
+D
+
+with the number of items that were found in the store but not on the selling
+
+floor.
+
+Stores with higher turnover of floor employees had more items that
+
+were not on the floor. This is not surprising because, at Beta, floor employees
+
+CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001 145
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 146
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+are typically responsible for re-shelving merchandise from the storage area to
+
+P
+
+the selling floor. New floor employees understandably are less familiar with the
+
+stores’ products and replenishment processes and probably make more errors in
+
+transferring items from the storage to the selling area. Moreover, as explained
+
+earlier, the inventory in the storage area is neither carefully mo nitored nor orga-
+
+nized at Beta Corporation, as is true at many other retail stores. These stores rely
+
+r
+
+on the employee doing replenishment to know if an item, which has sold out on
+
+the selling floor, is available in one of the storage areas. Newer employees are
+
+o
+
+less likely to have this knowledge and hence could contribute to more items
+
+being in the storage area and not on the floor.
+
+A second observation: stores where the store manager had either resigned
+
+or was fired during the year prior to the store audit had a higher percentage of
+
+misplaced items, an understandable phenomeynon because a store manager’s
+
+departure could be disruptive to various operations at the store.
+
+p
+
+Improving Retail Execution
+
+Enlightened retailers, sucho as Beta and Gamma, are moving to improve
+
+execution in their operations. In fact, both Beta and Gamma have launched
+
+substantial initiatives with participation at the most senior levels in the organi-
+
+zation. The executives in Ccharge of stores and merchandising are personally
+
+involved in the projects; the CEO or Chairman is typically kept abreast of
+
+progress being made. There are three ways in which execution can be improved:
+
+through creating awareness of the problem and its impact; through counting and
+
+inspection; and b y benchmarking performance withinthe retail chain to under-
+
+stand the drivers of poor execution and to allow poorer performers to learn from
+
+t
+
+their better performing counterparts. These potential solutions and the drivers of
+
+poor execoution identified in the previous section are summarized in Table 1.
+
+Quite clearly, the execution problems described here are similar to the
+
+problems described and addressed in quality management. Not surprisingly, our
+
+preNscriptions are similar to and share some characteristics with the solutions
+
+identified to improve quality in manufacturing. Similar to the observations by
+
+Deming, by Juran, and by Crosby, there is no single “magic bullet” or easy
+
+“quick fix” to overcome the problems in retail execution.4However, execution
+
+performance, just like manufacturing quality, can be improved.
+
+o
+
+Create Awareness of the Problem and
+
+Its Impact on the Firm’s Performance
+
+Many employees in retail companies are unaware of the extent and mag-
+
+D
+
+nitude of these execution problems in their chains, even if they are in functions
+
+like Merchandising and Replenishment that rely on such data. Although both
+
+Gamma and Beta are among the relatively few retailers that actually track
+
+inventory quantity at the SKU level and location within the store during their
+
+146 CALIFORNIA MANAGEMENT REVIEW VOL.43,NO.3 SPRING 2001
+
+This document is authorized for use only by JOHN STRONG until April 2012. Copying or posting is an infringement
+
+of copyright. Permissions@hbsp.harvard.edu or 617.783.7860.
+
+Raman CMR204.qxd 8/16/01 9:21 AM Page 147
+
+t
+
+s
+
+Execution: The Missing Link in Retail Operations
+
+o
+
+TABLE 1. Drivers of and Potential Solutions for Execution Problems
+
+P
+
+Driver of
+
+Execution
+
+Problems Examples Potential Solut ions
+
+Store and DC • Errors in scanning at checkout • Create awarerness of execution problems
+
+Replenishment and associated costs among store and DC
+
+• Items not moved from storage to shelf
+
+Processes
+
+at appropriate time
+
+employeoes.
+
+• Inspect (via audits and sampling) accuracy
+
+• Wrong item picked in DC
+
+of inventory records and location of SKUs
+
+• Shipments from DC not verified at store in stores.
+
+• Alter processes based on employee and
+
+customer feedback and inspection results.
+
+y
+
+Merchandising • Greater variety in assortment leads to • Create awareness among merchants and
+
+and Inventory more confusion (e.g.harder to identify inventory planners.
+
+p
+
+Management merchandise that has been sold and is
+
+• Benchmark performance at different
+
+available in storage).Easier for checkout
+
+stores to identify how merchandising and
+
+counter clerk or picker in DC to get two
+
+inventory management affect execution
+
+very similar items confused.
+
+o performance.
+
+• Additional inventory leads to more
+
+crowding in stores.Harder to keep track
+
+of items.
+
+C

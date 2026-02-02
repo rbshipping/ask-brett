@@ -1,0 +1,150 @@
+SOURCE: HBR_Showrooming at Best Buy.pdf
+SUBFOLDER: Brenton - NCS\0126 - Retail Specific
+TOPIC: Retail Pricing and Advertising Policies
+SUMMARY: The text discusses lawful pricing and advertising policies used by retailers to prevent showrooming, including manufacturer-set minimum advertised prices (MAPs) and retailer-run loyalty programs.
+KEYWORDS: minimum advertised price, resale price maintenance, loyalty programs, showrooming, retail pricing
+---
+
+when the manufacturer provided cooperative advertising dollars for the retailer to spend on TV,
+
+print and other media, to advertise the manufacturer’s products. In this case, retailers needed to
+
+respect the MAP and not advertise below a certain price. These policies were lawful if they did not
+
+limit the distributor’s ability to advertise any price using its own funds.30
+
+This was different from dictating prices via resale price maintenance (RPM), which used to be
+
+illegal until 2007 but was later ruled to be legal in most (but not all) cases by the US Supreme Court.
+
+By 2014, manufacturers could set RPMs in their contracts with authorized retailers as long as it was
+
+not intended to reduce interbrand competitiona through price fixing. Samsung, one of the electronics
+
+manufacturers that had a MAP policy, dictated that its resellers could not advertise prices lower than
+
+40% off the suggested list price, that the policy applied to all media included internet but excluded in-
+
+a Interbrand competition was that practiced among manufacturers and resellers selling different brands of the same type of
+
+product, and was in contrast to intrabrand competition, that resulting among resellers of the same manufacturer’s brands.
+
+5
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+515-019 Showrooming at Best Buy
+
+store signageb, and that products could be sold at any price. Retailers that did not abide by
+
+Samsung’s MAP policy would incur sanctions and could ultimately have their reseller agreement
+
+terminated. A policy such as Samsung’s ended up helping brick-and-mortar retailers more than
+
+online retailers.
+
+Rewarding loyalty
+
+Loyalty programs had been a longstanding method used by retailers to boost repeat purchases
+
+from customers. Some methods for encouraging customer loyalty included giving them special deals,
+
+coupons, rebates, and cash back on purchases. Stores such as Staples and Barnes & Noble offered 1 to
+
+2% of the total money spent back to their card-carrying loyal shoppers.31 PetSmart, another retailer
+
+susceptible to showrooming, had an in-store loyalty program called PetPerks which, in addition to
+
+standard discounts on purchases, also sent members emails about coupons and sales as well as
+
+information targeted to pet owners such as care tips.32
+
+Reward Zone, Best Buy’s loyalty program, offered points and discounts to shoppers when they
+
+purchased items from a Best Buy store or the website. The company also offered special discounts,
+
+contests, and access to in-store events.33
+
+More drastic measures
+
+A few smaller retailers that could not build apps or reduce prices took more extreme measures to
+
+fight showrooming, such as finding ways to punish showroomers. Early in 2013, Celiac Supplies, a
+
+specialty grocery store in Brisbane, Australia, began charging a “just looking” fee of $5, to be
+
+deducted if and when a purchase was made. A sign was posted inside the store stating:
+
+There has been a high volume of people who use this store as a reference and then
+
+purchase goods elsewhere. These people are unaware our prices are almost the same as
+
+other stores plus we have products simply not available anywhere else. This policy is in
+
+line with many other clothing, shoe and electronic stores who are also facing the same
+
+issue.34
+
+Many retailers were struggling with showrooming and were looking closely to the bigger retail
+
+chains for inspiration, particularly those such as Best Buy, who was suffering from this practice.
+
+Best Buy’s Response
+
+Best Buy was hard hit by showrooming. In the last quarter of 2011, domestic same-store sales fell
+
+by over 5%.35, 36 Sales at stores opened one year before fell by a similar amount (see Exhibit 5 for Best
+
+Buy’s same-store sales changes from 2011 through 2012), after which its stock price fell by a quarter.37
+
+A big portion of Best Buy’s income was tied to holiday shopping, when competition for dollars was
+
+fierce and customers were most sensitive to prices. During the holiday season of 2012, Best Buy
+
+posted a fourth-quarter loss of $1.7 billion.38 Their losses were mirrored throughout the consumer
+
+electronics industry as sales in physical stores declined every year between 2007 and 2012. Online
+
+electronics sales during the same time period, however, climbed significantly every year.39
+
+b According to Samsung’s MAP policy “Pricing listed on an internet site is considered an “advertised price” and must adhere
+
+to the MAP policy. Once the pricing is associated with an actual purchase (an internet order), the price becomes the selling
+
+price and is not bound by this MAP policy. Statements such “we will match any price”, and “call for price” are acceptable.”
+
+6
+
+This document is authorized for use only by Jason Mahendran (jasonmahendran@gmail.com). Copying or posting is an infringement of copyright. Please contact
+
+customerservice@harvardbusiness.org or 800-988-0886 for additional copies.
+
+Showrooming at Best Buy 515-019
+
+Whereas Best Buy’s share of internet retail remained stagnant and their share of total retail slipped
+
+in the U. S., Amazon’s fortunes seemed to be just the opposite. From 2009 to 2012, Amazon’s share of
+
+U.S. internet retail climbed from 10% to 16% and their share of all U.S. retail doubled. 40, 41 (see
+
+Exhibit 6). A part of the explanation had to do with these retailers’ categories of choice.
+
+The dramatic shift in electronics sales from brick-and-mortar to online retail was especially stark
+
+compared to how other products were selling (see Exhibit 7). Between 2008 and 2012 the share of
+
+online sales of home-and-garden and health-and-beauty goods relative to total category sales grew
+
+only slightly. At the same time, apparel-and-footwear and electronics-and-appliances’ online share of
+
+total retail sales grew tremendously, with the latter almost doubling in four years.c
+
+Best Buy soon began to wage a number of counter-attacks against showrooming. First, on the
+
+defensive, the company tailored its in-store barcodes to block customers attempting to showroom
+
+using mobile apps. It refrained from placing barcodes on some products inside stores42 and used in-
+
+store exclusive barcodes43,44 to prevent shoppers from finding lower prices through price-comparison

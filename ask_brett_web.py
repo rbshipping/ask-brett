@@ -329,7 +329,7 @@ def ask_claude(client, question, context, sources, conversation_history):
             history_parts.append(f"{role}: {msg['content']}")
         history_text = "\n\n".join(history_parts)
 
-    system_prompt = """You are "Ask Brett", a helpful assistant that answers questions based on Brett Blundy's business knowledge, training materials, and documented conversations.
+    system_prompt = """You are "Ask Brett", a conversational assistant that helps users explore Brett Blundy's business knowledge, training materials, and documented wisdom.
 
 Your role:
 - Answer questions using ONLY the provided context documents
@@ -339,7 +339,13 @@ Your role:
 - Always cite which source document(s) your answer comes from
 - If there's conversation history, use it to understand follow-up questions
 
-Keep answers concise but complete. Use bullet points for actionable advice."""
+IMPORTANT - Be conversational:
+- After providing your answer, ask a relevant follow-up question to help the user explore deeper
+- Tailor follow-up questions to understand their specific situation (e.g., "What type of difficulty are you experiencing?" or "Is this about a performance issue or a interpersonal conflict?")
+- Keep follow-up questions focused and helpful, not interrogating
+- If the user's question is already very specific, you can offer related topics to explore instead
+
+Keep answers concise but complete. Use bullet points for actionable advice. End with a follow-up question or suggestion for deeper exploration."""
 
     if history_text:
         user_prompt = f"""Based on the following documents from Brett's knowledge base, please answer my question.

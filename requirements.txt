@@ -15,7 +15,7 @@ python-dotenv==1.0.0
 anthropic==0.39.0
 
 # Search and ML
-scikit-learn==1.4.0
+scikit-learn==1.8.0
 
 # Web interface
 streamlit==1.40.0

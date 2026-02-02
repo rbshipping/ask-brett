@@ -613,6 +613,77 @@ doc_processor/
     └── ...
 ```
 
+### Streamlit Cloud Deployment (Completed)
+
+#### Setup
+- **GitHub repo:** `rbshipping/ask-brett` (PUBLIC - required for Streamlit Cloud free tier)
+- **Hosting:** Streamlit Community Cloud (free tier)
+- **Access:** Password protected
+
+#### Configuration
+- Secrets stored in Streamlit Cloud (API key, app password)
+- Code updated to support both local `.env` and Streamlit Cloud secrets
+- Version fixes: scikit-learn 1.8.0, anthropic 0.76.0
+
+#### Access
+- Share the Streamlit app URL with team members
+- Provide the password set in Streamlit secrets
+- Works for both local network and remote team members
+
+#### Security Model & Decisions
+
+**Why the repo must be public:**
+Streamlit Cloud (free tier) requires public repo access. Every time the app reboots or redeploys, it clones the repo from GitHub. Private repos require Streamlit Teams ($250/month).
+
+**What IS protected:**
+| Asset | Protection |
+|-------|------------|
+| Streamlit app | Password required to use |
+| API key | Stored in Streamlit secrets (not in repo) |
+| App password | Stored in Streamlit secrets (not in repo) |
+
+**What is publicly visible (if someone finds the repo):**
+- Source code
+- Chunk files containing Brett's business knowledge
+
+**Risk assessment:**
+- Repo URL not advertised or linked anywhere
+- Username (`rbshipping`) doesn't reveal content
+- Someone would need to specifically find and browse the repo
+- Actual app usage is fully password protected
+
+**Decision:** Accept low risk of repo discovery in exchange for free, convenient team access via Streamlit Cloud.
+
+**Alternative if higher security needed:** Use ngrok for remote access (repo stays private, but URL changes and requires ngrok running).
+
+#### Managing Secrets
+To change the app password or API key:
+1. Go to Streamlit Cloud → Manage app → Settings → Secrets
+2. Update the values:
+   ```toml
+   ANTHROPIC_API_KEY = "your-api-key"
+   APP_PASSWORD = "your-new-password"
+   ```
+3. Click Save, then Reboot the app
+
+### Conversational Mode (Added)
+
+Updated the chatbot to be more conversational rather than a simple Q&A tool.
+
+#### Behavior Change
+- **Before:** User asks question → System searches → Returns answer
+- **After:** User asks question → System searches → Returns answer + asks follow-up question
+
+#### Example
+- User: "I need help with a difficult team member"
+- Response: Provides guidance from knowledge base, then asks "What type of difficulty are you experiencing - is it performance-related or an interpersonal conflict?"
+
+#### Implementation
+Updated system prompt in `ask_brett_web.py` to instruct Claude to:
+- Always ask a relevant follow-up question after answering
+- Tailor questions to understand the user's specific situation
+- Keep conversation flowing naturally
+
 ---
 
 ## Next Steps
@@ -638,7 +709,7 @@ After retrieving top 20 results, use Claude to rerank by relevance.
 #### 4. Evaluation Test Set (Important)
 Expand test_search.py with 20-30 test questions with expected sources.
 
-### Phase 4: Deployment & Analytics
+### Phase 4: Analytics & Enhancements
 
 #### 1. User Identification
 Add optional user name field to track who is asking what.
@@ -649,10 +720,7 @@ Build simple dashboard to visualize:
 - Questions with no/few results (content gaps)
 - Usage over time
 
-#### 3. Streamlit Cloud Deployment
-Deploy for team access without ngrok.
-
-#### 4. Feedback Mechanism
+#### 3. Feedback Mechanism
 Allow users to rate answers or flag incorrect responses.
 
 ### Monitoring Tasks
@@ -663,4 +731,4 @@ Allow users to rate answers or flag incorrect responses.
 
 ---
 
-*Last updated: February 1, 2025*
+*Last updated: February 2, 2025*

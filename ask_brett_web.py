@@ -393,11 +393,18 @@ def main():
     st.title("💼 Ask Brett")
     st.caption("Search Brett's business knowledge base")
 
-    # Load environment
+    # Load environment (supports both local .env and Streamlit Cloud secrets)
     load_dotenv()
 
+    # Get secrets - try Streamlit secrets first, then fall back to env vars
+    def get_secret(key, default=None):
+        try:
+            return st.secrets[key]
+        except (KeyError, FileNotFoundError):
+            return os.getenv(key, default)
+
     # Password protection
-    app_password = os.getenv("APP_PASSWORD", "askbrett2025")  # Default password, change in .env
+    app_password = get_secret("APP_PASSWORD", "askbrett2025")
 
     if "authenticated" not in st.session_state:
         st.session_state.authenticated = False
@@ -412,10 +419,10 @@ def main():
                 st.error("Incorrect password")
         st.stop()
 
-    api_key = os.getenv("ANTHROPIC_API_KEY")
+    api_key = get_secret("ANTHROPIC_API_KEY")
 
     if not api_key or api_key == "sk-ant-your-key-here":
-        st.error("Please add your Anthropic API key to the .env file")
+        st.error("Please add your Anthropic API key to secrets (Streamlit Cloud) or .env file (local)")
         return
 
     # Load indexes and chunk cache

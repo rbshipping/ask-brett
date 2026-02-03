@@ -438,11 +438,11 @@ def main():
         st.markdown("""
 **Retail isn't complicated—it's just demanding.**
 
-I've spent 45 years building businesses from a single record store in Pakenham to global brands. This is what I've learned.
+I've spent 45 years building businesses across the globe. This is what I've learned.
 
 **Culture eats strategy for breakfast.** The customer is always the boss. Speed matters more than perfection. Costs are the enemy. These aren't theories—they're the fundamentals that separate winning from losing.
 
-Use this to get better. That's what continuous improvement means—never arriving, always doing more. If you're not improving, you're going backwards.
+Use this tool to get better. That's what continuous improvement means—never arriving, always doing more. If you're not improving, you're going backwards.
 
 You're the customer here. Let's get started—what's your name?
         """)

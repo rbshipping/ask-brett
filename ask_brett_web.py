@@ -62,21 +62,27 @@ def is_excluded(chunk_id):
 # QUERY LOGGING
 # =============================================================================
 
-def log_query(question, search_mode, num_sources, top_source=None):
+def log_query(user_name, question, search_mode, num_sources, top_source=None, response_text=None, response_time_ms=None):
     """Log a query to CSV file for usage tracking."""
     file_exists = QUERY_LOG_FILE.exists()
 
     with open(QUERY_LOG_FILE, "a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         if not file_exists:
-            writer.writerow(["timestamp", "question", "search_mode", "num_sources", "top_source"])
+            writer.writerow(["timestamp", "user", "question", "search_mode", "num_sources", "top_source", "response_time_ms", "response_preview"])
+
+        # Truncate response for log (first 200 chars)
+        response_preview = (response_text[:200] + "...") if response_text and len(response_text) > 200 else (response_text or "")
 
         writer.writerow([
             datetime.now().isoformat(),
+            user_name or "anonymous",
             question,
             search_mode,
             num_sources,
-            top_source or ""
+            top_source or "",
+            response_time_ms or "",
+            response_preview
         ])
 
 
@@ -414,6 +420,8 @@ def main():
 
     if "authenticated" not in st.session_state:
         st.session_state.authenticated = False
+    if "user_name" not in st.session_state:
+        st.session_state.user_name = None
 
     if not st.session_state.authenticated:
         password = st.text_input("Enter password to access", type="password")
@@ -423,6 +431,18 @@ def main():
                 st.rerun()
             else:
                 st.error("Incorrect password")
+        st.stop()
+
+    # Ask for user name if not set
+    if not st.session_state.user_name:
+        st.subheader("Welcome! Please enter your name")
+        user_name_input = st.text_input("Your name (for tracking purposes)")
+        if st.button("Continue"):
+            if user_name_input.strip():
+                st.session_state.user_name = user_name_input.strip()
+                st.rerun()
+            else:
+                st.error("Please enter your name")
         st.stop()
 
     api_key = get_secret("ANTHROPIC_API_KEY")
@@ -466,6 +486,7 @@ def main():
 
         if st.button("Logout"):
             st.session_state.authenticated = False
+            st.session_state.user_name = None
             st.session_state.messages = []
             st.rerun()
 
@@ -487,12 +508,13 @@ def main():
 
         # Generate response
         with st.chat_message("assistant"):
+            import time
+            start_time = time.time()
+
             with st.spinner("Searching..."):
                 context, sources, search_mode = build_context(prompt, index_data, csv_index, chunk_cache)
 
-            # Log the query for usage tracking
             top_source = sources[0]["file"] if sources else None
-            log_query(prompt, search_mode, len(sources), top_source)
 
             if not context:
                 response = "I couldn't find any relevant documents for your question. Try rephrasing or using different keywords."
@@ -510,6 +532,20 @@ def main():
                         sources,
                         recent_history
                     )
+
+            # Calculate response time
+            response_time_ms = int((time.time() - start_time) * 1000)
+
+            # Log the query with all details
+            log_query(
+                user_name=st.session_state.user_name,
+                question=prompt,
+                search_mode=search_mode,
+                num_sources=len(sources),
+                top_source=top_source,
+                response_text=response,
+                response_time_ms=response_time_ms
+            )
 
             st.markdown(response)
 

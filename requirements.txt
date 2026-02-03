@@ -19,3 +19,7 @@ scikit-learn==1.8.0
 
 # Web interface
 streamlit==1.40.0
+
+# WhatsApp interface
+flask==3.1.2
+twilio==9.10.0

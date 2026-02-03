@@ -435,9 +435,19 @@ def main():
 
     # Ask for user name if not set
     if not st.session_state.user_name:
-        st.subheader("Welcome! Please enter your name")
-        user_name_input = st.text_input("Your name (for tracking purposes)")
-        if st.button("Continue"):
+        st.markdown("""
+**Retail isn't complicated—it's just demanding.**
+
+I've spent 45 years building businesses from a single record store in Pakenham to global brands. This is what I've learned.
+
+**Culture eats strategy for breakfast.** The customer is always the boss. Speed matters more than perfection. Costs are the enemy. These aren't theories—they're the fundamentals that separate winning from losing.
+
+Use this to get better. That's what continuous improvement means—never arriving, always doing more. If you're not improving, you're going backwards.
+
+You're the customer here. Let's get started—what's your name?
+        """)
+        user_name_input = st.text_input("Your name")
+        if st.button("Let's Go"):
             if user_name_input.strip():
                 st.session_state.user_name = user_name_input.strip()
                 st.rerun()

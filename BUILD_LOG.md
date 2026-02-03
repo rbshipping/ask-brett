@@ -686,6 +686,153 @@ Updated system prompt in `ask_brett_web.py` to instruct Claude to:
 
 ---
 
+## Session Notes - Feb 3, 2025
+
+### WhatsApp Integration
+
+Added WhatsApp as a second interface to Ask Brett, allowing team members to query the knowledge base via WhatsApp messaging.
+
+#### New File: `ask_brett_whatsapp.py`
+
+**Features:**
+- Same hybrid search logic as web version
+- Conversational mode with follow-up questions
+- Per-user conversation history (by phone number)
+- Separate query log (`query_log_whatsapp.csv`)
+- WhatsApp-optimized responses (shorter, no markdown)
+- Commands: `/clear`, `/help`
+
+#### Architecture
+```
+                    ┌─────────────────┐
+WhatsApp ──────────►│                 │
+                    │  Core Search    │──► Claude API
+Streamlit ─────────►│  (shared)       │
+                    │                 │
+CLI ───────────────►└─────────────────┘
+```
+
+#### Setup Requirements
+1. Twilio account with WhatsApp sandbox or number
+2. Add to `.env`:
+   ```
+   TWILIO_ACCOUNT_SID=your-sid
+   TWILIO_AUTH_TOKEN=your-token
+   ```
+3. Run: `python ask_brett_whatsapp.py`
+4. Expose with: `ngrok http 5000`
+5. Configure Twilio webhook to: `https://your-ngrok-url/webhook`
+
+### Enhanced Query Logging
+
+Updated both Streamlit and WhatsApp interfaces with comprehensive logging.
+
+#### Streamlit Log (`query_log.csv`)
+
+| Field | Description |
+|-------|-------------|
+| timestamp | When the question was asked |
+| **user** | User's name (asked after login) |
+| question | The question text |
+| search_mode | keyword-boosted or balanced |
+| num_sources | Number of sources found |
+| top_source | Best matching source |
+| **response_time_ms** | How long it took (milliseconds) |
+| **response_preview** | First 200 chars of response |
+
+#### WhatsApp Log (`query_log_whatsapp.csv`)
+
+| Field | Description |
+|-------|-------------|
+| timestamp | When the question was asked |
+| phone_masked | Last 4 digits only (privacy) |
+| question | The question text |
+| num_sources | Number of sources found |
+| **response_time_ms** | How long it took (milliseconds) |
+| **response_preview** | First 200 chars of response |
+
+### User Identification (Streamlit)
+
+Added user name capture after login to track who is asking what.
+
+#### Flow
+1. Enter password → Login
+2. **Enter your name** → Continue (new step)
+3. Ask questions
+
+User name is logged with every query for usage analysis.
+
+### Welcome Screen with Brett's Introduction
+
+Replaced generic login text with Brett's personal introduction to set the tone.
+
+#### Welcome Message
+> **Retail isn't complicated—it's just demanding.**
+>
+> I've spent 45 years building businesses across the globe. This is what I've learned.
+>
+> **Culture eats strategy for breakfast.** The customer is always the boss. Speed matters more than perfection. Costs are the enemy. These aren't theories—they're the fundamentals that separate winning from losing.
+>
+> Use this tool to get better. That's what continuous improvement means—never arriving, always doing more. If you're not improving, you're going backwards.
+>
+> You're the customer here. Let's get started—what's your name?
+
+### UI Customizations
+
+#### Streamlit Branding
+- Attempted to hide Streamlit menu and profile links via CSS
+- **Limitation discovered:** Streamlit Community Cloud (free tier) requires their branding to remain visible
+- The "Manage app" and profile icons are injected by Streamlit's infrastructure and cannot be hidden from within the app
+- **Options for removal:** Streamlit Teams ($250/mo) or self-hosting
+
+### Updated File Structure
+
+```
+doc_processor/
+├── ask_brett.py              # Original keyword search
+├── ask_brett_semantic.py     # TF-IDF semantic search
+├── ask_brett_hybrid.py       # Hybrid search (CLI)
+├── ask_brett_web.py          # Streamlit web interface (updated)
+├── ask_brett_whatsapp.py     # NEW: WhatsApp interface
+├── test_search.py            # Systematic search tests
+├── build_index.py            # Builds TF-IDF index
+├── process_docs.py           # Document processing pipeline
+├── compare_search.py         # Search comparison tool
+├── config.yaml               # Processing configuration
+├── requirements.txt          # Updated: added flask, twilio
+├── .env.example              # Updated: added Twilio vars
+└── output/
+    ├── chunks/               # All chunk text files
+    ├── index.csv             # Keyword search index
+    ├── search_index.pkl      # TF-IDF vectors
+    ├── query_log.csv         # Streamlit usage log
+    ├── query_log_whatsapp.csv # WhatsApp usage log
+    └── excluded_chunks.json  # Exclusion list
+```
+
+### Commands Reference (Updated)
+
+#### Running the Interfaces
+```bash
+# Streamlit web interface
+python -m streamlit run ask_brett_web.py
+
+# WhatsApp interface
+python ask_brett_whatsapp.py
+# Then: ngrok http 5000
+
+# CLI version
+python ask_brett_hybrid.py
+```
+
+#### WhatsApp Commands
+```
+/clear  - Reset conversation history
+/help   - Show help message
+```
+
+---
+
 ## Next Steps
 
 ### Phase 3: RAG Enhancements (Not Started)
@@ -711,24 +858,29 @@ Expand test_search.py with 20-30 test questions with expected sources.
 
 ### Phase 4: Analytics & Enhancements
 
-#### 1. User Identification
-Add optional user name field to track who is asking what.
-
-#### 2. Query Analytics Dashboard
+#### 1. Query Analytics Dashboard
 Build simple dashboard to visualize:
 - Most common questions
 - Questions with no/few results (content gaps)
 - Usage over time
+- User activity patterns
 
-#### 3. Feedback Mechanism
+#### 2. Feedback Mechanism
 Allow users to rate answers or flag incorrect responses.
 
+#### 3. Alternative Hosting (Optional)
+If branding-free UI is required:
+- Railway (~$5-20/month)
+- Render (free tier available)
+- Self-hosted server
+
 ### Monitoring Tasks
-1. Review query_log.csv periodically to identify:
+1. Review query logs periodically to identify:
    - Common questions (potential FAQ candidates)
    - Failed searches (content gaps to fill)
    - Search patterns (topics of interest)
+   - User engagement levels
 
 ---
 
-*Last updated: February 2, 2025*
+*Last updated: February 3, 2025*

@@ -402,6 +402,17 @@ def main():
         layout="centered"
     )
 
+    # Hide Streamlit branding
+    st.markdown("""
+        <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        .stDeployButton {display: none;}
+        [data-testid="stToolbar"] {display: none;}
+        </style>
+    """, unsafe_allow_html=True)
+
     st.title("💼 Ask Brett")
     st.caption("Search Brett's business knowledge base")
 
